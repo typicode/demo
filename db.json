@@ -1,14 +1,1 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+{"appointments":[{"date":"08/15/2017","departmentid":"1","patient":{"age":19,"dob":"05/02/1998","firstname":"H","lastname":"H"},"patientid":"30212","providerid":"71"},{"date":"08/15/2017","departmentid":"1","patient":{"age":19,"dob":"05/02/1998","firstname":"U","lastname":"G"},"patientid":"30289","providerid":"71"},{"date":"08/15/2017","departmentid":"1","patient":{"age":19,"dob":"05/02/1998","firstname":"H","lastname":"H"},"patientid":"30212","providerid":"71"},{"date":"08/15/2017","departmentid":"1","patient":{"age":19,"dob":"05/02/1998","firstname":"G","lastname":"H"},"patientid":"30239","providerid":"71"}],"totalcount":"4"}
