@@ -10,10 +10,9 @@
   ],
    "todos": [
      { "userId": 1, "id": 1, "title": "this is my todo for today", "completed": false },   
-     { "userId": 1, "id": 2, "title": "renewal paperwork for CWP", "completed": false }, 
      { "userId": 2, "id": 4, "title": "i finished my todos for today", "completed": true }, 
   ],
   "profile": {
-    "name": "typicode"
+    "name": "jennbiggs"
   }
 }
