@@ -1,14 +1,14 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "names": [
+    { "id": 1, "title": "Pradeep " },
+    { "id": 2, "title": "Sandeep" },
+    { "id": 3, "title": "Richa" }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+  "address": [
+    { "id": 1, "address1
+    { "id": 2, "address2"}
   ],
-  "profile": {
-    "name": "typicode"
+  "email
+    "name": "yadav118@gail.com
   }
 }
