@@ -1,14 +1,11 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
+  "/v1/customer/login/": {
+    "meta": "",
+    "data": {
+      "username": "NimeshVerma",
+      "bio": "The Startup Guy",
+      "pic": "https://nimeshkiranverma.files.wordpress.com/2013/06/img_0183_copy.jpg",
+      "email": "nimesh.aug11@gmail.com"
+    }
   }
 }
