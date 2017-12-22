@@ -1,14 +1,44 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+	"recipe": {
+		"gujarati": {
+    "Bhat": {
+			"ingredients": "2 cup Rice, Salt (as per taste), Jira",
+			"howtomake": "Wash 2 cup Rice into warm water. Put in the cooker and add 4 cup of water. Add salt as per taste (approx 1-2 tbl. spoon). Cook it on the stove by 3-4 whistle. Keep it for 5 minutes after cooked. Served hot with Sabji or Daal"
+		},
+		"Daal": {
+			"ingredients": "1 cup Toor Daal, Salt (as per taste), 2 tbl. spoon Haldi, 1 tbl. spoon Red Mirchi Powder, Half piece Lemon, 1 tbl. spoon Vegetable Oil, 1 small piece Jaggery, 1 small spoon Mustard seed, Cilantro leaves, 1 tbl. spoon Daal-Shaak Masala",
+			"howtomake": "Keep 1 cup Toor Daal with 4 cup of water in the cooker and boil it until melt (approx 4-5 whistles). Take 1 tbl. spoon vegetable oil and put it separately on the stove. Add 2 tbl. spoon of Haldi, 1 small spoon Mustard seed and cook until Mustard seeds become red. Now in toor daal add some more water, add squizzed lemon juice, small piece of jaggery, Red Mirchi Powder, Salt & Daal-Shaak Masala. Lastly add oil kept separately on top off and cook for another 10-15 mins. Add some water if you want more liquidy Daal. Serve hot with Sabji, Roti and Sweet."
+		}
+    },
+    "punjabi": {
+    "Palak Paneer": {
+			"ingredients": "2 cup Rice, Salt (as per taste), Jira",
+			"howtomake": "Wash 2 cup Rice into warm water. Put in the cooker and add 4 cup of water. Add salt as per taste (approx 1-2 tbl. spoon). Cook it on the stove by 3-4 whistle. Keep it for 5 minutes after cooked. Served hot with Sabji or Daal"
+		},
+		"Daal Makhani": {
+			"ingredients": "1 cup Toor Daal, Salt (as per taste), 2 tbl. spoon Haldi, 1 tbl. spoon Red Mirchi Powder, Half piece Lemon, 1 tbl. spoon Vegetable Oil, 1 small piece Jaggery, 1 small spoon Mustard seed, Cilantro leaves, 1 tbl. spoon Daal-Shaak Masala",
+			"howtomake": "Keep 1 cup Toor Daal with 4 cup of water in the cooker and boil it until melt (approx 4-5 whistles). Take 1 tbl. spoon vegetable oil and put it separately on the stove. Add 2 tbl. spoon of Haldi, 1 small spoon Mustard seed and cook until Mustard seeds become red. Now in toor daal add some more water, add squizzed lemon juice, small piece of jaggery, Red Mirchi Powder, Salt & Daal-Shaak Masala. Lastly add oil kept separately on top off and cook for another 10-15 mins. Add some water if you want more liquidy Daal. Serve hot with Sabji, Roti and Sweet."
+		}
+    },
+    "southindian": {
+    "Dosa": {
+			"ingredients": "2 cup Rice, Salt (as per taste), Jira",
+			"howtomake": "Wash 2 cup Rice into warm water. Put in the cooker and add 4 cup of water. Add salt as per taste (approx 1-2 tbl. spoon). Cook it on the stove by 3-4 whistle. Keep it for 5 minutes after cooked. Served hot with Sabji or Daal"
+		},
+		"Vada-Sambhar": {
+			"ingredients": "1 cup Toor Daal, Salt (as per taste), 2 tbl. spoon Haldi, 1 tbl. spoon Red Mirchi Powder, Half piece Lemon, 1 tbl. spoon Vegetable Oil, 1 small piece Jaggery, 1 small spoon Mustard seed, Cilantro leaves, 1 tbl. spoon Daal-Shaak Masala",
+			"howtomake": "Keep 1 cup Toor Daal with 4 cup of water in the cooker and boil it until melt (approx 4-5 whistles). Take 1 tbl. spoon vegetable oil and put it separately on the stove. Add 2 tbl. spoon of Haldi, 1 small spoon Mustard seed and cook until Mustard seeds become red. Now in toor daal add some more water, add squizzed lemon juice, small piece of jaggery, Red Mirchi Powder, Salt & Daal-Shaak Masala. Lastly add oil kept separately on top off and cook for another 10-15 mins. Add some water if you want more liquidy Daal. Serve hot with Sabji, Roti and Sweet."
+		}
+    },
+    "northindian": {
+    "Puri-Bhaji": {
+			"ingredients": "2 cup Rice, Salt (as per taste), Jira",
+			"howtomake": "Wash 2 cup Rice into warm water. Put in the cooker and add 4 cup of water. Add salt as per taste (approx 1-2 tbl. spoon). Cook it on the stove by 3-4 whistle. Keep it for 5 minutes after cooked. Served hot with Sabji or Daal"
+		},
+		"Chaat": {
+			"ingredients": "1 cup Toor Daal, Salt (as per taste), 2 tbl. spoon Haldi, 1 tbl. spoon Red Mirchi Powder, Half piece Lemon, 1 tbl. spoon Vegetable Oil, 1 small piece Jaggery, 1 small spoon Mustard seed, Cilantro leaves, 1 tbl. spoon Daal-Shaak Masala",
+			"howtomake": "Keep 1 cup Toor Daal with 4 cup of water in the cooker and boil it until melt (approx 4-5 whistles). Take 1 tbl. spoon vegetable oil and put it separately on the stove. Add 2 tbl. spoon of Haldi, 1 small spoon Mustard seed and cook until Mustard seeds become red. Now in toor daal add some more water, add squizzed lemon juice, small piece of jaggery, Red Mirchi Powder, Salt & Daal-Shaak Masala. Lastly add oil kept separately on top off and cook for another 10-15 mins. Add some water if you want more liquidy Daal. Serve hot with Sabji, Roti and Sweet."
+		}
+    }
+	}
 }
