@@ -1,14 +1,12 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "list": [
+    { "id": 1, "title": "Frontend Developer" },
+    { "id": 2, "title": "Full Stack Developer" },
+    { "id": 3, "title": "Mobile Application Developer" }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "details": [
+    { "id": 1, "body": "Frontend Developer Lorem ipsum dolor sit amet", "postId": 1 },
+    { "id": 2, "body": "Full Stack Developer lorem ipsum", "postId": 2 },
+    { "id": 3, "body": "Mobile Application Developer test", "postId": 3 },   
+  ]
 }
