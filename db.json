@@ -1,14 +1,28 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+[
+				{
+					"title":"US-led strikes kill dozens in Syria",
+					"link": "http://www.cnn.com/collections/intl-syrian-kurds-nato-ally/",
+					"description": "South Korea braces for extremely cold and concerning temperatures as it prepares to host the 2018 Winter Olympics. CNN's Ivan Watson reports.",
+					"pubDate": "Thu, 08 Feb 2018 05:13:42 GMT",				
+				},
+				{
+					"title":"Report: Gay Olympian turns down Pence meeting",
+					"description": "US Olympic figure skater Adam Rippon reportedly turned down a meeting with Vice President Mike Pence after criticizing him for his stance on gay rights.",
+					"link": "http://www.cnn.com/2018/02/07/politics/adam-rippon-mike-pence-winter-olympics/index.html",
+					"pubDate": "Thu, 08 Feb 2018 05:27:28 GMT",
+		
+				},
+				{
+					"title": "Right-wing media obsesses over FBI text message story; hours later it's debunked",
+					"link": "http://money.cnn.com/2018/02/07/media/right-wing-media-fbi-text-message-clinton-investigation/index.html",
+					"description":"One in five people working at Britain's Parliament say they have experienced or witnessed sexual harassment or inappropriate behavior over the past year, according to a new report published Thursday.",
+					"pubDate": "Wed, 07 Feb 2018 23:55:59 GMT",
+	
+				},
+				{
+					"title":"Millions of Germans getting a 28-hour work week",
+					"link": "http://money.cnn.com/2018/02/07/news/economy/germany-28-hour-work-week/index.html",
+					"description": "A former Alaska Airlines pilot plans to plead guilty in California to flying with a blood-alcohol level three times the legal limit for pilots.",
+					"pubDate": "Wed, 07 Feb 2018 16:25:13 GMT",
+				}
+	]
