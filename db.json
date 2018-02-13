@@ -1,14 +1,40 @@
 {
+  "users":[
+    {"id":1, "firstname":"sai","lastname":"sudha", "address":"#5-85, urban plots, sivaji nagar , bangalore", "phone":9856542321, "email":"naresh1@test.com", "company":"emids", "website",""}
+    {"id":2, "firstname":"firstname2","lastname":"lastname2", "address":"#5-85, urban plots, sivaji nagar , bangalore", "phone":9856542321, "email":"test1@test.com", "company":"emids", "website","http://www.emids.com/"}
+    {"id":3, "firstname":"firstname3","lastname":"lastname3", "address":"#5-85, urban plots, sivaji nagar , bangalore", "phone":9856542321, "email":"test1@test.com", "company":"emids", "website","http://www.emids.com/"}
+    {"id":4, "firstname":"firstname4","lastname":"lastname4", "address":"#5-85, urban plots, sivaji nagar , bangalore", "phone":9856542321, "email":"test1@test.com", "company":"emids", "website","http://www.emids.com/"}
+    {"id":5, "firstname":"firstname5","lastname":"lastname5", "address":"#5-85, urban plots, sivaji nagar , bangalore", "phone":9856542321, "email":"test1@test.com", "company":"emids", "website","http://www.emids.com/"}
+    ],
   "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+    { "id": 1, "title": "Post 1" , "message":"Message1", "userId": 1},
+    { "id": 2, "title": "Post 2" , "message":"Message2", "userId": 2},
+    { "id": 3, "title": "Post 3" , "message":"Message3", "userId": 3}
+    { "id": 4, "title": "Post 3" , "message":"Message4", "userId": 4}
+    { "id": 5, "title": "Post 3" , "message":"Message5", "userId": 5}
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
-  "profile": {
-    "name": "typicode"
-  }
+  "albums": [
+    {"id":1 "name":"album1", "userId": 1 },
+    {"id":2 "name":"album2", "userId": 2 },
+     {"id":3 "name":"album3", "userId": 3 },
+    {"id":4 "name":"album4", "userId": 4 },
+     {"id":5 "name":"album5", "userId": 5 },
+    {"id":6 "name":"album6", "userId": 6 }
+  ],
+  "pictures":[
+    {id:1, url:"", "albumId":1},
+     {id:2, url:"", "albumId":2},
+     {id:3, url:"", "albumId":2},
+     {id:4, url:"", "albumId":3},
+     {id:5, url:"", "albumId":3},
+     {id:6, url:"", "albumId":4},
+     {id:7, url:"", "albumId":5},
+    ]
 }
