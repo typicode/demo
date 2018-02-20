@@ -1,14 +1,7 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "cuentaContableDTO": [
+    {"id":1,"n01":"1","n02":"0","n03":"0","n04":"0","n05":"0","nombre":"ACTIVO","tipo":"Acumulativa","status":"Activa","naturaleza":"Deudora","normativa":true,"parent_id":null},
+    {"id":1,"n01":"1","n02":"1","n03":"0","n04":"0","n05":"0","nombre":"CIRCULANTE","tipo":"Acumulativa","status":"Activa","naturaleza":"Deudora","normativa":true,"parent_id":null},
+    {"id":1,"n01":"1","n02":"1","n03":"1","n04":"0","n05":"0","nombre":"CAJA","tipo":"Acumulativa","status":"Activa","naturaleza":"Deudora","normativa":true,"parent_id":null}
+  ]
 }
