@@ -1,14 +1,7 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+    "question": [
+        "When is the last time you've had a dream about me",
+        "If I could only wear yoga pants or short skirts for the rest of my life, what would you choose for me",
+        "Guess what color underwear I'm wearing"
+    ]
 }
