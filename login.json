@@ -1,0 +1,12 @@
+{
+    "status": true,
+    "results": {
+        "token": "abcdefg",
+        "user": {
+            "id": 1,
+            "name": "John Doe",
+            "email": "rahul@gmail.com",
+            "created_at": "2017-10-18 19:22:07"
+        }
+    }
+}
