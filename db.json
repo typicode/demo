@@ -1,14 +1,30 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+    {
+      "projectId": 1,
+      "title": "SwizzApp",
+      "shortDescription": "Maak zelf een Quiz die mensen bewust maakt van een maatschappelijk doel",
+      "logoProject": "http://www.inside-out.nl/bilogos/switch.jpg"
+    },
+    {
+      "projectId": 2,
+      "title": "Werkmans",
+      "shortDescription": "De landingspagina om een doelgroep met een beperking of probleem te informeren en verder te laten komen",
+      "logoProject": "http://www.inside-out.nl/bilogos/werkmans.jpg"
+    },
+    {
+      "projectId": 3,
+      "title": "inBeeldt Quotumproof tool",
+      "shortDescription": "Maak een test over een maatschappelijk onderwerp en kom in contact met jouw doelgroep",
+      "logoProject": "http://www.inside-out.nl/bilogos/logo-beeldt.png"
+    },
+    {
+      "projectId": 4,
+      "title": "Adeqa",
+      "shortDescription": "Jouw visitekaartje als bedrijf met een maatschappelijke rol",
+      "logoProject": "http://www.inside-out.nl/bilogos/nosotros.png"
+    },
+    {
+      "projectId": 5,
+      "title": "Centric",
+      "shortDescription": "Jouw ISO certificering op het gebied van MVO, Milieu en Veiligheid binnen het intranet",
+      "logoProject": "http://www.inside-out.nl/bilogos/centric-logo.png"
+    }
