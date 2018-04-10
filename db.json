@@ -1,14 +1,50 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
+[
+  {
+    "id": 1,
+    "firstName": "Jan",
+    "lastName": "Kowalski",
+    "dateOfBirth": "1.7.1990 11:35",
+    "company": "XSolve",
+    "note": 90
+  },
+  {
+    "id": 4,
+    "firstName": "Justyna",
+    "lastName": "Kowalska",
+    "dateOfBirth": "4.02.1976 14:37",
+    "company": "XSolve",
+    "note": 91
+  },
+  {
+    "id": 2,
+    "firstName": "Krzysztof",
+    "lastName": "Krawczyk",
+    "dateOfBirth": "28.10.1950 2:15",
+    "company": "Chilid",
+    "note": 27
+  },
+  {
+    "id": 3,
+    "firstName": "BogusĹ‚aw",
+    "lastName": "Linda",
+    "dateOfBirth": "03.01.1963 23:10",
+    "company": "XSolve",
+    "note": 50
+  },
+  {
+    "id": 5,
+    "firstName": "Krzysztof",
+    "lastName": "Kononowicz",
+    "dateOfBirth": "10.10.1910 18:00",
+    "company": "Chilid",
+    "note": 77
+  },
+  {
+    "id": 6,
+    "firstName": "Maryla",
+    "lastName": "Rodowicz",
+    "dateOfBirth": "29.02.1936 11:35",
+    "company": "XSolve",
+    "note": 8
   }
-}
+]
