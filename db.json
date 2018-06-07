@@ -1,14 +1,94 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+	"error": "",
+	"devices": [{
+		"name": "Monitor",
+		"description": "",
+		"id": "sku960324",
+		"boosterPoints": 100,
+		"price": 6.0,
+		"limitedoffer":true,
+		"canBeBundled":false
+	},
+	{
+		"name": "Keyboard",
+		"description": "",
+		"id": "sku960325",
+		"boosterPoints": 200,
+    "price": 16.0,
+		"limitedoffer":false,
+		"canBeBundled":false
+	},
+	{
+		"name": "iPod",
+		"description": "",
+		"id": "sku960326",
+		"boosterPoints": 50,
+		"price": 34.0,
+		"limitedoffer":true,
+		"canBeBundled":false
+	},
+	{
+		"name": "Headphones",
+		"description": "",
+		"id": "sku960327",
+		"boosterPoints": 150,
+    "price": 63.0,
+		"limitedoffer":false,
+		"canBeBundled":true
+	},
+	{
+		"name": "Headsets",
+		"description": "",
+		"id": "sku960328",
+		"boosterPoints": 200,
+    "price": 55.0,
+		"limitedoffer":true,
+		"canBeBundled":false
+	},
+	{
+		"name": "Mouse",
+		"description": "",
+		"id": "sku960329",
+		"boosterPoints": 200,
+    "price": 30.0,
+		"limitedoffer":false,
+		"canBeBundled":false
+	},
+	{
+		"name": "CPU",
+		"description": "",
+
+		"id": "sku960380",
+		"boosterPoints": 300,
+    "price": 46.0,
+    "limitedoffer":true,
+		"canBeBundled":true
+	},
+	{
+		"name": "Touchpad",
+		"description": "",
+		"id": "sku960354",
+		"boosterPoints": 400,
+    "price": 45.0,
+    "limitedoffer":false,
+		"canBeBundled":false
+	},
+	{
+		"name": "Coolpad",
+		"description": "",
+		"id": "sku960674",
+		"boosterPoints": 500,
+    "price": 34.0,
+    "limitedoffer":false,
+		"canBeBundled":false
+	},
+	{
+		"name": "USB",
+		"description": "",
+		"id": "sku960564",
+		"boosterPoints": 600,
+		"price": 44.0,
+		"limitedoffer":false,
+		"canBeBundled":true
+	}]
 }
