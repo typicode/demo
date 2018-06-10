@@ -1,14 +1,218 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "USER": [ 
+    {
+      "userId": 1,
+      "name": "Tran Hung Truyen",
+      "phone": "0985416404",
+      "email": "tranhungtruyen@gmail.com"
+    },
+    {
+      "userId": 2,
+      "name": "Le Hoan Vu",
+      "Phone": "0999999999",
+      "email": "lehoanvu@gmail.com"
+    }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+  "STREET": [
+    {
+      "streetId": 1,
+      "name": "Bạch Đằng",
+      "streetNumber": 46,
+      "wardId": 1
+    },
+    {
+      "streetId": 2,
+      "name": "Cộng Hòa",
+      "streetNumber": 40,
+      "wardId": 1
+    },
+    {
+      "streetId": 3,
+      "name": "Quang Trung",
+      "streetNumber": 150,
+      "wardId": 2
+    },
+    {
+      "streetId": 4,
+      "name": "Phan Văn Trị",
+      "streetNumber": 999,
+      "wardId": 2
+    }
   ],
-  "profile": {
-    "name": "typicode"
-  }
+  "WARD":[
+    {
+      "wardId": 1,
+      "name": "2",
+      "districtId": 1
+    },
+    {
+      "wardId": 2,
+      "name": "Thắng Lợi",
+      "districtId": 2
+    }
+  ],
+  "DISTRICT":[
+    {
+      "districtId": 1,
+      "name": "Tân Bình",
+      "provinceId": 1
+    },
+    {
+      "districtId": 2,
+      "name": "Gò Vấp",
+      "provinceId": 2
+    }
+  ],
+  "PROVINCE":[
+    {
+      "provinceId": 1,
+      "name": "Hồ Chí Minh"
+    }
+  ],
+  "LOAIGIAODICH":[
+    {
+      "maGD": 1,
+      "name": "Nhà Đất Bán"
+    },
+    {
+      "maGD": 2,
+      "name": "Nhà Đất Cho Thuê"
+    }
+  ],
+  "LOAINHADAT":[
+    {
+      "maND": 1,
+      "name": "Bán Chung Cư",
+      "maGD": 1
+    },
+    {
+      "maND": 2,
+      "name": "Bán nhà riêng",
+      "maGD": 1
+    },
+    {
+      "maND": 3,
+      "name": "Bán đất có sổ hồng",
+      "maGD": 1
+    },
+    {
+      "maND": 4,
+      "name": "Cho thuê chung cư",
+      "maGD": 2
+    },
+    {
+      "maND": 5,
+      "name": "Cho thuê nhà nguyên căn",
+      "maGD": 2
+    },
+    {
+      "maND": 6,
+      "name": "Cho thuê nhà xưởng",
+      "maGD": 2
+    }
+  ],
+  "DUAN": [
+    {
+      "maDA": 1,
+      "name": "Khu Chung Cư Cao Cấp Gò Vấp"
+    },
+    {
+      "maDA": 2,
+      "name": "Khu Biệt Thự Tân Bình"
+    }
+  ],
+  "TINRAO":[
+    {
+      "maTin": 1,
+      "tieude": "Cần tiền bán gấp",
+      "maBDS": 1,
+      "userId": 1
+    },
+    {
+      "maTin": 2,
+      "tieude": "Thua cá độ cần tiền bán gấp",
+      "maBDS": 2,
+      "userId": 1
+    },
+    {
+      "maTin": 3,
+      "tieude": "Thua cá độ cần tiền bán gấp",
+      "maBDS": 3,
+      "userId": 1
+    },
+    {
+      "maTin": 4,
+      "tieude": "Hồi hương cần bán gấp",
+      "maBDS": 4,
+      "userId": 2
+    },
+    {
+      "maTin": 1,
+      "tieude": "Hồi hương cần bán gấp",
+      "maBDS": 5,
+      "userId": 2
+    },
+    {
+      "maTin": 1,
+      "tieude": "Đi nước ngoài cần bán gấp",
+      "maBDS": 6,
+      "userId": 2
+    }
+  ],
+  "BATDONGSAN": [
+    {
+      "maBDS": 1,
+      "maND": 1,
+      "streetId": 1,
+      "dientich": 100,
+      "gia": 2,
+      "mota": "-Căn 26 tầng 9, view sông xéo biển Diện tích 68.33m2, 2pn,2wc,1phòng khách,1bếp, giá hợp đồng 17 triệu/m2, Đã thanh toán 60%, Pháp lý hợp đồng mua bán, View sông và biển thoáng mát ko bị vướng tầm nhìn, Liên hệ: 0905707282",
+      "image": []      
+    },
+    {
+      "maBDS": 2,
+      "maND": 2,
+      "streetId": 2,
+      "dientich": 100,
+      "gia": 3,
+      "mota": "-Căn 26 tầng 9, view sông xéo biển Diện tích 68.33m2, 2pn,2wc,1phòng khách,1bếp, giá hợp đồng 17 triệu/m2, Đã thanh toán 60%, Pháp lý hợp đồng mua bán, View sông và biển thoáng mát ko bị vướng tầm nhìn, Liên hệ: 0905707282",
+      "image": []      
+    },
+    {
+      "maBDS": 3,
+      "maND": 3,
+      "streetId": 3,
+      "dientich": 100,
+      "gia": 3,
+      "mota": "-Căn 26 tầng 9, view sông xéo biển Diện tích 68.33m2, 2pn,2wc,1phòng khách,1bếp, giá hợp đồng 17 triệu/m2, Đã thanh toán 60%, Pháp lý hợp đồng mua bán, View sông và biển thoáng mát ko bị vướng tầm nhìn, Liên hệ: 0905707282",
+      "image": []      
+    },
+    {
+      "maBDS": 4,
+      "maND": 4,
+      "streetId": 4,
+      "dientich": 100,
+      "gia": 3,
+      "mota": "-Căn 26 tầng 9, view sông xéo biển Diện tích 68.33m2, 2pn,2wc,1phòng khách,1bếp, giá hợp đồng 17 triệu/m2, Đã thanh toán 60%, Pháp lý hợp đồng mua bán, View sông và biển thoáng mát ko bị vướng tầm nhìn, Liên hệ: 0905707282",
+      "image": []      
+    },
+    {
+      "maBDS": 5,
+      "maND": 5,
+      "streetId": 3,
+      "dientich": 100,
+      "gia": 3,
+      "mota": "-Căn 26 tầng 9, view sông xéo biển Diện tích 68.33m2, 2pn,2wc,1phòng khách,1bếp, giá hợp đồng 17 triệu/m2, Đã thanh toán 60%, Pháp lý hợp đồng mua bán, View sông và biển thoáng mát ko bị vướng tầm nhìn, Liên hệ: 0905707282",
+      "image": []      
+    },
+    {
+      "maBDS": 6,
+      "maND": 6,
+      "streetId": 4,
+      "dientich": 100,
+      "gia": 3,
+      "mota": "-Căn 26 tầng 9, view sông xéo biển Diện tích 68.33m2, 2pn,2wc,1phòng khách,1bếp, giá hợp đồng 17 triệu/m2, Đã thanh toán 60%, Pháp lý hợp đồng mua bán, View sông và biển thoáng mát ko bị vướng tầm nhìn, Liên hệ: 0905707282",
+      "image": []      
+    }
+  ]
 }
