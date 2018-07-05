@@ -1,14 +1,17 @@
 {
   "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+    { "id": 1, "title": "Day 1" },
+    { "id": 2, "title": "Day 2" },
+    { "id": 3, "title": "Day 3" }
   ],
   "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+    { "id": 1, "body": "Once upon a time", "postId": 1 },
+    { "id": 2, "body": "Never forget me!", "postId": 1 }
   ],
   "profile": {
-    "name": "typicode"
+    "name": "dhshivam"
   }
+  "status":[
+  { "id":1,"app_name":"dhanu","status":"requested","description":"sending"}
+]
 }
