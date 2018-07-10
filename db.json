@@ -1,14 +1,8 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+    "obj": [
+    {"name":"Avinash", "online":true},
+    {"name":"Lokesh", "online":false},
+    {"name":"Vishal", "online":true},
+    {"name":"Jagga", "online":false}
+  ]
 }
