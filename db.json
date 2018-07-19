@@ -1,4 +1,9 @@
-{
+{  
+  "person": [
+    { "FirstName": "Mahdi", "LastName": "Malverdi" },
+    { "FirstName": "Mahdi", "LastName": "Saeedi" },
+    { "FirstName": "Ali", "LastName": "Zare" }
+  ],
   "posts": [
     { "id": 1, "title": "Post 1" },
     { "id": 2, "title": "Post 2" },
