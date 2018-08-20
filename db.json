@@ -1,5 +1,3 @@
 {
-    "entity-types":{
-      "type":"VEHICLE"
-    }
+    "type":"VEHICLE"
 }
