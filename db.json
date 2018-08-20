@@ -1,4 +1,5 @@
 {
-  "type":"VEHICLE",
-  "ids":["123","456"]
+    "entity-types":{
+      "type":"VEHICLE"
+    }
 }
