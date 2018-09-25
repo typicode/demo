@@ -1,14 +1,1 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+{"runs":[{"id":null,"routeId":962,"routeName":"FS119","shuttleName":"10","shuttleId":107,"pickupLocation":{"id":204,"name":"RMZ1","abbreviation":"RMZ1","latitude":12.971115,"longitude":80.244914,"isStop":true,"isGarage":false,"address":"RMZ1","city":"CHENNAI","stateName":"TN","zipCode":"600001","timePaddingSec":null,"status":"ACTIVE"},"dropOffLocation":{"id":199,"name":"Indian overseas bank Semmencheri","abbreviation":"PER11","latitude":12.879544,"longitude":80.211185,"isStop":true,"isGarage":false,"address":"semmencheri","city":"CHENNAI","stateName":"TN","zipCode":"600056","timePaddingSec":null,"status":"ACTIVE"},"pickupTime":null,"dropoffTime":null,"numberOfPassengers":0,"routeStartTime":1537771140000,"routeEndTime":1537772940000,"noOfStops":4,"lastKnownLocation":null,"inService":false,"rideStatus":null,"requestStatus":null,"originActualTime":1537771140000,"destinationActualTime":1537772940000,"lastKnownTime":null,"lastLocationEstTime":null,"shuttleLocation":{"shuttleId":107,"shuttleName":"10","routeId":962,"routeName":"FS119","latitude":0.0,"longitude":0.0},"wayPointsLocations":[{"id":204,"name":"RMZ1","abbreviation":"RMZ1","latitude":12.971115,"longitude":80.244914,"isStop":true,"isGarage":false,"address":"RMZ1","city":"CHENNAI","stateName":"TN","zipCode":"600001","timePaddingSec":null,"status":"ACTIVE"},{"id":286,"name":"Advent chruch perumbakkam","abbreviation":"PRM01","latitude":12.906946,"longitude":80.19983,"isStop":true,"isGarage":false,"address":"Perumbakkam","city":"CHENNAI","stateName":"TN","zipCode":"600056","timePaddingSec":null,"status":"ACTIVE"},{"id":195,"name":"Cherry Super market Perumbakkam","abbreviation":"PER7","latitude":12.895714,"longitude":80.197998,"isStop":true,"isGarage":false,"address":"perumbakkam","city":"CHENNAI","stateName":"TN","zipCode":"600056","timePaddingSec":null,"status":"ACTIVE"},{"id":199,"name":"Indian overseas bank Semmencheri","abbreviation":"PER11","latitude":12.879544,"longitude":80.211185,"isStop":true,"isGarage":false,"address":"semmencheri","city":"CHENNAI","stateName":"TN","zipCode":"600056","timePaddingSec":null,"status":"ACTIVE"}],"fleetName":null,"stopStatus":"ORANGE","nextStop":"RMZ1","delay":11008000,"eta":1537782148000}],"noOfCompletedRuns":0,"noOfActiveRuns":1,"noOfScheduledRuns":0,"noOfUnassignedSchedules":4}
