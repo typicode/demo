@@ -1,7 +1,3341 @@
 [
-  { 
-    "clientID": 1, 
-    "fname": "Kert" ,
-    "lname": "Cervantes"
-  }
+    {
+        "CHDRNUM": "03286059",
+        "ZCARDHLDR": "CARDONA, JANETTE O",
+        "ZACCTNUM": "8450004325",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "04487002",
+        "ZCARDHLDR": "MARTIN, CARLO G",
+        "ZACCTNUM": "3225315077",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "04571983",
+        "ZCARDHLDR": "ALAZO, LEONALYN A",
+        "ZACCTNUM": "3259476371",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "04609846",
+        "ZCARDHLDR": "ALAZO, LEONALYN A",
+        "ZACCTNUM": "3259476371",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "04745794",
+        "ZCARDHLDR": "PASCUA, ANDREA L",
+        "ZACCTNUM": "8536020567",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "04808312",
+        "ZCARDHLDR": "MELITANTE, JOSEPH G",
+        "ZACCTNUM": "8479251623",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "04938451",
+        "ZCARDHLDR": "MARTIN, CARLO G",
+        "ZACCTNUM": "3225315077",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "05467026",
+        "ZCARDHLDR": "TOSOC, MARY MAE A",
+        "ZACCTNUM": "8519399378",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "05668201",
+        "ZCARDHLDR": "SANTIAGO, KHRISTINE",
+        "ZACCTNUM": "1649199279",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "05972042",
+        "ZCARDHLDR": "NUGUID, ERICA GIANELLI M",
+        "ZACCTNUM": "2429654257",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "05981021",
+        "ZCARDHLDR": "MENDOZA, PAMELA SUE N",
+        "ZACCTNUM": "0933008584",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "06446553",
+        "ZCARDHLDR": "GAMAYO, MARGARET PEARL D",
+        "ZACCTNUM": "0189188048",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "07082324",
+        "ZCARDHLDR": "CABANILLA, EVANGELINE M",
+        "ZACCTNUM": "4020003931",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "07303611",
+        "ZCARDHLDR": "EBRON, CHERRY ALLEINE",
+        "ZACCTNUM": "1899801918",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "07673222",
+        "ZCARDHLDR": "AGAS, MYRNA D",
+        "ZACCTNUM": "0549284795",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "08292079",
+        "ZCARDHLDR": "MATAMIS, TERRY ROSE N",
+        "ZACCTNUM": "8679287075",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "08374359",
+        "ZCARDHLDR": "MEER, EDEN T",
+        "ZACCTNUM": "8419148556",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "08435903",
+        "ZCARDHLDR": "JAYLONE, DOLLY G",
+        "ZACCTNUM": "3869149771",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "08545554",
+        "ZCARDHLDR": "REVILLAS, CHRISTOPHER MELVERN",
+        "ZACCTNUM": "9219194347",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "08547941",
+        "ZCARDHLDR": "REALINO, JONATHAN D",
+        "ZACCTNUM": "4039269177",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "08675413",
+        "ZCARDHLDR": "ABU, JIENALYN O",
+        "ZACCTNUM": "9029251905",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "08739084",
+        "ZCARDHLDR": "HAGAD, ROSCHELL CASTRO",
+        "ZACCTNUM": "8809267319",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "08866875",
+        "ZCARDHLDR": "FACTO, JESSICA AMPER",
+        "ZACCTNUM": "9829147936",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09063505",
+        "ZCARDHLDR": "VALERIO, MARY CHARISSE F",
+        "ZACCTNUM": "8229065484",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09064019",
+        "ZCARDHLDR": "TUANDA, MA ROSSARIO R",
+        "ZACCTNUM": "8099140403",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09064511",
+        "ZCARDHLDR": "COMIA GEMALYN C",
+        "ZACCTNUM": "3849596585",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09064771",
+        "ZCARDHLDR": "BLANCO, JERRAMIE KRIS A",
+        "ZACCTNUM": "2019163469",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09067592",
+        "ZCARDHLDR": "CUEL, CLINT MICHAEL B",
+        "ZACCTNUM": "2059286679",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09068786",
+        "ZCARDHLDR": "DE GUZMAN, ROMMEL M",
+        "ZACCTNUM": "3209178914",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09068848",
+        "ZCARDHLDR": "LICOP, CLARISA R",
+        "ZACCTNUM": "3369033548",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09069245",
+        "ZCARDHLDR": "OCAMPO, ELINORE",
+        "ZACCTNUM": "4029324331",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09069263",
+        "ZCARDHLDR": "PINON, PAULINA CHAYLL U",
+        "ZACCTNUM": "1929230775",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09069334",
+        "ZCARDHLDR": "LLASUS, ANNA LIZA",
+        "ZACCTNUM": "4409177471",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09069497",
+        "ZCARDHLDR": "SAGUN, MARIA ANA S",
+        "ZACCTNUM": "1949100363",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09070017",
+        "ZCARDHLDR": "GANOTAN, JERWIN RUDOLF O",
+        "ZACCTNUM": "2013013732",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09070591",
+        "ZCARDHLDR": "HOMECILLO , CES CLYDE M",
+        "ZACCTNUM": "9359396209",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09071391",
+        "ZCARDHLDR": "ZEPEDA, RYAN JAMES D",
+        "ZACCTNUM": "8529326832",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09071452",
+        "ZCARDHLDR": "HIPONIA, MARILYN D",
+        "ZACCTNUM": "2889223408",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09072207",
+        "ZCARDHLDR": "TIONG, MA KATRINA A",
+        "ZACCTNUM": "0120124161",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09072459",
+        "ZCARDHLDR": "YU, DEBBIE RUTH D",
+        "ZACCTNUM": "4769087481",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09072781",
+        "ZCARDHLDR": "ANDUYAN, ALJIE NINO",
+        "ZACCTNUM": "0039518031",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09072851",
+        "ZCARDHLDR": "DAILEG, JERROLD N",
+        "ZACCTNUM": "4439177999",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09073007",
+        "ZCARDHLDR": "BATOON, DONNA JANE M",
+        "ZACCTNUM": "1899548848",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09073348",
+        "ZCARDHLDR": "DE VILLA, LIM MARIE",
+        "ZACCTNUM": "0539175475",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09073802",
+        "ZCARDHLDR": "BARBIN, ROSELIE S",
+        "ZACCTNUM": "1899696774",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09074003",
+        "ZCARDHLDR": "MENGULLO, LEOMAR FLORES",
+        "ZACCTNUM": "4149035848",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09074157",
+        "ZCARDHLDR": "FRIAS, JANINE JOY L",
+        "ZACCTNUM": "2149230516",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09074193",
+        "ZCARDHLDR": "GARLAN, SARAH MAE",
+        "ZACCTNUM": "8379171711",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09074774",
+        "ZCARDHLDR": "CALACAT, DANICO MARC T",
+        "ZACCTNUM": "2289372752",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09074916",
+        "ZCARDHLDR": "DICHOSO, ALEXIS G",
+        "ZACCTNUM": "0209292971",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09075144",
+        "ZCARDHLDR": "LADRILLO, BENJAMIN M",
+        "ZACCTNUM": "8369837827",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09075181",
+        "ZCARDHLDR": "DUCUSIN, RONALDO",
+        "ZACCTNUM": "1536288638",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09075215",
+        "ZCARDHLDR": "SINGZON, SETH JOHN",
+        "ZACCTNUM": "3309404121",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09075519",
+        "ZCARDHLDR": "CATIAN, IRENE ROSE",
+        "ZACCTNUM": "2379099958",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09075565",
+        "ZCARDHLDR": "ANINZO, LESLEY ANNIELYN G",
+        "ZACCTNUM": "2929063735",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09075725",
+        "ZCARDHLDR": "ARIAS, MAYETH",
+        "ZACCTNUM": "0019558681",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09076113",
+        "ZCARDHLDR": "GABINETE, ROAN KAMILLE L",
+        "ZACCTNUM": "8299096166",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09076131",
+        "ZCARDHLDR": "PALATTAO, JAN CARLO A",
+        "ZACCTNUM": "3949411221",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09076249",
+        "ZCARDHLDR": "REYES, PAMELA ISABEL",
+        "ZACCTNUM": "3980002569",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09076445",
+        "ZCARDHLDR": "ESPIRITU, MA ELEANOR B",
+        "ZACCTNUM": "1899829138",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09076697",
+        "ZCARDHLDR": "AQUINO, MA ANTONETTE",
+        "ZACCTNUM": "1629234647",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09076857",
+        "ZCARDHLDR": "DIAMANTE, MARK ANTHONY B",
+        "ZACCTNUM": "2739032965",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09077058",
+        "ZCARDHLDR": "COLASITO, SHEILA MAE C",
+        "ZACCTNUM": "4579063438",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09077067",
+        "ZCARDHLDR": "TANDAYAG, LIEZEL",
+        "ZACCTNUM": "4329061057",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09077085",
+        "ZCARDHLDR": "POLINTAN, DANIEL O",
+        "ZACCTNUM": "3569237199",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09077101",
+        "ZCARDHLDR": "TANDAYAG, LIEZEL",
+        "ZACCTNUM": "4329061057",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09077129",
+        "ZCARDHLDR": "SOLINA, SANDY D",
+        "ZACCTNUM": "1439079351",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09077138",
+        "ZCARDHLDR": "MILLARES, FLORU JOY B",
+        "ZACCTNUM": "9489259939",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09077371",
+        "ZCARDHLDR": "MAGNO, RAYMUNDO FIDEL M",
+        "ZACCTNUM": "2549087259",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09077469",
+        "ZCARDHLDR": "JIMENEZ, IDA AUREA",
+        "ZACCTNUM": "0769095535",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09077693",
+        "ZCARDHLDR": "PABELLANO, JAY RIC DC",
+        "ZACCTNUM": "2989059672",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09077835",
+        "ZCARDHLDR": "VELASCO, ARRIZA",
+        "ZACCTNUM": "9809238838",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09077933",
+        "ZCARDHLDR": "NAVIDA, MARIBELLE L",
+        "ZACCTNUM": "4059334786",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09078027",
+        "ZCARDHLDR": "SUNGA, FELICIA MAE F",
+        "ZACCTNUM": "1899537277",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09078091",
+        "ZCARDHLDR": "PALATINO, BILLY JOE R",
+        "ZACCTNUM": "8269186845",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09078134",
+        "ZCARDHLDR": "GOZUM, KEVIN DAVE P",
+        "ZACCTNUM": "1899537463",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09078161",
+        "ZCARDHLDR": "AGANA, RICKY",
+        "ZACCTNUM": "1219171354",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09078199",
+        "ZCARDHLDR": "GALIT, JONAS",
+        "ZACCTNUM": "0039525186",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09078241",
+        "ZCARDHLDR": "ACERES, JAN KIMBIE",
+        "ZACCTNUM": "2669177073",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09078251",
+        "ZCARDHLDR": "RETUMBAN, VIVIENE MAE M",
+        "ZACCTNUM": "1729207531",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09078288",
+        "ZCARDHLDR": "LUNA, EMMARIE P",
+        "ZACCTNUM": "1809065096",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09078321",
+        "ZCARDHLDR": "HERRADURA, HOMERLITO L",
+        "ZACCTNUM": "3889221568",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09078349",
+        "ZCARDHLDR": "NARVAEZ, KIM MAVERICK C",
+        "ZACCTNUM": "2339081215",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09078484",
+        "ZCARDHLDR": "ANGGOT, ANNIE GRACE",
+        "ZACCTNUM": "9879163738",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09078509",
+        "ZCARDHLDR": "LIM, NINA RICHIE DE LEON",
+        "ZACCTNUM": "4529133176",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09078537",
+        "ZCARDHLDR": "GONZALES, MARY JOY S",
+        "ZACCTNUM": "2669156076",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09078662",
+        "ZCARDHLDR": "AFRICA, ALYSSA MARIE F",
+        "ZACCTNUM": "0973226231",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09078681",
+        "ZCARDHLDR": "FUENTES, SERIANNE",
+        "ZACCTNUM": "1919213759",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09078699",
+        "ZCARDHLDR": "BALUYUT, MARIO JR E",
+        "ZACCTNUM": "1899572838",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09078733",
+        "ZCARDHLDR": "YARCIA, AIRA VIANCA C",
+        "ZACCTNUM": "2569361446",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09078822",
+        "ZCARDHLDR": "ABIVA, MARY GRACE D",
+        "ZACCTNUM": "3175353118",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09078985",
+        "ZCARDHLDR": "SAPANZA, MA CARLOTA E",
+        "ZACCTNUM": "8431011663",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09079032",
+        "ZCARDHLDR": "BANATE, LICEL C",
+        "ZACCTNUM": "8199304454",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09079195",
+        "ZCARDHLDR": "MENDOZA, MICHELLE M",
+        "ZACCTNUM": "8749003643",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09079319",
+        "ZCARDHLDR": "SENDINGAN, MA SARAH",
+        "ZACCTNUM": "1929451666",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09079373",
+        "ZCARDHLDR": "MILANBILEN, ELOISA P",
+        "ZACCTNUM": "4339595262",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09079462",
+        "ZCARDHLDR": "CALIMLIM, JENNIFER A",
+        "ZACCTNUM": "1729061677",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09079589",
+        "ZCARDHLDR": "MINOZA, FRANCIS JANE",
+        "ZACCTNUM": "1619542912",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09079604",
+        "ZCARDHLDR": "PAMA, NATHALLA V",
+        "ZACCTNUM": "3229177523",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09079758",
+        "ZCARDHLDR": "MANGUERRA, BRAYN LEE",
+        "ZACCTNUM": "0309123382",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09079767",
+        "ZCARDHLDR": "DULAY, SHERYL A",
+        "ZACCTNUM": "8019093523",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09079776",
+        "ZCARDHLDR": "HERRERA, MARIA JOEYLIN B",
+        "ZACCTNUM": "9539148084",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09079865",
+        "ZCARDHLDR": "BARTOLO, DENNIS A",
+        "ZACCTNUM": "0159266133",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09079883",
+        "ZCARDHLDR": "CUA, PAOLO",
+        "ZACCTNUM": "1899420515",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09079909",
+        "ZCARDHLDR": "MAGPUGAY, JO-ANN",
+        "ZACCTNUM": "0899161785",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09080056",
+        "ZCARDHLDR": "TULIO, FAYE MARIELLE B",
+        "ZACCTNUM": "1989174777",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09080181",
+        "ZCARDHLDR": "SAVELLANO, JOANNA ELAINE Z",
+        "ZACCTNUM": "9489260287",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09080191",
+        "ZCARDHLDR": "ANCAJAS, JADE",
+        "ZACCTNUM": "0039516349",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09080243",
+        "ZCARDHLDR": "QUILAY, IVY LILIAN R",
+        "ZACCTNUM": "1899640086",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09080289",
+        "ZCARDHLDR": "MONTEROS, MIRVEE",
+        "ZACCTNUM": "0959205272",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09080369",
+        "ZCARDHLDR": "MONTEROS, MIRVEE",
+        "ZACCTNUM": "0959205272",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09080459",
+        "ZCARDHLDR": "MERANA, MEDEL S",
+        "ZACCTNUM": "9649126361",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09080655",
+        "ZCARDHLDR": "STO DOMINGO, SHARMAINE T",
+        "ZACCTNUM": "3929167847",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09080664",
+        "ZCARDHLDR": "YALUNG, RICHARD",
+        "ZACCTNUM": "1130006449",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09081286",
+        "ZCARDHLDR": "GANOTISI, MAR JAMES U",
+        "ZACCTNUM": "3729044392",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09081517",
+        "ZCARDHLDR": "ROXAS, EDISON MAULION",
+        "ZACCTNUM": "3479264596",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09081642",
+        "ZCARDHLDR": "MALAHAY, JOLLLY R",
+        "ZACCTNUM": "2459246366",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09081689",
+        "ZCARDHLDR": "MORENO, MARIA VICTORIA A",
+        "ZACCTNUM": "4279072702",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09081704",
+        "ZCARDHLDR": "OCAMPO, PATRICIA KATHRYN L",
+        "ZACCTNUM": "1920022339",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09081965",
+        "ZCARDHLDR": "CAPISAN, AMER T",
+        "ZACCTNUM": "8529172754",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09082031",
+        "ZCARDHLDR": "CORTUNA, JERICK",
+        "ZACCTNUM": "2829258741",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09082282",
+        "ZCARDHLDR": "BONGCALES, NOLI A",
+        "ZACCTNUM": "0189209444",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09082326",
+        "ZCARDHLDR": "BATTAD, ROEL A",
+        "ZACCTNUM": "4169399838",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09082344",
+        "ZCARDHLDR": "CELOSO, PAULA MAE COLMO",
+        "ZACCTNUM": "1109089938",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09082353",
+        "ZCARDHLDR": "GUSTILO, CHRYSTELLE ANGELA I",
+        "ZACCTNUM": "8339436518",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09082406",
+        "ZCARDHLDR": "JUSTO, CYRUS HANS",
+        "ZACCTNUM": "8749235617",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09082649",
+        "ZCARDHLDR": "GOCO, ISABEL MARIE R",
+        "ZACCTNUM": "4339375386",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09082694",
+        "ZCARDHLDR": "REYES, JEROME C REYES",
+        "ZACCTNUM": "9039057317",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09082701",
+        "ZCARDHLDR": "GREGORIO, PAMELA C",
+        "ZACCTNUM": "0619166944",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09082719",
+        "ZCARDHLDR": "GUTIERREZ, ROMINA H",
+        "ZACCTNUM": "3769253326",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09082907",
+        "ZCARDHLDR": "IBAO, DAVE CHRISTOPHER",
+        "ZACCTNUM": "0019636645",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09082961",
+        "ZCARDHLDR": "BENDO, ARVIN PAUL D",
+        "ZACCTNUM": "4529208699",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09083009",
+        "ZCARDHLDR": "CUNANAN, MARICEL F",
+        "ZACCTNUM": "1239061717",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09083224",
+        "ZCARDHLDR": "HOLGADO, EVELYN E",
+        "ZACCTNUM": "9829359275",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09083279",
+        "ZCARDHLDR": "VALIDO, CHARLES ESSEX B",
+        "ZACCTNUM": "2579107793",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09083359",
+        "ZCARDHLDR": "BACAL, DIVINE GRACE T",
+        "ZACCTNUM": "4739239384",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09083912",
+        "ZCARDHLDR": "FUENTES, MA THERESA A",
+        "ZACCTNUM": "1889224084",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09084338",
+        "ZCARDHLDR": "DELA CRUZ, DEBORAH CLARISSE T",
+        "ZACCTNUM": "0939352236",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09084525",
+        "ZCARDHLDR": "LASCANO, NICKIE MAI B",
+        "ZACCTNUM": "3159101265",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09085352",
+        "ZCARDHLDR": "CARAG, HAROLD M",
+        "ZACCTNUM": "2819089607",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "05435277",
+        "ZCARDHLDR": "CORPUZ, CRIZALYN D",
+        "ZACCTNUM": "8429131813",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "05435286",
+        "ZCARDHLDR": "MEDINA, ROWENA A",
+        "ZACCTNUM": "8429125546",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "06114242",
+        "ZCARDHLDR": "DIAMANTE, DERRICO GABRIEL R",
+        "ZACCTNUM": "1439110224",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "06114279",
+        "ZCARDHLDR": "DIAMANTE, DERRICO GABRIEL R",
+        "ZACCTNUM": "1439110224",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "07223521",
+        "ZCARDHLDR": "QUINTOS, EDWIN C",
+        "ZACCTNUM": "8230018031",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "07311595",
+        "ZCARDHLDR": "SOLICITO, CYRUS PUGAL",
+        "ZACCTNUM": "9853014041",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "07477147",
+        "ZCARDHLDR": "ESTEVES, MAEA FLOHR IBAYAN",
+        "ZACCTNUM": "9769169323",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "07810111",
+        "ZCARDHLDR": "LUCAS, VERGEL P.",
+        "ZACCTNUM": "2449362053",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "08030534",
+        "ZCARDHLDR": "OASNON, LAWRENCE C",
+        "ZACCTNUM": "0049067666",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "08285915",
+        "ZCARDHLDR": "LONTOC, PAUL WINSTON CAMBA",
+        "ZACCTNUM": "1449249816",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "08286555",
+        "ZCARDHLDR": "FIGUEROA, BELEN U",
+        "ZACCTNUM": "0969457461",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "08609419",
+        "ZCARDHLDR": "VILLANUEVA, JAECEL ANN B",
+        "ZACCTNUM": "3069054047",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "08662402",
+        "ZCARDHLDR": "SIGUA, RACHEL ANTONIO",
+        "ZACCTNUM": "4343059464",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "08822734",
+        "ZCARDHLDR": "GALILEA, KAREN MAE MACAVINTA",
+        "ZACCTNUM": "2879315746",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09038877",
+        "ZCARDHLDR": "LATOZA, MARITES A",
+        "ZACCTNUM": "9019196315",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09041178",
+        "ZCARDHLDR": "MANALO, ALFREN",
+        "ZACCTNUM": "1799239325",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09043045",
+        "ZCARDHLDR": "MANGUERRA, LOLITA CASABUENA",
+        "ZACCTNUM": "9019227127",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09045889",
+        "ZCARDHLDR": "ARRIENDA, JEREMIAH JASON",
+        "ZACCTNUM": "8309062621",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09055219",
+        "ZCARDHLDR": "VIBAL, LARIAN V",
+        "ZACCTNUM": "1269652307",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09056449",
+        "ZCARDHLDR": "BERNARDINO, CHARISE B",
+        "ZACCTNUM": "3429331764",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09067181",
+        "ZCARDHLDR": "PULIDO, ROSE ANN",
+        "ZACCTNUM": "0049036677",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09069165",
+        "ZCARDHLDR": "GO, WEDNESDAY S",
+        "ZACCTNUM": "1306999489",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09069719",
+        "ZCARDHLDR": "PAMPLONA, HAYZELLE P",
+        "ZACCTNUM": "0929028686",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09069782",
+        "ZCARDHLDR": "DUQUEZ, GLENDA E",
+        "ZACCTNUM": "1659057375",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09070367",
+        "ZCARDHLDR": "PERA, EMMANUEL T",
+        "ZACCTNUM": "4029185765",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09071873",
+        "ZCARDHLDR": "RAGASA, DARWIN",
+        "ZACCTNUM": "0889183225",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09073277",
+        "ZCARDHLDR": "ALBERTO, MARINA D",
+        "ZACCTNUM": "1359544576",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09074602",
+        "ZCARDHLDR": "SALINO, IAN AUBREY B",
+        "ZACCTNUM": "3779252484",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09075298",
+        "ZCARDHLDR": "TORRES, HYJASMIN JOY L",
+        "ZACCTNUM": "3649203486",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09076006",
+        "ZCARDHLDR": "TENDERO, ROEL R.",
+        "ZACCTNUM": "1529117902",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09076159",
+        "ZCARDHLDR": "PILONGGO, PRINCESS GRACE R",
+        "ZACCTNUM": "2949203282",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09076276",
+        "ZCARDHLDR": "JANSALIN, RUZZEL F",
+        "ZACCTNUM": "9069229317",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09076632",
+        "ZCARDHLDR": "TIGLEY, GRACE B",
+        "ZACCTNUM": "3059611843",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09076641",
+        "ZCARDHLDR": "YSOG, JOHN MARWIN ZULETA",
+        "ZACCTNUM": "0019794571",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09076703",
+        "ZCARDHLDR": "FIRMALO, VICENTE FRANCISCO Q.",
+        "ZACCTNUM": "3759132369",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09076848",
+        "ZCARDHLDR": "ROSANA, MARIVEN P",
+        "ZACCTNUM": "1176062773",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09077039",
+        "ZCARDHLDR": "SERVANCIA, GLORY J",
+        "ZACCTNUM": "9439120921",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09077559",
+        "ZCARDHLDR": "OLID, SHARMINE ANN",
+        "ZACCTNUM": "9119156995",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09077764",
+        "ZCARDHLDR": "VILLAREAL, GRACIOUS ANNE EDRAL",
+        "ZACCTNUM": "8719119841",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09077773",
+        "ZCARDHLDR": "DAJANG, STELA A",
+        "ZACCTNUM": "1179106392",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09078045",
+        "ZCARDHLDR": "MIEL, APRIL MAY SUNDAY",
+        "ZACCTNUM": "4699001185",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09078214",
+        "ZCARDHLDR": "JARO, ARNOLD G",
+        "ZACCTNUM": "9249427664",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09078564",
+        "ZCARDHLDR": "CAOENG, FEMALYN",
+        "ZACCTNUM": "8536153095",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09079131",
+        "ZCARDHLDR": "CAOYONAN. BELLA CABALLERO",
+        "ZACCTNUM": "2039027286",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09080145",
+        "ZCARDHLDR": "VILLARUEL, MITZI L.",
+        "ZACCTNUM": "1396016349",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09080341",
+        "ZCARDHLDR": "LUI, CATHERINE T",
+        "ZACCTNUM": "2429005194",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09080468",
+        "ZCARDHLDR": "AVILA, LOILA O",
+        "ZACCTNUM": "2036296207",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09080575",
+        "ZCARDHLDR": "DIMAUNAHAN, DANIELLA MARIE S",
+        "ZACCTNUM": "3149042104",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09081339",
+        "ZCARDHLDR": "GRANZON JR., JOSEPH T",
+        "ZACCTNUM": "0099011684",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09081473",
+        "ZCARDHLDR": "JABAY, LORENA S",
+        "ZACCTNUM": "8099243997",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09081581",
+        "ZCARDHLDR": "ALCARIA, BENJIE M",
+        "ZACCTNUM": "0929223209",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09082399",
+        "ZCARDHLDR": "NARCISO, SAMUEL L",
+        "ZACCTNUM": "0109015462",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09083135",
+        "ZCARDHLDR": "ARCE, NORMA JEAN M",
+        "ZACCTNUM": "3399145987",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09083592",
+        "ZCARDHLDR": "MABUNGA, MARY JEAN",
+        "ZACCTNUM": "4129273025",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09083949",
+        "ZCARDHLDR": "ABELLO, DONNA MAY",
+        "ZACCTNUM": "0583080007",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09084006",
+        "ZCARDHLDR": "MACAPAGAL, DENNIS",
+        "ZACCTNUM": "4639155094",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09084276",
+        "ZCARDHLDR": "RIEGO, ALLAN P",
+        "ZACCTNUM": "0079121819",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09084294",
+        "ZCARDHLDR": "SALCEDO, HANA NINUKA L",
+        "ZACCTNUM": "2669281873",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09084301",
+        "ZCARDHLDR": "LAPUZ, JOHN ANTHONY",
+        "ZACCTNUM": "3859168786",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09084347",
+        "ZCARDHLDR": "JUANZO JR., ARMAN B",
+        "ZACCTNUM": "3859158896",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09084356",
+        "ZCARDHLDR": "BALLINAN, MARY GRACE DIANNE T",
+        "ZACCTNUM": "2849076038",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09084418",
+        "ZCARDHLDR": "CRUZ, ROCHELLE",
+        "ZACCTNUM": "0209163357",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09084614",
+        "ZCARDHLDR": "CELESTIAL, CARYL BARBETTE M",
+        "ZACCTNUM": "3789429943",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09084697",
+        "ZCARDHLDR": "DENAGA, DANILO P",
+        "ZACCTNUM": "9289304336",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09084982",
+        "ZCARDHLDR": "DIMAANGAY, MICHELLE C",
+        "ZACCTNUM": "2389029702",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09085147",
+        "ZCARDHLDR": "ABELLA, MICHAEL F",
+        "ZACCTNUM": "3169325447",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09085263",
+        "ZCARDHLDR": "CATAPUSAN, KEVIN C",
+        "ZACCTNUM": "1419030445",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09085414",
+        "ZCARDHLDR": "ARANETA, RHODERICK",
+        "ZACCTNUM": "8859165533",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09085521",
+        "ZCARDHLDR": "MONTALVO, JUDIE ROSE CARLA",
+        "ZACCTNUM": "2829224367",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09085531",
+        "ZCARDHLDR": "LIM, ALVIN SO",
+        "ZACCTNUM": "3909344629",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09085601",
+        "ZCARDHLDR": "PARDO, JAZEL K",
+        "ZACCTNUM": "0039331357",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09085666",
+        "ZCARDHLDR": "ALMINAR, ZHARLA PIA ELENA",
+        "ZACCTNUM": "3279173367",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09085693",
+        "ZCARDHLDR": "SANTIBANEZ, JOANNE ELAINE",
+        "ZACCTNUM": "3399335557",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09085709",
+        "ZCARDHLDR": "OPENANO, PAMELA SUE L",
+        "ZACCTNUM": "8339311111",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09085755",
+        "ZCARDHLDR": "QUILATON, MICHAEL",
+        "ZACCTNUM": "3479238749",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09085808",
+        "ZCARDHLDR": "ALCANTARA, MARIA VICTORIA",
+        "ZACCTNUM": "0069345069",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09085835",
+        "ZCARDHLDR": "CARLOS, ROSARIO THERESA",
+        "ZACCTNUM": "0249286206",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09085862",
+        "ZCARDHLDR": "LABALAN, IMELDA AURORA",
+        "ZACCTNUM": "0379103294",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09085998",
+        "ZCARDHLDR": "MORALES, FRANCIS PAUL S",
+        "ZACCTNUM": "4119050567",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09086072",
+        "ZCARDHLDR": "TAN, JOVEN S.M.",
+        "ZACCTNUM": "9069013748",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09086134",
+        "ZCARDHLDR": "ARIAS, GUILLIANE BRIGUELA",
+        "ZACCTNUM": "0039498049",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09086189",
+        "ZCARDHLDR": "CRUZ, MARC M",
+        "ZACCTNUM": "4539316112",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09086223",
+        "ZCARDHLDR": "GARCIA, AIZA MAY L",
+        "ZACCTNUM": "3859159973",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09086297",
+        "ZCARDHLDR": "DELA PAZ, LINDSAY ASHLEY H",
+        "ZACCTNUM": "9759128025",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09086377",
+        "ZCARDHLDR": "ZAMORA, CHALUM A",
+        "ZACCTNUM": "0089120764",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09086395",
+        "ZCARDHLDR": "VALDEZ, HERBERT JOSEPH L",
+        "ZACCTNUM": "4149110025",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09086466",
+        "ZCARDHLDR": "DOMINGO, ALMEERA MAE M.",
+        "ZACCTNUM": "0389133124",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09086582",
+        "ZCARDHLDR": "REYES, KRISTINA B",
+        "ZACCTNUM": "2926017615",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09086617",
+        "ZCARDHLDR": "TABACO, ANA MARIE",
+        "ZACCTNUM": "8649151866",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09086644",
+        "ZCARDHLDR": "REALIZAN, MARLON C",
+        "ZACCTNUM": "0989487205",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09086653",
+        "ZCARDHLDR": "PAULO, MICHILLE A",
+        "ZACCTNUM": "4669196992",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09086706",
+        "ZCARDHLDR": "LOPEZ, JOSEPHUS JONAS",
+        "ZACCTNUM": "2280103481",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09086742",
+        "ZCARDHLDR": "SANTUYO, JEFFREY B",
+        "ZACCTNUM": "2339097847",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09086751",
+        "ZCARDHLDR": "BONGALON, MARIANN D",
+        "ZACCTNUM": "0839141742",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09086869",
+        "ZCARDHLDR": "BIEN, MELVIN",
+        "ZACCTNUM": "8110008784",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09086878",
+        "ZCARDHLDR": "GAMAT, NICOLE KATHERINE",
+        "ZACCTNUM": "3919215878",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09086921",
+        "ZCARDHLDR": "SANTUYO, LAILANIE L",
+        "ZACCTNUM": "8979647558",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09087014",
+        "ZCARDHLDR": "NIOG, TIMI MARIE B",
+        "ZACCTNUM": "4123084735",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09087186",
+        "ZCARDHLDR": "VILLALON, CHRISTINE JOY M",
+        "ZACCTNUM": "0419158747",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09087918",
+        "ZCARDHLDR": "GERONIMO, EUMEL MARTIN O",
+        "ZACCTNUM": "4409177404",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09088137",
+        "ZCARDHLDR": "CASTRO, KARINA B",
+        "ZACCTNUM": "4559234961",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09088333",
+        "ZCARDHLDR": "PANAREJO, BLEZELDA R",
+        "ZACCTNUM": "8419013774",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09088398",
+        "ZCARDHLDR": "BANDIOLA, JOAN",
+        "ZACCTNUM": "3179485299",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09088422",
+        "ZCARDHLDR": "PILAPIL, SHIELA OSIAS",
+        "ZACCTNUM": "2979071984",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "08660769",
+        "ZCARDHLDR": "DAOANIS, RACY ESTINO",
+        "ZACCTNUM": "4599116724",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "08775606",
+        "ZCARDHLDR": "ANTONIO, RUBY JILL MACARAIG",
+        "ZACCTNUM": "8460007039",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "08862753",
+        "ZCARDHLDR": "FLORES, JEREMIAH MANANSALA",
+        "ZACCTNUM": "8109804569",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "08856792",
+        "ZCARDHLDR": "CONCEPCION, JENNIFER KRISTINE SASANA",
+        "ZACCTNUM": "0689068812",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "08911178",
+        "ZCARDHLDR": "GATCHALIAN, ROSENDA BALAURO",
+        "ZACCTNUM": "2689076311",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "08920611",
+        "ZCARDHLDR": "LEYCO, KENNETH REMORIN",
+        "ZACCTNUM": "0569167809",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "08944694",
+        "ZCARDHLDR": "RENALES, SHERWIN SAMSON",
+        "ZACCTNUM": "0463891036",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "08947039",
+        "ZCARDHLDR": "QUANICO, GIL GRAJALES",
+        "ZACCTNUM": "3029287022",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "08951553",
+        "ZCARDHLDR": "ROXAS, ROXSEL SELIN",
+        "ZACCTNUM": "9669191992",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "08955835",
+        "ZCARDHLDR": "HERMOSURA, JAEGER JERMAINE JORDAN",
+        "ZACCTNUM": "4619162418",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "08977575",
+        "ZCARDHLDR": "BANO, SHEENA MARIE COMPLETO",
+        "ZACCTNUM": "1359054536",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "08980484",
+        "ZCARDHLDR": "BARBASO, LEAH VELASCO",
+        "ZACCTNUM": "9059040968",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "08977289",
+        "ZCARDHLDR": "BAJARO, JERYL SAGUID",
+        "ZACCTNUM": "0879378524",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "08995587",
+        "ZCARDHLDR": "MALAGKIT, ANNAH RENIELYN RUBIO",
+        "ZACCTNUM": "4159260815",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09005431",
+        "ZCARDHLDR": "NAPAO, BERNADITH ARCALES",
+        "ZACCTNUM": "1879048148",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09014482",
+        "ZCARDHLDR": "EBREO, BEA LUZIA GUEVARRA",
+        "ZACCTNUM": "4339593529",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09023415",
+        "ZCARDHLDR": "ZETA, MAY ANNE ORTEGA",
+        "ZACCTNUM": "3549466027",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09027116",
+        "ZCARDHLDR": "STA. ANA, DAVE HERNANDEZ",
+        "ZACCTNUM": "4219177122",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09031559",
+        "ZCARDHLDR": "SISON, BERNALD IAN PORTO",
+        "ZACCTNUM": "2099160694",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09006151",
+        "ZCARDHLDR": "RAMISCAL, ROMMEL DERIGE",
+        "ZACCTNUM": "1653029175",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09023891",
+        "ZCARDHLDR": "CORRAL, JEFFREY SAMANTILLA",
+        "ZACCTNUM": "3999433935",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09025697",
+        "ZCARDHLDR": "GEBORA, JOCEL MARIE TERUEL",
+        "ZACCTNUM": "3639069256",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09034512",
+        "ZCARDHLDR": "BINADAY, ABRAHAM ARPON",
+        "ZACCTNUM": "4786007072",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09047873",
+        "ZCARDHLDR": "COLOBONG, LOURDES DELOS SANTOS",
+        "ZACCTNUM": "4229159467",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09032494",
+        "ZCARDHLDR": "VALENZONA, FRITZ ANDREA BALANA",
+        "ZACCTNUM": "9399230478",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09038536",
+        "ZCARDHLDR": "ESPELETA, GEMMA MAYA DELA CRUZ",
+        "ZACCTNUM": "1449082644",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09049704",
+        "ZCARDHLDR": "BITANCOR, ANGELLE GIPIT",
+        "ZACCTNUM": "0989427881",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09054035",
+        "ZCARDHLDR": "GORSON, ERIC CABALLES",
+        "ZACCTNUM": "2229271264",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09056234",
+        "ZCARDHLDR": "DURIAN, DOMINIC PALISOC",
+        "ZACCTNUM": "4229076111",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09057517",
+        "ZCARDHLDR": "ORQUIA, ALAN NERONA",
+        "ZACCTNUM": "8589289588",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09059322",
+        "ZCARDHLDR": "HORNADA, DALIA FE PUNO",
+        "ZACCTNUM": "4169395948",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09059663",
+        "ZCARDHLDR": "MOLINA-NEO, FLORELIXIE FRANCISCO",
+        "ZACCTNUM": "2409261526",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09061306",
+        "ZCARDHLDR": "JALANDONI, MARY BEATRICE STO DOMINGO",
+        "ZACCTNUM": "8159165664",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09064234",
+        "ZCARDHLDR": "ADAN, MARY KHRISTINE FAJARDO",
+        "ZACCTNUM": "8869263541",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09064762",
+        "ZCARDHLDR": "SABADO, JENNYLYN OJANO",
+        "ZACCTNUM": "2596260992",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09065689",
+        "ZCARDHLDR": "NIETO, ADRIAN GAPASANGRA",
+        "ZACCTNUM": "0259236762",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09065992",
+        "ZCARDHLDR": "DINEROS, KATHRINA SUBOL",
+        "ZACCTNUM": "0209278847",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09068202",
+        "ZCARDHLDR": "CABRERA, KRIZHEILLE ANNE JOY SALUMBRE",
+        "ZACCTNUM": "8339441309",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09070311",
+        "ZCARDHLDR": "JUNIO, DJANRELLIAN GRIER SALUT",
+        "ZACCTNUM": "4826821894",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09073179",
+        "ZCARDHLDR": "CORPUZ, JULIE ROSE PANGDAO",
+        "ZACCTNUM": "9489260848",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09074317",
+        "ZCARDHLDR": "MANALO, RONNIELYN",
+        "ZACCTNUM": "0069842682",
+        "ZBNKCODE": "BPI",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09016707",
+        "ZCARDHLDR": "FREZ, AINAH APPLE V ",
+        "ZACCTNUM": "007460137550",
+        "ZBNKCODE": "BDO",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09027072",
+        "ZCARDHLDR": "FLORES, LILLIAN L ",
+        "ZACCTNUM": "000790804433",
+        "ZBNKCODE": "BDO",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09021987",
+        "ZCARDHLDR": "TACBAS, GRETCHEN C ",
+        "ZACCTNUM": "005460301786",
+        "ZBNKCODE": "BDO",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09027232",
+        "ZCARDHLDR": "SAPITULA, JEANBEE A ",
+        "ZACCTNUM": "006920160195",
+        "ZBNKCODE": "BDO",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09023442",
+        "ZCARDHLDR": "BAUTISTA, MARK P ",
+        "ZACCTNUM": "004220414188",
+        "ZBNKCODE": "BDO",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09030061",
+        "ZCARDHLDR": "BANGOY, EMIE MARY A ",
+        "ZACCTNUM": "002840417908",
+        "ZBNKCODE": "BDO",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09023531",
+        "ZCARDHLDR": "MANALOTO, JOCELYN L ",
+        "ZACCTNUM": "002840335588",
+        "ZBNKCODE": "BDO",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09024359",
+        "ZCARDHLDR": "SABORNIDO, JARED C ",
+        "ZACCTNUM": "010050066617",
+        "ZBNKCODE": "BDO",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09029404",
+        "ZCARDHLDR": "APARECE, SOCRATIS M ",
+        "ZACCTNUM": "001730374768",
+        "ZBNKCODE": "BDO",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09018138",
+        "ZCARDHLDR": "ROSEL, EDNA MAY R ",
+        "ZACCTNUM": "007750140503",
+        "ZBNKCODE": "BDO",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09018906",
+        "ZCARDHLDR": "CHING, MARICHAR DEVORAH C GO ",
+        "ZACCTNUM": "001570781026",
+        "ZBNKCODE": "BDO",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09012999",
+        "ZCARDHLDR": "GARCINIEGO, HERNANDO L ",
+        "ZACCTNUM": "002970250949",
+        "ZBNKCODE": "BDO",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09010496",
+        "ZCARDHLDR": "LORENZO, DIANNE KC L ",
+        "ZACCTNUM": "007460143984",
+        "ZBNKCODE": "BDO",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09016028",
+        "ZCARDHLDR": "HALOG, ROMEILYN G ",
+        "ZACCTNUM": "008610061944",
+        "ZBNKCODE": "BDO",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09017187",
+        "ZCARDHLDR": "FAELDON, VICTOR C ",
+        "ZACCTNUM": "001760267579",
+        "ZBNKCODE": "BDO",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09019644",
+        "ZCARDHLDR": "ARROYO, MARIA RITALYA A ",
+        "ZACCTNUM": "002840331531",
+        "ZBNKCODE": "BDO",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09014679",
+        "ZCARDHLDR": "SURIA, MARICRIS B ",
+        "ZACCTNUM": "003260101246",
+        "ZBNKCODE": "BDO",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09015504",
+        "ZCARDHLDR": "GEMONY, EMMA D ",
+        "ZACCTNUM": "002440214015",
+        "ZBNKCODE": "BDO",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09015406",
+        "ZCARDHLDR": "UDAY, PRINCES JOHYRRA M ",
+        "ZACCTNUM": "003260145774",
+        "ZBNKCODE": "BDO",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09021127",
+        "ZCARDHLDR": "TAGULAO, TONIE ROSE G ",
+        "ZACCTNUM": "002510153222",
+        "ZBNKCODE": "BDO",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09025365",
+        "ZCARDHLDR": "MASIN, WILMA A ",
+        "ZACCTNUM": "002310472359",
+        "ZBNKCODE": "BDO",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09026254",
+        "ZCARDHLDR": "INSO, ELVIRA D ",
+        "ZACCTNUM": "001850223570",
+        "ZBNKCODE": "BDO",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09028865",
+        "ZCARDHLDR": "OBALLO, TRACY LOVE L ",
+        "ZACCTNUM": "002310895500",
+        "ZBNKCODE": "BDO",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09019528",
+        "ZCARDHLDR": "TAGAPULOT, CLAUDETTE JOAN R ",
+        "ZACCTNUM": "001760321654",
+        "ZBNKCODE": "BDO",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09017909",
+        "ZCARDHLDR": "LIMBACO, KIM MARGAUX Y ",
+        "ZACCTNUM": "000870298313",
+        "ZBNKCODE": "BDO",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09018129",
+        "ZCARDHLDR": "RODAS, KEN S ",
+        "ZACCTNUM": "001760265169",
+        "ZBNKCODE": "BDO",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09016627",
+        "ZCARDHLDR": "JR, ALFREDO G MOSENDE ",
+        "ZACCTNUM": "010200048724",
+        "ZBNKCODE": "BDO",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09022769",
+        "ZCARDHLDR": "ADUL, ANNA DOMINIQUE E ",
+        "ZACCTNUM": "006570158685",
+        "ZBNKCODE": "BDO",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09027949",
+        "ZCARDHLDR": "MENDOZA, JOANNE DONOR M ",
+        "ZACCTNUM": "002360717754",
+        "ZBNKCODE": "BDO",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09029389",
+        "ZCARDHLDR": "LOLA, NEIL PATRICK R ",
+        "ZACCTNUM": "004500649894",
+        "ZBNKCODE": "BDO",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09035798",
+        "ZCARDHLDR": "HAYO, NIZA M ",
+        "ZACCTNUM": "007150146845",
+        "ZBNKCODE": "BDO",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09050639",
+        "ZCARDHLDR": "LACSA, JEROME R ",
+        "ZACCTNUM": "005680220181",
+        "ZBNKCODE": "BDO",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09044838",
+        "ZCARDHLDR": "JOSE, VENUS M ",
+        "ZACCTNUM": "002490719439",
+        "ZBNKCODE": "BDO",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09046385",
+        "ZCARDHLDR": "HAGOSOJOS, CAROLINE P ",
+        "ZACCTNUM": "002140337251",
+        "ZBNKCODE": "BDO",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09046607",
+        "ZCARDHLDR": "ANDALAN, JERRY P ",
+        "ZACCTNUM": "001860389706",
+        "ZBNKCODE": "BDO",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09049689",
+        "ZCARDHLDR": "ESPIRITU, JOSEPH EMMANUEL B ",
+        "ZACCTNUM": "008540022287",
+        "ZBNKCODE": "BDO",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09045791",
+        "ZCARDHLDR": "MARTIN, MARIA PAULENE C ",
+        "ZACCTNUM": "002360733431",
+        "ZBNKCODE": "BDO",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09050236",
+        "ZCARDHLDR": "LARIOSA, IYLEN R ",
+        "ZACCTNUM": "007140131462",
+        "ZBNKCODE": "BDO",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09046591",
+        "ZCARDHLDR": "FRANCISCO, NEIL CARLO A ",
+        "ZACCTNUM": "010330017853",
+        "ZBNKCODE": "BDO",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09052337",
+        "ZCARDHLDR": "ROMERO, LESLIE JOY P ",
+        "ZACCTNUM": "005690148343",
+        "ZBNKCODE": "BDO",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09041301",
+        "ZCARDHLDR": "MORTERA, VANESSA P ",
+        "ZACCTNUM": "001430215885",
+        "ZBNKCODE": "BDO",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09004102",
+        "ZCARDHLDR": "JR, NORBERTO M MALATE ",
+        "ZACCTNUM": "007000543601",
+        "ZBNKCODE": "BDO",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "08847581",
+        "ZCARDHLDR": "SALUDO, AL NIMROD R ",
+        "ZACCTNUM": "006370105847",
+        "ZBNKCODE": "BDO",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "08916705",
+        "ZCARDHLDR": "CRUZ, BERNA B DELA ",
+        "ZACCTNUM": "007700232188",
+        "ZBNKCODE": "BDO",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "08888041",
+        "ZCARDHLDR": "SAGUM, GLENN A ",
+        "ZACCTNUM": "007700279079",
+        "ZBNKCODE": "BDO",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "08911113",
+        "ZCARDHLDR": "MARINO, RAQUEL S ",
+        "ZACCTNUM": "005860781734",
+        "ZBNKCODE": "BDO",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "08842032",
+        "ZCARDHLDR": "SAMULDE, APRIL GRACE G ",
+        "ZACCTNUM": "002340233441",
+        "ZBNKCODE": "BDO",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09012499",
+        "ZCARDHLDR": "ARELLANO, FE T ",
+        "ZACCTNUM": "003670418088",
+        "ZBNKCODE": "BDO",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09010379",
+        "ZCARDHLDR": "RAVANERA, LILIA R ",
+        "ZACCTNUM": "011170055476",
+        "ZBNKCODE": "BDO",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09013019",
+        "ZCARDHLDR": "LACAMBRA, WINNIE C ",
+        "ZACCTNUM": "001521078074",
+        "ZBNKCODE": "BDO",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09019804",
+        "ZCARDHLDR": "GUEVARRA, KATHRINE C ",
+        "ZACCTNUM": "004770248191",
+        "ZBNKCODE": "BDO",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "08998147",
+        "ZCARDHLDR": "BANEZ, MARY KORINA V ",
+        "ZACCTNUM": "007960048883",
+        "ZBNKCODE": "BDO",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09034728",
+        "ZCARDHLDR": "MANITI, ARCHIE G ",
+        "ZACCTNUM": "001290759829",
+        "ZBNKCODE": "BDO",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09043887",
+        "ZCARDHLDR": "ILANO, REGINE C ",
+        "ZACCTNUM": "001570917882",
+        "ZBNKCODE": "BDO",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "08868036",
+        "ZCARDHLDR": "RECAIDO, MA MELLIZA RAYELL B ",
+        "ZACCTNUM": "006340141853",
+        "ZBNKCODE": "BDO",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09031086",
+        "ZCARDHLDR": "ARANO, MARIA CRISTINA P ",
+        "ZACCTNUM": "000240424298",
+        "ZBNKCODE": "BDO",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09028417",
+        "ZCARDHLDR": "QUIDES, ARVIN G ",
+        "ZACCTNUM": "001100289168",
+        "ZBNKCODE": "BDO",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09023273",
+        "ZCARDHLDR": "BRUNO, ALDEN T ",
+        "ZACCTNUM": "004500723385",
+        "ZBNKCODE": "BDO",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09025239",
+        "ZCARDHLDR": "HIPOLITO, FRANCESCA C ",
+        "ZACCTNUM": "001070314615",
+        "ZBNKCODE": "BDO",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09027359",
+        "ZCARDHLDR": "PERALTA, JOHANNA Y ",
+        "ZACCTNUM": "005430238911",
+        "ZBNKCODE": "BDO",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09021314",
+        "ZCARDHLDR": "ARAQUIL, GERALD ",
+        "ZACCTNUM": "006250291627",
+        "ZBNKCODE": "BDO",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09026021",
+        "ZCARDHLDR": "SANTOS, RUTHIE R ",
+        "ZACCTNUM": "004680159041",
+        "ZBNKCODE": "BDO",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09027878",
+        "ZCARDHLDR": "MANALO, MICHELLE JOANA R ",
+        "ZACCTNUM": "001100535428",
+        "ZBNKCODE": "BDO",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09027288",
+        "ZCARDHLDR": "CRUZ, BENJO BERNARD R DELA ",
+        "ZACCTNUM": "001271547943",
+        "ZBNKCODE": "BDO",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09026049",
+        "ZCARDHLDR": "CRUZ, CAMILLE D ",
+        "ZACCTNUM": "012230009210",
+        "ZBNKCODE": "BDO",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09025893",
+        "ZCARDHLDR": "YAM, RAMONCITO P ",
+        "ZACCTNUM": "001430173155",
+        "ZBNKCODE": "BDO",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09024851",
+        "ZCARDHLDR": "ASIS, DAISY E ",
+        "ZACCTNUM": "001510231054",
+        "ZBNKCODE": "BDO",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09030348",
+        "ZCARDHLDR": "GONZALES, ANTHONY D ",
+        "ZACCTNUM": "005250481206",
+        "ZBNKCODE": "BDO",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "08377151",
+        "ZCARDHLDR": "JR, JOSE S LACHICA ",
+        "ZACCTNUM": "006340051587",
+        "ZBNKCODE": "BDO",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "08912512",
+        "ZCARDHLDR": "BUHION, NATHAN D ",
+        "ZACCTNUM": "006960074443",
+        "ZBNKCODE": "BDO",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "08910609",
+        "ZCARDHLDR": "MAGBANUA, RHEA J ",
+        "ZACCTNUM": "005060121152",
+        "ZBNKCODE": "BDO",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "08930032",
+        "ZCARDHLDR": "PATRICIO, HERMAN N ",
+        "ZACCTNUM": "002840353624",
+        "ZBNKCODE": "BDO",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "08991204",
+        "ZCARDHLDR": "VILLANUEVA, MERCY A ",
+        "ZACCTNUM": "000370117697",
+        "ZBNKCODE": "BDO",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "08701423",
+        "ZCARDHLDR": "GALVE, SUSANA H ",
+        "ZACCTNUM": "005990259973",
+        "ZBNKCODE": "BDO",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09028373",
+        "ZCARDHLDR": "NOCOMORA, ARNE JOHN N ",
+        "ZACCTNUM": "005940221697",
+        "ZBNKCODE": "BDO",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09026272",
+        "ZCARDHLDR": "GACUMO, RADEL JAMES E ",
+        "ZACCTNUM": "004830287937",
+        "ZBNKCODE": "BDO",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09026423",
+        "ZCARDHLDR": "RIVERA, MA JENESSA R ",
+        "ZACCTNUM": "001830142923",
+        "ZBNKCODE": "BDO",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09028328",
+        "ZCARDHLDR": "JR, ANECITO L SAMONTE ",
+        "ZACCTNUM": "006850077618",
+        "ZBNKCODE": "BDO",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09028284",
+        "ZCARDHLDR": "VIERNES, EVELYN E ",
+        "ZACCTNUM": "002200457444",
+        "ZBNKCODE": "BDO",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09027921",
+        "ZCARDHLDR": "NORIEGA, MARILYN G ",
+        "ZACCTNUM": "002140274918",
+        "ZBNKCODE": "BDO",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09027205",
+        "ZCARDHLDR": "SOLANO, MARWIN M ",
+        "ZACCTNUM": "004500659733",
+        "ZBNKCODE": "BDO",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09022061",
+        "ZCARDHLDR": "MUNIANDY, MARISOL B ",
+        "ZACCTNUM": "001271334982",
+        "ZBNKCODE": "BDO",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09023461",
+        "ZCARDHLDR": "MUNIANDY, MARISOL B ",
+        "ZACCTNUM": "001271334982",
+        "ZBNKCODE": "BDO",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09023943",
+        "ZCARDHLDR": "SALVADO, ELIJAH DANIEL I ",
+        "ZACCTNUM": "002500584255",
+        "ZBNKCODE": "BDO",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09022938",
+        "ZCARDHLDR": "AVARICIO, MARIE GLENN N ",
+        "ZACCTNUM": "000781314240",
+        "ZBNKCODE": "BDO",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09026147",
+        "ZCARDHLDR": ", ELLANITA F BALTAZAR ",
+        "ZACCTNUM": "010090012356",
+        "ZBNKCODE": "BDO",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09025679",
+        "ZCARDHLDR": "POSTRADO, MARIFE B ",
+        "ZACCTNUM": "010400062968",
+        "ZBNKCODE": "BDO",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09026629",
+        "ZCARDHLDR": "ANISOR, GENILYN B ",
+        "ZACCTNUM": "002060673417",
+        "ZBNKCODE": "BDO",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09021628",
+        "ZCARDHLDR": "AMARILLO, ALEXIS NICOLE T ",
+        "ZACCTNUM": "006830068893",
+        "ZBNKCODE": "BDO",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09021673",
+        "ZCARDHLDR": "LLAMZON, HERNAN C ",
+        "ZACCTNUM": "005440211250",
+        "ZBNKCODE": "BDO",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09025857",
+        "ZCARDHLDR": "FEGALAN, MARRY JANE D ",
+        "ZACCTNUM": "000661155153",
+        "ZBNKCODE": "BDO",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09024313",
+        "ZCARDHLDR": "BACDAYAN, JANELITA E ",
+        "ZACCTNUM": "002060670531",
+        "ZBNKCODE": "BDO",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09024206",
+        "ZCARDHLDR": "CRUZ, FRANS ROQUE S DELA ",
+        "ZACCTNUM": "005100331004",
+        "ZBNKCODE": "BDO",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09021421",
+        "ZCARDHLDR": "COFINO, FRITZ A ",
+        "ZACCTNUM": "000460318810",
+        "ZBNKCODE": "BDO",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09026924",
+        "ZCARDHLDR": "CALVELO, MARY CYREEN T ",
+        "ZACCTNUM": "000410478628",
+        "ZBNKCODE": "BDO",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09025552",
+        "ZCARDHLDR": "MAGGAY, MARK ANTHONY C ",
+        "ZACCTNUM": "012160019123",
+        "ZBNKCODE": "BDO",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09024501",
+        "ZCARDHLDR": "RIVERA, ALIANA O ",
+        "ZACCTNUM": "001820783802",
+        "ZBNKCODE": "BDO",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09023371",
+        "ZCARDHLDR": "LORENZO, MORRIS JAMES R ",
+        "ZACCTNUM": "006790277438",
+        "ZBNKCODE": "BDO",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09023541",
+        "ZCARDHLDR": "LLARENAS, TERESA C ",
+        "ZACCTNUM": "001670166234",
+        "ZBNKCODE": "BDO",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09027279",
+        "ZCARDHLDR": "PAGALILAWAN, LEGYLIN VIE V ",
+        "ZACCTNUM": "005540222904",
+        "ZBNKCODE": "BDO",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09027321",
+        "ZCARDHLDR": "TORRES, KRISTINA EUREKA B ",
+        "ZACCTNUM": "006860068344",
+        "ZBNKCODE": "BDO",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09026263",
+        "ZCARDHLDR": "MANUEL, JED MAYNARD J ",
+        "ZACCTNUM": "001570263742",
+        "ZBNKCODE": "BDO",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09024743",
+        "ZCARDHLDR": "PUNZALAN, KRISTIAN ANTEOLIN D ",
+        "ZACCTNUM": "001560353234",
+        "ZBNKCODE": "BDO",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09025098",
+        "ZCARDHLDR": "BARROS, RANDOLPH O ",
+        "ZACCTNUM": "005440193163",
+        "ZBNKCODE": "BDO",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09022268",
+        "ZCARDHLDR": "NEYRA, KARYL V ",
+        "ZACCTNUM": "007030064248",
+        "ZBNKCODE": "BDO",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09020891",
+        "ZCARDHLDR": "MACASPAC, IRISH S ",
+        "ZACCTNUM": "000430299281",
+        "ZBNKCODE": "BDO",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09019896",
+        "ZCARDHLDR": "TARDECILLA, JERRY D ",
+        "ZACCTNUM": "001270949045",
+        "ZBNKCODE": "BDO",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09016805",
+        "ZCARDHLDR": "AGUSTIN, MAXI ADRIAN S SAN ",
+        "ZACCTNUM": "000460204602",
+        "ZBNKCODE": "BDO",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09025829",
+        "ZCARDHLDR": "WEBB, KENNETH M ",
+        "ZACCTNUM": "000210468599",
+        "ZBNKCODE": "BDO",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09024233",
+        "ZCARDHLDR": "GATELA,  VIRGINIA S ",
+        "ZACCTNUM": "000330600338",
+        "ZBNKCODE": "BDO",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09027519",
+        "ZCARDHLDR": "SEVILLENA,  CATHERINE A ",
+        "ZACCTNUM": "004830415471",
+        "ZBNKCODE": "BDO",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09021511",
+        "ZCARDHLDR": "GATDULA, JOEDEL R ",
+        "ZACCTNUM": "007520203724",
+        "ZBNKCODE": "BDO",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09023381",
+        "ZCARDHLDR": "ALCONGA, JHOANNA KATE V ",
+        "ZACCTNUM": "007040062566",
+        "ZBNKCODE": "BDO",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09023498",
+        "ZCARDHLDR": "ALCONGA, JHOANNA KATE V ",
+        "ZACCTNUM": "007040062566",
+        "ZBNKCODE": "BDO",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09025104",
+        "ZCARDHLDR": "BASA, DIANNE J ",
+        "ZACCTNUM": "006510023414",
+        "ZBNKCODE": "BDO",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09030482",
+        "ZCARDHLDR": "MUDAG, MYLENE T ",
+        "ZACCTNUM": "004010150532",
+        "ZBNKCODE": "BDO",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09030544",
+        "ZCARDHLDR": "MUDAG, MYLENE T ",
+        "ZACCTNUM": "004010150532",
+        "ZBNKCODE": "BDO",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09021261",
+        "ZCARDHLDR": "GAYONDATO, LUIS O ",
+        "ZACCTNUM": "002720122552",
+        "ZBNKCODE": "BDO",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09022384",
+        "ZCARDHLDR": "AGCAOILI, CASSANDRA S ",
+        "ZACCTNUM": "007920007124",
+        "ZBNKCODE": "BDO",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09025848",
+        "ZCARDHLDR": "ANDRIN, LEO A ",
+        "ZACCTNUM": "006790076068",
+        "ZBNKCODE": "BDO",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09026479",
+        "ZCARDHLDR": "COSCA, CHRISTIAN NOEL T ",
+        "ZACCTNUM": "008750020272",
+        "ZBNKCODE": "BDO",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09019751",
+        "ZCARDHLDR": "ESTERA, MARMI LYNNE P ",
+        "ZACCTNUM": "001500276519",
+        "ZBNKCODE": "BDO",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "08605808",
+        "ZCARDHLDR": "TALAGTAG, GIRLIE G ",
+        "ZACCTNUM": "006550163586",
+        "ZBNKCODE": "BDO",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "08927357",
+        "ZCARDHLDR": "DEONDO, ELENIE B ",
+        "ZACCTNUM": "011220025389",
+        "ZBNKCODE": "BDO",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "08383382",
+        "ZCARDHLDR": "JR, ALEJANDRO B BURGOS ",
+        "ZACCTNUM": "012260008506",
+        "ZBNKCODE": "BDO",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "08757031",
+        "ZCARDHLDR": "MADLANGBAYAN, RUBY P ",
+        "ZACCTNUM": "002200372546",
+        "ZBNKCODE": "BDO",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "08432842",
+        "ZCARDHLDR": "PALADO, MARIE JO S ",
+        "ZACCTNUM": "000681092114",
+        "ZBNKCODE": "BDO",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "08958576",
+        "ZCARDHLDR": "VISTA, MARY ANN A ",
+        "ZACCTNUM": "002370837531",
+        "ZBNKCODE": "BDO",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "08886763",
+        "ZCARDHLDR": "SILVA, DENNIS A ",
+        "ZACCTNUM": "005630163826",
+        "ZBNKCODE": "BDO",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "07195251",
+        "ZCARDHLDR": "VELICARIA, GEMMA B ",
+        "ZACCTNUM": "004000156759",
+        "ZBNKCODE": "BDO",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "08864049",
+        "ZCARDHLDR": "TUREN, ASHLEY KRISTINE A ",
+        "ZACCTNUM": "000161059147",
+        "ZBNKCODE": "BDO",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "08870655",
+        "ZCARDHLDR": "ERAZO, CHRISTINE JOY R ",
+        "ZACCTNUM": "007830023708",
+        "ZBNKCODE": "BDO",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "08986286",
+        "ZCARDHLDR": "TAGARINO, MARIA NERISA P ",
+        "ZACCTNUM": "005100321645",
+        "ZBNKCODE": "BDO",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "08929529",
+        "ZCARDHLDR": "DECHAVEZ, THYRA IVY J ",
+        "ZACCTNUM": "008010232608",
+        "ZBNKCODE": "BDO",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09002217",
+        "ZCARDHLDR": "GANDEZA, ROSSINNI F ",
+        "ZACCTNUM": "004430345514",
+        "ZBNKCODE": "BDO",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "07839777",
+        "ZCARDHLDR": "MATEO, HEIDI T ",
+        "ZACCTNUM": "002320360456",
+        "ZBNKCODE": "BDO",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "07735604",
+        "ZCARDHLDR": "CUARTERO, JEFFREY L ",
+        "ZACCTNUM": "004420375518",
+        "ZBNKCODE": "BDO",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "08281508",
+        "ZCARDHLDR": "LAZO, MARIAN KRISTINE R ",
+        "ZACCTNUM": "001300047710",
+        "ZBNKCODE": "BDO",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "08932367",
+        "ZCARDHLDR": "EVANGELISTA, ROLANDO G ",
+        "ZACCTNUM": "008010225156",
+        "ZBNKCODE": "BDO",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "08922669",
+        "ZCARDHLDR": "PENA, TEZA LORAINE E DELA ",
+        "ZACCTNUM": "004698016414",
+        "ZBNKCODE": "BDO",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "08719543",
+        "ZCARDHLDR": "FERNANDO, ARNOLD CHRISTOPHER M ",
+        "ZACCTNUM": "007620127213",
+        "ZBNKCODE": "BDO",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "08904352",
+        "ZCARDHLDR": "AYONAYON, RIAN MICHAEL S ",
+        "ZACCTNUM": "000630491275",
+        "ZBNKCODE": "BDO",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "08904254",
+        "ZCARDHLDR": "AYONAYON, RIAN MICHAEL S ",
+        "ZACCTNUM": "000630491275",
+        "ZBNKCODE": "BDO",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "08936694",
+        "ZCARDHLDR": "SANTOS, JE ALDRICH C SANTOS OR AMY JEAN C ",
+        "ZACCTNUM": "012330003613",
+        "ZBNKCODE": "BDO",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "08801474",
+        "ZCARDHLDR": "AGUSTIN, SHARMAINE I ",
+        "ZACCTNUM": "002390292859",
+        "ZBNKCODE": "BDO",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "08773999",
+        "ZCARDHLDR": "GALLARDO, ARVIN P ",
+        "ZACCTNUM": "004860562227",
+        "ZBNKCODE": "BDO",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "07869944",
+        "ZCARDHLDR": "EVANGELISTA, EMMARIE M ",
+        "ZACCTNUM": "008130115439",
+        "ZBNKCODE": "BDO",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "08904441",
+        "ZCARDHLDR": "ASUNCION, DONATO C ",
+        "ZACCTNUM": "006260080912",
+        "ZBNKCODE": "BDO",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "08111512",
+        "ZCARDHLDR": "MORALES, JAYMAR H ",
+        "ZACCTNUM": "003260183579",
+        "ZBNKCODE": "BDO",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "08050109",
+        "ZCARDHLDR": "ESTADILLA, RUBY ANN C ",
+        "ZACCTNUM": "000570232465",
+        "ZBNKCODE": "BDO",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "08715234",
+        "ZCARDHLDR": "CASTRO, SHERYLL O DE ",
+        "ZACCTNUM": "007020131651",
+        "ZBNKCODE": "BDO",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "08868091",
+        "ZCARDHLDR": "OBICO, LHARCY G ",
+        "ZACCTNUM": "001930377779",
+        "ZBNKCODE": "BDO",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09021038",
+        "ZCARDHLDR": "PALIGAT, MARICHO N ",
+        "ZACCTNUM": "000430299583",
+        "ZBNKCODE": "BDO",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "06685414",
+        "ZCARDHLDR": "MARCELO, REYMAR D ",
+        "ZACCTNUM": "006280517348",
+        "ZBNKCODE": "BDO",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "08567623",
+        "ZCARDHLDR": "QUILENDERINO, JEREMIAH R ",
+        "ZACCTNUM": "000681406402",
+        "ZBNKCODE": "BDO",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "07015969",
+        "ZCARDHLDR": "DAEL, JOSEFINA P ",
+        "ZACCTNUM": "004630048165",
+        "ZBNKCODE": "BDO",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "08854234",
+        "ZCARDHLDR": "CANILLAS, MARY MAY J ",
+        "ZACCTNUM": "001760286654",
+        "ZBNKCODE": "BDO",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "04532245",
+        "ZCARDHLDR": "SANTACERA, FRAULEIN ROSARIO B ",
+        "ZACCTNUM": "000780623894",
+        "ZBNKCODE": "BDO",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "07889519",
+        "ZCARDHLDR": "TOLENTINO, ARA MARIEL D ",
+        "ZACCTNUM": "000090284135",
+        "ZBNKCODE": "BDO",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "08950038",
+        "ZCARDHLDR": "PONSECA, JEANILYN L ",
+        "ZACCTNUM": "006330132037",
+        "ZBNKCODE": "BDO",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "05960001",
+        "ZCARDHLDR": "MAGBOO, ADRIAN JOSEPH R ",
+        "ZACCTNUM": "005910404343",
+        "ZBNKCODE": "BDO",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "06798879",
+        "ZCARDHLDR": "REBANCOS, MA JESSICA V ",
+        "ZACCTNUM": "006250240712",
+        "ZBNKCODE": "BDO",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "05041728",
+        "ZCARDHLDR": "TAGARINO, MARIA NERISA P ",
+        "ZACCTNUM": "005100321645",
+        "ZBNKCODE": "BDO",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "06411203",
+        "ZCARDHLDR": "PADILLA, CHARMAINE ALPHA D ",
+        "ZACCTNUM": "008230037103",
+        "ZBNKCODE": "BDO",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "06051848",
+        "ZCARDHLDR": "CATUDIO, LUCIA G ",
+        "ZACCTNUM": "004370964248",
+        "ZBNKCODE": "BDO",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "08074577",
+        "ZCARDHLDR": "NAMUEANGRUK, IRENE C ",
+        "ZACCTNUM": "010150089163",
+        "ZBNKCODE": "BDO",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "06579064",
+        "ZCARDHLDR": "SORIANO-CLARAVALL, KATLEYA LOISE D ",
+        "ZACCTNUM": "002140354105",
+        "ZBNKCODE": "BDO",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "07194021",
+        "ZCARDHLDR": "SAMOLDE, RODEL P ",
+        "ZACCTNUM": "010360061524",
+        "ZBNKCODE": "BDO",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "07369606",
+        "ZCARDHLDR": "RELANO, RHEA A ",
+        "ZACCTNUM": "010650069439",
+        "ZBNKCODE": "BDO",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "06420827",
+        "ZCARDHLDR": "LAGAZO, ROSALINA M ",
+        "ZACCTNUM": "004830094403",
+        "ZBNKCODE": "BDO",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09032289",
+        "ZCARDHLDR": "ZAPANTA, EVELYN B. ",
+        "ZACCTNUM": "006360178337",
+        "ZBNKCODE": "BDO",
+        "ZSTATAPP": "DECLINED"
+    },
+    {
+        "CHDRNUM": "09020523",
+        "ZCARDHLDR": "BUNAC, MICHELLE ",
+        "ZACCTNUM": "003230211760",
+        "ZBNKCODE": "BDO",
+        "ZSTATAPP": "DECLINED"
+    },
+    {
+        "CHDRNUM": "09023264",
+        "ZCARDHLDR": "BOLANOS, CAROL ",
+        "ZACCTNUM": "006630110454",
+        "ZBNKCODE": "BDO",
+        "ZSTATAPP": "DECLINED"
+    },
+    {
+        "CHDRNUM": "09021216",
+        "ZCARDHLDR": "MANIPOL, RENATO  ",
+        "ZACCTNUM": "005440146483",
+        "ZBNKCODE": "BDO",
+        "ZSTATAPP": "DECLINED"
+    },
+    {
+        "CHDRNUM": "08567491",
+        "ZCARDHLDR": "III, FELOMINO B CONSTANTINO ",
+        "ZACCTNUM": "000008567491",
+        "ZBNKCODE": "BDO",
+        "ZSTATAPP": "DECLINED"
+    },
+    {
+        "CHDRNUM": "07057991",
+        "ZCARDHLDR": "TINAZA, NYLOFAR T ",
+        "ZACCTNUM": "002200287026",
+        "ZBNKCODE": "BDO",
+        "ZSTATAPP": "DECLINED"
+    },
+    {
+        "CHDRNUM": "08913751",
+        "ZCARDHLDR": "LAMPITOC, JOEL D ",
+        "ZACCTNUM": "000960305645",
+        "ZBNKCODE": "BDO",
+        "ZSTATAPP": "DECLINED"
+    },
+    {
+        "CHDRNUM": "09021584",
+        "ZCARDHLDR": "YABUT, CECILIA D ",
+        "ZACCTNUM": "004520298272",
+        "ZBNKCODE": "BDO",
+        "ZSTATAPP": "DECLINED"
+    },
+    {
+        "CHDRNUM": "09026933",
+        "ZCARDHLDR": "JALANDONI, MARIVIC U ",
+        "ZACCTNUM": "007750044024",
+        "ZBNKCODE": "BDO",
+        "ZSTATAPP": "DECLINED"
+    },
+    {
+        "CHDRNUM": "09028598",
+        "ZCARDHLDR": "CALUYO, STEPHEN I ",
+        "ZACCTNUM": "006120334571",
+        "ZBNKCODE": "BDO",
+        "ZSTATAPP": "DECLINED"
+    },
+    {
+        "CHDRNUM": "08902789",
+        "ZCARDHLDR": "TRILLANES, HELENA F ",
+        "ZACCTNUM": "007700273879",
+        "ZBNKCODE": "BDO",
+        "ZSTATAPP": "DECLINED"
+    },
+    {
+        "CHDRNUM": "09043429",
+        "ZCARDHLDR": "NILO, ANGELO A ",
+        "ZACCTNUM": "005280134970",
+        "ZBNKCODE": "BDO",
+        "ZSTATAPP": "DECLINED"
+    },
+    {
+        "CHDRNUM": "09024903",
+        "ZCARDHLDR": "BAUTISTA, ANALYN G ",
+        "ZACCTNUM": "002700337502",
+        "ZBNKCODE": "BDO",
+        "ZSTATAPP": "DECLINED"
+    },
+    {
+        "CHDRNUM": "08171171",
+        "ZCARDHLDR": "MENDOZA, RHAYDA A. ",
+        "ZACCTNUM": "000084018769",
+        "ZBNKCODE": "BDO",
+        "ZSTATAPP": "DECLINED"
+    },
+    {
+        "CHDRNUM": "09021922",
+        "ZCARDHLDR": "ARCENAS, MARY JOY K. ",
+        "ZACCTNUM": "000715019259",
+        "ZBNKCODE": "BDO",
+        "ZSTATAPP": "DECLINED"
+    },
+    {
+        "CHDRNUM": "08839491",
+        "ZCARDHLDR": "WABAN, MARJORIE P. ",
+        "ZACCTNUM": "000569896207",
+        "ZBNKCODE": "BDO",
+        "ZSTATAPP": "DECLINED"
+    },
+    {
+        "CHDRNUM": "08868303",
+        "ZCARDHLDR": "LAZARO, WINNIEFREDO CASTRO",
+        "ZACCTNUM": "2643264891575",
+        "ZBNKCODE": "METB",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "08874599",
+        "ZCARDHLDR": "MANERE, ILDEN DIONEDA",
+        "ZACCTNUM": "6473647147357",
+        "ZBNKCODE": "METB",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "08992292",
+        "ZCARDHLDR": "DELA CRUZ, FRANCIS VILLANUEVA",
+        "ZACCTNUM": "0663801642218",
+        "ZBNKCODE": "METB",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09020004",
+        "ZCARDHLDR": "MADAYAG, SUNSHINE YUSON",
+        "ZACCTNUM": "1813181546566",
+        "ZBNKCODE": "METB",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09039739",
+        "ZCARDHLDR": "ENRIQUEZ, MARIA ERICA ESCABAL",
+        "ZACCTNUM": "6343634424114",
+        "ZBNKCODE": "METB",
+        "ZSTATAPP": "APPROVED"
+    },
+    {
+        "CHDRNUM": "09054447",
+        "ZCARDHLDR": "BURLADO, ELIBETH AYCO",
+        "ZACCTNUM": "0313031198519",
+        "ZBNKCODE": "METB",
+        "ZSTATAPP": "APPROVED"
+    }
 ]
