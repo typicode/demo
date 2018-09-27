@@ -10,5 +10,16 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "getJam" : [
+    {
+      "nama" : "Hafidz Zakky Darmawan",
+      "status" : "Hadir",
+      "email" : "hafidzzakkyd@gmail.com",
+      "npp" : 821079,
+      "img" : "../../assets/imgs/pp.jpg",
+      "waktuServer" : "Thu Sep 27 2018 09:36:07 GMT+0700 (Indochina Time)",
+      "notifBadge" : 10
+    }
+  ]
 }
