@@ -1,14 +1,267 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
+  "customerProducts": {
+    "pensionProduct": [
+      {
+        "pensionProductGeneralDetails": {
+          "productCode": 8746,
+          "productDesc": "קרן פנסיה מבטחים החדשה",
+          "insuranceStartDate": "2001-02-23",
+          "memberStatus": "לא פעיל",
+          "memberId": "029569282",
+          "RetiredAge": "64",
+          "productEmployers": {
+            "productEmployerDetails": [
+              {
+                "internalEmpNumber": "000035106",
+                "empName": "אופיסופט בע\"מ",
+                "agentsRef": {
+                  "agentRef": [
+                    {
+                      "agentNumber": "605602",
+                      "agentType": "Member"
+                    }
+                  ]
+                },
+                "memberStatus": "שכיר",
+                "memberStateCodeDesc": "SalariedWorker",
+                "memberType": "לא פעיל"
+              },
+              {
+                "internalEmpNumber": "000035737",
+                "empName": "מנורה חברה לבטוח בע\"מ",
+                "agentsRef": {
+                  "agentRef": [
+                    {
+                      "agentNumber": "5120",
+                      "agentType": "Member"
+                    }
+                  ]
+                },
+                "memberStatus": "שכיר",
+                "memberStateCodeDesc": "SalariedWorker",
+                "memberType": "לא פעיל"
+              },
+              {
+                "internalEmpNumber": "000003188",
+                "empName": "אפקון התקנות ושירותים בע\"מ",
+                "memberStatus": "שכיר",
+                "memberStateCodeDesc": "SalariedWorker",
+                "memberType": "לא פעיל"
+              }
+            ]
+          },
+          "IrsNumber": "168",
+          "dataCorrectnessDate": "2016-08-31"
+        }
+      },
+      {
+        "pensionProductGeneralDetails": {
+          "productCode": 8749,
+          "productDesc": "קרן פנסיה מבטחים החדשה פלוס",
+          "insuranceStartDate": "2013-03-03",
+          "memberStatus": "לא פעיל",
+          "memberId": "029569282",
+          "productEmployers": {
+            "productEmployerDetails": [
+              {
+                "internalEmpNumber": "000035737",
+                "empName": "מנורה חברה לבטוח בע\"מ",
+                "agentsRef": {
+                  "agentRef": [
+                    {
+                      "agentNumber": "5120",
+                      "agentType": "Member"
+                    }
+                  ]
+                },
+                "memberStatus": "שכיר",
+                "memberStateCodeDesc": "SalariedWorker",
+                "memberType": "לא פעיל"
+              }
+            ]
+          },
+          "IrsNumber": "665",
+          "dataCorrectnessDate": "2016-08-31"
+        }
+      }
+    ]
+  },
+  "parties": {
+    "party": [
+      {
+        "person": {
+          "businessLine": "Pension",
+          "partyId": "029569282",
+          "partyIdType": "Id",
+          "firstName": "זהבית",
+          "lastName": "גולדמרק",
+          "gender": "female",
+          "birthDate": "1972-12-06",
+          "age": 43.74,
+          "maritalStatus": "Married",
+          "maritalStatusDesc": "נשוי/ה",
+          "addresses": {
+            "address": [
+              {
+                "addressType": "home",
+                "city": "פתח תקווה",
+                "cityCode": "7900",
+                "street": "רפאלי שרגא",
+                "houseNumber": "20",
+                "zipCode": "4906422",
+                "zipCode5": "49064"
+              },
+              {
+                "addressType": "personalEmail",
+                "emailAddress": "ZEHAVITG@GMAIL.COM"
+              }
+            ]
+          },
+          "phones": {
+            "phone": [
+              {
+                "phoneType": "home",
+                "number": "054-5392503"
+              },
+              {
+                "phoneType": "cellular",
+                "number": "054-7107374"
+              }
+            ]
+          }
+        },
+        "dataCorrectnessDate": "2016-08-31"
+      },
+      {
+        "company": {
+          "internalEmpNumber": "000035106",
+          "businessLine": "Pension",
+          "empName": "אופיסופט בע\"מ",
+          "addresses": {
+            "address": [
+              {
+                "addressType": "work",
+                "city": "תל אביב - יפו",
+                "street": "הברזל",
+                "houseNumber": "34",
+                "zipCode": "69710"
+              }
+            ]
+          },
+          "phones": {
+            "phone": [
+              {
+                "phoneType": "work",
+                "number": "036440060"
+              }
+            ]
+          }
+        },
+        "dataCorrectnessDate": "2016-08-31"
+      },
+      {
+        "agent": {
+          "agentNumber": "605602",
+          "businessLine": "Pension",
+          "agentName": "אבוטבול שמוליק",
+          "addresses": {
+            "address": [
+              {
+                "addressType": "work",
+                "city": "בני ברק",
+                "street": "144 .ת.ד"
+              }
+            ]
+          },
+          "phones": {
+            "phone": [
+              {
+                "phoneType": "work",
+                "number": "54 8121248"
+              }
+            ]
+          }
+        },
+        "dataCorrectnessDate": "2017-09-04"
+      },
+      {
+        "company": {
+          "internalEmpNumber": "000035737",
+          "businessLine": "Pension",
+          "empName": "מנורה חברה לבטוח בע\"מ",
+          "addresses": {
+            "address": [
+              {
+                "addressType": "work",
+                "city": "תל אביב - יפו",
+                "street": "אלנבי",
+                "houseNumber": "115"
+              }
+            ]
+          },
+          "phones": {
+            "phone": [
+              {
+                "phoneType": "work",
+                "number": "037107777"
+              }
+            ]
+          }
+        },
+        "dataCorrectnessDate": "2016-08-31"
+      },
+      {
+        "agent": {
+          "agentNumber": "5120",
+          "businessLine": "Pension",
+          "agentName": "אורות סוכנות לביטוח",
+          "addresses": {
+            "address": [
+              {
+                "addressType": "work",
+                "city": "רמת גן",
+                "street": "1960 זבוטניסקי 7 ת.ד"
+              }
+            ]
+          },
+          "phones": {
+            "phone": [
+              {
+                "phoneType": "work",
+                "number": "03 6334010"
+              }
+            ]
+          }
+        },
+        "dataCorrectnessDate": "2017-09-04"
+      },
+      {
+        "company": {
+          "internalEmpNumber": "000003188",
+          "businessLine": "Pension",
+          "empName": "אפקון התקנות ושירותים בע\"מ",
+          "addresses": {
+            "address": [
+              {
+                "addressType": "work",
+                "city": "פתח תקווה",
+                "street": "סימטת התבור",
+                "houseNumber": "4",
+                "zipCode": "49146"
+              }
+            ]
+          },
+          "phones": {
+            "phone": [
+              {
+                "phoneType": "work",
+                "number": "039392333"
+              }
+            ]
+          }
+        },
+        "dataCorrectnessDate": "2016-08-31"
+      }
+    ]
   }
 }
