@@ -1,14 +1,109 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
+   "profile": [
+  {
+    "id": 0,
+    "name": "Jayde Cartwright",
+    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/michigangraham/128.jpg"
+  },
+  {
+    "id": 1,
+    "name": "Dominique Walker",
+    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/coderdiaz/128.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Daphne Kulas",
+    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/kevinjohndayy/128.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Justine Klocko",
+    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/uxalex/128.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Rosamond Farrell",
+    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/kevka/128.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Clotilde Steuber IV",
+    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/vovkasolovev/128.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Liliane Nitzsche",
+    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/allthingssmitty/128.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Nathaniel Krajcik",
+    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/gizmeedevil1991/128.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Constantin Ziemann",
+    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/hasslunsford/128.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Tiffany Raynor",
+    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/codysanfilippo/128.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Teagan Olson",
+    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/vocino/128.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Reinhold Feest",
+    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/anthonysukow/128.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Jaeden Bahringer",
+    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/vinciarts/128.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Tamara Bernier",
+    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/stefanotirloni/128.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Felipa Hoppe",
+    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/findingjenny/128.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Aidan Huel Jr.",
+    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/omnizya/128.jpg"
+  },
+  {
+    "id": 16,
+    "name": "Jeremie Corwin",
+    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/runningskull/128.jpg"
+  },
+  {
+    "id": 17,
+    "name": "Jesus Gutmann",
+    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/matkins/128.jpg"
+  },
+  {
+    "id": 18,
+    "name": "Gus Labadie",
+    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/francis_vega/128.jpg"
+  },
+  {
+    "id": 19,
+    "name": "Cordelia Bernhard",
+    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/salvafc/128.jpg"
+  },
+  {
+    "id": 20,
+    "name": "Hailee Reichert",
+    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/d_nny_m_cher/128.jpg"
   }
+  ]
 }
