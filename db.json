@@ -1,14 +1,32 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+    "productList":[
+        {
+            "id":"0",
+            "imageUrl":"https://www.91-img.com/pictures/127628-v3-samsung-galaxy-a9-star-mobile-phone-large-1.jpg",
+            "prodTitle":"Samsung Galaxy A9",
+            "prodDescription":"Samsung Galaxy A9 is the best cell phone for this cell price category.",
+            "prodPrice":"100.00"
+        },
+        {
+            "id":"1",
+            "imageUrl":"https://www.att.com/catalog/en/skus/images/alcatel-tetra-stealth%20black-450x350.png",
+            "prodTitle":"Alcatec Tetra",
+            "prodDescription":"Alcatel Tetra is the most rentability cell phone according to price and quality.",
+            "prodPrice":"200.00"
+        },
+        {
+            "id":"2",
+            "imageUrl":"https://d2pa5gi5n2e1an.cloudfront.net/global/images/product/mobilephones/Nokia_Lumia_625/Nokia_Lumia_625_L_1.jpg",
+            "prodTitle":"Nokia Lumia",
+            "prodDescription":"Nokia Lumia is the most fastest cell phone in the class",
+            "prodPrice":"322.00"
+        },
+        {
+            "id":"3",
+            "imageUrl":"https://static.toiimg.com/thumb/msid-54059580,width-220,resizemode-4/Sony-Xperia-Z5.jpg",
+            "prodTitle":"Sony Experia Z5",
+            "prodDescription":"Sony Experia Z5 is the most quality cell phone in class-category criterium.",
+            "prodPrice":"400.00"
+        }
+    ]
 }
