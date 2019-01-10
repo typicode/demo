@@ -1,14 +1,34 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+   "HeaderResponse":    {
+      "timestamp": "2019-01-09 10:00:37.592301",
+      "status":       {
+         "responseType": 0,
+         "busResponseCode": 0,
+         "busResponseMessage": "EJECUCION CON EXITO",
+         "messageIdRes": "4854545000000000020000005e27213389ac000000000000"
+      }
+   },
+   "Body": {"RetrieveCustomerReferenceDataResponse":    {
+      "customerReferenceDataDirectoryEntryReference": "467",
+      "referenceDirectoryEntryReference": "467",
+      "customerNameSalutation": null,
+      "governmentIssuedIdentityReference": "ASPERSUD",
+      "governmentIssuedDocumentDetails": "CEDULA",
+      "residencyStatus": null,
+      "dateOfBirth": "25-12-1971",
+      "nationality": "PERUANA",
+      "residentialAddress": "CL. VISTA ALEGRE 730   DPTO 504 URB. VILLA ALEGRE ",
+      "emailAddress": null,
+      "cellPhoneNumber": "997514713",
+      "socialNetworkContacts": null,
+      "politicalExposureType": null,
+      "politicalExposureRecord": null,
+      "corporateCustomerReference": null,
+      "corporateCustomerLegalEntityReference": null,
+      "corporateAddress": null,
+      "companyOfficerRole": "DEPENDIENTE",
+      "companyOfficerReference": "ACTIV.ORGANIZACIONES RELIGIOSA",
+      "customerSinceDate": "19-08-1997",
+      "customerReferenceRecord": null
+   }}
 }
