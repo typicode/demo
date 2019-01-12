@@ -1,14 +1,44 @@
 {
   "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+    { 
+      "id": 1,
+      "title": "First Post",
+      "featured_image": "",
+      "type": "post",
+      "comments": 5,
+      "content": "Hello How are you.",
+    },
+    { 
+      "id": 2,
+      "title": "Second Post",
+      "featured_image": "",
+      "type": "post",
+      "comments": 3,
+      "content": "Hello How are you.",
+    },
+    { 
+      "id": 3,
+      "title": "Third Post",
+      "featured_image": "",
+      "type": "post",
+      "comments": 7,
+      "content": "Hello How are you.",
+    },
+    { 
+      "id": 4,
+      "title": "Fourth Post",
+      "featured_image": "",
+      "type": "post",
+      "comments": 16,
+      "content": "Hello How are you.",
+    },
+    { 
+      "id": 5,
+      "title": "Fifth Post",
+      "featured_image": "",
+      "type": "post",
+      "comments": 1,
+      "content": "Hello How are you.",
+    }
+  ]
 }
