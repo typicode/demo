@@ -8,7 +8,14 @@
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
-  "profile": {
-    "name": "typicode"
-  }
+  "profile": [
+    { 
+      "name": "Alex",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWXpXw1zcFZUbXcYp4i4RMx1TtEl55SGmq8oGqWbm6SNtXV38W"
+    },
+    {
+      "name": "Diana",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrzewVZ8eb2cBatk8X79MqrycoJukzJcuqaEZN7wt0WhlSq53vbw"
+    }
+  ]
 }
