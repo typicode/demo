@@ -1,10 +1,27 @@
 {
-  "CheckPort": {
-    "Parameter1": "ComputerName",
-    "Parameter2": "Port"
-  },
-  "CPU": {
-    "Parameter1": "ComputerName",
-    "Parameter2": "Service"
-  }
+  "CheckPort": [
+    {
+    "ComputerName": "ComputerName",
+    "Port": "Port"
+    }
+  ],
+  
+  "CPU_Memory_Utilization":[
+    {
+    "ComputerName": "ComputerName"
+    }
+  ],
+  
+  "Disk_Space_Medassets": [
+    {
+     "ComputerName": "ComputerName" 
+    }
+    ],
+  
+    "Event Log": [
+      {
+      "ComputerName": "ComputerName",
+      "LogName": "LogName"
+      }
+    ]
 }
