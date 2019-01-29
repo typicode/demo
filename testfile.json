@@ -1,0 +1,26 @@
+{
+  "CheckPort": [
+    {
+    "ComputerName": "ComputerName",
+    "Port": "Port"
+    }
+  ],
+  
+  "CPU_Memory_Utilization":[
+    {
+    "ComputerName": "ComputerName"
+    }
+  ],
+  
+  "Disk_Space_Medassets": [
+    {
+     "ComputerName": "ComputerName" 
+    }
+    ],
+    "Event Log": [
+      {
+      "ComputerName": "ComputerName",
+      "LogName": "LogName"
+      }
+    ]
+}
