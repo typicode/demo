@@ -1,14 +1,30 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+    "login": [
+      {
+        "id": 1,
+        "email": "random@gmail.com",
+        "password":"mynameiskhanr"
+      },
+      {
+        "id": 2,
+        "email": "adduser@gmail.com",
+        "password":"mynameiwedfewskhanr"
+      },
+      {
+        "id": 3,
+        "email": "chekc@gmail.com",
+        "password":"mynameiskhfeewanr"
+      },
+      {
+        "id":4,
+        "email": "chejc@gmail.com",
+        "password":"mynameiskhanr1234567890"
+      },
+      {
+        "id": 5,
+        "email": "dejew@gmail.com",
+        "password":"1234567890"
+      }
+    ]
 }
+  
