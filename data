@@ -1,0 +1,30 @@
+{
+    "login": [
+      {
+        "id": 1,
+        "email": "random@gmail.com",
+        "password":"mynameiskhanr"
+      },
+      {
+        "id": 2,
+        "email": "adduser@gmail.com",
+        "password":"mynameiwedfewskhanr"
+      },
+      {
+        "id": 3,
+        "email": "chekc@gmail.com",
+        "password":"mynameiskhfeewanr"
+      },
+      {
+        "id":4,
+        "email": "chejc@gmail.com",
+        "password":"mynameiskhanr1234567890"
+      },
+      {
+        "id": 5,
+        "email": "dejew@gmail.com",
+        "password":"1234567890"
+      }
+    ]
+}
+  
