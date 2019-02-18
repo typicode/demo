@@ -1,8 +1,8 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "usuarios": [
+    { "id": 1, "nombre": "Fran", "pass":"2c20cb5558626540a1704b1fe524ea9a", "correo":"francaroo9@gmail.com", "admin":true, "admin_principal":true, "constitucion":"Mesomorfo", "peso":80, "objetivo":"Ganar fuerza", "sexo":"hombre", "edad":23, "pregunta_secreta":"¿Cual es el nombre de tu mascota?", "respuesta_secreta":"nala" },
+    { "id": 2, "nombre": "Carmen", "pass":"880cbc1ed48043cbcdaa7286e058ef7f", "correo":"carmen.villalba@gmail.com", "admin":false, "admin_principal":false, "constitucion":"Mesomorfo", "peso":60, "objetivo":"Fondo", "sexo":"mujer", "edad":24, "pregunta_secreta":"¿Cual es el nombre de tu mascota?", "respuesta_secreta":"pigley" },
+    { "id": 3, "nombre": "Ale", "pass":"f7a3803365a55b197a3b43bc64aacc13", "correo":"ale.duran@gmail.com", "admin":true, "admin_principal":false, "constitucion":"Endomorfo", "peso":84, "objetivo":"Fondo", "sexo":"hombre", "edad":21, "pregunta_secreta":"¿Cual es el nombre de tu madre?", "respuesta_secreta":"maria" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
