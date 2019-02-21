@@ -1,14 +1,120 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
+  "horas": [
+  {
+    "id": 1,
+    "dias" : [
+      {"fecha": "2019-02-20", "salida": "07:49", "puesta": "19:05"},
+      {"fecha": "2019-02-21", "salida": "07:48", "puesta": "19:06"},
+      {"fecha": "2019-02-22", "salida": "07:46", "puesta": "19:07"},
+      {"fecha": "2019-02-23", "salida": "07:45", "puesta": "19:08"},
+      {"fecha": "2019-02-24", "salida": "07:43", "puesta": "19:09"},
+      {"fecha": "2019-02-25", "salida": "07:42", "puesta": "19:10"},
+      {"fecha": "2019-02-26", "salida": "07:40", "puesta": "19:11"},
+      {"fecha": "2019-02-27", "salida": "07:39", "puesta": "19:13"},
+      {"fecha": "2019-02-28", "salida": "07:37", "puesta": "19:11"}
+    ]
+  },
+  {
+    "id": 2,
+    "dias" : [
+      {"fecha": "2019-02-20", "salida": "06:29", "puesta": "17:49"},
+      {"fecha": "2019-02-21", "salida": "06:28", "puesta": "17:48"},
+      {"fecha": "2019-02-22", "salida": "06:26", "puesta": "17:49"},
+      {"fecha": "2019-02-23", "salida": "06:24", "puesta": "17:50"},
+      {"fecha": "2019-02-24", "salida": "06:23", "puesta": "17:51"},
+      {"fecha": "2019-02-25", "salida": "06:21", "puesta": "17:52"},
+      {"fecha": "2019-02-26", "salida": "06:20", "puesta": "17:53"},
+      {"fecha": "2019-02-27", "salida": "06:18", "puesta": "17:55"},
+      {"fecha": "2019-02-28", "salida": "06:16", "puesta": "17:57"}
+    ]
+  },
+  {
+    "id": 3,
+    "dias" : [
+      {"fecha": "2019-02-20", "salida": "06:26", "puesta": "17:47"},
+      {"fecha": "2019-02-21", "salida": "06:24", "puesta": "17:48"},
+      {"fecha": "2019-02-22", "salida": "06:22", "puesta": "17:49"},
+      {"fecha": "2019-02-23", "salida": "06:20", "puesta": "17:50"},
+      {"fecha": "2019-02-24", "salida": "06:18", "puesta": "17:51"},
+      {"fecha": "2019-02-25", "salida": "06:17", "puesta": "17:52"},
+      {"fecha": "2019-02-26", "salida": "06:16", "puesta": "17:53"},
+      {"fecha": "2019-02-27", "salida": "06:14", "puesta": "17:54"},
+      {"fecha": "2019-02-28", "salida": "06:13", "puesta": "17:55"}
+    ]
+  },
+  {
+    "id": 4,
+    "dias" : [
+      {"fecha": "2019-02-20", "salida": "06:12", "puesta": "17:33"},
+      {"fecha": "2019-02-21", "salida": "06:11", "puesta": "17:34"},
+      {"fecha": "2019-02-22", "salida": "06:09", "puesta": "17:36"},
+      {"fecha": "2019-02-23", "salida": "06:08", "puesta": "17:37"},
+      {"fecha": "2019-02-24", "salida": "06:07", "puesta": "17:38"},
+      {"fecha": "2019-02-25", "salida": "06:06", "puesta": "17:39"},
+      {"fecha": "2019-02-26", "salida": "06:04", "puesta": "17:40"},
+      {"fecha": "2019-02-27", "salida": "06:03", "puesta": "17:41"},
+      {"fecha": "2019-02-28", "salida": "06:02", "puesta": "17:42"},
+      {"fecha": "2019-02-29", "salida": "06:00", "puesta": "17:43"}
+    ]
+  },
+  {
+    "id": 5,
+    "dias" : [
+      {"fecha": "2019-02-20", "salida": "06:51", "puesta": "18:03"},
+      {"fecha": "2019-02-21", "salida": "06:49", "puesta": "18:04"},
+      {"fecha": "2019-02-22", "salida": "06:47", "puesta": "18:06"},
+      {"fecha": "2019-02-23", "salida": "06:45", "puesta": "18:08"},
+      {"fecha": "2019-02-24", "salida": "06:43", "puesta": "18:09"},
+      {"fecha": "2019-02-25", "salida": "06:42", "puesta": "18:10"},
+      {"fecha": "2019-02-26", "salida": "06:40", "puesta": "18:11"},
+      {"fecha": "2019-02-27", "salida": "06:38", "puesta": "18:12"},
+      {"fecha": "2019-02-28", "salida": "06:37", "puesta": "18:13"}
+    ]
+  },
+  {
+    "id": 6,
+    "dias" : [
+      {"fecha": "2019-02-20", "salida": "07:19", "puesta": "18:03"},
+      {"fecha": "2019-02-21", "salida": "07:17", "puesta": "18:04"},
+      {"fecha": "2019-02-22", "salida": "07:16", "puesta": "18:06"},
+      {"fecha": "2019-02-23", "salida": "07:15", "puesta": "18:08"},
+      {"fecha": "2019-02-24", "salida": "07:13", "puesta": "18:10"},
+      {"fecha": "2019-02-25", "salida": "07:10", "puesta": "18:12"},
+      {"fecha": "2019-02-26", "salida": "07:07", "puesta": "18:14"},
+      {"fecha": "2019-02-27", "salida": "07:05", "puesta": "18:16"},
+      {"fecha": "2019-02-28", "salida": "07:02", "puesta": "18:18"}
+    ]
   }
+],
+  "ciudades": [{
+    "ciudad" : "Madrid",
+    "id" : 1,
+    "UTC" : 1,
+    "mostrar": true
+  },
+  {
+    "ciudad" : "Nueva York",
+    "id" : 2,
+    "UTC" : -5
+  },
+  {
+    "ciudad" : "Los Ángeles",
+    "id" : 3,
+    "UTC" : -8
+  },
+  {
+    "ciudad" : "Tokio",
+    "id" : 4,
+    "UTC" : 9
+  },
+  {
+    "ciudad" : "Pekín",
+    "id" : 5,
+    "UTC" : 8
+  },
+  {
+    "ciudad" : "Moscú",
+    "id" : 6,
+    "UTC" : 3
+  }]
 }
