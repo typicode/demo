@@ -116,7 +116,57 @@
     "ciudad" : "Moscú",
     "id" : 6,
     "UTC" : 3
-  }]
+  }
+ ],
+  {
+  "libreria": {
+    "libro": [
+      {
+        "categoria": "Novela Negra",
+        "titulo": "El cartél",
+        "autor": "Don Winslow",
+        "editado": "2016",
+        "precio": "20.00"
+      },
+      {
+        "categoria": "Novela Negra",
+        "titulo": "Muerto el perro",
+        "autor": "Carlos Salem",
+        "editado": "2014",
+        "precio": "15.50"
+      },
+      {
+        "categoria": "Novela Gráfica",
+        "titulo": "María y yo",
+        "autor": "Miguel Gallardo",
+        "editado": "2014",
+        "precio": "12.00"
+      },
+      {
+        "categoria": "Novela Gráfica",
+        "titulo": "La casa",
+        "autor": "Paco Roca",
+        "editado": "2016",
+        "precio": "16.00"
+      },
+      {
+        "categoria": "Autobiografía",
+        "titulo": "¿Está usted de broma Sr. Feynman?",
+        "autor": "Richard P. Feynman",
+        "editado": "2016",
+        "precio": "14.20"
+      },
+      {
+        "categoria": "Ficción",
+        "titulo": "Carol",
+        "autor": "Patricia Highsmith",
+        "editado": "2016",
+        "precio": "19.90"
+      }
+    ]
+  }
+ }
+  
   
 }
 
