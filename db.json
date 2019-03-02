@@ -1,14 +1,195 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+[  
+   {  
+      "classId":"JPGF",
+      "nav":{  
+         "asOfDate":"43508",
+         "price":"1.1146",
+         "offerPrice":"1.1733",
+         "currency":"MYR",
+         "prevPrice":"1.1174999999999999",
+         "changePrice":"-2.8999999999999998E-3",
+         "changePercent":"-2.6018302530054749E-3"
+      },
+      "divFrequencyName":"No",
+      "divFrequencyId":"0",
+      "regionName":"Malaysia",
+      "regionId":"1",
+      "assetClassName":"Equity",
+      "assetClassId":"1",
+      "displayOrder":1,
+      "fundName":"Manulife Progress Fund",
+      "fundId":"JPGF",
+      "ilpProduct":[  
+         {  
+            "id":"1",
+            "name":"ManuLink Prime"
+         },
+         {  
+            "id":"2",
+            "name":"ManuLink Prime Plus"
+         },
+         {  
+            "id":"3",
+            "name":"ManuLink Wealth"
+         },
+         {  
+            "id":"4",
+            "name":"ManuLink Premier"
+         }
+      ],
+      "product":"ilp",
+      "locale":"en_MY"
+   },
+   {  
+      "classId":"CVFA",
+      "nav":{  
+         "asOfDate":"43508",
+         "price":"1.2242",
+         "offerPrice":"1.2886",
+         "currency":"MYR",
+         "prevPrice":"1.2192000000000001",
+         "changePrice":"5.0000000000000001E-3",
+         "changePercent":"4.0842999509883137E-3"
+      },
+      "divFrequencyName":"No",
+      "divFrequencyId":"0",
+      "regionName":"Greater China",
+      "regionId":"2",
+      "assetClassName":"Equity",
+      "assetClassId":"1",
+      "displayOrder":2,
+      "fundName":"Manulife China Value Fund",
+      "fundId":"CVFA",
+      "ilpProduct":[  
+         {  
+            "id":"1",
+            "name":"ManuLink Prime"
+         },
+         {  
+            "id":"2",
+            "name":"ManuLink Prime Plus"
+         },
+         {  
+            "id":"3",
+            "name":"ManuLink Wealth"
+         },
+         {  
+            "id":"4",
+            "name":"ManuLink Premier"
+         }
+      ],
+      "product":"ilp",
+      "locale":"en_MY"
+   },
+   {  
+      "classId":"JFIF",
+      "nav":{  
+         "asOfDate":"43508",
+         "price":"1.3508",
+         "offerPrice":"1.4218999999999999",
+         "currency":"MYR",
+         "prevPrice":"1.3486",
+         "changePrice":"2.1999999999999797E-3",
+         "changePercent":"1.6286644951139916E-3"
+      },
+      "divFrequencyName":"No",
+      "divFrequencyId":"0",
+      "regionName":"Malaysia",
+      "regionId":"1",
+      "assetClassName":"Mixed Allocation",
+      "assetClassId":"2",
+      "displayOrder":3,
+      "fundName":"MANULIFE FLEXI INVEST FUND",
+      "fundId":"JFIF",
+      "ilpProduct":[  
+         {  
+            "id":"1",
+            "name":"ManuLink Prime"
+         },
+         {  
+            "id":"2",
+            "name":"ManuLink Prime Plus"
+         },
+         {  
+            "id":"3",
+            "name":"ManuLink Wealth"
+         },
+         {  
+            "id":"4",
+            "name":"ManuLink Premier"
+         }
+      ],
+      "product":"ilp",
+      "locale":"en_MY"
+   },
+   {  
+      "classId":"JCEQ",
+      "nav":{  
+         "asOfDate":"43508",
+         "price":"0.97729999999999995",
+         "offerPrice":"1.0286999999999999",
+         "currency":"MYR",
+         "prevPrice":"0.96950000000000003",
+         "changePrice":"7.7999999999999181E-3",
+         "changePercent":"7.9811726184384722E-3"
+      },
+      "divFrequencyName":"No",
+      "divFrequencyId":"0",
+      "regionName":"APAC",
+      "regionId":"3",
+      "assetClassName":"Equity",
+      "assetClassId":"1",
+      "displayOrder":4,
+      "fundName":"MANULIFE ASIAN SMALL CAP GROWTH FUND",
+      "fundId":"JCEQ",
+      "ilpProduct":[  
+         {  
+            "id":"1",
+            "name":"ManuLink Prime"
+         },
+         {  
+            "id":"2",
+            "name":"ManuLink Prime Plus"
+         },
+         {  
+            "id":"3",
+            "name":"ManuLink Wealth"
+         },
+         {  
+            "id":"4",
+            "name":"ManuLink Premier"
+         }
+      ],
+      "product":"ilp",
+      "locale":"en_MY"
+   },
+   {  
+      "classId":"EB06",
+      "nav":{  
+         "asOfDate":"43508",
+         "price":"0.8488",
+         "offerPrice":"0.8488",
+         "currency":"MYR",
+         "prevPrice":"0.84470000000000001",
+         "changePrice":"4.0999999999999925E-3",
+         "changePercent":"4.8303487276154487E-3"
+      },
+      "divFrequencyName":"Yes",
+      "divFrequencyId":"1",
+      "regionName":"Global",
+      "regionId":"4",
+      "assetClassName":"Mixed Allocation",
+      "assetClassId":"2",
+      "displayOrder":5,
+      "fundName":"<br>Manulife EGA Managed Fund - Tranche 6",
+      "fundId":"EB06",
+      "ilpProduct":[  
+         {  
+            "id":"5",
+            "name":"EGA"
+         }
+      ],
+      "product":"ilp",
+      "locale":"en_MY"
+   }
+]
