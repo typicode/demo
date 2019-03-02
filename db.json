@@ -118,54 +118,88 @@
     "UTC" : 3
   }
  ],
-  
-  "libreria": {
-    "libro": [
+  "localizaciones":[
+    {
+      "Nombre": "Madrid",
+      "País": "España",
+      "id": "ES-28-001"
+    },
+    {
+      "Nombre": "Londres",
+      "País": "Gran Bretaña",
+      "id": "GB-25-001"
+    },
+    {
+      "Nombre": "París",
+      "País": "Francia",
+      "id": "FR-28-001"
+    },
+    {
+      "Nombre": "Toledo",
+      "País": "España",
+      "id": "ES-45-001"
+    },
+    {
+      "Nombre": "Valencia",
+      "País": "España",
+      "id": "ES-46-001"
+    },
+    {
+      "Nombre": "Toledo",
+      "País": "Estados Unidos",
+      "id": "EU-55-008"
+    }],
+    "temperaturas": [
       {
-        "categoria": "Novela Negra",
-        "titulo": "El cartél",
-        "autor": "Don Winslow",
-        "editado": "2016",
-        "precio": "20.00"
+        "id" : "ES-28-001",
+        "fecha" : "2019-02-28",
+        "temp_min": 1.6,
+        "temp_max": 13.5,
+        "cielo": "Soleado"
       },
       {
-        "categoria": "Novela Negra",
-        "titulo": "Muerto el perro",
-        "autor": "Carlos Salem",
-        "editado": "2014",
-        "precio": "15.50"
+        "id" : "GB-25-001",
+        "fecha" : "2019-02-28",
+        "temp_min": -1.6,
+        "temp_max": 10.5,
+        "cielo": "Cubierto"
       },
       {
-        "categoria": "Novela Gráfica",
-        "titulo": "María y yo",
-        "autor": "Miguel Gallardo",
-        "editado": "2014",
-        "precio": "12.00"
+        "id" : "ES-45-001",
+        "fecha" : "2019-02-28",
+        "temp_min": 0,
+        "temp_max": 13.5,
+        "cielo": "Nublado"
       },
       {
-        "categoria": "Novela Gráfica",
-        "titulo": "La casa",
-        "autor": "Paco Roca",
-        "editado": "2016",
-        "precio": "16.00"
+        "id" : "ES-01-001",
+        "fecha" : "2019-02-28",
+        "temp_min": 0,
+        "temp_max": 10.5,
+        "cielo": "Soleado"
       },
       {
-        "categoria": "Autobiografía",
-        "titulo": "¿Está usted de broma Sr. Feynman?",
-        "autor": "Richard P. Feynman",
-        "editado": "2016",
-        "precio": "14.20"
+        "id" : "FR-28-001",
+        "fecha" : "2019-02-28",
+        "temp_min": 3.5,
+        "temp_max": 9.5,
+        "cielo": "Chubascos"
       },
       {
-        "categoria": "Ficción",
-        "titulo": "Carol",
-        "autor": "Patricia Highsmith",
-        "editado": "2016",
-        "precio": "19.90"
-      }
-    ]
-  }
- }
+        "id" : "ES-46-001",
+        "fecha" : "2019-02-28",
+        "temp_min": 5,
+        "temp_max": 19.5,
+        "cielo": "Soleado"
+      }, {
+        "id" : "EU-55-008",
+        "fecha" : "2019-02-28",
+        "temp_min": 3.5,
+        "temp_max": 9.5,
+        "cielo": "Tormentas"
+      } ] }            
+    
+ 
   
   
 
