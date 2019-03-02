@@ -1,90 +1,84 @@
-{
-    "id": "060840",
-    "salida": "08:40",
-    "sinDevolucion": 3,
-    "conDevolucion": 14
+{  "localizaciones":[
+  {
+    "Nombre": "Madrid",
+    "País": "España",
+    "id": "ES-28-001"
   },
   {
-    "id": "060940",
-    "salida": "09:40",
-    "sinDevolucion": 38,
-    "conDevolucion": 1
+    "Nombre": "Londres",
+    "País": "Gran Bretaña",
+    "id": "GB-25-001"
   },
   {
-    "id": "061040",
-    "salida": "10:40",
-    "sinDevolucion": 25,
-    "conDevolucion": 3
+    "Nombre": "París",
+    "País": "Francia",
+    "id": "FR-28-001"
   },
   {
-    "id": "061220",
-    "salida": "12:20",
-    "sinDevolucion": 4,
-    "conDevolucion": 8
+    "Nombre": "Toledo",
+    "País": "España",
+    "id": "ES-45-001"
   },
   {
-    "id": "061310",
-    "salida": "13:10",
-    "sinDevolucion": 16,
-    "conDevolucion": 11
+    "Nombre": "Valencia",
+    "País": "España",
+    "id": "ES-46-001"
   },
   {
-    "id": "061510",
-    "salida": "15:10",
-    "sinDevolucion": 25,
-    "conDevolucion": 1
-  },
-  {
-    "id": "061640",
-    "salida": "16:40",
-    "sinDevolucion": 1,
-    "conDevolucion": 3
-  },
-  {
-    "id": "061740",
-    "salida": "17:40",
-    "sinDevolucion": 34,
-    "conDevolucion": 2
-  },
-  {
-    "id": "061840",
-    "salida": "18:40",
-    "sinDevolucion": 2,
-    "conDevolucion": 20
-  },
-  {
-    "id": "061930",
-    "salida": "19:30",
-    "sinDevolucion": 5,
-    "conDevolucion": 28
-  },
-  {
-    "id": "062140",
-    "salida": "21:40",
-    "sinDevolucion": 2,
-    "conDevolucion": 30
-  },
-  {
-    "id": "070940",
-    "salida": "09:40",
-    "sinDevolucion": 38,
-    "conDevolucion": 0
-  },
-  {
-    "id": "071040",
-    "salida": "10:40",
-    "sinDevolucion": 20,
-    "conDevolucion": 22
-  },
-  {
-    "id": "071220",
-    "salida": "12:20",
-    "sinDevolucion": 24,
-    "conDevolucion": 5
-  },
-  {
-    "id": "071310",
-    "salida": "13:10",
-    "sinDevolucion": 19,
-    "conDevolucion": 5
-  }
+    "Nombre": "Toledo",
+    "País": "Estados Unidos",
+    "id": "EU-55-008"
+  }],
+
+  "temperaturas": [
+    {
+      "id" : "ES-28-001",
+      "fecha" : "2019-02-28",
+      "temp_min": 1.6,
+      "temp_max": 13.5,
+      "cielo": "Soleado"
+    },
+    {
+      "id" : "GB-25-001",
+      "fecha" : "2019-02-28",
+      "temp_min": -1.6,
+      "temp_max": 10.5,
+      "cielo": "Cubierto"
+    },
+    {
+      "id" : "ES-45-001",
+      "fecha" : "2019-02-28",
+      "temp_min": 0,
+      "temp_max": 13.5,
+      "cielo": "Nublado"
+    },
+    {
+      "id" : "ES-01-001",
+      "fecha" : "2019-02-28",
+      "temp_min": 0,
+      "temp_max": 10.5,
+      "cielo": "Soleado"
+    },
+    {
+      "id" : "FR-28-001",
+      "fecha" : "2019-02-28",
+      "temp_min": 3.5,
+      "temp_max": 9.5,
+      "cielo": "Chubascos"
+    },
+    {
+      "id" : "ES-46-001",
+      "fecha" : "2019-02-28",
+      "temp_min": 5,
+      "temp_max": 19.5,
+      "cielo": "Soleado"
+    },
+    {
+      "id" : "EU-55-008",
+      "fecha" : "2019-02-28",
+      "temp_min": 3.5,
+      "temp_max": 9.5,
+      "cielo": "Tormentas"
+    }              
+  ]
+}
