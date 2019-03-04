@@ -1,8 +1,9 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "data": [
+    { "id": 1, "title": "SBI", price: "431.2566", pricePercentage: "4.5236", priceChange: "714.21" },
+    { "id": 2, "title": "ICIC01", price: "236.102", pricePercentage: "12.365", priceChange: "298.14" },
+    { "id": 3, "title": "TCS", price: "896.21", pricePercentage: "14.214", priceChange: "652.241" },
+    { "id": 4, "title": "IB", price: "6000", pricePercentage: "17.23", priceChange: "123.4785" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
