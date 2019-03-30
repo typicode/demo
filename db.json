@@ -10,5 +10,27 @@
   ],
   "profile": {
     "name": "typicode"
+  },
+  "sportsCategories":{
+    { "id": 1, "type": "football" },
+    { "id": 2, "type": "basketball" },
+    { "id": 3, "type": "formula 1" },
+  },
+  "matches":{
+    { "id": 1, "name": "Barcelona - Real Madrid","date":"1553938200"
+     "teams"= [
+      { "id" = 1,"Name":"Barcelona" },
+      { "id" = 2,"Name":"Real Madrid"}
+    ] },
+    { "id": 1, "name": "Roma - Lazio","date":"1553977800"
+     "teams"= [
+      { "id" = 1,"Name":"Roma" },
+      { "id" = 2,"Name":"Lazio"}
+    ] },
+    { "id": 1, "name": "Galatasaray - Fenerbahçe","date":"1553938200"
+     "teams"= [
+      { "id" = 1,"Name":"Galatasaray" },
+      { "id" = 2,"Name":"Fenerbahçe"}
+    ] },
   }
 }
