@@ -1,14 +1,35 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+        "personInfo": [
+            {
+                "ldap": "ldap001",
+                "username": "ari.w",
+                "password": "ari",
+                "NIP": "NIP001",
+                "firstName": "Ari",
+                "lastName": "Wibowo",
+                "gender": "L",
+                "birthPlace": "Jakarta",
+                "birthdate": "1990-05-12",
+                "nationality": "Indonesia",
+                "ethnic": "Jawa, Sunda",
+                "maritalStatus": "M"
+
+            },
+            {
+                "ldap": "ldap002",
+                "username": "tiya",
+                "password": "tiya",
+                "NIP": "NIP002",
+                "firstName": "Tiya",
+                "lastName": "Rossetiyana",
+                "gender": "P",
+                "birthPlace": "Bandung",
+                "birthdate": "1990-11-27",
+                "nationality": "Indonesia",
+                "ethnic": "Sunda, Betawi",
+                "maritalStatus": "M"
+
+            }
+        ]
+
+    }
