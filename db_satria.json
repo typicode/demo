@@ -7,35 +7,40 @@
 			"nama": "Satria Giri Syawalludin",
 			"email": "satria.syawalludin17@student.uisi.ac.id",
 			"jenis" : "Laki-Laki",
-			"alamat" : "Gresik"
+			"alamat" : "Gresik",
+			"foto" : "satria.jpg"
 		},
 		{
 			"nomor": "3021710005",
 			"nama": "Ahmad Riyanto Wibisono",
 			"email": "ahmad.wibisono17@student.uisi.ac.id",
 			"jenis" : "Laki-Laki",
-			"alamat" : "Gresik"
+			"alamat" : "Gresik",
+			"foto" : "rayen.jpg"
 		},
 		{
 			"nomor": "3021710029",
 			"nama": "Kurneo Alquaish",
 			"email": "kurneo.alquaish17@student.uisi.ac.id",
 			"jenis" : "Laki-Laki",
-			"alamat" : "Gresik"
+			"alamat" : "Gresik",
+			"foto" : "neo.jpg"
 		},
 		{
 			"nomor": "3021710013",
 			"nama": "Bagastya Asyhari",
 			"email": "bagastya.asyhari17@student.uisi.ac.id",
 			"jenis" : "Laki-Laki",
-			"alamat" : "Lamongan"
+			"alamat" : "Lamongan",
+			"foto" : "bagastya.jpg"
 		},
 		{
 			"nomor": "3021710020",
 			"nama": "Fathur Rahman Min Ibad",
 			"email": "fathu.ibad17@student.uisi.ac.id",
 			"jenis" : "Laki-Laki",
-			"alamat" : "Gresik"
+			"alamat" : "Gresik",
+			"foto" : "fathur.jpg"
 		}
 
 ]
