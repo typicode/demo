@@ -1,0 +1,236 @@
+[
+ {
+   "landscape": 100,
+   "absencetype": 1000,
+   "leave_quota": 12,
+   "description": "Cuti Tahunan",
+   "quotadeduction": "Y",
+   "paidtype": "Paid",
+   "remarks": "JANGAN DIHAPUS - Ada histori menggunakan kode ini, Jika sampai batas waktu tidak diambil hangus, bisa diperpanjang sampai Maret"
+ },
+ {
+   "landscape": 100,
+   "absencetype": 1100,
+   "leave_quota": null,
+   "description": "Izin Tidak Masuk - Potong Cuti",
+   "quotadeduction": "Y",
+   "paidtype": "Paid",
+   "remarks": "JANGAN DIHAPUS - Ada histori menggunakan kode ini, Izin"
+ },
+ {
+   "landscape": 100,
+   "absencetype": 1200,
+   "leave_quota": null,
+   "description": "Alpa",
+   "quotadeduction": "Y",
+   "paidtype": "Paid",
+   "remarks": "JANGAN DIHAPUS - Ada histori menggunakan kode ini"
+ },
+ {
+   "landscape": 100,
+   "absencetype": 2000,
+   "leave_quota": 70,
+   "description": "Cuti Pegawai Melahirkan",
+   "quotadeduction": "N",
+   "paidtype": "Paid",
+   "remarks": "JANGAN DIHAPUS - Ada histori menggunakan kode ini. 1 Month Before, 2 Month After"
+ },
+ {
+   "landscape": 100,
+   "absencetype": 2101,
+   "leave_quota": 1,
+   "description": "Izin (sakit 1 hari)",
+   "quotadeduction": "N",
+   "paidtype": "Paid",
+   "remarks": "JANGAN DIHAPUS - Ada histori menggunakan kode ini, Ijin sakit 1 hari"
+ },
+ {
+   "landscape": 100,
+   "absencetype": 3100,
+   "leave_quota": null,
+   "description": "Sakit tidak dirawat di RS atau tanpa surat dokter",
+   "quotadeduction": "Y",
+   "paidtype": "Paid",
+   "remarks": "JANGAN DIHAPUS - Ada histori menggunakan kode ini, Sakit tidak dirawat di RS atau tanpa surat dokter"
+ },
+ {
+   "landscape": 100,
+   "absencetype": 3120,
+   "leave_quota": 100,
+   "description": "Sakit dengan surat dokter",
+   "quotadeduction": "N",
+   "paidtype": "Paid",
+   "remarks": "Sakit dengan surat dokter"
+ },
+ {
+   "landscape": 100,
+   "absencetype": 3150,
+   "leave_quota": 3,
+   "description": "Cuti Pernikahan Karyawan",
+   "quotadeduction": "N",
+   "paidtype": "Paid",
+   "remarks": "Perkawinan Karyawan yang bersangkutan"
+ },
+ {
+   "landscape": 100,
+   "absencetype": 3170,
+   "leave_quota": 2,
+   "description": "Cuti Pernikahan Anak Karyawan",
+   "quotadeduction": "N",
+   "paidtype": "Paid",
+   "remarks": "Perkawinan anak sah karyawan"
+ },
+ {
+   "landscape": 100,
+   "absencetype": 3200,
+   "leave_quota": 2,
+   "description": "Cuti Khitan/Baptis Anak",
+   "quotadeduction": "N",
+   "paidtype": "Paid",
+   "remarks": "Khitanan atau Pembaptisan anak karyawan"
+ },
+ {
+   "landscape": 100,
+   "absencetype": 3300,
+   "leave_quota": 2,
+   "description": "Cuti Istri Karyawan Melahirkan",
+   "quotadeduction": "N",
+   "paidtype": "Paid",
+   "remarks": "Untuk suami yang istri sah nya melahirkan"
+ },
+ {
+   "landscape": 100,
+   "absencetype": 3400,
+   "leave_quota": 3,
+   "description": "Cuti Anggota Keluarga Meninggal",
+   "quotadeduction": "N",
+   "paidtype": "Paid",
+   "remarks": "Kematian istri/suami karyawan, Kematian ayah/ibu/mertua/anak karyawan"
+ },
+ {
+   "landscape": 100,
+   "absencetype": 3900,
+   "leave_quota": 50,
+   "description": "Cuti Menjalankan Ibadah Haji",
+   "quotadeduction": "N",
+   "paidtype": "Paid",
+   "remarks": "2 days before Hajj departure, 2 days after Hajj arrival (for the 1st time)"
+ },
+ {
+   "landscape": 100,
+   "absencetype": 4000,
+   "leave_quota": 1,
+   "description": "Dispensasi Bencana Alam",
+   "quotadeduction": "N",
+   "paidtype": "Paid",
+   "remarks": "Bencana Alam"
+ },
+ {
+   "landscape": 100,
+   "absencetype": 9000,
+   "leave_quota": 100,
+   "description": "Training / Seminar (Dinas)",
+   "quotadeduction": "N",
+   "paidtype": "Paid",
+   "remarks": ""
+ },
+ {
+   "landscape": 100,
+   "absencetype": 9001,
+   "leave_quota": 100,
+   "description": "Training / Seminar (Non Dinas)",
+   "quotadeduction": "N",
+   "paidtype": "Paid",
+   "remarks": ""
+ },
+ {
+   "landscape": 100,
+   "absencetype": 9003,
+   "leave_quota": 1,
+   "description": "Izin meninggalkan pekerjaan sebelum tutup Kantor",
+   "quotadeduction": "N",
+   "paidtype": "Paid",
+   "remarks": ""
+ },
+ {
+   "landscape": 100,
+   "absencetype": 9005,
+   "leave_quota": 1,
+   "description": "Izin Datang Terlambat",
+   "quotadeduction": "N",
+   "paidtype": "Paid",
+   "remarks": "JANGAN DIHAPUS - Ada histori menggunakan kode ini"
+ },
+ {
+   "landscape": 100,
+   "absencetype": 9006,
+   "leave_quota": 100,
+   "description": "Tugas Keluar Kantor (Non Dinas)",
+   "quotadeduction": "N",
+   "paidtype": "Paid",
+   "remarks": ""
+ },
+ {
+   "landscape": 100,
+   "absencetype": 9007,
+   "leave_quota": 100,
+   "description": "Tugas Keluar Kantor (Dinas)",
+   "quotadeduction": "N",
+   "paidtype": "Paid",
+   "remarks": ""
+ },
+ {
+   "landscape": 100,
+   "absencetype": 9008,
+   "leave_quota": 1,
+   "description": "Lupa Tap Fingerprint / Lupa Absen",
+   "quotadeduction": "N",
+   "paidtype": "Paid",
+   "remarks": ""
+ },
+ {
+   "landscape": 100,
+   "absencetype": 9009,
+   "leave_quota": 1,
+   "description": "ID Card Tertinggal / Hilang / Rusak",
+   "quotadeduction": "N",
+   "paidtype": "Paid",
+   "remarks": ""
+ },
+ {
+   "landscape": 100,
+   "absencetype": 9101,
+   "leave_quota": 1,
+   "description": "Pengajuan Kartu Akses Baru / NIP Baru",
+   "quotadeduction": "N",
+   "paidtype": "Paid",
+   "remarks": ""
+ },
+ {
+   "landscape": 100,
+   "absencetype": 9102,
+   "leave_quota": 1,
+   "description": "Fingerprint Rusak / Sistem Akses Bermasalah",
+   "quotadeduction": "N",
+   "paidtype": "Paid",
+   "remarks": ""
+ },
+ {
+   "landscape": 100,
+   "absencetype": 9103,
+   "leave_quota": 1,
+   "description": "Jaringan Data Bermasalah",
+   "quotadeduction": "N",
+   "paidtype": "Paid",
+   "remarks": ""
+ },
+ {
+   "landscape": 100,
+   "absencetype": 9104,
+   "leave_quota": 100,
+   "description": "Error Masal Sistem Absensi",
+   "quotadeduction": "N",
+   "paidtype": "Paid",
+   "remarks": ""
+ }
+]
