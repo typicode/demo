@@ -1,14 +1,20 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+"artCodigoEnvase": null
+"codigoArticuloLocal": "000000000102862"
+"descripcion": "Agua dasani 1.5 lt3 un.+ coca"
+"estaEnOferta": false
+"fechaHastaOferta": null
+"id": "000000004392716"
+"moneda": "$"
+"nombre": "Agua dasani 1.5 lt3 un.+ coca"
+"oferta": null
+"ofertaAppMovil": false
+"precio": 68
+"precioEnvase": null
+"precioUnitario": 68
+"prioridad": null
+"proveedor": 1
+"urlImagen": "http://imagenesipos.scanntech.com/imagenes/uy_todos/imagesencasa/null.gif"
+"visibleAppMovil": true
+"vtaFraccionada": 0
 }
