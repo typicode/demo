@@ -1,0 +1,18 @@
+{
+  "Items": [
+    {
+      "rank": "test rank",
+      "name": "test name",
+      "score": "test score",
+      "goals": "test goals",
+      "bestPlayer": "test best"
+    },
+    {
+      "rank": "test2 rank",
+      "name": "test2 name",
+      "score": "test2 score",
+      "goals": "test2 goals",
+      "bestPlayer": "test2 best"
+    }
+  ]
+}
