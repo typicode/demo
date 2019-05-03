@@ -1,0 +1,42 @@
+[
+  {
+    "NewsId": 1,
+    "NewsURL": "https://timesofindia.indiatimes.com/",
+    "NewsDate": "2019-04-25 00:00:00.000000",
+    "Newstitle": "Sri Lanka Attack",
+    "NewsSource": "Times Of In",
+    "NewsDescription": "He visited south-east England in 2006-7 to study but did not complete a full university degree, a senior Whitehall official told the BBC.\r\n\r\nThe attacker later did a course in Australia, Sri Lanka's d"
+  },
+  {
+    "NewsId": 2,
+    "NewsURL": "https://www.bbc.com/sport/get-inspired/47852078",
+    "NewsDate": "2019-04-25 00:00:00.000000",
+    "Newstitle": "London Marathon ",
+    "NewsSource": "BBC",
+    "NewsDescription": "On Sunday, over 42,000 runners will stretch out their legs at the start line in Blackheath as Sir Andy Murray officially starts the 2019 London Marathon.\r\n\r\nFor many it will be the first time they tak"
+  },
+  {
+    "NewsId": 3,
+    "NewsURL": "https://www.news.com.au/entertainment/",
+    "NewsDate": "2019-04-25 00:00:00.000000",
+    "Newstitle": "Avenger End Game",
+    "NewsSource": "News",
+    "NewsDescription": "Avengers: Endgame smashed Australian box office records after only one day in release.\r\n\r\nThe movie extravaganza, featuring characters from Marvel?s 22-picture franchise, broke the record for the high"
+  },
+  {
+    "NewsId": 4,
+    "NewsURL": "https://economictimes.indiatimes.com/markets",
+    "NewsDate": "2019-04-25 00:00:00.000000",
+    "Newstitle": "Is Team Mindtree com",
+    "NewsSource": "News",
+    "NewsDescription": "In signs that the MindtreeNSE -0.04 % management is coming to terms with the changed reality in management control, the promoters are said to be seeking details of the ?contours of the independence? b"
+  },
+  {
+    "NewsId": 5,
+    "NewsURL": "https://www.hindustantimes.com/tech",
+    "NewsDate": "2019-04-25 00:00:00.000000",
+    "Newstitle": "Cloud push continues",
+    "NewsSource": "News",
+    "NewsDescription": "Microsoft Corp.?s cloud computing business fuelled quarterly sales and profit that topped analysts? estimates, boosted by several new deals with large corporate clients.\r\n\r\nRevenue rose 14 % from a ye"
+  }
+]
