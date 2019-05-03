@@ -1,14 +1,48 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
+[
+  {
+    "id": 12,
+    "nom": "automobile",
+    "realisation": 10,
+    "Taux_de_Croissance": "0.2%",
+    "sousbranch": [
+      {
+        "s_id": 100,
+        "s_nom": "Kerala",
+        "s_realisation": 20,
+        "s_Taux_de_Croissance": "0.2%"
+      },
+      {
+        "s_id": 10,
+        "s_nom": "nnn",
+        "s_realisation": 30,
+        "s_Taux_de_Croissance": "0.2%"
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "nom": "transport",
+    "realisation": 2,
+    "Taux_de_Croissance": "0.6%",
+    "sousbranch": [
+      {
+        "s_id": 120,
+        "s_nom": "Delhi",
+        "s_realisation": 40,
+        "s_Taux_de_Croissance": "0.2%"
+      },
+      {
+        "s_id": 10,
+        "s_nom": "fdv",
+        "s_realisation": 50,
+        "s_Taux_de_Croissance": "0.2%"
+      },
+      {
+        "s_id": 10,
+        "s_nom": "aaa",
+        "s_realisation": 60,
+        "s_Taux_de_Croissance": "0.2%"
+      }
+    ]
   }
-}
+]
