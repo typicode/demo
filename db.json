@@ -1,14 +1,6 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+[
+    {"Id":1, "Descripcion":"1er product", "FechaDeVencimiento":"01/01/1996", "Precio":52, "PathFoto":""},
+    {"Id":2, "Descripcion":"segundo product", "FechaDeVencimiento":"", "Precio":1, "PathFoto":""},
+    {"Id":3, "Descripcion":"un producto bueno", "FechaDeVencimiento":"", "Precio":22, "PathFoto":""},
+    {"Id":4, "Descripcion":"vencidisimo", "FechaDeVencimiento":"01/01/1996", "Precio":16, "PathFoto":"mariajusena"}
+]
