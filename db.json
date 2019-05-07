@@ -1,14 +1,28 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
+  "version": "1.0",
+  "sessionAttributes": {
+    "supportedHoroscopePeriods": {
+      "daily": true,
+      "weekly": false,
+      "monthly": false
+    }
+  },
+  "response": {
+    "outputSpeech": {
+      "type": "PlainText",
+      "text": "Today will provide you a new learning opportunity.  Stick with it and the possibilities will be endless. Can I help you with anything else?"
+    },
+    "card": {
+      "type": "Simple",
+      "title": "Horoscope",
+      "content": "Today will provide you a new learning opportunity.  Stick with it and the possibilities will be endless."
+    },
+    "reprompt": {
+      "outputSpeech": {
+        "type": "PlainText",
+        "text": "Can I help you with anything else?"
+      }
+    },
+    "shouldEndSession": false
   }
 }
