@@ -1,14 +1,533 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "divisionmodels": [
+    {
+      "division": "D-1",
+      "section_code": "sc-1",
+      "section_name": "sn-1",
+      "id": 1
+    },
+    {
+      "division": "D-2",
+      "section_code": "sc-2",
+      "section_name": "sn-2",
+      "id": 2
+    },
+    {
+      "division": "D-3",
+      "section_code": "sc-3",
+      "section_name": "sn-3",
+      "id": 3
+    },
+    {
+      "division": "D-4",
+      "section_code": "sc-4",
+      "section_name": "sn-4",
+      "id": 4
+    }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+  "villages": [
+    {
+      "division_id": 1,
+      "village_name": "vn-1",
+      "village_code": "vc-1",
+      "id": 1
+    },
+    {
+      "division_id": 2,
+      "village_name": "vn-22",
+      "village_code": "vc-2",
+      "id": 2
+    },
+    {
+      "division_id": 3,
+      "village_name": "vn-3",
+      "village_code": "vc-3",
+      "id": 3
+    },
+    {
+      "division_id": 4,
+      "village_name": "vn-4",
+      "village_code": "vc-4",
+      "id": 4
+    },
+    {
+      "division_id": "3",
+      "village_name": "vn-5",
+      "village_code": "vc-5",
+      "id": 5
+    },
+    {
+      "division_id": "2",
+      "village_name": "vn-6",
+      "village_code": "vc-6",
+      "id": 6
+    },
+    {
+      "division_id": "3",
+      "village_name": "vn-7",
+      "village_code": "vc-7",
+      "id": 7
+    },
+    {
+      "division_id": "2",
+      "village_name": "vn-8",
+      "village_code": "vc-8",
+      "id": 8
+    },
+    {
+      "division_id": "1",
+      "village_name": "vn-9",
+      "village_code": "vc-9",
+      "id": 10
+    },
+    {
+      "division_id": "3",
+      "village_name": "vn-10",
+      "village_code": "vc-10",
+      "id": 11
+    },
+    {
+      "division_id": "3",
+      "village_name": "vn-11",
+      "village_code": "vc-11",
+      "id": 12
+    }
   ],
-  "profile": {
-    "name": "typicode"
-  }
+  "farmers": [
+    {
+      "LatLng": "{\"type\":\"Feature\",\"properties\":{},\"geometry\":{\"type\":\"Polygon\",\"coordinates\":[[[78.394608,17.441698],[78.394608,17.440877],[78.396329,17.440835],[78.396385,17.441581],[78.394608,17.4416980]]]}}",
+      "latitude": "17.4415783406459570",
+      "longitude": "78.39638292789460",
+      "csi_code": 1,
+      "rno": "rno-1",
+      "sysno": "sysno-1",
+      "village_id": "1",
+      "csi_name": "csi-1",
+      "litrary_status": "lts-1",
+      "City": "cty-1",
+      "person_id": 1,
+      "id": 1
+    },
+    {
+      "LatLng": "{\"type\":\"Feature\",\"properties\":{},\"geometry\":{\"type\":\"Polygon\",\"coordinates\":[[[78.393710,17.441411],[78.393621,17.441036],[78.39402,17.440769],[78.394312,17.44086],[78.394575,17.441286],[78.39439,17.441519],[78.394068,17.441514],[78.39371,17.441411]]]}}",
+      "latitude": "17.44117940",
+      "longitude": "78.39551270",
+      "person_id": 2,
+      "village_id": "2",
+      "csi_code": 2,
+      "rno": "rno-2",
+      "sysno": "sysno-2",
+      "csi_name": "csi-2",
+      "litrary_status": "lts-2",
+      "City": "cty-2",
+      "id": 2
+    },
+    {
+      "csi_code": 3,
+      "rno": "rno-3",
+      "sysno": "sysno-3",
+      "village_id": "3",
+      "csi_name": "csi-3",
+      "litrary_status": "lts-3",
+      "City": "cty-3",
+      "person_id": 3,
+      "latitude": "17.441125130388420",
+      "longitude": "78.397790678470780",
+      "LatLng": "{\"type\":\"Feature\",\"properties\":{},\"geometry\":{\"type\":\"Polygon\",\"coordinates\":[[[78.396648,17.441079],[78.396701,17.440749],[78.396934,17.439737],[78.397483,17.440084],[78.397488,17.440334],[78.397137,17.44042],[78.39722,17.440647],[78.39719,17.441039],[78.396648,17.4410790]]]}}",
+      "id": 3
+    },
+    {
+      "csi_code": 4,
+      "rno": "rno-4",
+      "sysno": "sysno-4",
+      "village_id": "4",
+      "csi_name": "csi-4",
+      "litrary_status": "lts-4",
+      "City": "cty-4",
+      "person_id": 4,
+      "latitude": "17.440928941079480",
+      "longitude": "78.394843606182460",
+      "LatLng": "{\"type\":\"Feature\",\"properties\":{},\"geometry\":{\"type\":\"Polygon\",\"coordinates\":[[[78.392557,17.4421120],[78.392503,17.441771],[78.392903,17.441748],[78.392998,17.442004],[78.392557,17.442112]]]}}",
+      "id": 4
+    }
+  ],
+  "landvillages": [
+    {
+      "land_village_code": "lvc-1",
+      "land_village": "lv-1",
+      "village_id": "7",
+      "plot_no": "plno-1",
+      "distance": "1 km",
+      "east": "e-1",
+      "west": "w-1",
+      "north": "n-1",
+      "south": "s-1",
+      "id": 1
+    },
+    {
+      "land_village_code": "lvc-2",
+      "land_village": "lv-2",
+      "village_id": "2",
+      "plot_no": "plno-2",
+      "distance": "2 km",
+      "east": "e-2",
+      "west": "w-2",
+      "north": "n-2",
+      "south": "s-2",
+      "id": 2
+    },
+    {
+      "land_village_code": "lvc-3",
+      "land_village": "lv-3",
+      "village_id": "3",
+      "plot_no": "plno-2",
+      "distance": "3 km",
+      "east": "e-3",
+      "west": "w-3",
+      "north": "n-3",
+      "south": "s-3",
+      "id": 3
+    }
+  ],
+  "applicationtreatments": [
+    {
+      "date": "2019-04-13",
+      "application_treatment": "lv-1",
+      "farmer_land_village_id": "2",
+      "applied": "apl-1",
+      "ssp": "ssp-1",
+      "mcp": "mcp-1",
+      "id": 1
+    },
+    {
+      "date": "2019-04-26",
+      "application_treatment": "lv-2",
+      "farmer_land_village_id": "3",
+      "applied": "appl-2",
+      "ssp": "ssp-2",
+      "mcp": "mcp-2",
+      "id": 2
+    },
+    {
+      "date": "2019-04-13",
+      "application_treatment": "lv-3",
+      "farmer_land_village_id": "2",
+      "applied": "aapl-3",
+      "ssp": "ssp-3",
+      "mcp": "mcp-3",
+      "id": 3
+    },
+    {
+      "date": "2019-04-06",
+      "application_treatment": "lv-4",
+      "farmer_land_village_id": "2",
+      "applied": "appl-4",
+      "ssp": "ssp-4",
+      "mcp": "mcp-4",
+      "id": 4
+    },
+    {
+      "date": "2019-05-22T12:08:55.000Z",
+      "application_treatment": "uyuyiuy",
+      "applied": "lklj",
+      "farmer_land_village_id": "2",
+      "ssp": "kjkjkkj",
+      "mcp": "jlkjll",
+      "id": 5
+    }
+  ],
+  "seasons": [
+    {
+      "Farmers_id": "3",
+      "land_village_id": "2",
+      "season_start": "2019-04-01",
+      "extent": "ext-1",
+      "expected_planting": "2019-04-28",
+      "expected_harvesting": "2019-04-01",
+      "current_variety": "cv-1",
+      "previous_variety": "pv-1",
+      "plant_type": "pt-1",
+      "total_acres": "ta-1",
+      "measurement_acres": "ma-1",
+      "estimated_yield": "ey-1",
+      "applied": "app-1",
+      "offer_no": "offer-1",
+      "offer_date": "2019-04-19",
+      "agreement_date": "2019-04-27",
+      "agreement_acre": 10,
+      "agreement_tonne": 9,
+      "id": 1
+    },
+    {
+      "season_start": "2019-04-13",
+      "expected_harvesting": "2019-05-11",
+      "Farmers_id": "2",
+      "current_variety": "cv-2",
+      "plant_type": "pt-2",
+      "measurement_acres": "ma-2",
+      "estimated_yield": "ey-2",
+      "applied": "app-2",
+      "offer_date": "2019-04-27",
+      "agreement_acre": 20,
+      "agreement_tonne": 18,
+      "agreement_date": "2019-05-02",
+      "offer_no": "ono-2",
+      "total_acres": "20",
+      "previous_variety": "pv-2",
+      "land_village_id": "3",
+      "expected_planting": "2019-04-20",
+      "extent": "ext-2",
+      "id": 2
+    }
+  ],
+  "loans": [
+    {
+      "sb_acno": "sb-acn0-1",
+      "loan_no": "loan-no-1",
+      "Farmers_id": "5",
+      "loan_ac_Farmers_id": "lald-1",
+      "folio_no": "fno-1",
+      "loan_ac_folio_no": "lacfno-1",
+      "id": 1,
+      "ledger_no": "lg-no-1",
+      "loan_ac_ledger_no": "laln-1",
+      "payment_mode": "pm-1"
+    },
+    {
+      "sb_acno": "sb-ac-2",
+      "loan_no": "la-no-2",
+      "ledger_no": "le-n0-2",
+      "loan_ac_ledger_no": "laln-2",
+      "folio_no": "f-no-2",
+      "loan_ac_folio_no": "lafn-2",
+      "Farmers_id": "2",
+      "id": 2,
+      "payment_mode": "pm-2"
+    }
+  ],
+  "banks": [
+    {
+      "bank": "Icici",
+      "branch_address": "Madhapur",
+      "bank_code": "007",
+      "id": 1
+    },
+    {
+      "bank": "Hdfc",
+      "branch_address": "Jubli Hills",
+      "bank_code": "008",
+      "id": 2
+    },
+    {
+      "bank": "Axis",
+      "branch_address": "Banjara Hills",
+      "bank_code": "009",
+      "id": 3
+    }
+  ],
+  "farmerbanks": [
+    {
+      "account_no": "acc-n0-1",
+      "Farmers_id": "5",
+      "bank_id": "2",
+      "id": 1
+    },
+    {
+      "account_no": "acc-n0-2",
+      "Farmers_id": "4",
+      "bank_id": "1",
+      "id": 2
+    },
+    {
+      "account_no": "acc-n0-3",
+      "Farmers_id": "5",
+      "bank_id": "3",
+      "id": 3
+    },
+    {
+      "account_no": "acno-4",
+      "Farmers_id": "4",
+      "bank_id": "2",
+      "id": 4
+    },
+    {
+      "account_no": "acno-5",
+      "Farmers_id": "5",
+      "bank_id": "2",
+      "id": 5
+    },
+    {
+      "account_no": "acno-6",
+      "Farmers_id": "6",
+      "bank_id": "3",
+      "id": 6
+    }
+  ],
+  "persons": [
+    {
+      "first_name": "Nalini",
+      "middle_name": "Raju",
+      "last_name": "Suraparaju",
+      "address": "Tirupathi",
+      "city": "Andhra Pradesh",
+      "email": "naliniraju@gmail.com",
+      "id": 1
+    },
+    {
+      "first_name": "Rajasekhar",
+      "middle_name": "Reddy",
+      "last_name": "Suravarapu",
+      "address": "Madhapur",
+      "city": "Hyderabad",
+      "email": "rajaselhar@gmail.com",
+      "id": 2
+    },
+    {
+      "first_name": "Amarendra",
+      "middle_name": "Naidu",
+      "last_name": "Naravari",
+      "address": "HSR Layout",
+      "city": "bangalore",
+      "email": "amarraju@gmail.com",
+      "id": 3
+    }
+  ],
+  "guarantors": [
+    {
+      "season_id": "2",
+      "season_land_village_id": "2",
+      "person_id": "3",
+      "id": 1,
+      "season_Farmers_id": "1"
+    },
+    {
+      "season_id": "2",
+      "season_Farmers_id": "1",
+      "season_land_village_id": "2",
+      "person_id": "3",
+      "id": 2
+    }
+  ],
+  "farmerrelations": [
+    {
+      "related_to_csi": "rtc-1",
+      "relationship_type": "rt-1",
+      "person_id": "3",
+      "id": 1
+    },
+    {
+      "related_to_csi": "rtc-2",
+      "relationship_type": "rt-2",
+      "person_id": "1",
+      "id": 2
+    },
+    {
+      "related_to_csi": "rtc-3",
+      "relationship_type": "rt-3",
+      "person_id": "2",
+      "id": 3
+    }
+  ],
+  "phones": [
+    {
+      "phone_type": "Airtel",
+      "number": "+91-7760546432",
+      "person_id": "1",
+      "id": 1
+    },
+    {
+      "phone_type": "Vodafone",
+      "number": "+91-7684567890",
+      "person_id": "2",
+      "id": 2
+    },
+    {
+      "phone_type": "Jio",
+      "number": "+91-6543218907",
+      "person_id": "3",
+      "id": 3
+    }
+  ],
+  "plotvisits": [
+    {
+      "condition": "cnd-1",
+      "identification": "id-1",
+      "advice_given": "ag-1",
+      "season_id": "1",
+      "id": 1,
+      "timestamp": "2019-04-30"
+    },
+    {
+      "condition": "cnd-2",
+      "identification": "id-2",
+      "advice_given": "ag-2",
+      "season_id": "2",
+      "id": 2,
+      "timestamp": "2019-04-30"
+    },
+    {
+      "condition": "cnd-3",
+      "identification": "id-3",
+      "advice_given": "ag-3",
+      "season_id": "1",
+      "id": 3,
+      "timestamp": "2019-04-30"
+    },
+    {
+      "condition": "uyuiyiy",
+      "identification": "uyiuy",
+      "advice_given": "iuyuy",
+      "season_id": "2",
+      "timestamp": "2019-04-30",
+      "id": 4
+    }
+  ],
+  "crops": [
+    {
+      "crop_name": "cn-1",
+      "crop_scientific_name": "csn-1",
+      "id": 1
+    },
+    {
+      "crop_name": "cn-2",
+      "crop_scientific_name": "csn-2",
+      "id": 2
+    },
+    {
+      "crop_name": "cn-3",
+      "crop_scientific_name": "csn-3",
+      "id": 3
+    },
+    {
+      "crop_name": "cn-4",
+      "crop_scientific_name": "csn-4",
+      "id": 4
+    }
+  ],
+  "varietees": [
+    {
+      "variety": "v-1",
+      "variety_scientific_name": "vsn-1",
+      "crop_id": "3",
+      "id": 1
+    },
+    {
+      "variety": "v-2",
+      "variety_scientific_name": "vsn-2",
+      "crop_id": "4",
+      "id": 2
+    },
+    {
+      "variety": "v3",
+      "variety_scientific_name": "vsn-3",
+      "crop_id": "1",
+      "id": 3
+    },
+    {
+      "variety": "v-4",
+      "variety_scientific_name": "vsn-4",
+      "crop_id": "2",
+      "id": 4
+    }
+  ]
 }
