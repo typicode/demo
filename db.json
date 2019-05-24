@@ -1,14 +1,1 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+[{"type":"boat","name":"QuickSilver Activ 470 Cabin","speed":50,"capacity":4,"maxpower":80},{"type":"auto","name":"Toyota Corolla","speed":180,"capacity":5,"body":"sedan"},{"type":"airplane","name":"Boeing 747-100","speed":955,"capacity":452,"wingspan":59.6},{"type":"airplane","name":"Airbus A320","speed":910,"capacity":180,"wingspan":34.1},{"type":"auto","name":"Mercedes Benz SLK","speed":240,"capacity":2,"body":"roadster"},{"type":"auto","name":"Honda CRV","speed":180,"capacity":7,"body":"suv"},{"type":"auto","name":"Mazda MX-5","speed":180,"capacity":2,"body":"roadster"},{"type":"airplane","name":"Tu-154","speed":950,"capacity":180,"wingspan":37.55},{"type":"boat","name":"Corvet 750","speed":80,"capacity":8,"maxpower":300},{"type":"auto","name":"Lexus IS250","speed":200,"capacity":5,"body":"sedan"}]
