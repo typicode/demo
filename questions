@@ -1,0 +1,112 @@
+{
+    "questions": [
+        {
+            "id": 1,
+            "name": "Which is the largest country in the world by population?",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1,
+                    "questionId": 1,
+                    "name": "India",
+                    "isAnswer": false
+                },
+                {
+                    "id": 2,
+                    "questionId": 1,
+                    "name": "USA",
+                    "isAnswer": false
+                },
+                {
+                    "id": 3,
+                    "questionId": 1,
+                    "name": "China",
+                    "isAnswer": true
+                },
+                {
+                    "id": 4,
+                    "questionId": 1,
+                    "name": "Russia",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 2,
+            "name": "When did the second world war end?",
+            "questionTypeId": 2,
+            "options": [
+                {
+                    "id": 1,
+                    "questionId": 2,
+                    "name": "1945",
+                    "isAnswer": true
+                },
+                {
+                    "id": 2,
+                    "questionId":2,
+                    "name": "1939",
+                    "isAnswer": false
+                },
+                {
+                    "id": 3,
+                    "questionId": 2,
+                    "name": "1944",
+                    "isAnswer": true
+                },
+                {
+                    "id": 4,
+                    "questionId": 2,
+                    "name": "1942",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 2,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 3,
+            "name": "Which was the first country to issue paper currency?",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1,
+                    "questionId": 3,
+                    "name": "USA",
+                    "isAnswer": false
+                },
+                {
+                    "id": 2,
+                    "questionId":3,
+                    "name": "France",
+                    "isAnswer": false
+                },
+                {
+                    "id": 3,
+                    "questionId": 3,
+                    "name": "Italy",
+                    "isAnswer": false
+                },
+                {
+                    "id": 4,
+                    "questionId": 3,
+                    "name": "China",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 3,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        }       
+    ]
+}
