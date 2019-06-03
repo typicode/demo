@@ -1,14 +1,59 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+ data: [
+                {
+                    id: 1,
+                    Student_Name: 'A',
+                    Roll_No: '1514313001',
+                    Marks: 20,
+                    Total_Marks: 50,
+                    email: 'abc@getMaxListeners.com',
+                    contact: '123456789'
+
+                },
+                {
+                    id: 2,
+                    Student_Name: 'B',
+                    Roll_No: '1514313002',
+                    Marks: 37,
+                    Total_Marks: 50,
+                    email: 'abc@getMaxListeners.com',
+                    contact: '123456789'
+                },
+                {
+                    id: 3,
+                    Student_Name: 'C',
+                    Roll_No: '1514313003',
+                    Marks: 47,
+                    Total_Marks: 50,
+                    email: 'abc@getMaxListeners.com',
+                    contact: '123456789'
+                },
+                {
+                    id: 2,
+                    Student_Name: 'B',
+                    Roll_No: '1514313002',
+                    Marks: 37,
+                    Total_Marks: 50,
+                    email: 'abc@getMaxListeners.com',
+                    contact: '123456789'
+                },
+                {
+                    id: 3,
+                    Student_Name: 'C',
+                    Roll_No: '1514313003',
+                    Marks: 47,
+                    Total_Marks: 50,
+                    email: 'abc@getMaxListeners.com',
+                    contact: '123456789'
+                },
+                {
+                    id: 4,
+                    Student_Name: 'D',
+                    Roll_No: '1514313004',
+                    Marks: 45,
+                    Total_Marks: 50,
+                    email: 'abc@getMaxListeners.com',
+                    contact: '123456789'
+                },
+            ]
+            
+               
