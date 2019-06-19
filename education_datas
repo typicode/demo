@@ -1,0 +1,18 @@
+{
+  "name_school": [
+    { "id": 1, "name": "Post 1" },
+    { "id": 2, "name": "Post 2" },
+  ],
+  "name_diplome": [
+    { "id": 1, "diplome_title": "some comment", "postId": 1 },
+    { "id": 2, "diplome_title": "some comment", "postId": 1 }
+  ],
+  "date": [
+    { "id": 1, "date" },
+    { "id": 2, "date" }
+  ],
+  "location": [
+    { "id": 1, "location" },
+    { "id": 2, "location" }
+  ],
+}
