@@ -10,5 +10,9 @@
   ],
   "profile": {
     "name": "typicode"
+  },
+ "login": {
+     "email": "test@gmail.com",
+     "password": "121212"    
   }
 }
