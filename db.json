@@ -1,14 +1,109 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
+[
+  {
+    "id":1,
+    "image" :
+    {
+      "src" : "images/himym.jpg",
+      "alt" : "how-i-met-your-mother",
+      "width": "200",
+      "height" : "200",
+      "title" : "How I met your mother"
+    },
+    "genre" : "Comedy",
+    "roles" :
+    [
+      {
+        "firstName": "Cobie",
+        "lastName": "Smulders",
+        "akaFirstName" : "Robin",
+        "akaLastName" : "Scherbatsky"
+      },
+      {
+        "firstName": "Josh",
+        "lastName": "Radnor",
+        "akaFirstName" : "Ted",
+        "akaLastName" : "Mosby"
+      },
+      {
+        "firstName" : "Jason",
+        "lastName": "Segel",
+        "akaFirstName" : "Marshall",
+        "akaLastName" : "Eriksen"
+      },
+      {
+      "firstName" : "Alyson",
+      "lastName": "Hannigan",
+      "akaFirstName" : "Lilly",
+      "akaLastName" : "Aldrin"
+      },
+      {
+        "firstName" : "Neil Patrick",
+        "lastName": "Harris",
+        "akaFirstName" : "Barney",
+        "akaLastName" : "Stinson"
+      },
+      {
+        "firstName" : "Cristin",
+        "lastName": "Milioti",
+        "akaFirstName" : "Tracy",
+        "akaLastName" : "McConnell"
+      }
+    ],
+    "yearShowing": "2005-2013",
+    "synopsis": "Ted Mosby sits down with his kids, to tell them the story of how he met their mother. The story is told through memories of his friends Marshall, Lily, Robin, and Barney Stinson. All legendary 9 seasons lead up to the moment of Ted's final encounter with \"the one\" girl with yellow umbrella"
+  },
+  {
+    "id":2,
+    "image" :
+    {
+      "src" : "images/.jpg",
+      "alt" : "how-i-met-your-mother",
+      "width": "200",
+      "height" : "200",
+      "title" : "Two and a half men"
+    },
+    "genre" : "Comedy",
+    "roles" :
+    [
+      {
+        "firstName": "Charlie",
+        "lastName": "Sheen",
+        "akaFirstName" : "Charlie",
+        "akaLastName" : "Harper"
+      },
+      {
+        "firstName": "Jon",
+        "lastName": "Cryer",
+        "akaFirstName" : "Alan",
+        "akaLastName" : "Harper"
+      },
+      {
+        "firstName" : "Emmanuelle",
+        "lastName": "Vaugier",
+        "akaFirstName" : "Mia",
+        "akaLastName" : ""
+      },
+      {
+        "firstName" : "Marin ",
+        "lastName": "Hinkle",
+        "akaFirstName" : "Judith",
+        "akaLastName" : "Harper"
+      },
+      {
+        "firstName" : "Ashton",
+        "lastName": "Kutcher",
+        "akaFirstName" : "Walden",
+        "akaLastName" : "Schmidt"
+      },
+      {
+        "firstName" : "Melani",
+        "lastName": "Lynskey",
+        "akaFirstName" : "Rose",
+        "akaLastName" : ""
+      }
+    ],
+    "yearShowing": "2003-2015",
+    "synopsis": "Harper brothers Charlie and Alan are almost opposites but form a great team. They have little in common except their dislike for their mundane, maternally cold and domineering mother, Evelyn. Alan, a compulsively neat chiropractor and control-freak, is thrown out by his manipulative wife Judith who nevertheless gets him to pay for everything and do most jobs in the house. Charlie is a freelance jingle composer and irresistible Cassanova who lives in a luxurious beach-house and rarely gets up before noon. Charlie \"temporarily\" allows Alan and his son Jake, a food-obsessed, lazy kid who shuttles between his parents, to move in with them after Alan's separation/divorce. The sitcom revolves around their conflicting lifestyles, raising Jake (who has the efficient, caring dad while having a ball with his fun-loving sugar uncle who teaches him boyish things), and bantering with Evelyn and various other friends and family. Other fairly regular characters include Charlie's cleaning lady"
   }
-}
+]
+
