@@ -9,6 +9,10 @@
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
   "profile": {
-    "name": "typicode"
-  }
+    "name": 
+     "typicode"
+  },
+  "login": {
+      "email": "test@gmail.com"
+      "password" : "121212"
 }
