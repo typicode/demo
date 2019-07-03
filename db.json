@@ -1,14 +1,705 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "actor": [],
+  "administrator": [
+    {
+      "id": "69",
+      "version": "0",
+      "address": "",
+      "email": "x@gmail.com",
+      "is_banned": "\\0",
+      "is_flagged": "\\0",
+      "name": "Señor",
+      "phone_number": "+1 (420) 4206969",
+      "photo": "",
+      "surnames": "X",
+      "user_account": "62"
+    }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+  "application": [],
+  "chapter": [],
+  "comment": [],
+  "critic": [
+    {
+      "id": "73",
+      "version": "0",
+      "address": "",
+      "email": "trigo@gmail.com",
+      "is_banned": "\\0",
+      "is_flagged": "\\0",
+      "name": "Javier",
+      "phone_number": "+1 (963) 111222",
+      "photo": "",
+      "surnames": "Z",
+      "user_account": "66"
+    }
   ],
-  "profile": {
-    "name": "typicode"
-  }
+  "critique": [],
+  "finder": [
+    {
+      "id": "105",
+      "version": "0",
+      "keyword": "",
+      "max_date": "2022-07-12",
+      "min_date": "2000-01-01",
+      "user": "74"
+    },
+    {
+      "id": "106",
+      "version": "0",
+      "keyword": "",
+      "max_date": "2019-12-12",
+      "min_date": "2018-11-11",
+      "user": "74"
+    }
+  ],
+  "finder_series": [],
+  "hibernate_sequences": [
+    {
+      "sequence_name": "domain_entity",
+      "sequence_next_hi_value": "2"
+    }
+  ],
+  "message": [],
+  "message_box": [
+    {
+      "id": "76",
+      "version": "0",
+      "is_system": "\u0001",
+      "name": "InBox",
+      "actor": "69"
+    },
+    {
+      "id": "77",
+      "version": "0",
+      "is_system": "\u0001",
+      "name": "OutBox",
+      "actor": "69"
+    },
+    {
+      "id": "78",
+      "version": "0",
+      "is_system": "\u0001",
+      "name": "SpamBox",
+      "actor": "69"
+    },
+    {
+      "id": "79",
+      "version": "0",
+      "is_system": "\u0001",
+      "name": "TrashBox",
+      "actor": "69"
+    },
+    {
+      "id": "84",
+      "version": "0",
+      "is_system": "\u0001",
+      "name": "InBox",
+      "actor": "71"
+    },
+    {
+      "id": "85",
+      "version": "0",
+      "is_system": "\u0001",
+      "name": "OutBox",
+      "actor": "71"
+    },
+    {
+      "id": "86",
+      "version": "0",
+      "is_system": "\u0001",
+      "name": "SpamBox",
+      "actor": "71"
+    },
+    {
+      "id": "87",
+      "version": "0",
+      "is_system": "\u0001",
+      "name": "TrashBox",
+      "actor": "71"
+    },
+    {
+      "id": "92",
+      "version": "0",
+      "is_system": "\u0001",
+      "name": "InBox",
+      "actor": "73"
+    },
+    {
+      "id": "93",
+      "version": "0",
+      "is_system": "\u0001",
+      "name": "OutBox",
+      "actor": "73"
+    },
+    {
+      "id": "94",
+      "version": "0",
+      "is_system": "\u0001",
+      "name": "SpamBox",
+      "actor": "73"
+    },
+    {
+      "id": "95",
+      "version": "0",
+      "is_system": "\u0001",
+      "name": "TrashBox",
+      "actor": "73"
+    },
+    {
+      "id": "96",
+      "version": "0",
+      "is_system": "\u0001",
+      "name": "InBox",
+      "actor": "74"
+    },
+    {
+      "id": "97",
+      "version": "0",
+      "is_system": "\u0001",
+      "name": "OutBox",
+      "actor": "74"
+    },
+    {
+      "id": "98",
+      "version": "0",
+      "is_system": "\u0001",
+      "name": "SpamBox",
+      "actor": "74"
+    },
+    {
+      "id": "99",
+      "version": "0",
+      "is_system": "\u0001",
+      "name": "TrashBox",
+      "actor": "74"
+    },
+    {
+      "id": "100",
+      "version": "0",
+      "is_system": "\u0001",
+      "name": "InBox",
+      "actor": "75"
+    },
+    {
+      "id": "101",
+      "version": "0",
+      "is_system": "\u0001",
+      "name": "OutBox",
+      "actor": "75"
+    },
+    {
+      "id": "102",
+      "version": "0",
+      "is_system": "\u0001",
+      "name": "SpamBox",
+      "actor": "75"
+    },
+    {
+      "id": "103",
+      "version": "0",
+      "is_system": "\u0001",
+      "name": "TrashBox",
+      "actor": "75"
+    }
+  ],
+  "message_message_boxes": [],
+  "message_recipients": [],
+  "publisher": [
+    {
+      "id": "71",
+      "version": "0",
+      "address": "",
+      "email": "marya@gmail.com",
+      "is_banned": "\\0",
+      "is_flagged": "\\0",
+      "name": "María",
+      "phone_number": "+34 (999) 678123",
+      "photo": "",
+      "surnames": "Antonia",
+      "user_account": "64"
+    }
+  ],
+  "season": [],
+  "season_chapters": [],
+  "serie": [
+    {
+      "id": "114",
+      "version": "0",
+      "banner": "",
+      "cast": "Ricardo y Mórtimer",
+      "description": "Mira esto y te aceptarán en Hardvard y te llevarás todos los nobels",
+      "director": "un nota",
+      "end_date": null,
+      "is_draft": "\u0001",
+      "start_date": "2000-01-01",
+      "status": "ON EMISSION",
+      "title": "Rick y Morty",
+      "publisher": "71"
+    }
+  ],
+  "serie_favourited_users": [],
+  "serie_pending_users": [],
+  "serie_seasons": [],
+  "serie_watched_users": [],
+  "serie_watching_users": [],
+  "social_profile": [
+    {
+      "id": "107",
+      "version": "0",
+      "nick": "aaa",
+      "profile_link": "http://www.facebook.com",
+      "social_network_name": "facebook",
+      "actor": "74"
+    },
+    {
+      "id": "108",
+      "version": "0",
+      "nick": "bbb",
+      "profile_link": "http://www.twitter.com",
+      "social_network_name": "twitter",
+      "actor": "75"
+    }
+  ],
+  "system_configuration": [
+    {
+      "id": "61",
+      "version": "0",
+      "banner": "",
+      "default_country_code": "34",
+      "maximum_finder_results": "10",
+      "system_name": "Acme Series"
+    }
+  ],
+  "system_configuration_negative_words": [
+    {
+      "system_configuration": "61",
+      "negative_words": "bad"
+    },
+    {
+      "system_configuration": "61",
+      "negative_words": "negative"
+    },
+    {
+      "system_configuration": "61",
+      "negative_words": "deplorable"
+    },
+    {
+      "system_configuration": "61",
+      "negative_words": "disappointing"
+    },
+    {
+      "system_configuration": "61",
+      "negative_words": "regretful"
+    },
+    {
+      "system_configuration": "61",
+      "negative_words": "disaster"
+    },
+    {
+      "system_configuration": "61",
+      "negative_words": "aberration"
+    },
+    {
+      "system_configuration": "61",
+      "negative_words": "worse"
+    },
+    {
+      "system_configuration": "61",
+      "negative_words": "awful"
+    },
+    {
+      "system_configuration": "61",
+      "negative_words": "disastrous"
+    },
+    {
+      "system_configuration": "61",
+      "negative_words": "garbage"
+    },
+    {
+      "system_configuration": "61",
+      "negative_words": "rubbish"
+    },
+    {
+      "system_configuration": "61",
+      "negative_words": "so-so"
+    },
+    {
+      "system_configuration": "61",
+      "negative_words": "horrible"
+    },
+    {
+      "system_configuration": "61",
+      "negative_words": "malo"
+    },
+    {
+      "system_configuration": "61",
+      "negative_words": "mala"
+    },
+    {
+      "system_configuration": "61",
+      "negative_words": "negativo"
+    },
+    {
+      "system_configuration": "61",
+      "negative_words": "negativa"
+    },
+    {
+      "system_configuration": "61",
+      "negative_words": "decepcionante"
+    },
+    {
+      "system_configuration": "61",
+      "negative_words": "lamentable"
+    },
+    {
+      "system_configuration": "61",
+      "negative_words": "desastre"
+    },
+    {
+      "system_configuration": "61",
+      "negative_words": "aberración"
+    },
+    {
+      "system_configuration": "61",
+      "negative_words": "peor"
+    },
+    {
+      "system_configuration": "61",
+      "negative_words": "pésimo"
+    },
+    {
+      "system_configuration": "61",
+      "negative_words": "pésima"
+    },
+    {
+      "system_configuration": "61",
+      "negative_words": "desastroso"
+    },
+    {
+      "system_configuration": "61",
+      "negative_words": "desastrosa"
+    },
+    {
+      "system_configuration": "61",
+      "negative_words": "bodrio"
+    },
+    {
+      "system_configuration": "61",
+      "negative_words": "basura"
+    },
+    {
+      "system_configuration": "61",
+      "negative_words": "mediocre"
+    }
+  ],
+  "system_configuration_positive_words": [
+    {
+      "system_configuration": "61",
+      "positive_words": "good"
+    },
+    {
+      "system_configuration": "61",
+      "positive_words": "positive"
+    },
+    {
+      "system_configuration": "61",
+      "positive_words": "excellent"
+    },
+    {
+      "system_configuration": "61",
+      "positive_words": "successful"
+    },
+    {
+      "system_configuration": "61",
+      "positive_words": "better"
+    },
+    {
+      "system_configuration": "61",
+      "positive_words": "best"
+    },
+    {
+      "system_configuration": "61",
+      "positive_words": "optimal"
+    },
+    {
+      "system_configuration": "61",
+      "positive_words": "fantastic"
+    },
+    {
+      "system_configuration": "61",
+      "positive_words": "unbelievable"
+    },
+    {
+      "system_configuration": "61",
+      "positive_words": "astonishing"
+    },
+    {
+      "system_configuration": "61",
+      "positive_words": "magnificent"
+    },
+    {
+      "system_configuration": "61",
+      "positive_words": "impressing"
+    },
+    {
+      "system_configuration": "61",
+      "positive_words": "great"
+    },
+    {
+      "system_configuration": "61",
+      "positive_words": "genial"
+    },
+    {
+      "system_configuration": "61",
+      "positive_words": "amazing"
+    },
+    {
+      "system_configuration": "61",
+      "positive_words": "terrific"
+    },
+    {
+      "system_configuration": "61",
+      "positive_words": "marvellous"
+    },
+    {
+      "system_configuration": "61",
+      "positive_words": "wonderful"
+    },
+    {
+      "system_configuration": "61",
+      "positive_words": "master piece"
+    },
+    {
+      "system_configuration": "61",
+      "positive_words": "wonder"
+    },
+    {
+      "system_configuration": "61",
+      "positive_words": "fascinating"
+    },
+    {
+      "system_configuration": "61",
+      "positive_words": "bueno"
+    },
+    {
+      "system_configuration": "61",
+      "positive_words": "buena"
+    },
+    {
+      "system_configuration": "61",
+      "positive_words": "positivo"
+    },
+    {
+      "system_configuration": "61",
+      "positive_words": "positiva"
+    },
+    {
+      "system_configuration": "61",
+      "positive_words": "excelente"
+    },
+    {
+      "system_configuration": "61",
+      "positive_words": "satisfactorio"
+    },
+    {
+      "system_configuration": "61",
+      "positive_words": "satisfactoria"
+    },
+    {
+      "system_configuration": "61",
+      "positive_words": "mejor"
+    },
+    {
+      "system_configuration": "61",
+      "positive_words": "óptimo"
+    },
+    {
+      "system_configuration": "61",
+      "positive_words": "óptima"
+    },
+    {
+      "system_configuration": "61",
+      "positive_words": "fantástico"
+    },
+    {
+      "system_configuration": "61",
+      "positive_words": "fantástica"
+    },
+    {
+      "system_configuration": "61",
+      "positive_words": "increíble"
+    },
+    {
+      "system_configuration": "61",
+      "positive_words": "asombroso"
+    },
+    {
+      "system_configuration": "61",
+      "positive_words": "asombrosa"
+    },
+    {
+      "system_configuration": "61",
+      "positive_words": "magnífico"
+    },
+    {
+      "system_configuration": "61",
+      "positive_words": "magnífica"
+    },
+    {
+      "system_configuration": "61",
+      "positive_words": "impresionante"
+    },
+    {
+      "system_configuration": "61",
+      "positive_words": "maravilla"
+    },
+    {
+      "system_configuration": "61",
+      "positive_words": "obra maestra"
+    },
+    {
+      "system_configuration": "61",
+      "positive_words": "fascinante"
+    }
+  ],
+  "system_configuration_spam_words": [
+    {
+      "system_configuration": "61",
+      "spam_words": "sex"
+    },
+    {
+      "system_configuration": "61",
+      "spam_words": "viagra"
+    },
+    {
+      "system_configuration": "61",
+      "spam_words": "cialis"
+    },
+    {
+      "system_configuration": "61",
+      "spam_words": "one million"
+    },
+    {
+      "system_configuration": "61",
+      "spam_words": "you\\'ve been selected"
+    },
+    {
+      "system_configuration": "61",
+      "spam_words": "you have been selected"
+    },
+    {
+      "system_configuration": "61",
+      "spam_words": "Nigeria"
+    },
+    {
+      "system_configuration": "61",
+      "spam_words": "sexo"
+    },
+    {
+      "system_configuration": "61",
+      "spam_words": "un millón"
+    },
+    {
+      "system_configuration": "61",
+      "spam_words": "ha sido seleccionado"
+    },
+    {
+      "system_configuration": "61",
+      "spam_words": "has sido seleccionado"
+    }
+  ],
+  "system_configuration_welcome_message": [
+    {
+      "system_configuration": "61",
+      "welcome_message": "Welcome to Acme Series!",
+      "welcome_message_key": "en"
+    },
+    {
+      "system_configuration": "61",
+      "welcome_message": "¡Bienvenidos a Acme Series!",
+      "welcome_message_key": "es"
+    }
+  ],
+  "user": [
+    {
+      "id": "74",
+      "version": "0",
+      "address": "",
+      "email": "pb@gmail.com",
+      "is_banned": "\\0",
+      "is_flagged": "\\0",
+      "name": "Pablo",
+      "phone_number": "+1 (777) 88888888",
+      "photo": "",
+      "surnames": "Bolo",
+      "user_account": "67"
+    },
+    {
+      "id": "75",
+      "version": "0",
+      "address": "",
+      "email": "aadd@gmail.com",
+      "is_banned": "\\0",
+      "is_flagged": "\\0",
+      "name": "Aa",
+      "phone_number": "+34 (123) 321123",
+      "photo": "",
+      "surnames": "Dd",
+      "user_account": "68"
+    }
+  ],
+  "user_account": [
+    {
+      "id": "62",
+      "version": "0",
+      "password": "e00cf25ad42683b3df678c61f42c6bda",
+      "username": "admin1"
+    },
+    {
+      "id": "64",
+      "version": "0",
+      "password": "a86cb59a9b6fbc864161dba10e59e24c",
+      "username": "publisher2"
+    },
+    {
+      "id": "66",
+      "version": "0",
+      "password": "88fc227c1f12e1f11b8b1584991c88fe",
+      "username": "critic2"
+    },
+    {
+      "id": "67",
+      "version": "0",
+      "password": "24c9e15e52afc47c225b757e7bee1f9d",
+      "username": "user1"
+    },
+    {
+      "id": "68",
+      "version": "0",
+      "password": "7e58d63b60197ceb55a1c487989a3720",
+      "username": "user2"
+    }
+  ],
+  "user_account_authorities": [
+    {
+      "user_account": "62",
+      "authority": "ADMINISTRATOR"
+    },
+    {
+      "user_account": "64",
+      "authority": "PUBLISHER"
+    },
+    {
+      "user_account": "66",
+      "authority": "CRITIC"
+    },
+    {
+      "user_account": "67",
+      "authority": "USER"
+    },
+    {
+      "user_account": "68",
+      "authority": "USER"
+    }
+  ]
 }
