@@ -1,14 +1,50 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+[  
+   {  
+      "id_u":"2",
+      "id_p":"1",
+      "nombre":"Dulce de coco",
+      "descripcion":"Papas fritas",
+      "categoria":"Fritura",
+      "precio_compra":"5.00",
+      "precio_produccion":"10.50",
+      "precio_venta":"18.00",
+      "fecha_registro":"2019-07-01",
+      "hora_registro":"21:53:59"
+   },
+   {  
+      "id_u":"2",
+      "id_p":"2",
+      "nombre":"Cacahuates",
+      "descripcion":"Cacahuates japoneses",
+      "categoria":"Fritura",
+      "precio_compra":"8.00",
+      "precio_produccion":"10.50",
+      "precio_venta":"12.00",
+      "fecha_registro":"2019-07-01",
+      "hora_registro":"17:39:36"
+   },
+   {  
+      "id_u":"2",
+      "id_p":"3",
+      "nombre":"Platanitos",
+      "descripcion":"Pl\u00e1tanos fritos",
+      "categoria":"Fritura",
+      "precio_compra":"12.45",
+      "precio_produccion":"10.50",
+      "precio_venta":"18.00",
+      "fecha_registro":"2019-07-01",
+      "hora_registro":"20:05:14"
+   },
+   {  
+      "id_u":"2",
+      "id_p":"4",
+      "nombre":"Garbanzos",
+      "descripcion":"Pl\u00e1tanos fritos",
+      "categoria":"Fritura",
+      "precio_compra":"12.45",
+      "precio_produccion":"9.00",
+      "precio_venta":"16.50",
+      "fecha_registro":"2019-07-01",
+      "hora_registro":"21:50:26"
+   }
+]
