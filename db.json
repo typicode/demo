@@ -1,4 +1,11 @@
 {
+  "products":[
+    {"id": 1, "productCode": "P001", "productName": "Headphone", "price": 1000, "brand": "iBall", "description": "Good" ,"rating": 4},
+    {"id": 2, "productCode": "P002", "productName": "Headphone", "price": 2000, "brand": "Dell", "description": "Good" ,"rating" :3},
+    {"id": 3, "productCode": "P003", "productName": "Headphone", "price": 3000, "brand": "RedMi", "description": "Good", "rating":3},
+    {"id": 4, "productCode": "P004", "productName": "Headphone", "price": 4000, "brand": "Samsung", "description": "Good", "rating":2},
+    {"id": 5, "productCode": "P005", "productName": "Headphone", "price": 5000, "brand": "Apple", "description": "Good", "rating":5},
+  ],
   "posts": [
     { "id": 1, "title": "Post 1" },
     { "id": 2, "title": "Post 2" },
