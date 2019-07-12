@@ -1,14 +1,37 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
+[
+  {
+    "id": 1,
+    "time": "2019/07/12 05:20",
+    "value": "26",
+  },
+  {
+    "id": 2,
+    "time": "2019/07/12 05:25",
+    "value": "5",
+  },
+  {
+    "id": 3,
+    "time": "2019/07/12 05:30",
+    "value": "26",
+  },
+  {
+    "id": 4,
+    "time": "2019/07/12 05:35",
+    "value": "2",
+  },
+  {
+    "id": 5,
+    "time": "2019/07/12 05:40",
+    "value": "26",
+  },
+  {
+    "id": 6,
+    "time": "2019/07/12 05:45",
+    "value": "6",
+  },
+  {
+    "id": 7,
+    "time": "2019/07/12 05:50",
+    "value": "26",
   }
-}
+]
