@@ -1,0 +1,110 @@
+{
+    "code": "200",
+    "message": "ok",
+    "data": {
+        "categories": [
+            "Refgouvernorat",
+            "Refdelegation",
+            "RefNatureBesoinSpecifique",
+            "RefNiveauEtude",
+            "RefNationalite",
+            "RefDomaine",
+            "RefSecteur",
+            "RefJustificatifExperience",
+            "RefDirectionRegionale"
+        ],
+        "referenciels": {
+            "Mfpe\\ReferencielBundle\\Entity\\Refgouvernorat": [
+                {
+                    "id": 1,
+                    "intituleFr": "Tunis",
+                    "intituleAr": "تونس",
+                    "intituleAn": "string",
+                    "children": [
+                        {
+                            "id": 2,
+                            "intituleFr": "Cité Elkhadra",
+                            "intituleAr": "حي الخضراء",
+                            "intituleAn": "string",
+                            "children": [],
+                            "deleted": false,
+                            "categorie": "Refdelegation",
+                            "longitude": "string",
+                            "latitude": "string"
+                        }
+                    ],
+                    "deleted": false,
+                    "categorie": "Refgouvernorat",
+                    "longitude": "string",
+                    "latitude": "string"
+                }
+            ],
+            "Mfpe\\ReferencielBundle\\Entity\\Refdelegation": [
+                {
+                    "id": 2,
+                    "intituleFr": "Cité Elkhadra",
+                    "intituleAr": "حي الخضراء",
+                    "intituleAn": "string",
+                    "children": [],
+                    "parent": {
+                        "id": 1,
+                        "intituleFr": "Tunis",
+                        "intituleAr": "تونس",
+                        "intituleAn": "string",
+                        "children": [],
+                        "deleted": false,
+                        "categorie": "Refgouvernorat",
+                        "longitude": "string",
+                        "latitude": "string"
+                    },
+                    "deleted": false,
+                    "categorie": "Refdelegation",
+                    "longitude": "string",
+                    "latitude": "string"
+                }
+            ],
+            "Mfpe\\ReferencielBundle\\Entity\\RefNiveauEtude": [
+                {
+                    "id": 3,
+                    "intituleFr": "niveau 1",
+                    "intituleAr": "المستوي 1",
+                    "intituleAn": "string",
+                    "children": [],
+                    "deleted": false,
+                    "categorie": "RefNiveauEtude"
+                }
+            ],
+            "Mfpe\\ReferencielBundle\\Entity\\RefNatureBesoinSpecifique": [
+                {
+                    "id": 4,
+                    "intituleFr": "besoin 1",
+                    "intituleAr": "الحالة 1",
+                    "intituleAn": "string",
+                    "children": [],
+                    "deleted": false,
+                    "categorie": "RefNatureBesoinSpecifique"
+                }
+            ],
+            "Mfpe\\ReferencielBundle\\Entity\\RefNationalite": [
+                {
+                    "id": 5,
+                    "intituleFr": "Tunisienne",
+                    "intituleAr": "تونسية",
+                    "intituleAn": "Tunisian",
+                    "children": [],
+                    "deleted": false,
+                    "categorie": "RefNationalite"
+                },
+                {
+                    "id": 6,
+                    "intituleFr": "Algérienne",
+                    "intituleAr": "جزائرية",
+                    "intituleAn": "Algerian",
+                    "children": [],
+                    "deleted": false,
+                    "categorie": "RefNationalite"
+                }
+            ]
+        }
+    }
+}
