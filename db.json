@@ -1,8 +1,14 @@
 {
   "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+    { "title": "Uncharted 4",
+        "description": "For the first time ever in Uncharted history, drive vehicles during gameplay",
+        "by": "Sony",
+        "platform": ["PS4"],
+        "age_rating": "16",
+        "likes": 100,},
+    
+    { "id": 2, "title": "Game 2" },
+    { "id": 3, "title": "Game 3" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
