@@ -21,9 +21,9 @@
   },
            {
      "id": 1,
-    "name": "priya",
-    "email": "priyasinghpad@gmail.com",
-    "password": "priya@123",
+    "name": "Ujjwal",
+    "email": "Ujjwalsinghaug11@gmail.com",
+    "password": "ujjwal@123",
     "Skills": [
     { "id": 1, "skill": "PHP", "expinyears": 4,"Proficiency":"Advanced" },
     { "id": 2, "skill": "JAVASCRIPT", "expinyears": 4,"Proficiency":"Advanced" }
