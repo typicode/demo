@@ -1,14 +1,39 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+{  
+   "error":false,
+   "variations":[  
+      {  
+         "id":1,
+         "product_id":881,
+         "name":"Size",
+         "get_variant_options":[  
+            {  
+               "id":4,
+               "name":"M"
+            },
+            {  
+               "id":6,
+               "name":"XL"
+            }
+         ]
+      },
+      {  
+         "id":16,
+         "product_id":881,
+         "name":"Color",
+         "get_variant_options":[  
+            {  
+               "id":53,
+               "name":"Black"
+            },
+            {  
+               "id":55,
+               "name":"Red"
+            },
+            {  
+               "id":401,
+               "name":"White"
+            }
+         ]
+      }
+   ]
 }
