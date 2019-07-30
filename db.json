@@ -1,14 +1,44 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+{  
+   "OpdIpdComparison":[  
+      {  
+         "Year":2018,
+         "Month":10,
+         "MonthString":"October",
+         "IPD":0,
+         "OPD":5,
+         "Percent":"0.0"
+      },
+      {  
+         "Year":2018,
+         "Month":11,
+         "MonthString":"November",
+         "IPD":0,
+         "OPD":1,
+         "Percent":"0.0"
+      },
+      {  
+         "Year":2018,
+         "Month":12,
+         "MonthString":"December",
+         "IPD":0,
+         "OPD":1,
+         "Percent":"0.0"
+      },
+      {  
+         "Year":2019,
+         "Month":2,
+         "MonthString":"February",
+         "IPD":1,
+         "OPD":0,
+         "Percent":"Infinity"
+      },
+      {  
+         "Year":2019,
+         "Month":7,
+         "MonthString":"July",
+         "IPD":1,
+         "OPD":0,
+         "Percent":"Infinity"
+      }
+   ]
 }
