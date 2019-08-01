@@ -1,0 +1,9 @@
+{
+  "posts": [
+    { "id": 1, "name": "alireza" , "lastName": "Ebrahimi", "Class": "A", "status": "Good", "A/P": "Absent"},
+    { "id": 2, "name": "Mahdi" , "lastName": "Sharifi", "Class": "A", "status": "VeryBad", "A/P": "Present"},
+    { "id": 3, "name": "Gholam" , "lastName": "reza", "Class": "A", "status": "Good", "A/P": "Absent"},
+    { "id": 4, "name": "Saeed" , "lastName": "Shayeste", "Class": "A", "status": "Excelent", "A/P": "Present"},
+    { "id": 5, "name": "Ehsan" , "lastName": "Asgari", "Class": "A", "status": "Rude", "A/P": "Present"},
+  ]
+}
