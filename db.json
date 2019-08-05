@@ -8,9 +8,10 @@
   }, {
     "Description" : "Revolutionary convertible computers that feature powerful innovation and forward-thinking design.",
     "Like" : false,
+    "Price" : 12500.99,
     "Title" : "Acer Aspire 7",
-    "Type" : "Computer",
-    "price" : 12500.99
+    "Type" : "Computer"
+    
   }, {
     "Description" : "Low-cost, no-nonsense way of storing and transporting files.",
     "Like" : true,
@@ -28,7 +29,7 @@
     "Like" : true,
     "Price" : 14500.99,
     "Title" : "Dell Latitude 3500",
-    "Type" : "Computers"
+    "Type" : "Computer"
   }, {
     "Description" : "The world's most secure, most manageable and most reliable business-class laptops.",
     "Like" : false,
