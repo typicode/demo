@@ -1,14 +1,40 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "Products" : [{
+    "Description" : "The world's most secure, most manageable and most reliable business-class laptops.",
+    "Like" : true,
+    "Price" : 14500.99,
+    "Title" : "Dell Latitude 3500",
+    "Type" : "Computer"
+  }, {
+    "Description" : "Revolutionary convertible computers that feature powerful innovation and forward-thinking design.",
+    "Like" : false,
+    "Title" : "Acer Aspire 7",
+    "Type" : "Computer",
+    "price" : 12500.99
+  }, {
+    "Description" : "Low-cost, no-nonsense way of storing and transporting files.",
+    "Like" : true,
+    "Price" : 299.99,
+    "Title" : "SANDISK 16 GB Cruzer",
+    "Type" : "Mobiles"
+  }, {
+    "Description" : "Verbatim's portable hard drive product offerings are exceptionally reliable and fashionably thin",
+    "Like" : true,
+    "Price" : 1020.99,
+    "Title" : "Verbatim 1TB",
+    "Type" : "Others"
+  }, {
+    "Description" : "The world's most secure, most manageable and most reliable business-class laptops.",
+    "Like" : true,
+    "Price" : 14500.99,
+    "Title" : "Dell Latitude 3500",
+    "Type" : "Computers"
+  }, {
+    "Description" : "The world's most secure, most manageable and most reliable business-class laptops.",
+    "Like" : false,
+    "Price" : 14500.99,
+    "Title" : "Dell Latitude 3500",
+    "Type" : "Others"
+  } ]
 }
+
