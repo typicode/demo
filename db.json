@@ -1,8 +1,8 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "sitio": [
+    { "id": 1, "country": "Guatemala", "place": "volcan de fuego" },
+    { "id": 2, "country": "USA", "place": "Gran Cañon" },
+    { "id": 3, "country": "Japan", "place": "Monte Fuji" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
