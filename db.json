@@ -1,14 +1,18 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+    "promptList": [
+        {
+            "id": 2,
+            "prompt_name": "collectCallingCard",
+            "prompt_file_name": "pfx5837779574399423978sfx",
+            "language": "Spanish",
+            "tenant": {
+                "id": {
+                    "tenantId": "MyFirstTenant"
+                },
+                "cspId": "MyFirstCSPID",
+                "tenantName": "DefaultTenant",
+                "aniPool": []
+            }
+        }
+    ]
+} 
