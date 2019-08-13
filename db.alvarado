@@ -1,0 +1,39 @@
+{
+    "usuario": [
+      {
+        "id": 1,
+        "usuario": "usuario1",
+        "contraseña": "123456"      
+      },
+      {
+        "id": 2,
+        "nombre": "usuario2",
+        "director": "123456"
+      },
+      {
+        "id": 3,
+        "nombre": "usuario3",
+        "director": "123456"
+      }
+    ],
+    "persona": [
+      {
+        "id": 1,
+        "nombre": "Sergio",
+        "apellidos": "alvarado pino",
+        "foto":"link"
+      },
+      {
+        "id": 2,
+        "nombre": "Ximena",
+        "apellidos": "Garibay Lora",
+        "foto":"link"
+      },
+      {
+        "id": 3,
+        "nombre": "Jacquez",
+        "apellidos": "casos cool",
+        "foto":"link"
+      }
+    ]
+  }
