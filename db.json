@@ -1,14 +1,94 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+{ ElevadorUsos : [    {
+        "andar": 11,
+        "elevador": "A",
+        "turno": "M"
+    },{
+        "andar": 12,
+        "elevador": "A",
+        "turno": "M"
+    },{
+        "andar": 14,
+        "elevador": "A",
+        "turno": "M"
+    },{
+        "andar": 0,
+        "elevador": "A",
+        "turno": "M"
+    },{
+        "andar": 1,
+        "elevador": "A",
+        "turno": "M"
+    },{
+        "andar": 15,
+        "elevador": "B",
+        "turno": "M"
+    },{
+        "andar": 13,
+        "elevador": "B",
+        "turno": "M"
+    },{
+        "andar": 1,
+        "elevador": "C",
+        "turno": "M"
+    },{
+        "andar": 2,
+        "elevador": "C",
+        "turno": "M"
+    },{
+        "andar": 4,
+        "elevador": "C",
+        "turno": "M"
+    },{
+        "andar": 3,
+        "elevador": "C",
+        "turno": "M"
+    },{
+        "andar": 4,
+        "elevador": "C",
+        "turno": "M"
+    },{
+        "andar": 5,
+        "elevador": "D",
+        "turno": "M"
+    },{
+        "andar": 6,
+        "elevador": "E",
+        "turno": "M"
+    },{
+        "andar": 7,
+        "elevador": "A",
+        "turno": "M"
+    },{
+        "andar": 10,
+        "elevador": "A",
+        "turno": "M"
+    },{
+        "andar": 9,
+        "elevador": "A",
+        "turno": "M"
+    },{
+        "andar": 15,
+        "elevador": "B",
+        "turno": "V"
+    },{
+        "andar": 13,
+        "elevador": "B",
+        "turno": "V"
+    },{
+        "andar": 1,
+        "elevador": "C",
+        "turno": "V"
+    },{
+        "andar": 2,
+        "elevador": "C",
+        "turno": "V"
+    },{
+        "andar": 4,
+        "elevador": "C",
+        "turno": "N"
+    },{
+        "andar": 3,
+        "elevador": "C",
+        "turno": "V"
+    } ] 
 }
