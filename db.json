@@ -1,14 +1,18 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+{  
+    "data": [  
+        {  
+            "AppointmentId": 1,  
+            "text": "worker1",  
+            "startDate": "2019-08-15T10:00:00.000",  
+            "endDate": "2019-08-15T14:00:00.000",  
+            "allDay": "allDay"  
+        },  
+        {  
+            "AppointmentId": 2,  
+            "text": "worker2",  
+            "startDate": "2019-08-15T14:00:00.000",  
+            "endDate": "2019-08-15T18:00:00.000",  
+            "allDay": "allDay"  
+        }  
+    ]  
 }
