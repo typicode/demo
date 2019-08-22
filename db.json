@@ -12,7 +12,15 @@
             "text": "worker2",  
             "startDate": "2019-08-15T14:00:00.000",  
             "endDate": "2019-08-15T18:00:00.000",  
-            "allDay": "allDay"  
+            "allDay": ""  
         }  
+        ,  
+        {  
+            "AppointmentId": 3,  
+            "text": "worker3",  
+            "startDate": "2019-08-15T18:00:00.000",  
+            "endDate": "2019-08-15T20:00:00.000",  
+            "allDay": ""  
+        } 
     ]  
 }
