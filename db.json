@@ -10,5 +10,25 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "books":[
+    {
+      "type":"science",
+      "releted_books":[
+        {"book_id":1,"book_name":"science"},
+        {"book_id":2,"book_name":"science1"},
+        {"book_id":3,"book_name":"science2"},
+        {"book_id":4,"book_name":"science3"},
+        {"book_id":5,"book_name":"science4"}]
+    },
+    {
+    
+      "type":"math",
+      "releted_books":[
+        {"book_id":11,"book_name":"science"},
+        {"book_id":22,"book_name":"science1"},
+        {"book_id":33,"book_name":"science2"},
+        {"book_id":44,"book_name":"science3"},
+        {"book_id":55,"book_name":"science4"}]
+    }]
 }
