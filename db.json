@@ -1,14 +1,160 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+users: [
+{
+name: "Nadmin",
+password: "2f97a07eea78ea14ec1d1fd78c081cc1",
+email: "123",
+role: 1,
+range: "",
+fullname: "Joe",
+department: "信息处",
+telephone: "2.gif",
+cellphone: null,
+image: "2.gif"
+},
+{
+name: "xiawenjun@219",
+password: "5a71df5d0516639002df0957e7904c9d",
+email: "",
+role: 1,
+range: "all",
+fullname: "管理员",
+department: "信息化处",
+telephone: "1.gif",
+cellphone: null,
+image: "1.gif"
+},
+{
+name: "qinhuanyu@219",
+password: "5dc9739071fd2a33a2ae773dc631fb7f",
+email: "",
+role: 1,
+range: "all",
+fullname: "管理员",
+department: "信息化处",
+telephone: "1.gif",
+cellphone: null,
+image: "1.gif"
+},
+{
+name: "yanjunfeng@219",
+password: "b3b791de85b6f5d7ced4f07489e60aa8",
+email: "",
+role: 1,
+range: "all",
+fullname: "管理员",
+department: "信息化处",
+telephone: "1.gif",
+cellphone: null,
+image: "1.gif"
+},
+{
+name: "huangwei@219",
+password: " 4e38a2f1c7b8e3013206c2e018b3a214",
+email: "",
+role: 1,
+range: "all",
+fullname: "管理员",
+department: "信息化处",
+telephone: null,
+cellphone: null,
+image: "1.gif"
+},
+{
+name: "zhangxianliang@219",
+password: "7be61b3e8eda87ba5f302176c659e8c4",
+email: "",
+role: 1,
+range: "all",
+fullname: "管理员",
+department: "信息化处",
+telephone: null,
+cellphone: null,
+image: "1.gif"
+},
+{
+name: "005423",
+password: "fad7afd76690f4121f91413a5008834f",
+email: "005423",
+role: 3,
+range: "",
+fullname: "冯源露",
+department: "桥一处",
+telephone: null,
+cellphone: null,
+image: "1.gif"
+},
+{
+name: "刘小坛",
+password: "dc2ffa7f907a9ab16ceab711e5e7281d",
+email: "004150",
+role: 3,
+range: "",
+fullname: "刘小坛",
+department: "桥一处",
+telephone: null,
+cellphone: null,
+image: "1.gif"
+},
+{
+name: "woniu802",
+password: "a688a47ac73fb58ce3828bcb184cb157",
+email: "zhangrijin",
+role: 3,
+range: "",
+fullname: "张日锦",
+department: "南宁院",
+telephone: null,
+cellphone: null,
+image: "1.gif"
+},
+{
+name: "陈佳宾",
+password: "ecddbd9c58188b91e1ac8099f95b2bf2",
+email: "",
+role: 3,
+range: "",
+fullname: "",
+department: "桥一处",
+telephone: null,
+cellphone: null,
+image: "1.gif"
+},
+{
+name: "liujun@219",
+password: "473a9b5b16073f7639612eccedcdcf8c",
+email: "liujun@219",
+role: 1,
+range: "all",
+fullname: "刘珺",
+department: "信息化处",
+telephone: "51.jpg",
+cellphone: null,
+image: "15.gif"
+},
+{
+name: "zhangbingxin",
+password: "21232f297a57a5a743894a0e4a801fc3",
+email: "zhangbingxin",
+role: 1,
+range: "all",
+fullname: "张炳鑫",
+department: "信息化处",
+telephone: "1.gif",
+cellphone: null,
+image: "1.gif"
+},
+{
+name: "admin",
+password: "21232f297a57a5a743894a0e4a801fc3",
+email: "admin",
+role: 1,
+range: "all",
+fullname: "管理员",
+department: "桥梁院",
+telephone: "23.gif",
+cellphone: null,
+image: "21.gif"
+}
+]
 }
