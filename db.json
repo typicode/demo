@@ -1,14 +1,1174 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "plans": [
+    {
+      "ProductName": "Promo Big Gig + Talk 10GB 55",
+      "id": 2609,
+      "lastupdated": "2019/08/23",
+      "status": "Launched",
+      "updatedby": "chakra"
+    },
+    {
+      "ProductName": "Promo Big Gig",
+      "id": 2608,
+      "lastupdated": "2019/08/23",
+      "status": "Launched",
+      "updatedby": "chakra"
+    }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+  "planbasic": [
+    {
+      "isBundle": true,
+      "bundledProductOfferingGroup": [],
+      "lifecycleStatus": "Launched",
+      "serviceCandidate": [],
+      "relatedProducts": [],
+      "channel": [
+        {
+          "createdDate": "2018/09/07 03:51:41",
+          "lastUpdate": "2018/09/07 03:51:41",
+          "name": "Online",
+          "id": 1
+        }
+      ],
+      "description": "Promo Big Gig + Talk 10GB 55",
+      "productLogicAlgorithm": [],
+      "productOfferingPrice": [
+        {
+          "isBundle": false,
+          "prodSpecCharValueUse": [],
+          "unitOfMeasure": {},
+          "validFor": {},
+          "priceType": "One Time",
+          "tax": {
+            "taxRate": 0,
+            "id": 3149,
+            "taxAmount": {
+              "amount": 0,
+              "units": "USD"
+            }
+          },
+          "priceAlteration": [],
+          "pricingLogicAlgorithm": [],
+          "price": {
+            "isPriceOnAsking": false,
+            "id": 3249,
+            "taxIncludedAmount": {
+              "units": "USD"
+            },
+            "dutyFreeAmount": {
+              "units": "USD"
+            }
+          },
+          "lastUpdate": "2019/08/27 04:12:51",
+          "name": "65",
+          "constraint": [],
+          "id": 3157,
+          "place": [],
+          "productOfferingTerm": []
+        }
+      ],
+      "resourceCandidate": [],
+      "bundledProductOffering": [
+        {
+          "isDefault": false,
+          "bundledProdOfferOption": {
+            "numberRelOfferLowerLimit": 0,
+            "id": 1788
+          },
+          "includedProductOfferingId": 2544,
+          "isGrouped": false,
+          "productOfferingPrice": [],
+          "id": 1911
+        },
+        {
+          "isDefault": false,
+          "bundledProdOfferOption": {
+            "numberRelOfferLowerLimit": 0,
+            "id": 1789
+          },
+          "includedProductOfferingId": 2545,
+          "isGrouped": false,
+          "productOfferingPrice": [],
+          "id": 1912
+        },
+        {
+          "isDefault": false,
+          "bundledProdOfferOption": {
+            "numberRelOfferLowerLimit": 0,
+            "id": 1790
+          },
+          "includedProductOfferingId": 2546,
+          "isGrouped": false,
+          "productOfferingPrice": [],
+          "id": 1913
+        },
+        {
+          "isDefault": false,
+          "bundledProdOfferOption": {
+            "numberRelOfferLowerLimit": 0,
+            "id": 1791
+          },
+          "includedProductOfferingId": 2547,
+          "isGrouped": false,
+          "productOfferingPrice": [],
+          "id": 1914
+        },
+        {
+          "isDefault": false,
+          "bundledProdOfferOption": {
+            "numberRelOfferLowerLimit": 0,
+            "id": 1792
+          },
+          "includedProductOfferingId": 2548,
+          "isGrouped": false,
+          "productOfferingPrice": [],
+          "id": 1915
+        },
+        {
+          "isDefault": false,
+          "bundledProdOfferOption": {
+            "numberRelOfferLowerLimit": 0,
+            "id": 1793
+          },
+          "includedProductOfferingId": 2549,
+          "isGrouped": false,
+          "productOfferingPrice": [],
+          "id": 1916
+        },
+        {
+          "isDefault": false,
+          "bundledProdOfferOption": {
+            "numberRelOfferLowerLimit": 0,
+            "id": 1794
+          },
+          "includedProductOfferingId": 2550,
+          "isGrouped": false,
+          "productOfferingPrice": [],
+          "id": 1917
+        },
+        {
+          "isDefault": false,
+          "bundledProdOfferOption": {
+            "numberRelOfferLowerLimit": 0,
+            "id": 1795
+          },
+          "includedProductOfferingId": 2551,
+          "isGrouped": false,
+          "productOfferingPrice": [],
+          "id": 1918
+        },
+        {
+          "isDefault": false,
+          "bundledProdOfferOption": {
+            "numberRelOfferLowerLimit": 0,
+            "id": 1796
+          },
+          "includedProductOfferingId": 2552,
+          "isGrouped": false,
+          "productOfferingPrice": [],
+          "id": 1919
+        },
+        {
+          "isDefault": false,
+          "bundledProdOfferOption": {
+            "numberRelOfferLowerLimit": 0,
+            "id": 1797
+          },
+          "includedProductOfferingId": 2553,
+          "isGrouped": false,
+          "productOfferingPrice": [],
+          "id": 1920
+        },
+        {
+          "isDefault": false,
+          "bundledProdOfferOption": {
+            "numberRelOfferLowerLimit": 0,
+            "id": 1798
+          },
+          "includedProductOfferingId": 2554,
+          "isGrouped": false,
+          "productOfferingPrice": [],
+          "id": 1921
+        },
+        {
+          "isDefault": false,
+          "bundledProdOfferOption": {
+            "numberRelOfferLowerLimit": 0,
+            "id": 1799
+          },
+          "includedProductOfferingId": 2555,
+          "isGrouped": false,
+          "productOfferingPrice": [],
+          "id": 1922
+        },
+        {
+          "isDefault": false,
+          "bundledProdOfferOption": {
+            "numberRelOfferLowerLimit": 0,
+            "id": 1800
+          },
+          "includedProductOfferingId": 2556,
+          "isGrouped": false,
+          "productOfferingPrice": [],
+          "id": 1923
+        },
+        {
+          "isDefault": false,
+          "bundledProdOfferOption": {
+            "numberRelOfferLowerLimit": 0,
+            "id": 1801
+          },
+          "includedProductOfferingId": 2557,
+          "isGrouped": false,
+          "productOfferingPrice": [],
+          "id": 1924
+        },
+        {
+          "isDefault": false,
+          "bundledProdOfferOption": {
+            "numberRelOfferLowerLimit": 0,
+            "id": 1802
+          },
+          "includedProductOfferingId": 2590,
+          "isGrouped": false,
+          "productOfferingPrice": [],
+          "id": 1925
+        },
+        {
+          "isDefault": false,
+          "bundledProdOfferOption": {
+            "numberRelOfferLowerLimit": 0,
+            "id": 1803
+          },
+          "includedProductOfferingId": 2592,
+          "isGrouped": false,
+          "productOfferingPrice": [],
+          "id": 1926
+        },
+        {
+          "isDefault": false,
+          "bundledProdOfferOption": {
+            "numberRelOfferLowerLimit": 0,
+            "id": 1804
+          },
+          "includedProductOfferingId": 2597,
+          "isGrouped": false,
+          "productOfferingPrice": [],
+          "id": 1927
+        },
+        {
+          "isDefault": false,
+          "bundledProdOfferOption": {
+            "numberRelOfferLowerLimit": 0,
+            "id": 1805
+          },
+          "includedProductOfferingId": 2602,
+          "isGrouped": false,
+          "productOfferingPrice": [],
+          "id": 1928
+        }
+      ],
+      "attachment": [],
+      "productSpecificationRelationship": {
+        "productSpecification": {
+          "productSpecCharacteristic": [
+            {
+              "isPriceField": false,
+              "validFor": {},
+              "valueType": "text",
+              "name": "My Tab Plan Rate Group",
+              "isUnique": false,
+              "productSpecCharacteristicValue": [
+                {
+                  "isDefault": false,
+                  "prodSpecCharValue_ValueUse_Map": [],
+                  "validFor": {},
+                  "id": 1,
+                  "tag": "product",
+                  "value": "Group 6"
+                },
+                {
+                  "isDefault": false,
+                  "prodSpecCharValue_ValueUse_Map": [],
+                  "validFor": {},
+                  "id": 2,
+                  "tag": "product",
+                  "value": "Group 7"
+                }
+              ],
+              "productSpecCharRelationship": [],
+              "id": 4050,
+              "tag": "product",
+              "extensible": false,
+              "configurable": false,
+              "isMandatory": false
+            },
+            {
+              "isPriceField": false,
+              "validFor": {},
+              "valueType": "text",
+              "name": "Security Group",
+              "isUnique": false,
+              "productSpecCharacteristicValue": [
+                {
+                  "isDefault": false,
+                  "prodSpecCharValue_ValueUse_Map": [],
+                  "validFor": {},
+                  "id": 1,
+                  "tag": "product",
+                  "value": "SVW_INW_RESTRICTED_PLANS"
+                }
+              ],
+              "productSpecCharRelationship": [],
+              "id": 4051,
+              "tag": "product",
+              "extensible": false,
+              "configurable": false,
+              "isMandatory": false
+            },
+            {
+              "isPriceField": false,
+              "validFor": {},
+              "valueType": "text",
+              "name": "Commercial Availability",
+              "isUnique": false,
+              "productSpecCharacteristicValue": [
+                {
+                  "isDefault": false,
+                  "prodSpecCharValue_ValueUse_Map": [],
+                  "validFor": {},
+                  "id": 1,
+                  "tag": "product",
+                  "value": "GW CONSUMER"
+                }
+              ],
+              "productSpecCharRelationship": [],
+              "id": 4052,
+              "tag": "product",
+              "extensible": false,
+              "configurable": false,
+              "isMandatory": false
+            },
+            {
+              "isPriceField": false,
+              "validFor": {},
+              "valueType": "dropdown",
+              "name": "Customer Type",
+              "isUnique": false,
+              "productSpecCharacteristicValue": [
+                {
+                  "isDefault": false,
+                  "prodSpecCharValue_ValueUse_Map": [],
+                  "validFor": {},
+                  "id": 1,
+                  "tag": "product",
+                  "value": "GW ANANYMOUS"
+                }
+              ],
+              "productSpecCharRelationship": [],
+              "id": 4053,
+              "tag": "product",
+              "extensible": false,
+              "configurable": false,
+              "isMandatory": false
+            }
+          ],
+          "attachment": [],
+          "accountName": "fpc",
+          "validFor": {},
+          "bundledProductSpecification": [],
+          "lastUpdate": "2019/08/27 04:11:33",
+          "name": "Big Gig + Talk 10GB",
+          "serviceSpecification": [],
+          "resourceSpecification": [],
+          "description": "[Ahusamuzzaman Back to School plans 2018]: Big Gig + Talk 10GB setup",
+          "id": 1001,
+          "relatedParty": []
+        },
+        "id": 2548
+      },
+      "id": 2609,
+      "place": [],
+      "productOfferingTerm": [],
+      "marketSegment": [],
+      "prodSpecCharValueUse": [],
+      "updatedBy": "cpalaniswamy@apptium.com",
+      "agreement": [],
+      "item_id": "e955b1a1-ba8c-4520-9a0a-2a87e8750171",
+      "validFor": {},
+      "incompatibleProducts": [],
+      "isSellable": false,
+      "version": 2,
+      "parentId": 4,
+      "eligibilityLogicAlgorithm": [],
+      "createdDate": "2019/08/23 05:49:42",
+      "createdBy": "cpalaniswamy@apptium.com",
+      "lastUpdate": "2019/08/23 05:49:43",
+      "ProductName": "Promo Big Gig + Talk 10GB 55",
+      "isBaseProduct": false,
+      "category": [
+        {
+          "createdDate": "2019/08/27 04:11:57",
+          "isRoot": true,
+          "lastUpdate": "2019/08/27 04:11:57",
+          "name": "Prepaid",
+          "_type": "Category",
+          "id": 169
+        },
+        {
+          "createdDate": "2019/08/27 04:12:04",
+          "isRoot": false,
+          "lastUpdate": "2019/08/27 04:12:04",
+          "name": "Postpaid",
+          "_type": "Category",
+          "id": 170
+        },
+        {
+          "createdDate": "2019/08/27 04:12:04",
+          "isRoot": true,
+          "lastUpdate": "2019/08/27 04:12:04",
+          "name": "Customer",
+          "_type": "Category",
+          "id": 172
+        },
+        {
+          "createdDate": "2019/08/27 04:11:57",
+          "isRoot": false,
+          "lastUpdate": "2019/08/27 04:11:57",
+          "name": "Business",
+          "_type": "Category",
+          "id": 173
+        },
+        {
+          "createdDate": "2019/08/27 04:12:04",
+          "isRoot": true,
+          "lastUpdate": "2019/08/27 04:12:04",
+          "name": "Ananymous",
+          "_type": "Category",
+          "id": 174
+        }
+      ]
+    }
   ],
-  "profile": {
-    "name": "typicode"
-  }
+  "planbasicdropdown": [
+    {
+      "lookUp_group_name": "My Tab Rate Plan Group",
+      "value": "Group 6",
+      "id": 1,
+      "lookUp_id": 1,
+      "lookUp_group_id": 100
+    },
+    {
+      "lookUp_group_name": "My Tab Rate Plan Group",
+      "value": "Group 7",
+      "id": 2,
+      "lookUp_id": 2,
+      "lookUp_group_id": 100
+    },
+    {
+      "lookUp_group_name": "My Tab Rate Plan Group",
+      "value": "Group 8",
+      "id": 3,
+      "lookUp_id": 3,
+      "lookUp_group_id": 100
+    },
+    {
+      "lookUp_group_name": "Security Group",
+      "value": "SVW_INW_RESTRICTED_PLANS",
+      "id": 1,
+      "lookUp_id": 1,
+      "lookUp_group_id": 200
+    },
+    {
+      "lookUp_group_name": "Security Group",
+      "value": "HIDDEN",
+      "id": 2,
+      "lookUp_id": 2,
+      "lookUp_group_id": 200
+    },
+    {
+      "lookUp_group_name": "Security Group",
+      "value": "REF_DATA",
+      "id": 3,
+      "lookUp_id": 3,
+      "lookUp_group_id": 200
+    },
+    {
+      "lookUp_group_name": "Customer Type",
+      "value": "GW CONSUMER",
+      "id": 1,
+      "lookUp_id": 1,
+      "lookUp_group_id": 300
+    },
+    {
+      "lookUp_group_name": "Customer Type",
+      "value": "GW BUSINESS",
+      "id": 2,
+      "lookUp_id": 2,
+      "lookUp_group_id": 300
+    },
+    {
+      "lookUp_group_name": "Customer Type",
+      "value": "GW ANONYMOUS",
+      "id": 3,
+      "lookUp_id": 3,
+      "lookUp_group_id": 300
+    },
+    {
+      "lookUp_group_name": "Customer Type",
+      "value": "GW ANONYMOUS",
+      "id": 1,
+      "lookUp_id": 1,
+      "lookUp_group_id": 400
+    }
+  ],
+  "eligblepromos": [
+    {
+      "id": 2609,
+      "BTS": true,
+      "EligiblePromo": [
+        {
+          "ProductName": "Friends and Family 35%",
+          "productID": "2684"
+        },
+        {
+          "ProductName": "Bring Your Own Phone $120 Pay After",
+          "productID": "2548"
+        }
+      ],
+      "NonEligPromo": [
+        {
+          "ProductName": "SHB-15% Off for 24 Months",
+          "productID": "2575"
+        },
+        {
+          "ProductName": "50GB Big Binge Bonus Data - Pay After BYOP",
+          "productID": "2585"
+        }
+      ]
+    }
+  ],
+  "eligblepromosdropdown": [
+    {
+      "ProductName": "Bring Your Own Phone $120 Pay After",
+      "productID": "2548"
+    },
+    {
+      "ProductName": "Bring Your Own Phone $120 Pay Before",
+      "productID": "2549"
+    },
+    {
+      "ProductName": "30GB Big Binge Bonus Data - with MyTab",
+      "productID": "2550"
+    },
+    {
+      "ProductName": "40GB Big Binge Bonus Data - with MyTab",
+      "productID": "2554"
+    },
+    {
+      "ProductName": "Friends and Family 35%",
+      "productID": "2558"
+    },
+    {
+      "ProductName": "Digital Discount",
+      "productID": "2560"
+    },
+    {
+      "ProductName": "100GB Big Binge Bonus HWU",
+      "productID": "2568"
+    },
+    {
+      "ProductName": "200GB Big Binge Bonus Data - with MyTab",
+      "productID": "2569"
+    },
+    {
+      "ProductName": "SHB-15% Off for 24 Months",
+      "productID": "2575"
+    },
+    {
+      "ProductName": "50GB Big Binge Bonus Data - Pay After BYOP",
+      "productID": "2585"
+    },
+    {
+      "ProductName": "200GB Big Binge Bonus HWU",
+      "productID": "2587"
+    },
+    {
+      "ProductName": "15GB Big Binge Bonus Data - Pay After BYOP",
+      "productID": "2551"
+    },
+    {
+      "ProductName": "Friends of Freedom 25%",
+      "productID": "2573"
+    },
+    {
+      "ProductName": "Bring Your Own Phone $120 Pay After",
+      "productID": "2577"
+    },
+    {
+      "ProductName": "100GB Big Binge Bonus Data - with MyTab",
+      "productID": "2579"
+    },
+    {
+      "ProductName": "100GB Big Binge Bonus HWU",
+      "productID": "2582"
+    },
+    {
+      "ProductName": "150GB Big Binge Bonus HWU",
+      "productID": "2586"
+    },
+    {
+      "ProductName": "U.S. Long Distance $5 for 24 Months",
+      "productID": "2604"
+    },
+    {
+      "ProductName": "U.S. Long Distance $5 for 24 Months",
+      "productID": "2605"
+    },
+    {
+      "ProductName": "40GB Big Binge Bonus HWU",
+      "productID": "2557"
+    },
+    {
+      "ProductName": "Friends of Freedom 25%",
+      "productID": "2559"
+    },
+    {
+      "ProductName": "Bring Your Own Phone $120 Pay Before",
+      "productID": "2565"
+    },
+    {
+      "ProductName": "5GB Big Binge Bonus Data - Pay Before",
+      "productID": "2581"
+    },
+    {
+      "ProductName": "150GB Big Binge Bonus Data - with MyTab",
+      "productID": "2583"
+    },
+    {
+      "ProductName": "Digital Discount",
+      "productID": "2545"
+    },
+    {
+      "ProductName": "SHD-$200 BYOP Credits",
+      "productID": "2547"
+    },
+    {
+      "ProductName": "5GB Big Binge Bonus Data - Pay Before",
+      "productID": "2552"
+    },
+    {
+      "ProductName": "30GB Big Binge Bonus HWU",
+      "productID": "2553"
+    },
+    {
+      "ProductName": "200GB Big Binge Bonus Data - with MyTab",
+      "productID": "2584"
+    },
+    {
+      "ProductName": "Loyalty 50% X 6 Mo -Tab",
+      "productID": "2590"
+    },
+    {
+      "ProductName": "Loyalty 50% X 6 Mo -Tab",
+      "productID": "2591"
+    },
+    {
+      "ProductName": "Loyalty 100% X 2 Mo -BYOP",
+      "productID": "2596"
+    },
+    {
+      "ProductName": "Friends and Family 35%",
+      "productID": "2572"
+    },
+    {
+      "ProductName": "Digital Discount",
+      "productID": "2574"
+    },
+    {
+      "ProductName": "Bring Your Own Phone $120 Pay Before",
+      "productID": "2578"
+    },
+    {
+      "ProductName": "Loyalty 50% X 2 Mo -BYOP",
+      "productID": "2594"
+    },
+    {
+      "ProductName": "Loyalty 100% X 6 Mo -Tab",
+      "productID": "2595"
+    },
+    {
+      "ProductName": "Loyalty Credit $10 for 12 months",
+      "productID": "2602"
+    },
+    {
+      "ProductName": "Friends and Family 35%",
+      "productID": "2544"
+    },
+    {
+      "ProductName": "20GB Big Binge Bonus Data - Pay After BYOP",
+      "productID": "2555"
+    },
+    {
+      "ProductName": "Bring Your Own Phone $120 Pay After",
+      "productID": "2564"
+    },
+    {
+      "ProductName": "$120 in Service Credits ($10 x 12 mo) -Pay After $50+ plans",
+      "productID": "2598"
+    },
+    {
+      "ProductName": "$120 in Service Credits ($10 x 12 mo) -Pay Before $50+ plans",
+      "productID": "2601"
+    },
+    {
+      "ProductName": "3GB Big Binge Bonus Data - Pay Before",
+      "productID": "2556"
+    },
+    {
+      "ProductName": "SHB-15% Off for 24 Months",
+      "productID": "2561"
+    },
+    {
+      "ProductName": "5GB Big Binge Bonus Data - Pay Before",
+      "productID": "2567"
+    },
+    {
+      "ProductName": "150GB Big Binge Bonus HWU",
+      "productID": "2570"
+    },
+    {
+      "ProductName": "200GB Big Binge Bonus HWU",
+      "productID": "2571"
+    },
+    {
+      "ProductName": "Loyalty 50% X 2 Mo -BYOP",
+      "productID": "2593"
+    },
+    {
+      "ProductName": "Friends and Family 35%",
+      "productID": "2684"
+    },
+    {
+      "ProductName": "15Percent Off x 24 Months",
+      "productID": "2546"
+    },
+    {
+      "ProductName": "25Percent Off x 24 Months",
+      "productID": "2563"
+    },
+    {
+      "ProductName": "15Percent Off x 24 Months",
+      "productID": "2576"
+    },
+    {
+      "ProductName": "30GB Big Binge Bonus Data - Pay After BYOP",
+      "productID": "2580"
+    },
+    {
+      "ProductName": "FNF - 35% Off $60+ Plans",
+      "productID": "2588"
+    },
+    {
+      "ProductName": "Loyalty 50% X 2 Mo -BYOP",
+      "productID": "2592"
+    },
+    {
+      "ProductName": "$120 in Service Credits ($10 x 12 mo) -Pay Before $50+ plans",
+      "productID": "2600"
+    },
+    {
+      "ProductName": "Early Upgrade 100% MyTab Balance Waive",
+      "productID": "2606"
+    },
+    {
+      "ProductName": "Early Upgrade 100% MyTab Balance Waive",
+      "productID": "2607"
+    },
+    {
+      "ProductName": "UAT 60+ plan 800MB Freedom x 4 mos",
+      "productID": "2608"
+    },
+    {
+      "ProductName": "15Percent Off x 24 Months",
+      "productID": "2562"
+    },
+    {
+      "ProductName": "100GB Big Binge Bonus Data - with MyTab",
+      "productID": "2566"
+    },
+    {
+      "ProductName": "FNF - 35% Off $60+ Plans",
+      "productID": "2589"
+    },
+    {
+      "ProductName": "$120 in Service Credits ($10 x 12 mo) -Pay After $50+ plans",
+      "productID": "2597"
+    },
+    {
+      "ProductName": "$120 in Service Credits ($10 x 12 mo) -Pay After $50+ plans",
+      "productID": "2599"
+    },
+    {
+      "ProductName": "Loyalty Credit $10 for 12 months",
+      "productID": "2603"
+    }
+  ],
+  "compatibleAddOndropdown": [
+    {
+      "id": "1",
+      "ratePlan": "Enterprise Infinite",
+      "ProrateOut": "None",
+      "PostpaidGLCodes": "101-000-133500-0000-0000000-0000000-000-00000-0000000;101-505-401200-1002-0000000-0000000-000-00000-0000000;101-000-111120-0000-0000000-0000000-000-00000-0000000;101-505-401200-1002-0000000-0000000-000-00000-0000000",
+      "MessageCode": "BES Access",
+      "ProrateIn": "Tier",
+      "Priority": "3",
+      "Product": "Blackberry",
+      "TaxCategory": "Rate Plan MRC",
+      "PrepaidGLCodes": "101-000-242000-0000-0000000-0000000-000-00000-0000000;101-505-401200-1001-0000000-0000000-000-00000-0000000;101-000-242000-0000-0000000-0000000-000-00000-0000000;101-505-401200-1001-0000000-0000000-000-00000-0000000",
+      "EventSubtype": "Addon MRC"
+    },
+    {
+      "id": "2",
+      "ratePlan": "World Traveller",
+      "ProrateOut": "None",
+      "PostpaidGLCodes": "101-000-133500-0000-0000000-0000000-000-00000-0000000;101-505-404000-1002-0000000-0000000-000-00000-0000000;101-000-111120-0000-0000000-0000000-000-00000-0000000;101-505-404000-1002-0000000-0000000-000-00000-0000000",
+      "MessageCode": "World Traveller",
+      "ProrateIn": "Tier",
+      "Priority": "3",
+      "Product": "Usage rate override",
+      "TaxCategory": "Rate Plan MRC",
+      "PrepaidGLCodes": "101-000-242000-0000-0000000-0000000-000-00000-0000000;101-505-404000-1001-0000000-0000000-000-00000-0000000;101-000-242000-0000-0000000-0000000-000-00000-0000000;101-505-404000-1001-0000000-0000000-000-00000-0000000",
+      "EventSubtype": "Addon MRC"
+    },
+    {
+      "id": "3",
+      "ratePlan": "World ",
+      "ProrateOut": "None",
+      "PostpaidGLCodes": "101-000-133500-0000-0000000-0000000-000-00000-0000000;101-505-404000-1002-0000000-0000000-000-00000-0000000;101-000-111120-0000-0000000-0000000-000-00000-0000000;101-505-404000-1002-0000000-0000000-000-00000-0000000",
+      "MessageCode": "World ",
+      "ProrateIn": "Tier",
+      "Priority": "4",
+      "Product": "Usage rate override",
+      "TaxCategory": "Rate Plan MRC",
+      "PrepaidGLCodes": "101-000-242000-0000-0000000-0000000-000-00000-0000000;101-505-404000-1001-0000000-0000000-000-00000-0000000;101-000-242000-0000-0000000-0000000-000-00000-0000000;101-505-404000-1001-0000000-0000000-000-00000-0000000",
+      "EventSubtype": "Addon MRC"
+    }, 
+    {
+      "id": "4",
+      "ratePlan": "World ",
+      "ProrateOut": "None",
+      "PostpaidGLCodes": "101-000-133500-0000-0000000-0000000-000-00000-0000000;101-505-404000-1002-0000000-0000000-000-00000-0000000;101-000-111120-0000-0000000-0000000-000-00000-0000000;101-505-404000-1002-0000000-0000000-000-00000-0000000",
+      "MessageCode": "World ",
+      "ProrateIn": "Tier",
+      "Priority": "4",
+      "Product": "voice mail",
+      "TaxCategory": "Rate Plan MRC",
+      "PrepaidGLCodes": "101-000-242000-0000-0000000-0000000-000-00000-0000000;101-505-404000-1001-0000000-0000000-000-00000-0000000;101-000-242000-0000-0000000-0000000-000-00000-0000000;101-505-404000-1001-0000000-0000000-000-00000-0000000",
+      "EventSubtype": "Addon MRC"
+    },
+    {
+      "ratePlan": "Enterprise Infinite",
+      "Prorate Out": "None",
+      "Postpaid GL Codes": "101-000-133500-0000-0000000-0000000-000-00000-0000000;101-505-404000-1002-0000000-0000000-000-00000-0000000;101-000-111120-0000-0000000-0000000-000-00000-0000000;101-505-404000-1002-0000000-0000000-000-00000-0000000",
+      "Message Code": "World Traveller",
+      "Prorate In": "Tier",
+      "Priority": "3",
+      "Product": "Phone Protection Plan",
+      "Tax Category": "Rate Plan MRC",
+      "Prepaid GL Codes": "101-000-242000-0000-0000000-0000000-000-00000-0000000;101-505-404000-1001-0000000-0000000-000-00000-0000000;101-000-242000-0000-0000000-0000000-000-00000-0000000;101-505-404000-1001-0000000-0000000-000-00000-0000000",
+      "Event Subtype": "Addon MRC",
+      "id": "14"
+    },
+    {
+      "ratePlan": "World Traveller",
+      "Prorate Out": "None",
+      "Postpaid GL Codes": "101-000-133500-0000-0000000-0000000-000-00000-0000000;101-505-404000-1002-0000000-0000000-000-00000-0000000;101-000-111120-0000-0000000-0000000-000-00000-0000000;101-505-404000-1002-0000000-0000000-000-00000-0000000",
+      "Message Code": "World Traveller",
+      "Prorate In": "Tier",
+      "Priority": "3",
+      "Product": "MytabBoost",
+      "Tax Category": "Rate Plan MRC",
+      "Prepaid GL Codes": "101-000-242000-0000-0000000-0000000-000-00000-0000000;101-505-404000-1001-0000000-0000000-000-00000-0000000;101-000-242000-0000-0000000-0000000-000-00000-0000000;101-505-404000-1001-0000000-0000000-000-00000-0000000",
+      "Event Subtype": "Addon MRC",
+      "id": "15"
+    },
+    {
+      "ratePlan": "World Traveller",
+      "Prorate Out": "None",
+      "Postpaid GL Codes": "101-000-133500-0000-0000000-0000000-000-00000-0000000;101-505-404000-1002-0000000-0000000-000-00000-0000000;101-000-111120-0000-0000000-0000000-000-00000-0000000;101-505-404000-1002-0000000-0000000-000-00000-0000000",
+      "Message Code": "World Traveller",
+      "Prorate In": "Tier",
+      "Priority": "3",
+      "Product": "Freewith",
+      "Tax Category": "Rate Plan MRC",
+      "Prepaid GL Codes": "101-000-242000-0000-0000000-0000000-000-00000-0000000;101-505-404000-1001-0000000-0000000-000-00000-0000000;101-000-242000-0000-0000000-0000000-000-00000-0000000;101-505-404000-1001-0000000-0000000-000-00000-0000000",
+      "Event Subtype": "Addon MRC",
+      "id": "16"
+    }
+  ],
+  "IncludedServicesdropdown": [
+    {
+      "serviceName": "Voice",
+      "AddOnCompanion": "null",
+      "item_id": 1
+    },
+    {
+      "serviceName": "SMS",
+      "AddOnCompanion": "null",
+      "item_id": 2
+    },
+    {
+      "serviceName": "MMS",
+      "AddOnCompanion": "null",
+      "item_id": 3
+    },
+    {
+      "serviceName": "Data or Mobile Internet - on handset",
+      "AddOnCompanion": "null",
+      "item_id": 4
+    },
+    {
+      "serviceName": "Call Hold",
+      "AddOnCompanion": "null",
+      "item_id": 5
+    },
+    {
+      "serviceName": "Conference Calling",
+      "AddOnCompanion": "null",
+      "item_id": 6
+    },
+    {
+      "serviceName": "Voicemail",
+      "AddOnCompanion": "Voicemail+",
+      "item_id": 7
+    }
+  ],
+  "getCISResponse": [
+    {
+      "id": 2609,
+      "data": [
+        {
+          "Category": "ratePlanDataDescription",
+          "Description": "HOME: 3GB LTE Data + 6.5GB 3G speed Data",
+          "id": 2674
+        },
+        {
+          "Category": "ratePlanTalkDescription",
+          "Description": "HOME: Unlimited Canada-wide talk; Unlimited incoming calls",
+          "id": 2674
+        },
+        {
+          "Category": "ratePlanTextDescription",
+          "Description": "HOME: Unlimited global text, picture and video messaging",
+          "id": 2674
+        }
+      ],
+      "desc": {
+        "PlanDescription": "Eligible for Digital Discount ($5 off rate plan price / month) when paying by pre-authorized credit card. Plan includes: Voicemail+, Call Control, Freedom Wi-Fi Access & World Saver.",
+        "id": 2670
+      }
+    }
+  ],
+  "getFeaturesAndAddOn": [
+    {
+      "id": 2609,
+      "compatibleAddOn": [
+        {
+          "id": "1",
+          "ratePlan": "Enterprise Infinite",
+          "ProrateOut": "None",
+          "PostpaidGLCodes": "101-000-133500-0000-0000000-0000000-000-00000-0000000;101-505-401200-1002-0000000-0000000-000-00000-0000000;101-000-111120-0000-0000000-0000000-000-00000-0000000;101-505-401200-1002-0000000-0000000-000-00000-0000000",
+          "MessageCode": "BES Access",
+          "ProrateIn": "Tier",
+          "Priority": "3",
+          "Product": "Blackberry",
+          "TaxCategory": "Rate Plan MRC",
+          "PrepaidGLCodes": "101-000-242000-0000-0000000-0000000-000-00000-0000000;101-505-401200-1001-0000000-0000000-000-00000-0000000;101-000-242000-0000-0000000-0000000-000-00000-0000000;101-505-401200-1001-0000000-0000000-000-00000-0000000",
+          "EventSubtype": "Addon MRC"
+        },
+        {
+          "id": "2",
+          "ratePlan": "World Traveller",
+          "ProrateOut": "None",
+          "PostpaidGLCodes": "101-000-133500-0000-0000000-0000000-000-00000-0000000;101-505-404000-1002-0000000-0000000-000-00000-0000000;101-000-111120-0000-0000000-0000000-000-00000-0000000;101-505-404000-1002-0000000-0000000-000-00000-0000000",
+          "MessageCode": "World Traveller",
+          "ProrateIn": "Tier",
+          "Priority": "3",
+          "Product": "Usage rate override",
+          "TaxCategory": "Rate Plan MRC",
+          "PrepaidGLCodes": "101-000-242000-0000-0000000-0000000-000-00000-0000000;101-505-404000-1001-0000000-0000000-000-00000-0000000;101-000-242000-0000-0000000-0000000-000-00000-0000000;101-505-404000-1001-0000000-0000000-000-00000-0000000",
+          "EventSubtype": "Addon MRC"
+        },
+        {
+          "id": "3",
+          "ratePlan": "World ",
+          "ProrateOut": "None",
+          "PostpaidGLCodes": "101-000-133500-0000-0000000-0000000-000-00000-0000000;101-505-404000-1002-0000000-0000000-000-00000-0000000;101-000-111120-0000-0000000-0000000-000-00000-0000000;101-505-404000-1002-0000000-0000000-000-00000-0000000",
+          "MessageCode": "World ",
+          "ProrateIn": "Tier",
+          "Priority": "4",
+          "Product": "Usage rate override",
+          "TaxCategory": "Rate Plan MRC",
+          "PrepaidGLCodes": "101-000-242000-0000-0000000-0000000-000-00000-0000000;101-505-404000-1001-0000000-0000000-000-00000-0000000;101-000-242000-0000-0000000-0000000-000-00000-0000000;101-505-404000-1001-0000000-0000000-000-00000-0000000",
+          "EventSubtype": "Addon MRC"
+        }, 
+        {
+          "id": "4",
+          "ratePlan": "World ",
+          "ProrateOut": "None",
+          "PostpaidGLCodes": "101-000-133500-0000-0000000-0000000-000-00000-0000000;101-505-404000-1002-0000000-0000000-000-00000-0000000;101-000-111120-0000-0000000-0000000-000-00000-0000000;101-505-404000-1002-0000000-0000000-000-00000-0000000",
+          "MessageCode": "World ",
+          "ProrateIn": "Tier",
+          "Priority": "4",
+          "Product": "voice mail",
+          "TaxCategory": "Rate Plan MRC",
+          "PrepaidGLCodes": "101-000-242000-0000-0000000-0000000-000-00000-0000000;101-505-404000-1001-0000000-0000000-000-00000-0000000;101-000-242000-0000-0000000-0000000-000-00000-0000000;101-505-404000-1001-0000000-0000000-000-00000-0000000",
+          "EventSubtype": "Addon MRC"
+        },
+        {
+          "ratePlan": "Enterprise Infinite",
+          "ProrateOut": "None",
+          "PostpaidGLCodes": "101-000-133500-0000-0000000-0000000-000-00000-0000000;101-505-404000-1002-0000000-0000000-000-00000-0000000;101-000-111120-0000-0000000-0000000-000-00000-0000000;101-505-404000-1002-0000000-0000000-000-00000-0000000",
+          "MessageCode": "World Traveller",
+          "ProrateIn": "Tier",
+          "Priority": "3",
+          "Product": "Phone Protection Plan",
+          "TaxCategory": "Rate Plan MRC",
+          "PrepaidGLCodes": "101-000-242000-0000-0000000-0000000-000-00000-0000000;101-505-404000-1001-0000000-0000000-000-00000-0000000;101-000-242000-0000-0000000-0000000-000-00000-0000000;101-505-404000-1001-0000000-0000000-000-00000-0000000",
+          "EventSubtype": "Addon MRC",
+          "id": "14"
+        },
+        {
+          "ratePlan": "World Traveller",
+          "ProrateOut": "None",
+          "PostpaidGLCodes": "101-000-133500-0000-0000000-0000000-000-00000-0000000;101-505-404000-1002-0000000-0000000-000-00000-0000000;101-000-111120-0000-0000000-0000000-000-00000-0000000;101-505-404000-1002-0000000-0000000-000-00000-0000000",
+          "MessageCode": "World Traveller",
+          "ProrateIn": "Tier",
+          "Priority": "3",
+          "Product": "MytabBoost",
+          "TaxCategory": "Rate Plan MRC",
+          "PrepaidGLCodes": "101-000-242000-0000-0000000-0000000-000-00000-0000000;101-505-404000-1001-0000000-0000000-000-00000-0000000;101-000-242000-0000-0000000-0000000-000-00000-0000000;101-505-404000-1001-0000000-0000000-000-00000-0000000",
+          "EventSubtype": "Addon MRC",
+          "id": "15"
+        },
+        {
+          "ratePlan": "World Traveller",
+          "ProrateOut": "None",
+          "PostpaidGLCodes": "101-000-133500-0000-0000000-0000000-000-00000-0000000;101-505-404000-1002-0000000-0000000-000-00000-0000000;101-000-111120-0000-0000000-0000000-000-00000-0000000;101-505-404000-1002-0000000-0000000-000-00000-0000000",
+          "MessageCode": "World Traveller",
+          "ProrateIn": "Tier",
+          "Priority": "3",
+          "Product": "Freewith",
+          "TaxCategory": "Rate Plan MRC",
+          "PrepaidGLCodes": "101-000-242000-0000-0000000-0000000-000-00000-0000000;101-505-404000-1001-0000000-0000000-000-00000-0000000;101-000-242000-0000-0000000-0000000-000-00000-0000000;101-505-404000-1001-0000000-0000000-000-00000-0000000",
+          "EventSubtype": "Addon MRC",
+          "id": "16"
+        }
+      ],
+      "IncludedServices": [
+        {
+          "serviceName": "Voice",
+          "AddOnCompanion": "null",
+          "item_id": 1
+        },
+        {
+          "serviceName": "SMS",
+          "AddOnCompanion": "null",
+          "item_id": 2
+        },
+        {
+          "serviceName": "MMS",
+          "AddOnCompanion": "null",
+          "item_id": 3
+        },
+        {
+          "serviceName": "Data or Mobile Internet - on handset",
+          "AddOnCompanion": "null",
+          "item_id": 4
+        },
+        {
+          "serviceName": "Call Hold",
+          "AddOnCompanion": "null",
+          "item_id": 5
+        },
+        {
+          "serviceName": "Conference Calling",
+          "AddOnCompanion": "null",
+          "item_id": 6
+        },
+        {
+          "serviceName": "Voicemail",
+          "AddOnCompanion": "Voicemail+",
+          "item_id": 7
+        }
+      ]
+    }
+  ],
+  "getRatingSetting": [
+    {
+      "id": 2609,
+      "chargeModule": [
+        {
+          "chargeModule": "Voice-Always Shout Rate Plan",
+          "eventType": "Voice"
+        },
+        {
+          "chargeModule": "Voice-International-WorldSaverRates-Builtin",
+          "eventType": "Voice International"
+        },
+        {
+          "chargeModule": "Special Numbers",
+          "eventType": "Voice Special"
+        }
+      ],
+      "dataAllocation": [
+        {
+          "EntitlementCategory": "Data Policy-Freedom",
+          "Recurringallocation": "10240"
+        },
+        {
+          "EntitlementCategory": "Data Policy-Freedom and Nationwide",
+          "Recurringallocation": "1024"
+        }
+      ]
+    }
+  ],
+  "getCreditClassification": [
+    {
+      "id": 2609,
+      "creditvalues": [
+        {
+          "CreditClass": "A",
+          "ProductType": "Prepaid",
+          "CustomerType": "GW CONSUMER"
+        },
+        {
+          "CreditClass": "B",
+          "ProductType": "Prepaid",
+          "CustomerType": "GW CONSUMER"
+        },
+        {
+          "CreditClass": "C",
+          "ProductType": "Prepaid",
+          "CustomerType": "GW CONSUMER"
+        },
+        {
+          "CreditClass": "D",
+          "ProductType": "Prepaid",
+          "CustomerType": "GW CONSUMER"
+        },
+        {
+          "CreditClass": "A",
+          "ProductType": "Postpaid",
+          "CustomerType": "GW CONSUMER"
+        },
+        {
+          "CreditClass": "A",
+          "ProductType": "Postpaid",
+          "CustomerType": "GW CONSUMER"
+        }
+      ]
+    }
+  ]
 }
