@@ -1,14 +1,31 @@
 {
-  "posts": [
-    { "id": 1, "title": "2222" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+  todo: [
+    {
+      userId: 1,
+      id: 1,
+      title: "napisać kod",
+      completed: true
+    },
+    {
+      userId: 1,
+      id: 2,
+      title: "zrobić deploy",
+      completed: true
+    },
+    {
+      userId: 1,
+      id: 3,
+      title: "wysłać rozwiązanie",
+      completed: true
+    },
+    {
+      userId: 1,
+      id: 4,
+      title: "odczytać odpowiedź",
+      completed: false
+    }
   ],
   "profile": {
-    "name": "typicode"
+    "name": "Marek Krzeszowiec"
   }
 }
