@@ -1,14 +1,43 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+[{
+    "_id": "595f49ab3f4bc619465bee5d",
+    "Id": 1,
+    "Name": "Кардиология",
+    "NameEng": "Cardiology",
+    "NameKaz": "Кардиология"
+}, {
+    "_id": "595f49ab3f4bc619465bee5e",
+    "Id": 2,
+    "Name": "Пульмонология",
+    "NameEng": "Pulmonology",
+    "NameKaz": "Пульмонология"
+}, {
+    "_id": "595f49ab3f4bc619465bee5f",
+    "Id": 3,
+    "Name": "Гастроэнтерология",
+    "NameEng": "Gastroenterology",
+    "NameKaz": "Гастроэнтерология"
+}, {
+    "_id": "595f49ab3f4bc619465bee60",
+    "Id": 4,
+    "Name": "Нефрология",
+    "NameEng": "Nephrology",
+    "NameKaz": "Нефрология"
+}, {
+    "_id": "595f49ab3f4bc619465bee61",
+    "Id": 5,
+    "Name": "Эндокринология",
+    "NameEng": "Endocrinology",
+    "NameKaz": "Эндокринология"
+}, {
+    "_id": "595f49ab3f4bc619465bee62",
+    "Id": 6,
+    "Name": "Ревматология",
+    "NameEng": "Rheumatology",
+    "NameKaz": "Ревматология"
+}, {
+    "_id": "595f49ab3f4bc619465bee63",
+    "Id": 7,
+    "Name": "Гематология",
+    "NameEng": "Hematology",
+    "NameKaz": "Гематология"
+}]
