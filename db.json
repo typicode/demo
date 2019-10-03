@@ -10,5 +10,16 @@
   ],
   "profile": {
     "name": "typicode"
+  },
+  "test": {
+    "tourTitle": "Friday's match",
+    "totalPrizes": "120",
+    "tourTimeLeft": "15:45",
+    "teamPoint": "1524",
+    "teamRank": "4",
+    "teamChatUrl": "http://test.test.com",
+    "teamImgUrl": "http://test.test.com",
+    "teamTitle": "Help homeless dogs",
+    "teamDesc": "aaaaa"
   }
 }
