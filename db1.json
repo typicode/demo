@@ -1,0 +1,28 @@
+{
+  "Movie": [
+    {
+      "id": 1,
+      "Movie Name": "Avengers: Infinity War",
+      "Year": "2018",
+      "Category": "Science Fiction"
+    },
+    {
+      "id": 2,
+      "first_name": "Black Panther",
+      "Year": "2018",
+      "Category": "Science Fiction"
+    },
+    {
+      "id": 3,
+      "first_name": "Mission: Impossible – Fallout",
+      "Year": "2018",
+      "Category": "Action"
+    },
+    {
+      "id": 4,
+      "first_name": "Annihilation",
+      "Year": "2018",
+      "Category": "Fantasy"
+    }
+  ]
+}
