@@ -8,8 +8,9 @@
       "housenumber" "10",
       "suite": "st,th",
       "district": "København N",
-      "zipcode": "2200",
-      "password": "123ab321"
+      "zipcode": "2200"
+    },
+    "password": "123ab321"
     },
     {"id": 2,
     "name": "Trine Appel",
@@ -19,8 +20,9 @@
       "housenumber" "16",
       "suite": "2.sal,th",
       "district": "København K",
-      "zipcode": "1051",
-      "password": "444ab555"
+      "zipcode": "1051"
+    },
+    "password": "444ab555"
     },
     {"id": 3,
     "name": "Christian Andersen",
@@ -30,8 +32,9 @@
       "housenumber" "19",
       "suite": "st,tv",
       "district": "København Ø",
-      "zipcode": "2100",
-      "password": "789123bb"
+      "zipcode": "2100"
+    },
+    "password": "789123bb"
     },
      {"id": 4,
     "name": "Inge Stasig",
@@ -41,8 +44,9 @@
       "housenumber" "24",
       "suite": "3.sal,tv",
       "district": "København NV",
-      "zipcode": "2400",
-      "password": "bbaacc12"
+      "zipcode": "2400"
+    },
+    "password": "bbaacc12"
     },
 }
 
