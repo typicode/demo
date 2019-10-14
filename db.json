@@ -1,5 +1,4 @@
-{
-  "person": [
+[
     {"id": 1,
     "name": "Leanne Graham",
     "email": "sincere@april.biz",
@@ -48,7 +47,7 @@
     },
     "password": "bbaacc12"
     },
-}
+]
 
 
 
