@@ -5,7 +5,7 @@
     "email": "sincere@april.biz",
     "address": {
       "street": "Duevej",
-      "housenumber" "10",
+      "housenumber":"10",
       "suite": "st,th",
       "district": "København N",
       "zipcode": "2200"
@@ -17,7 +17,7 @@
     "email": "trineappel@gmail.com",
     "address": {
       "street": "Nyhavn",
-      "housenumber" "16",
+      "housenumber":"16",
       "suite": "2.sal,th",
       "district": "København K",
       "zipcode": "1051"
@@ -29,7 +29,7 @@
     "email": "andersen@yandex.com",
     "address": {
       "street": "Koldinggade",
-      "housenumber" "19",
+      "housenumber":"19",
       "suite": "st,tv",
       "district": "København Ø",
       "zipcode": "2100"
@@ -41,7 +41,7 @@
     "email": "ingestas@yandex.com",
     "address": {
       "street": "Møntmestervej",
-      "housenumber" "24",
+      "housenumber":"24",
       "suite": "3.sal,tv",
       "district": "København NV",
       "zipcode": "2400"
