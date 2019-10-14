@@ -1,14 +1,53 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "person": [
+    {"id": 1,
+    "name": "Leanne Graham",
+    "email": "sincere@april.biz",
+    "address": {
+      "street": "Duevej",
+      "housenumber" "10",
+      "suite": "st,th",
+      "district": "København N",
+      "zipcode": "2200",
+      "password": "123ab321"
+    },
+    {"id": 2,
+    "name": "Trine Appel",
+    "email": "trineappel@gmail.com",
+    "address": {
+      "street": "Nyhavn",
+      "housenumber" "16",
+      "suite": "2.sal,th",
+      "district": "København K",
+      "zipcode": "1051",
+      "password": "444ab555"
+    },
+    {"id": 3,
+    "name": "Christian Andersen",
+    "email": "andersen@yandex.com",
+    "address": {
+      "street": "Koldinggade",
+      "housenumber" "19",
+      "suite": "st,tv",
+      "district": "København Ø",
+      "zipcode": "2100",
+      "password": "789123bb"
+    },
+     {"id": 4,
+    "name": "Inge Stasig",
+    "email": "ingestas@yandex.com",
+    "address": {
+      "street": "Møntmestervej",
+      "housenumber" "24",
+      "suite": "3.sal,tv",
+      "district": "København NV",
+      "zipcode": "2400",
+      "password": "bbaacc12"
+    },
 }
+
+
+
+
+
+
