@@ -4,9 +4,18 @@
     { "id": 2, "title": "Post 2" },
     { "id": 3, "title": "Post 3" }
   ],
+   "posts": [
+    { "id": 11, "title": "Post 11" },
+    { "id": 12, "title": "Post 12" },
+    { "id": 13, "title": "Post 13" }
+  ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+   "comments": [
+    { "id": 11, "body": "some comment", "postId": 11 },
+    { "id": 12, "body": "some comment", "postId": 12 }
   ],
   "profile": {
     "name": "typicode"
