@@ -1,8 +1,20 @@
 {
-  "posts": [
-    { "id": 1, "title": "DDDD 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "news": [
+    {
+        "id": 1,
+        "title": "Заправка ароматизаторов",
+        "content": "При покупке 2-х штук ароматизаторов, бесплатная заправка 3 бесплатно!",
+        "created_at": {
+            "date": "2019-10-23 00:00:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        },
+        "updated_at": {
+            "date": "2019-10-03 00:00:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
