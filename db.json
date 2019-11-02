@@ -1,14 +1,125 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+    "heroes": [
+        {
+            "id": 1,
+            "name": "Izuku Midoriya",
+            "idade": "16 anos",
+            "apelido": "Deku",
+            "quirk": "One For All",
+            "afiliacao" : "UA",
+            "ocupacao" : "Aluno",
+            "story": "Izuku Midoriya (緑みどり谷や出いず久く Midoriya Izuku), também conhecido como Deku, é um estudante da U.A, sucessor de All Might e atual usuário do One For All. Ele também é o protagonista de My Hero Academia.",
+            "photo": "https://vignette.wikia.nocookie.net/bokunoheroacademia/images/2/25/Izuku_Midoriya_Portrait.png/revision/latest?cb=20180704164351&path-prefix=pt-br"
+        },
+        {
+            "id": 2,
+            "name": "Todoroki Shōto",
+            "apelido": "Shoto",
+            "idade": "15 anos",
+            "quirk": "Metade frio, metade quente",
+            "afiliacao" : "UA",
+            "ocupacao" : "Aluno",
+            "story": "Shoto Todoroki (轟とどろき焦しょう凍と Todoroki Shōto?) é um deuteragonista de My Hero Academia. É filho de Endeavor e amigo de Izuku Midoriya.",
+            "photo": "https://vignette.wikia.nocookie.net/bokunoheroacademia/images/5/57/Shouto_Todoroki_Portrait.png/revision/latest?cb=20180704164321&path-prefix=pt-br"
+        },
+        {
+            "id": 3,
+            "name": "Kitsuki Bakugo",
+            "idade": "16 anos",
+            "apelido": "Bakugo",
+            "quirk": "Explosão",
+            "afiliacao" : "UA",
+            "ocupacao" : "Aluno",
+            "story": "Katsuki Bakugo (爆ばく豪ごう勝かつ己き Bakugō Katsuki?) é um deuteragonista de My Hero Academia. É o rival do protagonista, Izuku Midoriya.",
+            "photo": "https://vignette.wikia.nocookie.net/bokunoheroacademia/images/c/cd/Katsuki_Bakugo_Portrait.png/revision/latest?cb=20180704164414&path-prefix=pt-br"
+        },
+        {
+            "id": 4,
+            "name": "Tenya Iida",
+            "idade": "16 anos",
+            "apelido": "Ingenium",
+            "quirk": "Engine",
+            "afiliacao" : "UA",
+            "ocupacao" : "Aluno",
+            "story": "Tenya Iida (飯いい田だ天てん哉や Īda Ten'ya?), também conhecido como Ingenium, é um estudante da U.A, irmão de Tensei Iida e amigo de Izuku Midoriya. É um dos deuteragonistas de My Hero Academia.",
+            "photo": "https://vignette.wikia.nocookie.net/bokunoheroacademia/images/7/7d/Tenya_Iida_Portrait.png/revision/latest?cb=20180704163917&path-prefix=pt-br"
+        },
+        {
+            "id": 5,
+            "name": "Denki Kaminari",
+            "idade": "16 anos",
+            "apelido": "Chargebolt",
+            "quirk": "Electrification",
+            "afiliacao" : "UA",
+            "ocupacao" : "Aluno",
+            "story": "Denki Kaminari (上かみ鳴なり電でん気き Kaminari Denki?), também conhecido como Chargebolt, é um estudante da U.A. É um dos coadjuvantes principais de My Hero Academia.",
+            "photo": "https://vignette.wikia.nocookie.net/bokunoheroacademia/images/b/b0/Denki_Kaminari_Portrait.png/revision/latest?cb=20180704164104&path-prefix=pt-br"
+        },
+        {
+            "id": 6,
+            "name": "Ochaco Uraraka",
+            "idade": "16 anos",
+            "apelido": "Uravity",
+            "quirk": "Zero Gravity",
+            "afiliacao" : "UA",
+            "ocupacao" : "Aluno",
+            "story": "Ochaco Uraraka (麗うらら日かお茶ちゃ子こ Uraraka Ochako?), também conhecida como Uravity, é uma estudante da U.A e interesse romântico de Izuku Midoriya. É uma das protagonistas de My Hero Academia.",
+            "photo": "https://vignette.wikia.nocookie.net/bokunoheroacademia/images/7/78/Ochaco_Uraraka_Portrait.png/revision/latest?cb=20180704163822&path-prefix=pt-br"
+        },
+        {
+            "id": 7,
+            "name": "Momo Yaoyorozu",
+            "idade": "16 anos",
+            "apelido": "Creati",
+            "quirk": "Criação",
+            "afiliacao" : "UA",
+            "ocupacao" : "Aluno",
+            "story": "Momo Yaoyorozu (八や百お万よろず百もも Yaoyorozu Momo?) é uma estudante da U.A. que está treinando para se tornar uma heroína profissional. Ela é a Vice-Presidente da Classe 1-A e entrou para a U.A por recomendações oficiais.",
+            "photo": "https://vignette.wikia.nocookie.net/bokunoheroacademia/images/8/8d/Momo_Yaoyorozu_Portrait.png/revision/latest?cb=20180704164431&path-prefix=pt-br"        
+        },
+        {
+            "id": 8,
+            "name": "Toshinori Yagi",
+            "idade": "Não revelada",
+            "apelido": "All Might",
+            "quirk": "Sem Quirk",
+            "afiliacao" : "UA High",
+            "ocupacao" : "Professor",
+            "story": "Toshinori Yagi (八や木ぎ俊とし典のり Yagi Toshinori?), mais conhecido pelo seu nome de herói, All Might (オールマイト Ōrumaito?), é o deuteragonista de My Hero Academia. All Might é o antigo Pro Hero No. 1 que teve o título de Símbolo da Paz. Ele ensina Estudos Fundamentais dos Heróis na U.A. High.",
+            "photo": "https://vignette.wikia.nocookie.net/bokunoheroacademia/images/0/0a/All_Might_Portrait.png/revision/latest?cb=20180704163954&path-prefix=pt-br"
+        },
+        {
+            "id": 9,
+            "name": "Shouta Aizawa",
+            "idade": "30 anos",
+            "apelido": "Eraser Head",
+            "quirk": "Erasure",
+            "afiliacao" : "UA High",
+            "ocupacao" : "Professor/Pro Hero",
+            "story": "Shota Aizawa (相澤消太 Aizawa Shōta) mais conhecido pelo seu nome de herói Eraser Head (イレイザーヘッド Ireizā Heddo?) ele é um Pro Hero e também é o professor responsável pela Classe 1-A da U.A. High.",
+            "photo": "https://vignette.wikia.nocookie.net/bokunoheroacademia/images/9/94/Eraser.png/revision/latest/scale-to-width-down/250?cb=20181002192225&path-prefix=pt-br"
+        },
+        {
+            "id": 10,
+            "name": "Minoru Mineta",
+            "idade": "15 anos",
+            "apelido": "Grape Juice",
+            "quirk": "Pop off",
+            "afiliacao" : "UA",
+            "ocupacao" : "Aluno",
+            "story": "Minoru Mineta (峰みね田た実みのる Mineta Minoru?), também conhecido como Grape Juice, é um estudante da U.A. É um dos principais personagens coadjuvantes de My Hero Academia.",
+            "photo": "https://vignette.wikia.nocookie.net/bokunoheroacademia/images/6/6a/Minoru_Mineta_Portrait.png/revision/latest?cb=20180704164425&path-prefix=pt-br"
+        },
+        {
+            "id": 11,
+            "name": "Fumikage Tokoyami",
+            "idade": "16 anos",
+            "apelido": "Jet-Black Hero",
+            "quirk": "Dark Shadow",
+            "afiliacao" : "UA",
+            "ocupacao" : "Aluno",
+            "story": "Fumikage Tokoyami (常とこ闇やみ踏ふみ陰かげ Tokoyami Fumikage?), também conhecido como Tsukuyomi, é um estudante da U.A. É um dos principais coadjuvantes de My Hero Academia.",
+            "photo": "https://vignette.wikia.nocookie.net/bokunoheroacademia/images/6/6c/Fumikage_Tokoyami_Portrait.png/revision/latest?cb=20180704164237&path-prefix=pt-br"
+        }
+    ]
 }
