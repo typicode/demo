@@ -1,14 +1,13 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+"id":1,
+ "author": "Linda",
+"comment_disabled": true,
+"content": "<p>I am testing data, I am testing data.</p><p><img src="https://wpimg.wallstcn.com/4c69009c-0fd4-4153-b112-6cb53d1cf943"></p>",
+"content_short": "mock data",
+"display_time": "1971-03-16 07:15:33",
+"forecast": 15.23,
+"id": 1,
+"image_uri": "https://wpimg.wallstcn.com/e4558086-631c-425c-9430-56ffb46e70b3",
+"importance": 2,
+"pageviews": 3516
 }
