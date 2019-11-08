@@ -1,14 +1,79 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+	"actor": [
+		{
+			"id": 1,
+			"name": "Mahesh",
+			"industry": "Telugu",
+			"ratings": 4.8
+		},
+		{
+			"id": 2,
+			"name": "Ranbir",
+			"industry": "Hollywood",
+			"ratings": 4.6
+		},
+		{
+			"id": 3,
+			"name": "Aarya",
+			"industry": "Tamil",
+			"ratings": 4.5
+		},
+		{
+			"id": 1,
+			"name": "Chinna",
+			"industry": "Kolywood",
+			"ratings": 4.3
+		},
+		{
+			"id": 1,
+			"name": "Naani",
+			"industry": "Telugu",
+			"ratings": 4.6
+		},
+		{
+			"id": 1,
+			"name": "Dhanush",
+			"industry": "Tamil",
+			"ratings": 4.9
+		}
+	],
+
+		"actress": [
+		{
+			"id": 1,
+			"name": "Sriya Saran",
+			"industry": "Telugu",
+			"ratings": 4.8
+		},
+		{
+			"id": 2,
+			"name": "Aliya Bhat",
+			"industry": "Hollywood",
+			"ratings": 4.6
+		},
+		{
+			"id": 3,
+			"name": "Samantha",
+			"industry": "Tamil",
+			"ratings": 4.5
+		},
+		{
+			"id": 1,
+			"name": "Nazriya",
+			"industry": "Kolywood",
+			"ratings": 4.3
+		},
+		{
+			"id": 1,
+			"name": "Sonali Bindre",
+			"industry": "Telugu",
+			"ratings": 4.6
+		},
+		{
+			"id": 1,
+			"name": "Samantha",
+			"industry": "Tamil",
+			"ratings": 4.9
+		}
+	]
 }
