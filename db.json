@@ -1,11 +1,8 @@
 {
-
-serverurl: "https://cnsaas.ssdevrd.com"
-
-gid: "wmt_ae"
-
-un: "wmt_ae_TC75"
-
-pw: "wmt_ae_TC75"
-
-} 
+  "localdiscovery" : {
+    "serverurl": "https://cnsaas.ssdevrd.com",
+    "gid": "wmt_ae",
+    "un": "wmt_ae_TC75",
+    "pw": "wmt_ae_TC75"
+  }
+}
