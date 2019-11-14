@@ -1,4 +1,5 @@
 {
+  "localdiscovery" : {
 "serverurl": "https: //cnsaas.ssdevrd.com",
 "gid": "XYZ_Store_DC",
 "un": "XYZ_Store_%MODEL%",
@@ -6,5 +7,6 @@
 "deviceModelsMap": {
 "G82":["G8232","G82320"],
 "TC75":["TC75","TC750","TC75x"]
+}
 }
 }
