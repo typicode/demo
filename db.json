@@ -1,14 +1,16 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+    "code": 200,
+    "message": null,
+    "data": {
+        "countPax": 0,
+        "billFly": 0,
+        "countRoom": 9999,
+        "billHotel": 10000000,
+        "totalBooker": 1230944,
+        "isActive": null,
+        "nameStaff": "NameBooker",
+        "addressStaff": "Việt Nam",
+        "nameBooker": "NameBooker",
+        "addressBooker": "Hà Nội"
+    }
 }
