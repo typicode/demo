@@ -1,14 +1,31 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+    "dmcDataList": [{
+        "processNumber": "304",
+        "resultDate": "12-NOV-19 07.23.34.806887 AM  ASIA/CALCUTTA",
+        "resultState": "2",
+        "typeNumber": "1035202689",
+        "typeVersion": "0001",
+        "uniquePartId": "0604482814"
+    }, {
+        "processNumber": "304",
+        "resultDate": "12-NOV-19 10.36.14.688584 AM  ASIA/CALCUTTA",
+        "resultState": "2",
+        "typeNumber": "0261S100CZ",
+        "typeVersion": "0001",
+        "uniquePartId": "0604418514"
+    }, {
+        "processNumber": "304",
+        "resultDate": "12-NOV-19 10.36.14.688584 AM  ASIA/CALCUTTA",
+        "resultState": "2",
+        "typeNumber": "0261S100AS",
+        "typeVersion": "0001",
+        "uniquePartId": "0604415514"
+    }, {
+        "processNumber": "304",
+        "resultDate": "12-NOV-19 10.36.14.688584 AM  ASIA/CALCUTTA",
+        "resultState": "2",
+        "typeNumber": "0261S100AP",
+        "typeVersion": "0001",
+        "uniquePartId": "0604454514"
+    }]
 }
