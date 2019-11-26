@@ -1,31 +1,3 @@
 { 
-   "tpp":{ 
-      "code":"TPP-CODE",
-      "name":"TPP-NAME"
-   },
-   "access":{ 
-      "accessType":"05",
-      "balances":[ 
-         { 
-            "iban":"ES1111111111111111111111"
-         },
-         { 
-            "iban":"ES2222222222222222222222",
-            "currency":"USD"
-         },
-         { 
-            "iban":"ES3333333333333333333333"
-         }
-      ],
-      "transactions":[ 
-         { 
-            "iban":"ES1111111111111111111111"
-         }
-      ]
-   },
-   "recurringIndicator":true,
-   "validUntil":"2018-05-17",
-   "frequencyPerDay":4,
-   "lastActionDate":"2018-01-17",
-   "consentStatus":"valid"
+"TEST":TEST
 }
