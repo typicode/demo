@@ -1,31 +1,31 @@
-{
-  "posts": [
-    {
-      "id": 1,
-      "title": "Post 1"
-    },
-    {
-      "id": 2,
-      "title": "Post 2"
-    },
-    {
-      "id": 3,
-      "title": "Post 3"
-    }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    },
-    {
-      "id": 2,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+{ 
+   "tpp":{ 
+      "code":"TPP-CODE",
+      "name":"TPP-NAME"
+   },
+   "access":{ 
+      "accessType":"05",
+      "balances":[ 
+         { 
+            "iban":"ES1111111111111111111111"
+         },
+         { 
+            "iban":"ES2222222222222222222222",
+            "currency":"USD"
+         },
+         { 
+            "iban":"ES3333333333333333333333"
+         }
+      ],
+      "transactions":[ 
+         { 
+            "iban":"ES1111111111111111111111"
+         }
+      ]
+   },
+   "recurringIndicator":true,
+   "validUntil":"2018-05-17",
+   "frequencyPerDay":4,
+   "lastActionDate":"2018-01-17",
+   "consentStatus":"valid"
 }
