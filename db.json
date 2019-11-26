@@ -23,9 +23,5 @@
          }
       ]
    },
-   "recurringIndicator":true,
-   "validUntil":"2018-05-17",
-   "frequencyPerDay":4,
-   "lastActionDate":"2018-01-17",
-   "consentStatus":"valid"
+   "validUntil":"2018-05-17"
 }
