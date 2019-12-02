@@ -1,14 +1,17 @@
 {
-  "posts": [
-    { "id": 4, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "cases": [
+    { "Area": "PO", "Case ID": "E02392A", "Title":"Lorem Ipsum", "Business":"Siemens" , "Created by":"Vinodh", "Age":"1 day", "Resolve by":"18-Feb-20", "Status":"In Progress" },
+    { "Area": "DEX", "Case ID": "E2938A1", "Title":"Lorem Not Ipsum", "Business":"Dell" , "Created by":"Don", "Age":"2 day", "Resolve by":"12-Dec-19", "Status":"Resolved" },
+    { "Area": "DEX", "Case ID": "E932820", "Title":"Dolor sit amet", "Business":"Stanford" , "Created by":"Don", "Age":"11 day", "Resolve by":"19-Jan-20", "Status":"Resolved" },
+    { "Area": "BUX", "Case ID": "E239A81", "Title":"Random Ipsum", "Business":"Dell" , "Created by":"Victor", "Age":"63 day", "Resolve by":"28-Feb-20", "Status":"Pending" },
+    { "Area": "Other", "Case ID": "E1298A", "Title":"Not Random Ipsum", "Business":"Siemens" , "Created by":"Anjaan", "Age":"402 day", "Resolve by":"31-Jan-20", "Status":"In Progress" },
+    { "Area": "PBI", "Case ID": "E7402A", "Title":"Hmmm Ipsum", "Business":"Dell" , "Created by":"Shubham", "Age":"5 day", "Resolve by":"30-Dec-19", "Status":"Resolved" },
+    { "Area": "BA", "Case ID": "E1A163", "Title":"Haha Ipsum", "Business":"Stanford" , "Created by":"Arindam", "Age":"28 day", "Resolve by":"10-Feb-20", "Status":"Resolved" },
+    { "Area": "PO", "Case ID": "E9102A", "Title":"Nono Ipsum", "Business":"Dell" , "Created by":"Shekhar", "Age":"99 day", "Resolve by":"8-Feb-20", "Status":"In Progress" },
+    { "Area": "Payment", "Case ID": "E65A29", "Title":"Lol Ipsum", "Business":"Dell" , "Created by":"Vinodh", "Age":"27 day", "Resolve by":"12-Jan-20", "Status":"Resolved" },
+    { "Area": "PBI", "Case ID": "E01A320", "Title":"Jay ho Ipsum", "Business":"Siemens" , "Created by":"Don", "Age":"65 day", "Resolve by":"28-Dec-19", "Status":"In Progress" },
+    { "Area": "PO", "Case ID": "E0A7302", "Title":"Nice Ipsum", "Business":"Siemens" , "Created by":"Dhruvil", "Age":"100 day", "Resolve by":"20-Feb-20", "Status":"Resolved" },
+    { "Area": "DEX", "Case ID": "E017A39", "Title":"Ipsum Ipsum", "Business":"Stanford" , "Created by":"Vinodh", "Age":"16 day", "Resolve by":"28-Jan-20", "Status":"Pending" }
+  ]
+  
 }
