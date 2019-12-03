@@ -1,14 +1,196 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+    "movies": [
+        {
+            "id": "1",
+            "title": "The Shawshank Redemption",
+            "time": 1994,
+            "rating": 9.2,
+            "genre": "Drama",
+            "nation": "USA",
+            "duration": "2h22min",
+            "director": "Frank Darabont",
+            "stars": "Tim Robbins, Morgan Freeman"
+        },
+        {
+            "id": "2",
+            "title": "The Godfather",
+            "time": 1972,
+            "rating": 9.1,
+            "genre": "Crime,Drama",
+            "nation": "USA",
+            "duration": "2h55min",
+            "director": "Francis Ford Coppola",
+            "stars": "Marlon Brando, Al Pacino"
+        },
+        {
+            "id": "3",
+            "title": "The Godfather Part II ",
+            "time": 1974,
+            "rating": 9.0,
+            "genre": "Crime,Drama",
+            "nation": "USA",
+            "duration": "3h22min",
+            "director": "Francis Ford Coppola",
+            "stars": "Al Pacino, Robert De Niro"
+        },
+        {
+            "id": "4",
+            "title": "The Dark Knight",
+            "time": 2008,
+            "rating": 9.0,
+            "genre": "Action,Crime,Drama",
+            "nation": "USA",
+            "duration": "2h32min",
+            "director": "Christopher",
+            "stars": "Christian Bale,Heath Ledger"
+        },
+        {
+            "id": "5",
+            "title": "12 Angry Men",
+            "time": 1957,
+            "rating": 8.9,
+            "genre": "Drama",
+            "nation": "USA",
+            "duration": "1h36min",
+            "director": "Sidney Lumet",
+            "stars": "Henry Fonda, Lee J.Cobb"
+        },
+        {
+            "id": "6",
+            "title": "Schindler's List",
+            "time": 1993,
+            "rating": 8.9,
+            "genre": "Biography,History,Drama",
+            "nation": "USA",
+            "duration": "3h15min",
+            "director": "Steven Spielberg",
+            "stars": "Liam Neeson, Ralph Fiennes"
+        },
+        {
+            "id": "7",
+            "title": "The Lord of The Rings:The Return Of the King",
+            "time": 2003,
+            "rating": 8.9,
+            "genre": "Adventure,Drama,Fantasy",
+            "nation": "USA",
+            "duration": "3h21min",
+            "director": "Peter Jackson",
+            "stars": "Elijah Wood, Viggo Mortensen"
+        },
+        {
+            "id": "8",
+            "title": "Pulp Fiction",
+            "time": 1994,
+            "rating": 8.9,
+            "genre": "Crime,Drama",
+            "nation": "USA",
+            "duration": "2h34min",
+            "director": "Quentin Tarantino",
+            "stars": "John Travolta, Uma Thurman"
+        },
+        {
+            "id": "9",
+            "title": "The Good,The Bad and The Ugly",
+            "time": 1966,
+            "rating": 8.8,
+            "genre": "Western",
+            "nation": "USA",
+            "duration": "2h59min",
+            "director": "Sergio Leone",
+            "stars": "Clint Eastwood, Eli Wallach"
+        },
+        {
+            "id": "10",
+            "title": "Fight Club",
+            "time": 1999,
+            "rating": 8.8,
+            "genre": "Drama",
+            "nation": "USA",
+            "duration": "2h19min",
+            "director": "David Fincher",
+            "stars": "Brad Pitt, Edward Norton"
+        }
+    ],
+    "music": [
+        {
+            "id": "1",
+            "title": "Never Grow Up",
+            "album": "Speak Now",
+            "singer": "Taylor Swift",
+            "time": 2010,
+            "genre": "POP"
+        },
+        {
+            "id": "2",
+            "title": "River Flows in You",
+            "album": "First Love",
+            "singer": "Yiruma",
+            "time": 2001,
+            "genre": "Instrumental"
+        },
+        {
+            "id": "3",
+            "title": "Far Away",
+            "album": "All the Right Reasons",
+            "singer": "Nickelback",
+            "time": 2005,
+            "genre": "Rock"
+        },
+        {
+            "id": "4",
+            "title": "Because Of You",
+            "album": "Breakaway",
+            "singer": "Kelly Clarkson",
+            "time": 2004,
+            "genre": "POP"
+        },
+        {
+            "id": "5",
+            "title": "Photography",
+            "album": "X",
+            "singer": "Ed Sheeran",
+            "time": 2014,
+            "genre": "POP"
+        },
+        {
+            "id": "6",
+            "title": "Innocence",
+            "album": "The Best Damn Thing",
+            "singer": "Avil Lavigne",
+            "time": 2007,
+            "genre": "POP"
+        },
+        {
+            "id": "7",
+            "title": "You Raise Me Up",
+            "album": "Face to Face",
+            "singer": "Westlife",
+            "time": 2005,
+            "genre": "POP"
+        },
+        {
+            "id": "8",
+            "title": "Hey Jude",
+            "album": "Past Masters, Vol.1&2",
+            "singer": "The Beatles",
+            "time": 1968,
+            "genre": "Rock"
+        },
+        {
+            "id": "9",
+            "title": "Halo",
+            "album": "I Am ... Sasha Fierce",
+            "singer": "Beyonce",
+            "time": 2008,
+            "genre": "POP"
+        },
+        {
+            "id": "10",
+            "title": "Someone Like You",
+            "album": "21",
+            "singer": "Adele",
+            "time": 2011,
+            "genre": "POP"
+        }
+    ]
 }
