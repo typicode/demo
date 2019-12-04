@@ -1,14 +1,17 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "Companies": [
+    { "id": 1, "title": "IBM" },
+    { "id": 2, "title": "Google" },
+    { "id": 3, "title": "Facebook" },
+    { "id": 4, "title": "Pega" }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+  "Feedback": [
+    { "id": 1, "body": "Legacy", "postId": 1 },
+    { "id": 2, "body": "Innovative", "postId": 1 },
+    { "id": 3, "body": "No privacy", "postId": 1 },
+    { "id": 4, "body": "RPA leader", "postId": 1 }
   ],
   "profile": {
-    "name": "typicode"
+    "name": "RanbirSingh"
   }
 }
