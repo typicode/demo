@@ -1,14 +1,158 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
+[
+  {
+    "product": {
+      "id": 1,
+      "name": "Aloevera",
+      "description": "A beautiful plant to own. It has a similar look to some Cactus types though is more beneficial than a cactus. * Easy to care for. ",
+      "price": 10,
+      "discount": 0,
+      "weight": 2,
+      "stock": 100,
+      "stock_unlimited": true,
+      "status": "available",
+      "package_format": "box",
+      "length": 25,
+      "width": 25,
+      "height": 15,
+      "categories": [
+        {
+          "id": "P",
+          "name": "Plant",
+          "parent_id": 1,
+        }
+      ],
+      "images": [
+        {
+          "id": 1,
+          "position": 0,
+          "url": "D:/CoderSchool/FinalProject/Images/AloeVera"
+        }
+      ]
+    }
+  },
+  
+  {
+    "product": {
+      "id": 2,
+      "name": "Orchid",
+      "description": "Our Orchid plants come potted with an extra display pot. This plant includes a box of chocolates the perfect sweet treat to make any occasion special.",
+      "price": 23,
+      "discount": 0,
+      "weight": 1.5,
+      "stock": 100,
+      "stock_unlimited": true,
+      "status": "available",
+      "package_format": "box",
+      "length": 25,
+      "width": 25,
+      "height": 15,
+      "categories": [
+        {
+          "id": "p1",
+          "name": "Plant",
+          "parent_id": 2,
+        }
+      ],
+      "images": [
+        {
+          "id": 2,
+          "position": 2,
+          "url": "D:/CoderSchool/FinalProject/Images/Orchid"
+        }
+      ]
+    }
   }
-}
+  {
+    "product": {
+      "id": 3,
+      "name": "Peace Lilly",
+      "description": "With her long glossy leaves and simple white flowers, Pippa is an elegant beauty.",
+      "price": 30,
+      "discount": 0,
+      "weight": 1.5,
+      "stock": 100,
+      "stock_unlimited": true,
+      "status": "available",
+      "package_format": "box",
+      "length": 25,
+      "width": 25,
+      "height": 15,
+      "categories": [
+        {
+          "id": "P2",
+          "name": "Plant",
+          "parent_id": 3,
+        }
+      ],
+      "images": [
+        {
+          "id": 3,
+          "position": 3,
+          "url": "D:/CoderSchool/FinalProject/Images/PeaceLilly"
+        }
+      ]
+    }
+  }
+ {
+    "product": {
+      "id": 4,
+      "name": "Parlour Palm",
+      "description": "She’s been a popular houseplant for over a century because she adds subtle drama to a room.",
+      "price": 30,
+      "discount": 0,
+      "weight": 1.5,
+      "stock": 100,
+      "stock_unlimited": true,
+      "status": "available",
+      "package_format": "box",
+      "length": 25,
+      "width": 25,
+      "height": 15,
+      "categories": [
+        {
+          "id": "P3",
+          "name": "Plant",
+          "parent_id": 4,
+        }
+      ],
+      "images": [
+        {
+          "id": 4,
+          "position": 4,
+          "url": "D:/CoderSchool/FinalProject/Images/ParlourPalm"
+        }
+      ]
+    }
+  }
+{
+    "product": {
+      "id": 5,
+      "name": "Suri",
+      "description": "If you're on a mission for the perfect indoor plants, look no further! Our mixed succulents come in a broad variety of colours, shapes and textures and are perfect for the novice and forgetful gardener as they are mostly self-sufficient.",
+      "price": 3,
+      "discount": 0,
+      "weight": 1.5,
+      "stock": 100,
+      "stock_unlimited": true,
+      "status": "available",
+      "package_format": "box",
+      "length": 25,
+      "width": 25,
+      "height": 15,
+      "categories": [
+        {
+          "id": "P5",
+          "name": "Plant",
+          "parent_id": 5,
+        }
+      ],
+      "images": [
+        {
+          "id": 5,
+          "position": 5,
+          "url": "D:/CoderSchool/FinalProject/Images/Suri"
+        }
+      ]
+    }
+  }
+]
