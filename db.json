@@ -1,14 +1,20 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "required-fiel-indicator": [
+    {
+      "id": 1,
+      "title": 60
+    }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "entityList": [
+    {
+      "id": 1,
+      "entity": "PONNOT",
+      "inconsistency": 95
+    },
+    {
+      "id": 2,
+      "entity": "BAY",
+      "inconsistency": 56
+    }
+  ]
 }
