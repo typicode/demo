@@ -1,14 +1,57 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+	"name": "Course",
+	"description": "",
+	"displayField": "title",
+	"fields": [{
+			"id": "title",
+			"name": "Title",
+			"type": "Symbol",
+			"localized": false,
+			"required": false,
+			"validations": [],
+			"disabled": false,
+			"omitted": false
+		},
+		{
+			"id": "courseImage",
+			"name": "Course Image",
+			"type": "Link",
+			"localized": false,
+			"required": false,
+			"validations": [],
+			"disabled": false,
+			"omitted": false,
+			"linkType": "Asset"
+		},
+		{
+			"id": "author",
+			"name": "Author",
+			"type": "Symbol",
+			"localized": false,
+			"required": false,
+			"validations": [],
+			"disabled": false,
+			"omitted": false
+		},
+		{
+			"id": "description",
+			"name": "Description",
+			"type": "Text",
+			"localized": false,
+			"required": false,
+			"validations": [],
+			"disabled": false,
+			"omitted": false
+		},
+		{
+			"id": "url",
+			"name": "Url",
+			"type": "Symbol",
+			"localized": false,
+			"required": false,
+			"validations": [],
+			"disabled": false,
+			"omitted": false
+		}
+	]
 }
