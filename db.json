@@ -11,4 +11,9 @@
   "profile": {
     "name": "typicode"
   }
+  "books" : [
+    { "code" : 1, "name" : "firstName", "author" : "firstAuthor", "publishYear" : 1994 },
+    { "code" : 2, "name" : "secondName", "author" : "secondAuthor", "publishYear" : 1995 },
+    { "code" : 3, "name" : "thirdName", "author" : "thirdAuthor", "publishYear" : 1996 }
+  ]
 }
