@@ -1,16 +1,16 @@
 {
-  "posts": [
+  "books": [
     {
       "id": 1,
-      "title": "Post 1"
+      "title": "Eloquent JavaScript, Second Edition"
     },
     {
       "id": 2,
-      "title": "Post 2"
+      "title": "Learning JavaScript Design Patterns"
     },
     {
       "id": 3,
-      "title": "Post 3"
+      "title": "Speaking JavaScript"
     }
   ],
   "comments": [
