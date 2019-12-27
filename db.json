@@ -2,15 +2,18 @@
   "books": [
     {
       "id": 1,
-      "title": "Eloquent JavaScript, Second Edition"
+      "title": "Eloquent JavaScript, Second Edition",
+      "subtitle": "A Modern Introduction to Programming"
     },
     {
       "id": 2,
-      "title": "Learning JavaScript Design Patterns"
+      "title": "Learning JavaScript Design Patterns",
+      "subtitle": "A JavaScript and jQuery Developer's Guide"
     },
     {
       "id": 3,
-      "title": "Speaking JavaScript"
+      "title": "Speaking JavaScript",
+      "subtitle": "An In-Depth Guide for Programmers"
     }
   ],
   "comments": [
