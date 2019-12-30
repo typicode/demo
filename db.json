@@ -59,6 +59,42 @@
       "description": "ECMAScript 6 represents the biggest update to the core of JavaScript in the history of the language. In Understanding ECMAScript 6, expert developer Nicholas C. Zakas provides a complete guide to the object types, syntax, and other exciting changes that ECMAScript 6 brings to JavaScript.",
       "image": "https://d2sofvawe08yqg.cloudfront.net/understandinges6/small?1558023536",
       "link": "https://leanpub.com/understandinges6/read"
+    },
+    {
+      "id": 6,
+      "isbn": "9781491904244",
+      "title": "You Don't Know JS",
+      "subtitle": "ES6 & Beyond",
+      "author": "Kyle Simpson",
+      "publisher": "O'Reilly Media",
+      "pages": 278,
+      "description": "No matter how much experience you have with JavaScript, odds are you don’t fully understand the language. As part of the 'You Don’t Know JS' series, this compact guide focuses on new features available in ECMAScript 6 (ES6), the latest version of the standard upon which JavaScript is built.",
+      "image": "https://images-eu.ssl-images-amazon.com/images/I/41kn-mEpe6L.jpg",
+      "link": "https://github.com/getify/You-Dont-Know-JS"
+    },
+    {
+      "id": 7,
+      "isbn": "9781449325862",
+      "title": "Git Pocket Guide",
+      "subtitle": "A Working Introduction",
+      "author": "Richard E. Silverman",
+      "publisher": "O'Reilly Media",
+      "pages": 234,
+      "description": "This pocket guide is the perfect on-the-job companion to Git, the distributed version control system. It provides a compact, readable introduction to Git for new users, as well as a reference to common commands and procedures for those of you with Git experience.",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41hZDooM2zL._SX302_BO1,204,203,200_.jpg",
+      "link": "https://www.amazon.co.uk/Git-Pocket-Guide-Richard-Silverman/dp/1449325866"
+    },
+    {
+      "id": 8,
+      "isbn": "9781449337711",
+      "title": "Designing Evolvable Web APIs with ASP.NET",
+      "subtitle": "Harnessing the Power of the Web",
+      "author": "Glenn Block, et al.",
+      "publisher": "O'Reilly Media",
+      "pages": 538,
+      "description": "Design and build Web APIs for a broad range of clients—including browsers and mobile devices—that can adapt to change over time. This practical, hands-on guide takes you through the theory and tools you need to build evolvable HTTP services with Microsoft’s ASP.NET Web API framework. In the process, you’ll learn how design and implement a real-world Web API.",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51iqz9lKK-L._SX379_BO1,204,203,200_.jpg",
+      "link": "https://www.amazon.co.uk/Designing-Evolvable-Web-APIs-ASP-NET/dp/1449337716"
     }
   ],
   "profile": {
