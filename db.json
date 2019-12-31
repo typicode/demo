@@ -3,7 +3,7 @@
     {
       "id": 1,
       "isbn": "9781593275846",
-      "title": "Eloquent JavaScript, Second Edition",
+      "title": "Eloquent JavaScript",
       "subtitle": "A Modern Introduction to Programming",
       "author": "Marijn Haverbeke",
       "publisher": "No Starch Press",
@@ -15,7 +15,7 @@
     {
       "id": 2,
       "isbn": "9781449331818",
-      "title": "Learning JavaScript Design Patterns",
+      "title": "JavaScript Design Patterns",
       "subtitle": "A JavaScript and jQuery Developer's Guide",
       "author": "Addy Osmani",
       "publisher": "O'Reilly Media",
