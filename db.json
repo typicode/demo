@@ -1,14 +1,8 @@
 {
   "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+    { "id": 1, "title": "Điện thoại OPPO A5 (2020) 64GB","image":"https://cdn.tgdd.vn/Products/Images/42/210441/oppo-a5-2020-1-400x460.png","Giá":"4.190.000" },
+    { "id": 2, "title": "Điện thoại Samsung Galaxy A20","image":"https://cdn.tgdd.vn/Products/Images/42/198792/samsung-galaxy-a20-red-400x460.png","Giá":"4.190.000"},
+   
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+ 
 }
