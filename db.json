@@ -1,14 +1,91 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
+[
+  {
+    "fieldName": "id",
+    "label": "Id",
+    "dataType": "number",
+    "isRequired": true,
+    "isHidden": true,
+    "isKey": true
+  },
+  {
+    "fieldName": "name",
+    "label": "Name",
+    "dataType": "string",
+    "isRequired": true,
+    "controlType": "Input-Field",
+    "displayOrder": 2,
+    "startRow": 0
+  },
+  {
+    "fieldName": "number",
+    "label": "Number",
+    "dataType": "number",
+    "controlType": "Input-Field-Numeric",
+    "displayOrder": 1,
+    "startRow": 0
+  },
+  {
+    "fieldName": "notes",
+    "label": "Notes",
+    "dataType": "string",
+    "dataLength": 256,
+    "controlType": "Text-area-Field",
+    "displayOrder": 2,
+    "startRow": 1
+  },
+  {
+    "fieldName": "projects",
+    "label": "Project",
+    "dataType": "string",
+    "dataLength": 256,
+    "controlType": "Input-Field-Select",
+    "displayOrder": 2,
+    "startRow": 1,
+    "moduleParamListValues": [
+      {
+        "paramListValueId": 1,
+        "listValueName": "25466",
+        "listValueDesc": "Corpus Christi",
+        "moduleParamId": 1
+      },
+      {
+        "paramListValueId": 2,
+        "listValueName": "25899",
+        "listValueDesc": "PennChem Monaca",
+        "moduleParamId": 1
+      }
+    ]
+  },
+  {
+    "fieldName": "projectsplaceholder",
+    "label": "Project With Placeholder",
+    "dataType": "string",
+    "dataLength": 256,
+    "controlType": "Input-Field-Select",
+    "displayOrder": 2,
+    "startRow": 1,
+    "placeholder": "Select project",
+    "moduleParamListValues": [
+      {
+        "paramListValueId": 1,
+        "listValueName": "10202",
+        "listValueDesc": "Sabine Pass LNG",
+        "moduleParamId": 2
+      },
+      {
+        "paramListValueId": 2,
+        "listValueName": "14336",
+        "listValueDesc": "Train project",
+        "moduleParamId": 2
+      }
+    ]
+  },
+  {
+    "fieldName": "isenabled",
+    "label": "Field is Enabled?",
+    "dataType": "boolean",
+    "controlType": "Input-Field-Checkbox",
+    "displayOrder": 2,
+    "startRow": 1
   }
-}
+]
