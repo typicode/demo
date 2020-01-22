@@ -1,0 +1,41 @@
+{
+    "status": {
+        "id": "5e281386aef3f6145c339134",
+        "sid": "4784fdb864b4s6d4v64sf6b4s6",
+        "startDate": "02-12-2020 18:30:10",
+        "caller": "+4916546541654",
+        "callerIdentity": null,
+        "callLog": [
+            {
+                "keyWords": [
+                    "Hong Kong",
+                    "Hamburg",
+                    "11/01/2020"
+                ],
+                "operator": false,
+                "text": "I would like to book a shipment from Hamburg to Hong Kong on the 1st of November.",
+                "time": "11-01-2020 17:45:00"
+            },
+            {
+                "keyWords": [
+                    "Hong Kong",
+                    "Hamburg",
+                    "11/01/2020"
+                ],
+                "operator": false,
+                "text": "I would like to ******************************** book a shipment from Hamburg to Hong Kong on the 1st of November.",
+                "time": "11-01-2020 17:45:00"
+            },
+            {
+                "keyWords": [
+                    "Hong Kong",
+                    "Hamburg",
+                    "11/01/2020"
+                ],
+                "operator": false,
+                "text": "I would like to +++++++++++++++++++++++++++++  book a shipment from Hamburg to Hong Kong on the 1st of November.",
+                "time": "11-01-2020 17:45:00"
+            }
+        ]
+    }
+}
