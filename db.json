@@ -1,14 +1,99 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
+    "id": 1,
+    "name": "Leanne Graham",
+    "gender": "male",
+    "phone": "1-770-736-8031 x56442",
+    "company": "Romaguera-Crona",
+      
+  },
+  {
+    "id": 2,
+    "name": "Ervin Howell",
+    "gender": "male",
+   
+    "phone": "010-692-6593 x09125",
+  
+    "company": "Deckow-Crist",
+      
+  },
+  {
+    "id": 3,
+    "name": "Clementine Bauch",
+    "gender": "male",
+    
+    "phone": "1-463-123-4447",
+    
+    "company": "Romaguera-Jacobson",
+      
+  },
+  {
+    "id": 4,
+    "name": "Patricia Lebsack",
+    "gender": "female",
+    
+    "phone": "493-170-9623 x156",
+    
+    "company": "Robel-Corkery",
+     
+  },
+  {
+    "id": 5,
+    "name": "Chelsey Dietrich",
+    "gender": "male",
+   
+    "phone": "(254)954-1289",
+    
+    "company": "Keebler LLC",
+      
+  },
+    
+  {
+    "id": 6,
+    "name": "Mrs. Dennis Schulist",
+    "gender": "female",
+    
+    "phone": "1-477-935-8478 x6430",
+   
+    "company": "Considine-Lockman",
+      
+  },
+  {
+    "id": 7,
+    "name": "Kurtis Weissnat",
+    "gender": "male",
+   
+    "phone": "210.067.6132",
+    
+    "company": "Johns Group",
+      
+  },
+  {
+    "id": 8,
+    "name": "Nicholas Runolfsdottir V",
+    "gender": "male",
+    
+    "phone": "586.493.6943 x140",
+    
+    "company": "Abernathy Group",
+     
+  },
+  {
+    "id": 9,
+    "name": "Glenna Reichert",
+    "gender": "male",
+    
+    "phone": "(775)976-6794 x41206",
+   
+    "company":"Yost and Sons",
+      
+  },
+  {
+    "id": 10,
+    "name": "Clementina DuBuque",
+    "gender": "female",
+   
+    "phone": "024-648-3804",
+    
+    "company":  "Hoeger LLC",
+     
   }
-}
