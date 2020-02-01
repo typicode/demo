@@ -1,0 +1,38 @@
+[
+        {
+          id: 1,
+          peak: "Moldoveanu",
+          mountain: "Fagaras",
+          county: "Sibiu",
+          height: "2544",
+          cottage: "Villa Balea"
+        },
+        {
+          id: 2,
+          peak: "Omu",
+          mountain: "Bucegi",
+          county: "Brasov",
+          height: "2505"
+        },
+        {
+          id: 3,
+          peak: "Toaca",
+          mountain: "Ceahlau",
+          county: "Neamt",
+          height: "1900"
+        },
+        {
+          id: 4,
+          peak: "Retezat",
+          mountain: "Retezat",
+          county: "Hunedoara",
+          height: "2482"
+        },
+        {
+          id: 5,
+          peak: "Pietrosul Rodnei",
+          mountain: "Rodna",
+          county: "Maramures",
+          height: "2303"
+        }
+      ];
