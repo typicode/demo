@@ -1,14 +1,108 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
+  {
+    "_id": "5e39be4cc57e352e1e3d23cd",
+    "title": "Web Development",
+    "team": "CORMORAN",
+    "positions": 13,
+    "skills": [
+      "incididunt",
+      "consectetur",
+      "pariatur"
+    ],
+    "submitted": 5
+  },
+  {
+    "_id": "5e39be4c751a9427af94e33d",
+    "title": "Software Engineer",
+    "team": "KAGGLE",
+    "positions": 3,
+    "skills": [
+      "exercitation",
+      "sit",
+      "sint"
+    ],
+    "submitted": 2
+  },
+  {
+    "_id": "5e39be4cbfef24bd38d34f7e",
+    "title": "Data Analyst",
+    "team": "DENTREX",
+    "positions": 17,
+    "skills": [
+      "consectetur",
+      "nulla",
+      "Lorem"
+    ],
+    "submitted": 6
+  },
+  {
+    "_id": "5e39be4caf3ebed412267e29",
+    "title": "Data Analyst",
+    "team": "VELITY",
+    "positions": 28,
+    "skills": [
+      "ex",
+      "quis",
+      "laborum"
+    ],
+    "submitted": 8
+  },
+  {
+    "_id": "5e39be4c3bccde52068f2781",
+    "title": "Web Development",
+    "team": "CODACT",
+    "positions": 27,
+    "skills": [
+      "deserunt",
+      "deserunt",
+      "mollit"
+    ],
+    "submitted": 5
+  },
+  {
+    "_id": "5e39be4cc6d27b634176641d",
+    "title": "Web Development",
+    "team": "PAPRICUT",
+    "positions": 2,
+    "skills": [
+      "ex",
+      "est",
+      "eiusmod"
+    ],
+    "submitted": 5
+  },
+  {
+    "_id": "5e39be4c84be6b7cf2e5bdae",
+    "title": "Data Analyst",
+    "team": "ARTIQ",
+    "positions": 15,
+    "skills": [
+      "incididunt",
+      "officia",
+      "eu"
+    ],
+    "submitted": 8
+  },
+  {
+    "_id": "5e39be4caca7f8c8afbdeda0",
+    "title": "Software Engineer",
+    "team": "BUNGA",
+    "positions": 25,
+    "skills": [
+      "proident",
+      "fugiat",
+      "amet"
+    ],
+    "submitted": 4
+  },
+  {
+    "_id": "5e39be4c1e27068df89551a0",
+    "title": "Full Stack Developer",
+    "team": "FUTURIZE",
+    "positions": 15,
+    "skills": [
+      "amet",
+      "ipsum",
+      "aute"
+    ],
+    "submitted": 6
   }
-}
