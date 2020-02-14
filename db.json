@@ -1,14 +1,49 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+    "lista": [
+        {
+            "idViaje": 557,
+            "nombre": "prueba25",
+            "fecha": "12/02/2020",
+            "horaInicio": "12:00:00 AM",
+            "horaFinal": "06:58:14 PM",
+            "origen": "13.6944899, -89.2295114",
+            "destino": "13.4793972, -88.1779339",
+            "precio": 71.49,
+            "idTipoVehiculo": 1,
+            "tiempo": 10,
+            "distancia": 5,
+            "origen_desc": "Prueba origen",
+            "destino_desc": "Prueba Destino"
+        },
+        {
+            "idViaje": 559,
+            "nombre": "prueba25",
+            "fecha": "12/02/2020",
+            "horaInicio": "12:00:00 AM",
+            "horaFinal": "07:00:47 PM",
+            "origen": "13.6944899, -89.2295114",
+            "destino": "13.4793972, -88.1779339",
+            "precio": 71.49,
+            "idTipoVehiculo": 1,
+            "tiempo": 10,
+            "distancia": 5,
+            "origen_desc": "Prueba origen",
+            "destino_desc": "Prueba Destino"
+        },
+        {
+            "idViaje": 578,
+            "nombre": "prueba25",
+            "fecha": "13/02/2020",
+            "horaInicio": "12:00:00 AM",
+            "horaFinal": "09:01:16 PM",
+            "origen": "13.6944899, -89.2295114",
+            "destino": "13.4793972, -88.1779339",
+            "precio": 71.49,
+            "idTipoVehiculo": 1,
+            "tiempo": 10,
+            "distancia": 5,
+            "origen_desc": "Prueba origen",
+            "destino_desc": "Prueba Destino"
+        }
+    ]
 }
