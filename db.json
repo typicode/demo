@@ -1,14 +1,24 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+          employeeSelected: false,
+          name: "Arun",
+          isPromoted: true,
+          salary: 60000,
+          },
+          {
+          employeeSelected: false,
+          name: "Maha",
+          isPromoted: false,
+          salary: 50000,
+          },
+          {
+          employeeSelected: false,
+          name: "Suresh",
+          isPromoted: true,
+          salary: 40000,
+          },
+          {
+          employeeSelected: false,
+          name: "Ramesh",
+          isPromoted: false,
+          salary: 30000,
+          }
