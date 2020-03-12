@@ -1,14 +1,49 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+"csk":
+[
+{
+"playername":"MS Dhoni",
+"Playerpic":"https://iplstatic.s3.amazonaws.com/players/210/1.png"
+},
+{
+"playername":"Tahir",
+"Playerpic":"https://iplstatic.s3.amazonaws.com/players/210/898.png"
+},
+{
+"playername":"Ngidi",
+"Playerpic":"https://iplstatic.s3.amazonaws.com/players/210/3746.png"
+},
+{
+"playername":"Gaikwad",
+"Playerpic":"https://iplstatic.s3.amazonaws.com/players/210/5443.png"
+},
+{
+"playername":"Shane Watson",
+"Playerpic":"https://iplstatic.s3.amazonaws.com/players/210/227.png"
+},
+{
+"playername":"Rayudu",
+"Playerpic":"https://iplstatic.s3.amazonaws.com/players/210/100.png"
+},
+{
+"playername":"Harbajan Singh",
+"Playerpic":"https://iplstatic.s3.amazonaws.com/players/210/103.png"
+},
+{
+"playername":"Murali Vijay",
+"Playerpic":"https://iplstatic.s3.amazonaws.com/players/210/7.png"
+},
+{
+"playername":"Kedar jadav",
+"Playerpic":"https://iplstatic.s3.amazonaws.com/players/210/297.png"
+},
+{
+"playername":"Ravidar Jadeja",
+"Playerpic":"https://iplstatic.s3.amazonaws.com/players/210/9.png"
+},
+{
+"playername":"Deepak Chahar",
+"Playerpic":"https://iplstatic.s3.amazonaws.com/players/210/140.png"
+}
+]
 }
