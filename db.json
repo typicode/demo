@@ -1,4 +1,4 @@
-{
+
   "posts": [
     { "id": 1, "title": "Post 1" },
     { "id": 2, "title": "Post 2" },
@@ -9,6 +9,9 @@
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
   "profile": {
-    "name": "typicode"
-  }
+          'status' => 'OK',
+          'displayName' => 'Иванов Иван Иваныч',
+          'login' => 'L0_!2J1C3T59EZZNZSZWR00KXL8BA',
+          'message' => ''
+        }
 }
