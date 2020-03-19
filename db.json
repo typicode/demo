@@ -11,4 +11,7 @@
   "profile": {
     "name": "typicode"
   }
+  "category": {
+    "name": "cat1"
+  }
 }
