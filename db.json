@@ -1,14 +1,12 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "personal": [
+    { "id": 1, "name": "anil","email_id":"anil@grr.la", "cell":"9876543210","DOB":"14-11-1994"},
+    { "id": 2, "name": "ram","email_id":"ram@grr.la", "cell":"9876987698","DOB":"07-01-1997" },
+    { "id": 3, "name": "atul","email_id":"atul@grr.la", "cell":"9821212121","DOB":"19-11-1995" }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "election": [
+     { "id": 1, "name": "anil","email_id":"anil@grr.la", "cell":"9876543210","Aadhar":"14111994","PAN":"PANANIL"},
+     { "id": 1, "name": "ram","email_id":"ram@grr.la", "cell":"9876987698","Aadhar":"07011997","PAN":"PANRAM"},
+     { "id": 1, "name": "atul","email_id":"atul@grr.la", "cell":"9821212121","Aadhar":"19111995","PAN":"PANATUL"},
+  ]
 }
