@@ -1,0 +1,30 @@
+[
+       {
+         name: 'Charizard',
+         id: 'rm1a'
+       },
+       {
+         name: 'Dragonight',
+         id: 'rm2a'
+       },
+       {
+         name: 'Scyther',
+         id: 'rm3a'
+       },
+       {
+         name: 'Blastoise',
+         id: 'rm4a'
+       },
+       {
+         name: 'Ivysaur',
+         id: 'rm4a'
+       },
+       {
+         name: 'Greyninja',
+         id: 'rm5a'
+       },
+       {
+         name: 'Lugia',
+         id: 'rm6a'
+       }
+      ]
