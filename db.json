@@ -8,6 +8,14 @@
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
+  "categories":[
+    {"id":1,"title":"category one","color":"red"},
+     {"id":2,"title":"category two","color":"green"},
+     {"id":3,"title":"category three","color":"gray"},
+     {"id":4,"title":"category four","color":"blue"},
+     {"id":5,"title":"category five","color":"amber"},
+     {"id":6,"title":"category six","color":"yellow"},
+  ]
   "profile": {
     "name": "typicode"
   }
