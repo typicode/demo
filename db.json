@@ -3,5 +3,5 @@
     { "id": 1, "Date of Start":"15/06/2019", "Team Size":20, "Client Location":"New York", "Status":"Support"},
     { "id": 2, "Date of Start":"10/06/2019", "Team Size":10, "Client Location":"Boston", "Status":"Support"},
     { "id": 3, "Date of Start":"25/06/2019", "Team Size":26, "Client Location":"Tokyo", "Status":"Support"}
- 
+ ]
 }
