@@ -1,14 +1,7 @@
 {
   "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+    { "id": 1, "Date of Start":15/06/2019, "Team Size":20, "Client Location":"New York", "Status":"Support"},
+    { "id": 2, "Date of Start":10/06/2019, "Team Size":10, "Client Location":"Boston", "Status":"Support"},
+    { "id": 3, "Date of Start":25/06/2019, "Team Size":26, "Client Location":"Tokyo", "Status":"Support"}
+ 
 }
