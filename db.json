@@ -1,14 +1,315 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+    "items": [
+        {
+            "itemId": 994,
+            "quantity": 22,
+            "storeDetails": {
+                "storeId": "70",
+                "name": "T-Giant B2B Store",
+                "logoUrl": "https://dslvn70b8kgpc.cloudfront.net/commonadmin/039ef26e-119e-49b8-bb34-a429071b17ae/WomanCard-2.jpg"
+            },
+            "skus": [
+                {
+                    "default": false,
+                    "skuId": "220014150",
+                    "productId": "220014",
+                    "type": "DEFAULT",
+                    "subType": "DEFAULT",
+                    "title": "Womens any day tank",
+                    "optionalSkuQuantity": 0,
+                    "skuQuantity": 1,
+                    "price": 22.55,
+                    "regularPrice": 27.54,
+                    "quantityLimit": {
+                        "minValue": 1,
+                        "maxValue": 50,
+                        "associateMinValue": null,
+                        "associateMaxValue": null
+                    },
+                    "skuProperties": {
+                        "minpurchasequantity": "1",
+                        "itemType": "shirts",
+                        "Description": "This is a long description of a great, plain t-shirt. Quality and comfor aboud in this timeless classic. With three fabrics combined, our pattended tri-stich process results in stunningly soft shirts that hold their shape and mainitan their color, wash after wash.\nAvailable in sizes ranging from extra-small to XXL, the plain tee is a great fit and a go-to for anyone. No wardrobe is complete without the plain tee, a standard for generations.",
+                        "maxpurchasequantity": "50",
+                        "color": "black",
+                        "gender": "women",
+                        "fittype": "loose fit",
+                        "Specification": "[{\"label\":\"fit\",\"value\":\"Loose Fit\"},{\"label\":\"Sleeve\",\"value\":\"Sleeveless\"},{\"label\":\"Neck\",\"value\":\"Scoop\"},{\"label\":\"Fabric\",\"value\":\"60.0% Cotton and 40.0% Polyester\"},{\"label\":\"Gender\",\"value\":\"Women\"}]",
+                        "altImage": "[\"https://raderain.sirv.com/T-Giant/344B_220014110_alt1.png\",\"https://raderain.sirv.com/T-Giant/344D_220014110_alt2.png\"]",
+                        "AltImage1": "https://raderain.sirv.com/T-Giant/344B_220014110_alt1.png",
+                        "friendlycolor": "black",
+                        "neckline": "scoop",
+                        "ShortDescription": "Here's a shirt that's ready to go the distance. Plain comfort, always in style, plain tees from T-Giant.",
+                        "AltImage3": "https://raderain.sirv.com/T-Giant/344D_220014110_alt2.png",
+                        "fit": "shirts",
+                        "size": "xxl",
+                        "fabric": "60.0% Cotton and 40.0% Polyester",
+                        "price": "22.55",
+                        "imageURL": "https://raderain.sirv.com/T-Giant/343F_220014110_main.png",
+                        "name": "Womens any day tank",
+                        "CategoryName": "plaintees",
+                        "brand": "Sun drop",
+                        "sleevelength": "sleeveless"
+                    },
+                    "fulfilmentProperties": {
+                        "fulfillmentType": "PHYSICAL",
+                        "shippingCode": "DEFAULT",
+                        "specialShipping": false,
+                        "specialShippingCode": null,
+                        "returnable": true,
+                        "skuDimension": null,
+                        "skuWeight": {
+                            "value": 0,
+                            "unit": "KG"
+                        },
+                        "skuSize": null
+                    },
+                    "inventoryProperties": {
+                        "available": true,
+                        "lowStock": true,
+                        "binName": "ATP_Bin",
+                        "backOrdered": null,
+                        "expectedBackOrderAvailabilityDate": 0,
+                        "preOrdered": null,
+                        "expectedPreOrderAvailabilityDate": 0
+                    }
+                }
+            ],
+            "deliveryDetails": {
+                "deliveryId": null,
+                "isDeliveredAlone": false,
+                "deliveryType": null,
+                "deliveryInstructions": null,
+                "deliverOnOrBefore": null,
+                "deliveryCharge": null,
+                "totalDeliveryCharge": null,
+                "store": null,
+                "address": null,
+                "methods": null,
+                "properties": null
+            },
+            "unitValue": {
+                "originalPrice": 22.55,
+                "markdown": 0,
+                "priceAfterMarkdown": 22.55,
+                "discount": 0,
+                "priceAfterDiscount": 22.55,
+                "taxOnPrice": 0,
+                "priceIncludingTax": 22.55,
+                "deliveryCharge": 0,
+                "deliveryChargeDiscount": 0,
+                "deliveryChargeAfterDiscount": 0,
+                "taxOnDeliveryCharge": 0,
+                "deliveryChargeIncludingTax": 0,
+                "overAllDiscount": 0,
+                "overAllTax": 0,
+                "grandTotal": 22.55
+            },
+            "totalValue": {
+                "originalPrice": 496.1,
+                "markdown": 0,
+                "priceAfterMarkdown": 496.1,
+                "discount": 0,
+                "priceAfterDiscount": 496.1,
+                "taxOnPrice": 0,
+                "priceIncludingTax": 496.1,
+                "deliveryCharge": 0,
+                "deliveryChargeDiscount": 0,
+                "deliveryChargeAfterDiscount": 0,
+                "taxOnDeliveryCharge": 0,
+                "deliveryChargeIncludingTax": 0,
+                "overAllDiscount": 0,
+                "overAllTax": 0,
+                "grandTotal": 496.1
+            }
+        },
+        {
+            "itemId": 1206,
+            "quantity": 2,
+            "storeDetails": {
+                "storeId": "70",
+                "name": "T-Giant B2B Store",
+                "logoUrl": "https://dslvn70b8kgpc.cloudfront.net/commonadmin/039ef26e-119e-49b8-bb34-a429071b17ae/WomanCard-2.jpg"
+            },
+            "skus": [
+                {
+                    "default": false,
+                    "skuId": "210001130",
+                    "productId": "210001",
+                    "type": "DEFAULT",
+                    "subType": "DEFAULT",
+                    "title": "Mens basic crew heavyweight long sleeve standard fit t-shirt",
+                    "optionalSkuQuantity": 0,
+                    "skuQuantity": 2,
+                    "price": 18.65,
+                    "regularPrice": 23.64,
+                    "quantityLimit": {
+                        "minValue": 1,
+                        "maxValue": 50,
+                        "associateMinValue": null,
+                        "associateMaxValue": null
+                    },
+                    "skuProperties": {
+                        "minpurchasequantity": "1",
+                        "itemType": "shirts",
+                        "Description": "When cold weather starts to roll in, make sure you've got the basics covered with the Basic Crew Heavyweight Long-Sleeve Standard-Fit T-Shirt. Constructed from a heavyweight cotton fabric in classic crewneck style, this long-sleeve T-Shirt comes in a solid color so you can easily pair it with any style of bottoms from jeans to chinos. Layer it underneath a sweater or heavy jacket, and you'll be ready for anything the chilly temperatures have to throw your way.",
+                        "maxpurchasequantity": "50",
+                        "color": "grey",
+                        "gender": "men",
+                        "fittype": "regular",
+                        "Specification": "[{\"label\":\"fit\",\"value\":\"Regular\"},{\"label\":\"Sleeve\",\"value\":\"Long Sleeve\"},{\"label\":\"Neck\",\"value\":\"Crew Neck\"},{\"label\":\"Fabric\",\"value\":\"100.0% Polyester\"},{\"label\":\"Gender\",\"value\":\"Men\"}]",
+                        "altImage": "[\"https://raderain.sirv.com/T-Giant/037B_210001110_alt1.png\",\"https://raderain.sirv.com/T-Giant/037D_210001110_alt2.png\"]",
+                        "AltImage1": "https://raderain.sirv.com/T-Giant/037B_210001110_alt1.png",
+                        "friendlycolor": "grey",
+                        "neckline": "crew neck",
+                        "ShortDescription": "When cold weather starts to roll in, make sure you've got the basics covered with the Basic Crew Heavyweight Long-Sleeve Standard-Fit T-Shirt.",
+                        "AltImage3": "https://raderain.sirv.com/T-Giant/037D_210001110_alt2.png",
+                        "fit": "shirts",
+                        "size": "l",
+                        "fabric": "100.0% Polyester",
+                        "price": "18.65",
+                        "imageURL": "https://raderain.sirv.com/T-Giant/036F_210001110_main.png",
+                        "name": "Mens basic crew heavyweight long sleeve standard fit t-shirt",
+                        "CategoryName": "plaintees",
+                        "brand": "Matee",
+                        "sleevelength": "long sleeve"
+                    },
+                    "fulfilmentProperties": {
+                        "fulfillmentType": "PHYSICAL",
+                        "shippingCode": "DEFAULT",
+                        "specialShipping": false,
+                        "specialShippingCode": null,
+                        "returnable": true,
+                        "skuDimension": null,
+                        "skuWeight": {
+                            "value": 0,
+                            "unit": "KG"
+                        },
+                        "skuSize": null
+                    },
+                    "inventoryProperties": {
+                        "available": true,
+                        "lowStock": true,
+                        "binName": "ATP_Bin",
+                        "backOrdered": null,
+                        "expectedBackOrderAvailabilityDate": 0,
+                        "preOrdered": null,
+                        "expectedPreOrderAvailabilityDate": 0
+                    }
+                }
+            ],
+            "deliveryDetails": {
+                "deliveryId": null,
+                "isDeliveredAlone": false,
+                "deliveryType": null,
+                "deliveryInstructions": null,
+                "deliverOnOrBefore": null,
+                "deliveryCharge": null,
+                "totalDeliveryCharge": null,
+                "store": null,
+                "address": null,
+                "methods": null,
+                "properties": null
+            },
+            "unitValue": {
+                "originalPrice": 18.65,
+                "markdown": 0,
+                "priceAfterMarkdown": 18.65,
+                "discount": 0,
+                "priceAfterDiscount": 18.65,
+                "taxOnPrice": 0,
+                "priceIncludingTax": 18.65,
+                "deliveryCharge": 0,
+                "deliveryChargeDiscount": 0,
+                "deliveryChargeAfterDiscount": 0,
+                "taxOnDeliveryCharge": 0,
+                "deliveryChargeIncludingTax": 0,
+                "overAllDiscount": 0,
+                "overAllTax": 0,
+                "grandTotal": 18.65
+            },
+            "totalValue": {
+                "originalPrice": 37.3,
+                "markdown": 0,
+                "priceAfterMarkdown": 37.3,
+                "discount": 0,
+                "priceAfterDiscount": 37.3,
+                "taxOnPrice": 0,
+                "priceIncludingTax": 37.3,
+                "deliveryCharge": 0,
+                "deliveryChargeDiscount": 0,
+                "deliveryChargeAfterDiscount": 0,
+                "taxOnDeliveryCharge": 0,
+                "deliveryChargeIncludingTax": 0,
+                "overAllDiscount": 0,
+                "overAllTax": 0,
+                "grandTotal": 37.3
+            }
+        }
+    ],
+    "storeDetails": {
+        "storeId": "70",
+        "name": "T-Giant B2B Store",
+        "logoUrl": "https://dslvn70b8kgpc.cloudfront.net/commonadmin/039ef26e-119e-49b8-bb34-a429071b17ae/WomanCard-2.jpg"
+    },
+    "deliveryDetails": {
+        "deliveryId": null,
+        "isDeliveredAlone": false,
+        "deliveryType": null,
+        "deliveryInstructions": null,
+        "deliverOnOrBefore": null,
+        "deliveryCharge": null,
+        "totalDeliveryCharge": null,
+        "store": null,
+        "address": null,
+        "methods": null,
+        "properties": null
+    },
+    "paymentValue": {
+        "bagValue": 533.4,
+        "totalAmountPaid": 0,
+        "totalAmountUnpaid": 533.4
+    },
+    "value": {
+        "count": 24,
+        "originalPrice": 533.4,
+        "markdown": 0,
+        "priceAfterMarkdown": 533.4,
+        "itemDiscount": 0,
+        "cartDiscount": 0,
+        "totalDiscount": 0,
+        "priceAfterDiscount": 533.4,
+        "taxOnPrice": 0,
+        "priceIncludingTax": 533.4,
+        "itemDeliveryCharge": 0,
+        "itemDeliveryChargeDiscount": 0,
+        "itemDeliveryChargeAfterDiscount": 0,
+        "cartDeliveryCharge": 0,
+        "cartDeliveryChargeDiscount": 0,
+        "cartDeliveryChargeAfterDiscount": 0,
+        "totalDeliveryCharge": 0,
+        "taxOnDeliveryCharge": 0,
+        "deliveryChargeIncludingTax": 0,
+        "overAllDiscount": 0,
+        "overAllTax": 0,
+        "grandTotal": 533.4
+    },
+    "currencySign": "$",
+    "currencyCode": "USD",
+    "ageVerification": {
+        "required": false,
+        "verified": false,
+        "requiredLimit": null,
+        "verifiedLimit": null,
+        "verifiedUsing": null,
+        "verifierIdNumber": null
+    },
+    "cartId": "825",
+    "cartType": "USER",
+    "userId": "1235",
+    "userName": "Infosys Buyer User",
+    "costCenterId": "7",
+    "accountsId": "8",
+    "createdTime": 0,
+    "lastUpdatedTime": 0
 }
