@@ -1,0 +1,14 @@
+{
+  "products": [
+    { "productId": 1, "productName": "Apple Watch" },
+    { "productId": 2, "productName": "Apple Macbook Pro" },
+    { "productId": 3, "productName": "Apple Ipad " }
+  ],
+  "reviews": [
+    { "reviewID": 1, "body": "some comment", "postId": 1 },
+    { "reviewID": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "Tom"
+  }
+}
