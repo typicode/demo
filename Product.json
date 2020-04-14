@@ -1,0 +1,24 @@
+ {
+      "ProductsID" : 1,
+      "ProductsName": "Mobile",
+      "ProductsTQuantity" : "5",
+      "ProductsPrice" : "500000.00"
+    },
+      {
+      "ProductsID" : 2,
+      "ProductsName": "TV",
+      "ProductsTQuantity" : "5",
+      "ProductsPrice" : "100000.00"
+    },
+    {
+      "ProductsID" : 3,
+      "ProductsName": "Laptop",
+      "ProductsTQuantity" : "10",
+      "ProductsPrice" : "150000.00"
+    },
+    {
+      "ProductsID" : 4,
+      "ProductsName": "desktop",
+      "ProductsTQuantity" : "5",
+      "ProductsPrice" : "150000.00"
+    }
