@@ -1,8 +1,23 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "data": [
+   {
+            "description": "Explore iPhone, the world's most powerful personal device",
+            "id": "1",
+            "image": "C:/Users/Kinali Gandhi/Desktop/iphone.png",
+            "title": "Iphone 11"
+        },
+         {
+            "description": "Explore One Plus, the world's most powerful personal device",
+            "id": "2",
+            "image": "C:/Users/Kinali Gandhi/Desktop/oneplus.jpg",
+            "title": "OnePlus 7 Plus"
+        },
+        {
+            "description": "Explore Galaxy, the world's most powerful personal device",
+            "id": "3",
+            "image": "C:/Users/Kinali Gandhi/Desktop/galaxy.jpg",
+            "title": "Galaxy Note 7"
+        }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
