@@ -1,14 +1,52 @@
+// 20200420161040
+// http://app.technology.org/TW54orW39xalvZFT/posts_config.json
+
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "home_url": "http://app.technology.org/",
+  "secret_dir": "TW54orW39xalvZFT/",
+  "media_path": "https://www.technology.org/texorgwp/wp-content/",
+  "newest_post_id": "372928",
+  "newest_post_date": "2020-04-20 09:20:21",
+  "categories": [
+    {
+      "id": "869",
+      "name": "Spotlight news"
+    },
+    {
+      "id": "46",
+      "name": "Video"
+    },
+    {
+      "id": "212",
+      "name": "Developments"
+    },
+    {
+      "id": "240",
+      "name": "Ideas"
+    },
+    {
+      "id": "6604",
+      "name": "Competitions"
+    },
+    {
+      "id": "23",
+      "name": "Space and astronomy"
+    },
+    {
+      "id": "42",
+      "name": "Physics"
+    },
+    {
+      "id": "1247",
+      "name": "Information processing"
+    },
+    {
+      "id": "1248",
+      "name": "Life sciences and technologies"
+    },
+    {
+      "id": "10587",
+      "name": "Technologies"
+    }
+  ]
 }
