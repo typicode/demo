@@ -10,5 +10,9 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "TaskItem":[
+    {"id": 1, "client": "1", "taskname": "Mytask", "duedate": "22 April 2020", "status": "done"},
+    {"id": 1, "client": "1", "taskname": "MyOthertask", "duedate": "23 April 2020", "status": "done"}
+  ]
 }
