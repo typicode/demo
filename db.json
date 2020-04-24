@@ -1,14 +1,22 @@
+[{
+"id": "1",
+"Title": "C++",
+"Author": "xyz",
+"ISBN": "346",
+"Publication": "16/04/2020",
+"Publisher": "xyz",
+"Price": 100,
+"Genre": "xyz",
+"Format": "xyz"
+},
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+"id": "2",
+"Title": "Java",
+"Author": "abc",
+"ISBN": "346",
+"Publication": "16/04/2020",
+"Publisher": "abc",
+"Price": 100,
+"Genre": "abc",
+"Format": "abc"
+}]
