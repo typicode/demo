@@ -1,14 +1,53 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "devotees": [
+    {
+      "DevoteeID": "I1010",
+      "FamilyID": "F1010",
+      "FirstName": "Pankit",
+      "LastName": "Patel",
+      "Email": "b.b@b.b",
+      "PhoneNo": "001223211"
+    },
+    {
+      "DevoteeID": "I1011",
+      "FamilyID": "F1011",
+      "FirstName": "Tejas",
+      "LastName": "Patel",
+      "Email": "a.a@a.a",
+      "PhoneNo": "001223210"
+    },
+    {
+      "DevoteeID": "I1012",
+      "FamilyID": "F1012",
+      "FirstName": "James",
+      "LastName": "Patel",
+      "Email": "c.c@c.c",
+      "PhoneNo": "023665450"
+    },
+    {
+      "DevoteeID": "I1013",
+      "FamilyID": "F1013",
+      "FirstName": "James",
+      "LastName": "Patel",
+      "Email": "c.c@c.c",
+      "PhoneNo": "023665450"
+    },
+    {
+      "DevoteeID": "I1014",
+      "FamilyID": "F1014",
+      "FirstName": "James",
+      "LastName": "Patel",
+      "Email": "c.c@c.c",
+      "PhoneNo": "023665450"
+    },
+    {
+      "DevoteeID": "I1015",
+      "FamilyID": "F1015",
+      "FirstName": "James",
+      "LastName": "Patel",
+      "Email": "c.c@c.c",
+      "PhoneNo": "023665450"
+    }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "events": ["", "", ""]
 }
