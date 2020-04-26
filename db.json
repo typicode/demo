@@ -1,8 +1,15 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "customer": [
+    { "id": 1, "name": "Maria Ramirez" , "imageURL": "assets/images/avatar.png" , "address":"Tres Lagos, Torre 2, depto. 605"},
+    { "id": 1, "name": "Carlos Zavala" , "imageURL": "assets/images/avatar2.png" , "address":"Tres Lagos, Torre 2, depto. 605"},
+    { "id": 1, "name": "Janitzio Ramirez" , "imageURL": "assets/images/avatar3.png" , "address":"Tres Lagos, Torre 2, depto. 605"},
+    { "id": 1, "name": "Marisol Ramirez" , "imageURL": "assets/images/avatar4.png" , "address":"Tres Lagos, Torre 2, depto. 605"},
+    { "id": 1, "name": "Yunuen Zavala" , "imageURL": "assets/images/avatar1.png" , "address":"Tres Lagos, Torre 2, depto. 605"},
+    { "id": 1, "name": "Gustavo Ramirez" , "imageURL": "assets/images/avatar.png" , "address":"Tres Lagos, Torre 2, depto. 605"},
+    { "id": 1, "name": "Nayely Zavala" , "imageURL": "assets/images/avatar1.png" , "address":"Tres Lagos, Torre 2, depto. 605"},
+    { "id": 1, "name": "Diego Ramirez" , "imageURL": "assets/images/avatar2.png" , "address":"Tres Lagos, Torre 2, depto. 605"},
+    { "id": 1, "name": "Sergio Ramirez" , "imageURL": "assets/images/avatar3.png" , "address":"Tres Lagos, Torre 2, depto. 605"},
+    { "id": 1, "name": "Luis Zavala" , "imageURL": "assets/images/avatar4.png" , "address":"Tres Lagos, Torre 2, depto. 605"},
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
