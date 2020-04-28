@@ -1,14 +1,60 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "data": [
+    {
+      "name": "David",
+      "place": "Karnataka",
+      "lat": 22.713146,
+      "lng": 88.479621,
+      "icon": "icons8-marker-48.png",
+      "type": "car"
+    },
+    {
+      "name": "Animesh",
+      "place": "Rajasthan",
+      "lat": 22.714175,
+      "lng": 88.480866,
+      "icon": "icons8-marker-48.png",
+      "type": "car"
+    },
+    {
+      "name": "Anil",
+      "place": "Ratnagiri, Maharashtra",
+      "lat": 22.712948,
+      "lng": 88.47916,
+      "icon": "icons8-marker-48.png",
+      "type": "health"
+    },
+    {
+      "name": "Khandelwal",
+      "place": "Mumbai, Maharashtra",
+      "lat": 22.713186,
+      "lng": 88.480651,
+      "icon": "icons8-marker-48.png",
+      "type": "health"
+    },
+    {
+      "name": "Pinaki",
+      "place": "Pindwara, Maharashtra",
+      "lat": 22.714512,
+      "lng": 88.482658,
+      "icon": "icons8-marker-48.png",
+      "type": "car"
+    },
+    {
+      "name": "Saini",
+      "place": "Uttar pradesh",
+      "lat": 22.715244,
+      "lng": 88.482068,
+      "icon": "icons8-marker-48.png",
+      "type": "property"
+    },
+    {
+      "name": "Kejriwal",
+      "place": "Delhi",
+      "lat": 22.714255,
+      "lng": 88.478999,
+      "icon": "icons8-marker-48.png",
+      "type": "property"
+    }
+  ]
 }
