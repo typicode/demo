@@ -1,14 +1,32 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
+[
+  {
+    "userID": 7,
+    "jobID": 8,
+    "rating": 9
+  },
+  {
+    "userID": 54,
+    "jobID": 65,
+    "rating": 4
+  },
+  {
+    "userID": 5,
+    "jobID": 8,
+    "rating": 7
+  },
+  {
+    "userID": 5,
+    "jobID": 8,
+    "rating": 7
+  },
+  {
+    "userID": 17,
+    "jobID": 11,
+    "rating": 8
+  },
+  {
+    "userID": 15,
+    "jobID": 14,
+    "rating": 6
   }
-}
+]
