@@ -1,14 +1,27 @@
 {
   "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+    { "id": 1, "title": "Potato", "price": "5" , "category":"vegetables" },
+    { "id": 2, "title": "Tomato", "price": "7" , "category":"vegetables" },
+    { "id": 3, "title": "Cucumber", "price": "7" , "category":"vegetables" },
+    { "id": 4, "title": "Red onion", "price": "7" , "category":"vegetables" },
+    { "id": 5, "title": "White onion", "price": "7" , "category":"vegetables" },
+    { "id": 6, "title": "Parsley", "price": "4" , "category":"vegetables" },
+    { "id": 7, "title": "Coriander", "price": "4" , "category":"vegetables" },
+    { "id": 8, "title": "Meanth", "price": "4" , "category":"vegetables" },
+    { "id": 9, "title": "Carrot", "price": "4" , "category":"vegetables" },
+    { "id": 10, "title": "Red pepper", "price": "9" , "category":"vegetables" },
+    { "id": 11, "title": "Banana", "price": "11" , "category":"fruits" },
+    { "id": 12, "title": "Avocado", "price": "20" , "category":"fruits" },
+    { "id": 13, "title": "Orange", "price": "6" , "category":"fruits" },
+    { "id": 14, "title": "Lemon", "price": "10" , "category":"fruits" },
+    { "id": 15, "title": "Apple", "price": "10" , "category":"fruits" },
+    { "id": 16, "title": "Pear", "price": "13" , "category":"fruits" },
+    { "id": 17, "title": "Water melon", "price": "9" , "category":"fruits" },
+    { "id": 18, "title": "Milk 3%", "price": "5" , "category":"milk" },
+    { "id": 19, "title": "Milk 1%", "price": "5" , "category":"milk" },
+    { "id": 20, "title": "Cream cheese", "price": "5" , "category":"cheese" },
   ],
   "profile": {
-    "name": "typicode"
+    "name": "Yoni's store"
   }
 }
