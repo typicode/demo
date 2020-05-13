@@ -1,5 +1,5 @@
 {
-  "posts": [
+  "risks": [
     { "id": "15687-27-1", "name":"Ibuprofen", "risk":"H302", "precautionary":"P301 + P312 + P330", "msds":"https://www.sigmaaldrich.com/MSDS/MSDS/DisplayMSDSPage.do?country=IT&language=en&productNumber=I4883&brand=SIGMA&PageToGoToURL=https%3A%2F%2Fwww.sigmaaldrich.com%2Fcatalog%2Fproduct%2Fsigma%2Fi4883%3Flang%3Dit" },
     { "id": "69-72-7", "name":"Salicylic acid", "risk":"H302-H318", "precautionary":"P280-P301 + P312 + P330-P305 + P351 + P338 + P310", "msds":"https://www.sigmaaldrich.com/MSDS/MSDS/DisplayMSDSPage.do?country=IT&language=en&productNumber=S5922&brand=SIGMA&PageToGoToURL=https%3A%2F%2Fwww.sigmaaldrich.com%2Fcatalog%2Fproduct%2Fsigma%2Fs5922%3Flang%3Dit"  },
     { "id": "7664-38-2", "name":"Phosphoric acid", "risk":"H290 - H302 - H314", "precautionary":"P280 - P301 + P312 + P330 - P301 + P330 + P331 - P303 + P361 + P353 - P305 + P351 + P338 + P310", "msds":"https://www.sigmaaldrich.com/MSDS/MSDS/DisplayMSDSPage.do?country=IT&language=en&productNumber=P5811&brand=SIGMA&PageToGoToURL=https%3A%2F%2Fwww.sigmaaldrich.com%2Fcatalog%2Fproduct%2Fsigma%2Fp5811%3Flang%3Dit"  },
