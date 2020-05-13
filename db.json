@@ -1,9 +1,9 @@
 {
   "posts": [
-    { "cas": "15687-27-1", "name":"Ibuprofen", "risk":"H302", "precautionary":"P301 + P312 + P330" },
-    { "cas": "69-72-7", "name":"Salicylic acid", "risk":"H302-H318", "precautionary":"P280-P301 + P312 + P330-P305 + P351 + P338 + P310" },
-    { "cas": "7664-38-2", "name":"Phosphoric acid", "risk":"H290 - H302 - H314", "precautionary":"P280 - P301 + P312 + P330 - P301 + P330 + P331 - P303 + P361 + P353 - P305 + P351 + P338 + P310" },
-    { "cas": "7664-93-9", "name":"Sulfuric acid", "risk":"H290-H314", "precautionary":"P260-P280-P303 + P361 + P353-P304 + P340 + P310-P305 + P351 + P338" }
+    { "id": 1, "cas": "15687-27-1", "name":"Ibuprofen", "risk":"H302", "precautionary":"P301 + P312 + P330" },
+    { "id": 2, "cas": "69-72-7", "name":"Salicylic acid", "risk":"H302-H318", "precautionary":"P280-P301 + P312 + P330-P305 + P351 + P338 + P310" },
+    { "id": 3, "cas": "7664-38-2", "name":"Phosphoric acid", "risk":"H290 - H302 - H314", "precautionary":"P280 - P301 + P312 + P330 - P301 + P330 + P331 - P303 + P361 + P353 - P305 + P351 + P338 + P310" },
+    { "id": 4, "cas": "7664-93-9", "name":"Sulfuric acid", "risk":"H290-H314", "precautionary":"P260-P280-P303 + P361 + P353-P304 + P340 + P310-P305 + P351 + P338" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
