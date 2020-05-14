@@ -1,14 +1,44 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+    "institutions": [
+        {
+            "id": 1,
+            "name": "instituição um",
+            "events": [
+                {
+                    "id": 11,
+                    "institution_id": 1,
+                    "status": "Realizado",
+                    "description": "evento da instituição",
+                    "value": 1300,
+                    "date": "2020-05-11T23:54:41.401Z"
+                },
+                {
+                    "id": 12,
+                    "institution_id": 1,
+                    "status": "Realizado",
+                    "description": "outro evento da instituição",
+                    "value": 1300,
+                    "date": "2020-05-11T23:54:41.401Z"
+                },
+                {
+                    "id": 13,
+                    "institution_id": 1,
+                    "status": "Realizado",
+                    "description": "evento de outra instituição",
+                    "value": 1300,
+                    "date": "2020-05-11T23:54:41.401Z"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "instituição dois",
+            "events": []
+        },
+        {
+            "id": 3,
+            "name": "instituição tres",
+            "events": []
+        }
+    ]
 }
