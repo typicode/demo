@@ -1,14 +1,18 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+ {
+        "planned": {
+                "name": "Planned",
+                "number": 345  
+            },
+        "total_visit":{
+                "name":"Total Visite Done",
+                "number":555555
+            },
+        "avg_day": {
+                "name":"Avg/Day",
+                "number":78
+            },
+        "repeat":{
+                "name":"Repeat",
+                "number":457
+            }
+     }
