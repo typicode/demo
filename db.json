@@ -1,8 +1,72 @@
 {
   "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+    { 
+        "id" : "1",
+        "username" : "Ashiq Mehmood",
+        "score"  :    16772,
+         "osm"   :   "288837"
+    },
+    {
+       "id" : "2",
+     "username" : "Ahmed Jibran",
+        "score"  :    7945,
+         "osm"   :   "199833"
+    },
+    { 
+       "id" : "3",
+     "username" : "Adam James",
+        "score"  :    7945,
+         "osm"   :   "736251"   
+    },
+    {
+       "id":"4",
+     "username" : "Pogba jack",
+        "score"  :    500,
+         "osm"   :   "847623" 
+    },
+    {
+       "id" : "5",
+     "username" : "Miketos kim",
+        "score"  :    729,
+         "osm"   :   "354621"   
+    },
+    {
+      "id" : "6",
+     "username" : "Lary Hilbert",
+        "score"  :    551,
+         "osm"   :   "999871"   
+    },
+    {
+      "id" : "7",
+     "username" : "Fedrich Benedict",
+        "score"  :    2001,
+         "osm"   :   "786529"   
+    },
+    {
+      "id" : "8",
+     "username" : "Weesly Fuller",
+        "score"  :    99,
+         "osm"   :   "897876"   
+    },
+    {
+      "id" : "9",
+     "username" : "Hamburger Sami",
+        "score"  :    22,
+         "osm"   :   "556163"   
+    },
+    {
+       "id" : "10",
+     "username" : "Silsil Pandey",
+        "score"  :    67,
+         "osm"   :   "500163"   
+    },
+    {
+      "id" : "11",
+     "username" : "Kovid lib Manjoc",
+        "score"  :    2,
+         "osm"   :   "101031"   
+    }
+
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
