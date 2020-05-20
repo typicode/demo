@@ -1,4 +1,15 @@
 {
+  "messaggi": [
+        {
+        "rowid": 1, "fornitore": "Fabio", "zona": "Zona 124", "prodotto":"Scarole belle", "quantita":0.5, "created":"2020-05-20"
+        },
+        {
+        "rowid": 2, "fornitore": "Francesco", "zona": "Zona 44", "prodotto":"Friarielli verdi", "quantita":1.5, "created":"2020-05-20"
+        },
+        {
+        "rowid": 3, "fornitore": "Umberto", "zona": "Zona 55", "prodotto":"Pertovalli belle", "quantita":3.5, "created":"2020-05-20"
+        }
+  ],
   "posts": [
     { "id": 1, "title": "Post 1" },
     { "id": 2, "title": "Post 2" },
