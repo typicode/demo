@@ -1,14 +1,272 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+
+[
+    {
+        "athlete": {
+            "athleteId": 2,
+            "name": "Heiss"
+        },
+        "diffrenceToFastest": 0.0,
+        "finish": {
+            "hour": 13,
+            "minute": 6,
+            "nano": 548000000,
+            "second": 17
+        },
+        "isRunning": false,
+        "latestGps": {
+            "east": 48.211837,
+            "north": 14.31374
+        },
+        "rank": 1,
+        "start": null,
+        "time": null
+    },
+    {
+        "athlete": {
+            "athleteId": 5,
+            "name": "Heiss"
+        },
+        "diffrenceToFastest": 0.0,
+        "finish": {
+            "hour": 13,
+            "minute": 7,
+            "nano": 871000000,
+            "second": 32
+        },
+        "isRunning": false,
+        "latestGps": {
+            "east": 48.211837,
+            "north": 14.31374
+        },
+        "rank": 2,
+        "start": {
+            "hour": 13,
+            "minute": 7,
+            "nano": 870000000,
+            "second": 31
+        },
+        "time": {
+            "hour": 0,
+            "minute": 1,
+            "nano": 0,
+            "second": 1
+        }
+    },
+    {
+        "athlete": {
+            "athleteId": 8,
+            "name": "Heiss"
+        },
+        "diffrenceToFastest": 0.0,
+        "finish": {
+            "hour": 13,
+            "minute": 22,
+            "nano": 104000000,
+            "second": 17
+        },
+        "isRunning": false,
+        "latestGps": {
+            "east": 48.211837,
+            "north": 14.31374
+        },
+        "rank": 3,
+        "start": {
+            "hour": 13,
+            "minute": 22,
+            "nano": 103000000,
+            "second": 16
+        },
+        "time": {
+            "hour": 0,
+            "minute": 1,
+            "nano": 0,
+            "second": 1
+        }
+    },
+    {
+        "athlete": {
+            "athleteId": 9,
+            "name": "max"
+        },
+        "diffrenceToFastest": 0.0,
+        "finish": {
+            "hour": 13,
+            "minute": 22,
+            "nano": 27000000,
+            "second": 21
+        },
+        "isRunning": false,
+        "latestGps": {
+            "east": 48.211837,
+            "north": 14.31374
+        },
+        "rank": 4,
+        "start": {
+            "hour": 13,
+            "minute": 22,
+            "nano": 27000000,
+            "second": 19
+        },
+        "time": {
+            "hour": 0,
+            "minute": 2,
+            "nano": 0,
+            "second": 0
+        }
+    },
+    {
+        "athlete": {
+            "athleteId": 3,
+            "name": "max"
+        },
+        "diffrenceToFastest": 0.0,
+        "finish": {
+            "hour": 13,
+            "minute": 6,
+            "nano": 990000000,
+            "second": 21
+        },
+        "isRunning": false,
+        "latestGps": {
+            "east": 48.211837,
+            "north": 14.31374
+        },
+        "rank": 5,
+        "start": {
+            "hour": 13,
+            "minute": 6,
+            "nano": 989000000,
+            "second": 19
+        },
+        "time": {
+            "hour": 0,
+            "minute": 2,
+            "nano": 0,
+            "second": 1
+        }
+    },
+    {
+        "athlete": {
+            "athleteId": 6,
+            "name": "max"
+        },
+        "diffrenceToFastest": 0.0,
+        "finish": {
+            "hour": 13,
+            "minute": 7,
+            "nano": 961000000,
+            "second": 40
+        },
+        "isRunning": false,
+        "latestGps": {
+            "east": 48.211837,
+            "north": 14.31374
+        },
+        "rank": 6,
+        "start": {
+            "hour": 13,
+            "minute": 7,
+            "nano": 960000000,
+            "second": 38
+        },
+        "time": {
+            "hour": 0,
+            "minute": 2,
+            "nano": 0,
+            "second": 1
+        }
+    },
+    {
+        "athlete": {
+            "athleteId": 7,
+            "name": "Dejan"
+        },
+        "diffrenceToFastest": 0.0,
+        "finish": {
+            "hour": 13,
+            "minute": 7,
+            "nano": 45000000,
+            "second": 46
+        },
+        "isRunning": false,
+        "latestGps": {
+            "east": 48.211837,
+            "north": 14.31374
+        },
+        "rank": 7,
+        "start": {
+            "hour": 13,
+            "minute": 7,
+            "nano": 45000000,
+            "second": 43
+        },
+        "time": {
+            "hour": 0,
+            "minute": 3,
+            "nano": 0,
+            "second": 0
+        }
+    },
+    {
+        "athlete": {
+            "athleteId": 4,
+            "name": "Dejan"
+        },
+        "diffrenceToFastest": 0.0,
+        "finish": {
+            "hour": 13,
+            "minute": 6,
+            "nano": 61000000,
+            "second": 29
+        },
+        "isRunning": false,
+        "latestGps": {
+            "east": 48.211837,
+            "north": 14.31374
+        },
+        "rank": 8,
+        "start": {
+            "hour": 13,
+            "minute": 6,
+            "nano": 60000000,
+            "second": 26
+        },
+        "time": {
+            "hour": 0,
+            "minute": 3,
+            "nano": 0,
+            "second": 1
+        }
+    },
+    {
+        "athlete": {
+            "athleteId": 10,
+            "name": "Dejan"
+        },
+        "diffrenceToFastest": 0.0,
+        "finish": {
+            "hour": 13,
+            "minute": 22,
+            "nano": 458000000,
+            "second": 26
+        },
+        "isRunning": false,
+        "latestGps": {
+            "east": 48.211837,
+            "north": 14.31374
+        },
+        "rank": 9,
+        "start": {
+            "hour": 13,
+            "minute": 22,
+            "nano": 457000000,
+            "second": 23
+        },
+        "time": {
+            "hour": 0,
+            "minute": 3,
+            "nano": 0,
+            "second": 1
+        }
+    }
+]
