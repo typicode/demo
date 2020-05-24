@@ -10,5 +10,15 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "avengers": [
+    { "id": 1, "title": "Iron Man", "year":"2008" },
+    { "id": 2, "name": "The Avengers", "year":"2012" },
+    { "id": 3, "title": "The Avengers and Avengers: Age of Ultron", "year":"2012" },
+    { "id": 4, "title": "Guardians of the Galaxy", "year":"2014" },
+    { "id": 5, "title": "Captain America: The Winter Soldier", "year":"2014" },
+    { "id": 6, "title": "Captain America: Civil War", "year":"2016" },
+    { "id": 7, "title": "Avengers: Infinity War", "year":"2018" },
+    { "id": 8, "title": "Avengers: Endgame", "year":"2019" }
+  ]
 }
