@@ -4,6 +4,12 @@
     { "id": 2, "title": "Post 2" },
     { "id": 3, "title": "Post 3" }
   ],
+  "updates": [
+    { "id": 1, "update": 1 },
+    { "id": 2, "update": 2 },
+    { "id": 3, "update": 3 }
+  ],
+  
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
