@@ -5,8 +5,9 @@
     { "id": 3, "title": "Post 3" }
   ],
   "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+    {"username":"PACIENT1","name":"PACIENT","surname":"UNU","age":52,"cnp":"1564878952215","country":"RO","county":"B","city":"Buc.","street":"Strada Bucurestilor nr. 5","phone":"074626846","email":"pacient1@yahoo.ro","job":"Bucatar"},
+    {"username":"PACIENT2","name":"PACIENT","surname":"DOI","age":65,"cnp":"1990546258879","country":"RO","county":"MH","city":"DTS","street":"Strada Vasile nr. 2","phone":"074895959","email":"pacient2@yahoo.ro","job":"Constructor"},
+    {"username":"PACIENT3","name":"PAC","surname":"TREITEATEATA","age":67,"cnp":"1984864861248","country":"RO","county":"MH","city":"DTS","street":"Timisoarei 6534","phone":"084684546","email":"pacient3@gmail.com","job":"FREELANCER"}
   ],
   "profile": {
     "name": "typicode"
