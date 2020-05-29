@@ -10,5 +10,14 @@
   ],
   "profile": {
     "name": "typicode"
+  },
+  
+  "appointment": {
+    "id": 123546,
+    "no": 45
+    "patientName": "Ranil Wickramasinghe"
+    "patientAge": "70 years"
+    "apptTime": "7.45 pm"
+    "contactNo": "0771234567"
   }
 }
