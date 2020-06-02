@@ -11,4 +11,9 @@
   "profile": {
     "name": "typicode"
   }
+  "notes": {
+    "id": "1",
+    "title": "firstNote",
+    "body": "adc is bad"
+  }
 }
