@@ -1,14 +1,42 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+    "version": 100574,
+    "topics": [
+        {
+            "id": 1,
+            "title": "LAMA onboarding",
+            "questions": [
+                {
+                    "id": 12,
+                    "description": "Where should you put a blank line?",
+                    "options": [
+                        {
+                            "id": 342,
+                            "text": "Nowhere",
+                            "isCorrect": false
+                        },
+                        {
+                            "id": 340,
+                            "text": "Before return statements",
+                            "isCorrect": true
+                        },
+                        {
+                            "id": 30,
+                            "text": "After every line of code",
+                            "isCorrect": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "title": "LAMA-BE onboarding",
+            "questions": []
+        },
+        {
+            "id": 3,
+            "title": "LAMA-FE onboarding",
+            "questions": []
+        }
+    ]
 }
