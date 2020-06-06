@@ -1,14 +1,114 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
+  {
+  	"tracks": [{
+  			"artists": [{
+  				"id": "19gmxCK2V3jLMi5fDYyKtS",
+  				"name": "Willamette Stone"
+  			}],
+  			"image": "https://i.scdn.co/image/ab67616d00001e0219ab0403aa0de6ee32b101ff",
+  			"url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-9.mp3",
+  			"id": "3JOF9NzQVkUXtCcJbEQuAb",
+  			"name": "Heart Like Yours",
+  			"previewUrl": "https://p.scdn.co/mp3-preview/b5fbda2874c09a249989b9570381537e8dee59c1?cid=162b7dc01f3a4a2ca32ed3cec83d1e02"
+  		},
+  		{
+  			"artists": [{
+  				"id": "19gmxCK2V3jLMi5fDYyKtS",
+  				"name": "Willamette Stone"
+  			}],
+  			"url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-9.mp3",
+  			"image": "https://i.scdn.co/image/ab67616d00001e0219ab0403aa0de6ee32b101ff",
+  			"id": "3cdyjNKFN0tWP9Z8icNvcf",
+  			"name": "Never Coming Down",
+  			"previewUrl": "https://p.scdn.co/mp3-preview/c8628766a22440f0e355d7221caf7a1f0cbe79fb?cid=162b7dc01f3a4a2ca32ed3cec83d1e02"
+  		}
+  	],
+  	"ArtistD": [{
+  			"ID": "50469812689",
+  			"Name": "Tamer Hosny",
+  			"Image": "https://p16-va-default.akamaized.net/img/musically-maliva-obj/1654423082333189~c5_720x720.jpeg",
+  			"Playlists": 10,
+  			"Followers": 1500,
+  			"Total Songs": 500,
+  			"PS": "Kefayak 23zar",
+  			"Tlisteners": 700,
+  			"TLikes": 7000
+  		},
+  		{
+  			"ID": "34674322456",
+  			"Name": "Amr Diab",
+  			"Image": "https://celebborn.com/celeb_image/amr-diab-26592.jpg",
+  			"Playlists": 3,
+  			"Followers": 2,
+  			"Total Songs": 567,
+  			"PS": "Helloo",
+  			"Tlisteners": 2,
+  			"TLikes": 7000
+  		}
+  	],
+  	"likedislike": {
+
+  		"id": "7fmVIBMLYiXRtTFOlxv90i"
+
+  	},
+  	"login": [{
+  		"email": "bbbb@gmail.com",
+  		"ID": "8795547689",
+  		"usertype": "r",
+  		"password": "1234567840",
+  		"name": "koko",
+  		"birthDate": "1999-03-21T00:07:55.485+00:00",
+  		"gender": "female"
+  	}, {
+  		"email": "aaaa@gmail.com",
+  		"ID": "50469812689",
+  		"usertype": "a",
+  		"password": "1234567840",
+  		"name": "Fawzi",
+  		"birthDate": "1999-03-21T00:07:55.485+00:00",
+  		"gender": "male"
+  	}, {
+  		"email": "cccc@gmail.com",
+  		"ID": "87955227689",
+  		"usertype": "pr",
+  		"password": "1234567840",
+  		"name": "AMR",
+  		"birthDate": "1999-03-21T00:07:55.485+00:00",
+  		"gender": "male"
+  	}],
+  	"search": [{
+  		"name": "Celine Dion - Courage"
+  	}, {
+  		"name": "Lady Gaga - Million Reasons"
+  	}, {
+  		"name": "Dua Lipa - Don't Start Now"
+  	}, {
+  		"name": "Ally Brooke - Low Key"
+  	}],
+  	"hi": [{
+  		"email": "bbbb@gmail.com",
+  		"ID": "8795547689",
+  		"usertype": "r",
+  		"password": "1234567840",
+  		"name": "koko",
+  		"birthDate": "1999-03-21T00:07:55.485+00:00",
+  		"gender": "female"
+  	}, {
+  		"email": "aaaa@gmail.com",
+  		"ID": "50469812689",
+  		"usertype": "a",
+  		"password": "1234567840",
+  		"name": "Fawzi",
+  		"birthDate": "1999-03-21T00:07:55.485+00:00",
+  		"gender": "male"
+  	}, {
+  		"email": "cccc@gmail.com",
+  		"ID": "87955227689",
+  		"usertype": "pr",
+  		"password": "1234567840",
+  		"name": "AMR",
+  		"birthDate": "1999-03-21T00:07:55.485+00:00",
+  		"gender": "male"
+  	}]
+
+
   }
-}
