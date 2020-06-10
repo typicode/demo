@@ -7,4 +7,4 @@
       { id: "", name: "Mine Lodging", rentals: [], reviews: [], location: { id: "", address: { id: "", city: "New York", country: "USA", postalCode: "10001", stateProvince: "NY", street: "7320 Something Dr" }, latitude: "", longitude: "", locale: "" } },
       { id: "", name: "My House", rentals: [], reviews: [], location: { id: "", address: { id: "", city: "Los Angeles", country: "USA", postalCode: "90030", stateProvince: "CA", street: "5421 Whatever Dr" }, latitude: "", longitude: "", locale: "" } },
   ]
-}
+} 
