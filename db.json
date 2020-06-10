@@ -5,7 +5,6 @@
       { "id": "", "name": "Your Lodging", "rentals": [], "reviews": [], "location": { "id": "", "address": { "id": "", "city": "New York", "country": "USA", "postalCode": "10003", "stateProvince": "NY", "street": "4290 More St" }, "latitude": "", "longitude": "", "locale": "" } },
       { "id": "", "name": "Whose Lodging", "rentals": [], "reviews": [], "location": { "id": "", "address": { "id": "", "city": "New York", "country": "USA", "postalCode": "10002", "stateProvince": "NY", "street": "4282 Someone Av" }, "latitude": "", "longitude": "", "locale": "" } },
       { "id": "", "name": "Mine Lodging", "rentals": [], "reviews": [], "location": { "id": "", "address": { "id": "", "city": "New York", "country": "USA", "postalCode": "10001", "stateProvince": "NY", "street": "7320 Something Dr" }, "latitude": "", "longitude": "", "locale": "" } },
-      { "id": "", "name": "My House", "rentals": [], "reviews": [], "location": { "id": "", "address": { "id": "", "city": "Los Angeles", "country": "USA", "postalCode": "90030", "stateProvince": "CA", "street": "5421 Whatever Dr" }, "latitude": "", "longitude": "", "locale": "" } },
+      { "id": "", "name": "My House", "rentals": [], "reviews": [], "location": { "id": "", "address": { "id": "", "city": "Los Angeles", "country": "USA", "postalCode": "90030", "stateProvince": "CA", "street": "5421 Whatever Dr" }, "latitude": "", "longitude": "", "locale": "" } }
   ]
 } 
-
