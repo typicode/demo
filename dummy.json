@@ -1,0 +1,38 @@
+[
+  {
+    "ESD": 1/2/2020,
+    "cartonNumber": "121121212",
+    "cartonStatus": "waiting",
+    "cartonUnitQuantity": "12",
+    "shipGroupDescription": "packing",
+    "currentLocation": "SS001",
+    "destinationLocation": "SS003",
+    "customerOrderNumber":"1234",
+    "customerPoNumber" : "1234",
+    "cycleNumber" : 1/111
+  },
+  {
+    "ESD": 1/2/2020,
+    "cartonNumber": "121121212",
+    "cartonStatus": "waiting",
+    "cartonUnitQuantity": "12",
+    "shipGroupDescription": "packing",
+    "currentLocation": "SS001",
+    "destinationLocation": "SS003",
+    "customerOrderNumber":"1234",
+    "customerPoNumber" : "1234",
+    "cycleNumber" : 1/111
+  },
+  {
+    "ESD": 1/2/2020,
+    "cartonNumber": "121121212",
+    "cartonStatus": "waiting",
+    "cartonUnitQuantity": "12",
+    "shipGroupDescription": "packing",
+    "currentLocation": "SS001",
+    "destinationLocation": "SS003",
+    "customerOrderNumber":"1234",
+    "customerPoNumber" : "1234",
+    "cycleNumber" : 1/111
+  }
+]
