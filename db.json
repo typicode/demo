@@ -1,6 +1,6 @@
 {
   "Lodging": [
-      { "id": "", "name": "My Lodging", "rentals": [], "reviews": [], "location": { "id": "", "address": { "id": "", "city": "Atlanta", "country": "USA", "postalCode": "10001", "stateProvince": "NY", "street": "7421 Something Dr" }, "latitude": "", "longitude": "", "locale": "" } },
+      { "id": "", "name": "My Lodging", "rentals": [], "reviews": [], "location": { "id": "", "address": { "id": "", "city": "Atlanta", "country": "USA", "postalCode": "10001", "stateProvince": "GA", "street": "7421 Something Dr" }, "latitude": "", "longitude": "", "locale": "" } },
       { "id": "", "name": "My Lodge", "rentals": [], "reviews": [], "location": { "id": "", "address": { "id": "", "city": "New York", "country": "USA", "postalCode": "10005", "stateProvince": "NY", "street": "4212 Whatever Something St" }, "latitude": "", "longitude": "", "locale": "" } },
       { "id": "", "name": "Your Lodging", "rentals": [], "reviews": [], "location": { "id": "", "address": { "id": "", "city": "New York", "country": "USA", "postalCode": "10003", "stateProvince": "NY", "street": "4290 More St" }, "latitude": "", "longitude": "", "locale": "" } },
       { "id": "", "name": "Whose Lodging", "rentals": [], "reviews": [], "location": { "id": "", "address": { "id": "", "city": "New York", "country": "USA", "postalCode": "10002", "stateProvince": "NY", "street": "4282 Someone Av" }, "latitude": "", "longitude": "", "locale": "" } },
