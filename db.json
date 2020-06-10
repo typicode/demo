@@ -1,14 +1,10 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "Lodging": [
+    { id: "", name: "My Lodging", rentals: [], reviews: [], location: { id: "", address: { id: "", city: "New York", country: "USA", postalCode: "10001", stateProvince: "NY", street: "7421 Something Dr" }, latitude: "", longitude: "", locale: "" } },
+      { id: "", name: "My Lodge", rentals: [], reviews: [], location: { id: "", address: { id: "", city: "New York", country: "USA", postalCode: "10005", stateProvince: "NY", street: "4212 Whatever Something St" }, latitude: "", longitude: "", locale: "" } },
+      { id: "", name: "Your Lodging", rentals: [], reviews: [], location: { id: "", address: { id: "", city: "New York", country: "USA", postalCode: "10003", stateProvince: "NY", street: "4290 More St" }, latitude: "", longitude: "", locale: "" } },
+      { id: "", name: "Whose Lodging", rentals: [], reviews: [], location: { id: "", address: { id: "", city: "New York", country: "USA", postalCode: "10002", stateProvince: "NY", street: "4282 Someone Av" }, latitude: "", longitude: "", locale: "" } },
+      { id: "", name: "Mine Lodging", rentals: [], reviews: [], location: { id: "", address: { id: "", city: "New York", country: "USA", postalCode: "10001", stateProvince: "NY", street: "7320 Something Dr" }, latitude: "", longitude: "", locale: "" } },
+      { id: "", name: "My House", rentals: [], reviews: [], location: { id: "", address: { id: "", city: "Los Angeles", country: "USA", postalCode: "90030", stateProvince: "CA", street: "5421 Whatever Dr" }, latitude: "", longitude: "", locale: "" } },
+  ]
 }
