@@ -1,10 +1,335 @@
 {
   "Lodging": [
-      { "id": 4, "name": "My Lodging", "rentals": [], "reviews": [], "location": { "id": "", "address": { "id": "", "city": "Atlanta", "country": "USA", "postalCode": "10001", "stateProvince": "GA", "street": "7421 Something Dr" }, "latitude": "", "longitude": "", "locale": "" } },
-      { "id": 5, "name": "My Lodge", "rentals": [], "reviews": [], "location": { "id": "", "address": { "id": "", "city": "New York", "country": "USA", "postalCode": "10005", "stateProvince": "NY", "street": "4212 Whatever Something St" }, "latitude": "", "longitude": "", "locale": "" } },
-      { "id": 7, "name": "Your Lodging", "rentals": [], "reviews": [], "location": { "id": "", "address": { "id": "", "city": "New York", "country": "USA", "postalCode": "10003", "stateProvince": "NY", "street": "4290 More St" }, "latitude": "", "longitude": "", "locale": "" } },
-      { "id": 9, "name": "Whose Lodging", "rentals": [], "reviews": [], "location": { "id": "", "address": { "id": "", "city": "New York", "country": "USA", "postalCode": "10002", "stateProvince": "NY", "street": "4282 Someone Av" }, "latitude": "", "longitude": "", "locale": "" } },
-      { "id": 10, "name": "Mine Lodging", "rentals": [], "reviews": [], "location": { "id": "", "address": { "id": "", "city": "New York", "country": "USA", "postalCode": "10001", "stateProvince": "NY", "street": "7320 Something Dr" }, "latitude": "", "longitude": "", "locale": "" } },
-      { "id": 12, "name": "My House", "rentals": [], "reviews": [], "location": { "id": "", "address": { "id": "", "city": "Los Angeles", "country": "USA", "postalCode": "90030", "stateProvince": "CA", "street": "5421 Whatever Dr" }, "latitude": "", "longitude": "", "locale": "" } }
+    { "id": 4, 
+      "name": "My Lodging", 
+      "rentals": [
+        { "id": 10, 
+          "name": "My Rental", 
+          "rentalUnit": {
+            "id": 15, 
+            "bathrooms": [
+              { "id": 2, 
+                "fixtue": 2
+              },
+              { "id": 1, 
+                "fixture": 1
+              }
+            ], 
+            "bedrooms": [
+              { "id": 2, 
+                "count": 1, 
+                "type": "master"
+              },
+              { "id": 1, 
+                "count": 2, 
+                "type": "guest"
+              }
+            ], 
+            "name": "My Rental unit", 
+            "occupancy": 4, 
+            "type": "colonial"
+          } 
+        }
+      ], 
+      "reviews": [], 
+      "location": { 
+        "id": "", 
+        "address": { 
+          "id": "", 
+          "city": "Atlanta", 
+          "country": "USA", 
+          "postalCode": "10001", 
+          "stateProvince": "GA", 
+          "street": "7421 Something Dr" }, 
+        "latitude": "", 
+        "longitude": "", 
+        "locale": "" } 
+    },
+
+    { "id": 5, 
+      "name": "New Lodge", 
+      "rentals": [
+        { "id": 11, 
+          "name": "Room", 
+          "rentalUnit": {
+            "id": 10, 
+            "bathrooms": [
+              { "id": 2, 
+                "fixtue": 2
+              }
+            ], 
+            "bedrooms": [
+              { "id": 2, 
+                "count": 1, 
+                "type": "master"
+              }
+            ], 
+            "name": "226", 
+            "occupancy": 4, 
+            "type": "Hotel Room"
+          } 
+        },
+        { "id": 10, 
+          "name": "Room", 
+          "rentalUnit": {
+            "id": 15, 
+            "bathrooms": [
+              { "id": 2, 
+                "fixtue": 2
+              },
+              { "id": 1, 
+                "fixture": 1
+              }
+            ], 
+            "bedrooms": [
+              { "id": 2, 
+                "count": 1, 
+                "type": "master"
+              },
+              { "id": 1, 
+                "count": 2, 
+                "type": "guest"
+              }
+            ], 
+            "name": "227", 
+            "occupancy": 4, 
+            "type": "Hotel Room"
+          } 
+        },
+        { "id": 12, 
+          "name": "Room", 
+          "rentalUnit": {
+            "id": 15, 
+            "bathrooms": [
+              { "id": 2, 
+                "fixtue": 2
+              },
+              { "id": 1, 
+                "fixture": 1
+              }
+            ], 
+            "bedrooms": [
+              { "id": 2, 
+                "count": 1, 
+                "type": "master"
+              },
+              { "id": 1, 
+                "count": 2, 
+                "type": "guest"
+              }
+            ], 
+            "name": "232", 
+            "occupancy": 4, 
+            "type": "Hotel Room"
+          } 
+        }
+      ], 
+      "reviews": [], 
+      "location": { 
+        "id": "", 
+        "address": { 
+          "id": "", 
+          "city": "Providince", 
+          "country": "USA", 
+          "postalCode": "99876", 
+          "stateProvince": "RI", 
+          "street": "123 Main St" }, 
+        "latitude": "", 
+        "longitude": "", 
+        "locale": "" } 
+    },
+
+    { "id": 6, 
+      "name": "Whose Lodging", 
+      "rentals": [
+        { "id": 20, 
+          "name": "My Rental", 
+          "rentalUnit": {
+            "id": 15, 
+            "bathrooms": [
+              { "id": 2, 
+                "fixtue": 2
+              },
+              { "id": 1, 
+                "fixture": 1
+              }
+            ], 
+            "bedrooms": [
+              { "id": 2, 
+                "count": 1, 
+                "type": "master"
+              },
+              { "id": 1, 
+                "count": 2, 
+                "type": "guest"
+              }
+            ], 
+            "name": "My Rental unit", 
+            "occupancy": 4, 
+            "type": "colonial"
+          }   
+        },
+        { "id": 10, 
+          "name": "My Rental", 
+          "rentalUnit": {
+            "id": 15, 
+            "bathrooms": [
+              { "id": 2, 
+                "fixtue": 2
+              },
+              { "id": 1, 
+                "fixture": 1
+              }
+            ], 
+            "bedrooms": [
+              { "id": 2, 
+                "count": 1, 
+                "type": "master"
+              },
+              { "id": 1, 
+                "count": 2, 
+                "type": "guest"
+              }
+            ], 
+            "name": "My Rental unit", 
+            "occupancy": 4, 
+            "type": "colonial"
+          }   
+        },
+        { "id": 10, 
+          "name": "My Rental", 
+          "rentalUnit": {
+            "id": 15, 
+            "bathrooms": [
+              { "id": 2, 
+                "fixtue": 2
+              },
+              { "id": 1, 
+                "fixture": 1
+              }
+            ], 
+            "bedrooms": [
+              { "id": 2, 
+                "count": 1, 
+                "type": "master"
+              },
+              { "id": 1, 
+                "count": 2, 
+                "type": "guest"
+              }
+            ], 
+            "name": "My Rental unit", 
+            "occupancy": 4, 
+            "type": "colonial"
+          }   
+        },
+        { "id": 10, 
+          "name": "My Rental", 
+          "rentalUnit": {
+            "id": 15, 
+            "bathrooms": [
+              { "id": 2, 
+                "fixtue": 2
+              },
+              { "id": 1, 
+                "fixture": 1
+              }
+            ], 
+            "bedrooms": [
+              { "id": 2, 
+                "count": 1, 
+                "type": "master"
+              },
+              { "id": 1, 
+                "count": 2, 
+                "type": "guest"
+              }
+            ], 
+            "name": "My Rental unit", 
+            "occupancy": 4, 
+            "type": "colonial"
+          }   
+        }
+      ], 
+      "reviews": [], 
+      "location": { 
+        "id": "", 
+        "address": { 
+          "id": "", 
+          "city": "Flint", 
+          "country": "USA", 
+          "postalCode": "78788", 
+          "stateProvince": "MI", 
+          "street": "4432 Green Ln" }, 
+        "latitude": "", 
+        "longitude": "", 
+        "locale": "" } 
+    },
+
+    { "id": 7, 
+      "name": "Great Lodge", 
+      "rentals": [], 
+      "reviews": [], 
+      "location": { 
+        "id": "", 
+        "address": { 
+          "id": "", 
+          "city": "Atlanta", 
+          "country": "USA", 
+          "postalCode": "10001", 
+          "stateProvince": "GA", 
+          "street": "123 Prim Terrace" }, 
+        "latitude": "", 
+        "longitude": "", 
+        "locale": "" } 
+    },
+    
+    { "id": 8, 
+      "name": "Fantastic Lodge", 
+      "rentals": [], 
+      "reviews": [], 
+      "location": { 
+        "id": "", 
+        "address": { 
+          "id": "", 
+          "city": "Atlanta", 
+          "country": "USA", 
+          "postalCode": "10001", 
+          "stateProvince": "GA", 
+          "street": "8874 Darrington Road" }, 
+        "latitude": "", 
+        "longitude": "", 
+        "locale": "" } 
+    }
+     
+          
+
+  ],
+
+
+  "Rental": [
+    { "id": 10, 
+      "name": "My Rental", 
+      "rentalUnit": {
+        "id": 15, 
+        "bathrooms": [
+          { "id": 2, 
+            "fixtue": 2
+          },
+          { "id": 1, 
+            "fixture": 1
+          }
+        ], 
+        "bedrooms": [
+          { "id": 2, 
+            "count": 1, 
+            "type": "master"
+          },
+          { "id": 1, 
+            "count": 2, 
+            "type": "guest"
+          }
+        ], "name": "My Rental unit", "occupancy": 4, "type": "colonial"
+    } }
   ]
-} 
+}
