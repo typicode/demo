@@ -31,7 +31,24 @@
           } 
         }
       ], 
-      "reviews": [], 
+      "reviews": [
+        { 
+          "id": "1",
+          "accountID": "1",
+          "hotelID": "1",
+          "comment": "Test Comment",
+          "dateCreated": "01-01-2020",
+          "rating": 5
+        },
+        { 
+          "id": "2",
+          "accountID": "2",
+          "hotelID": "2",
+          "comment": "Different Test Comment",
+          "dateCreated": "02-02-2020",
+          "rating": 3
+        }
+      ], 
       "location": { 
         "id": "", 
         "address": { 
@@ -124,7 +141,24 @@
           } 
         }
       ], 
-      "reviews": [], 
+      "reviews": [
+        { 
+          "id": "3",
+          "accountID": "3",
+          "hotelID": "3",
+          "comment": "New Account Test Comment",
+          "dateCreated": "01-01-2019",
+          "rating": 2
+        },
+        { 
+          "id": "4",
+          "accountID": "4",
+          "hotelID": "4",
+          "comment": "Yet another test comment",
+          "dateCreated": "02-02-2019",
+          "rating": 1
+        }
+      ], 
       "location": { 
         "id": "", 
         "address": { 
@@ -251,7 +285,24 @@
           }   
         }
       ], 
-      "reviews": [], 
+      "reviews": [
+        { 
+          "id": "5",
+          "accountID": "10",
+          "hotelID": "150",
+          "comment": "So many of these Test Comments",
+          "dateCreated": "01-12-2010",
+          "rating": 5
+        },
+        { 
+          "id": "301",
+          "accountID": "5001",
+          "hotelID": "25",
+          "comment": "Too many test comments",
+          "dateCreated": "06-8-2019",
+          "rating": 4
+        }
+      ], 
       "location": { 
         "id": "", 
         "address": { 
