@@ -1,14 +1,26 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+[
+    {
+      "eventName":"Meeting",
+      "from":"13/06/2020 06:00:00",
+      "to": "13/06/2020 07:00:00",
+      "background": "red",
+      "isAllDay": "false",
+      "startTimeZone": "",
+      "endTimeZone": "",
+      "description": "test test test"
+  
+    
+    },
+    {
+      "eventName":"Meeting222",
+      "from":"14/06/2020 06:00:00",
+      "to": "14/06/2020 07:00:00",
+      "background": "green",
+      "isAllDay": "false",
+      "startTimeZone": "",
+      "endTimeZone": "",
+      "description": "testetstetstetstetsttetts"
+  
+    
+    }
+  ]
