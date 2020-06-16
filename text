@@ -1,0 +1,17 @@
+{
+  "version": "v2",
+  "content": {
+    "messages": [
+      {
+        "type": "stafir 1",
+        "text": "samt stafir 2"
+      }
+    ],
+    "actions": [
+      {
+        "action": "add_tag",
+        "tag_name": "6980338"
+      }
+    ]
+  }
+}
