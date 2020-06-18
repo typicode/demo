@@ -1,386 +1,554 @@
-{
-  "Lodging": [
-    { "id": 4, 
-      "name": "My Lodging", 
-      "rentals": [
-        { "id": 10, 
-          "name": "My Rental", 
-          "rentalUnit": {
-            "id": 15, 
-            "bathrooms": [
-              { "id": 2, 
-                "fixtue": 2
-              },
-              { "id": 1, 
-                "fixture": 1
-              }
-            ], 
-            "bedrooms": [
-              { "id": 2, 
-                "count": 1, 
-                "type": "master"
-              },
-              { "id": 1, 
-                "count": 2, 
-                "type": "guest"
-              }
-            ], 
-            "name": "My Rental unit", 
-            "occupancy": 4, 
-            "type": "colonial"
-          } 
-        }
-      ], 
-      "reviews": [
-        { 
-          "id": "1",
-          "accountID": "1",
-          "hotelID": "1",
-          "comment": "Test Comment",
-          "dateCreated": "01-01-2020",
-          "rating": 5
-        },
-        { 
-          "id": "2",
-          "accountID": "2",
-          "hotelID": "2",
-          "comment": "Different Test Comment",
-          "dateCreated": "02-02-2020",
-          "rating": 3
-        }
-      ], 
-      "location": { 
-        "id": "", 
-        "address": { 
-          "id": "", 
-          "city": "Atlanta", 
-          "country": "USA", 
-          "postalCode": "10001", 
-          "stateProvince": "GA", 
-          "street": "7421 Something Dr" }, 
-        "latitude": "", 
-        "longitude": "", 
-        "locale": "" } 
+[
+  {
+    "id": 1,
+    "location": {
+      "id": 1,
+      "address": {
+        "id": 1,
+        "city": "Buena Vista",
+        "country": "United States",
+        "postalCode": "81211",
+        "stateProvince": "CO",
+        "street": "30500 Co Rd 383",
+        "locationId": 1
+      },
+      "latitude": 0,
+      "locale": null,
+      "longitude": 0
     },
-
-    { "id": 5, 
-      "name": "New Lodge", 
-      "rentals": [
-        { "id": 11, 
-          "name": "Room", 
-          "rentalUnit": {
-            "id": 10, 
-            "bathrooms": [
-              { "id": 2, 
-                "fixtue": 2
-              }
-            ], 
-            "bedrooms": [
-              { "id": 2, 
-                "count": 1, 
-                "type": "master"
-              }
-            ], 
-            "name": "226", 
-            "occupancy": 4, 
-            "type": "Hotel Room"
-          } 
+    "name": "Quiet Forest Lodge",
+    "description": "A quiet lodge with a nearby forest. Great for outdoor activities.",
+    "amenities": [
+      {
+        "id": 1,
+        "amenity": "Wifi"
+      },
+      {
+        "id": 11,
+        "amenity": "Coffee"
+      },
+      {
+        "id": 12,
+        "amenity": "Pool"
+      }
+    ],
+    "images": null,
+    "rentals": [
+      {
+        "id": 4,
+        "name": null,
+        "description": null,
+        "rentalUnit": {
+          "id": 1,
+          "bathrooms": [
+            {
+              "id": 1,
+              "fixture": 1
+            },
+            {
+              "id": 2,
+              "fixture": 2
+            }
+          ],
+          "bedrooms": [
+            {
+              "id": 1,
+              "bedType": "King",
+              "bedCount": 2,
+              "roomNumber": "100",
+              "images": null,
+              "amenities": [
+                {
+                  "id": 13,
+                  "amenity": "Coffee"
+                },
+                {
+                  "id": 30,
+                  "amenity": "Pool"
+                },
+                {
+                  "id": 31,
+                  "amenity": "Wifi"
+                }
+              ],
+              "count": 0
+            },
+            {
+              "id": 2,
+              "bedType": "King",
+              "bedCount": 2,
+              "roomNumber": "101",
+              "images": null,
+              "amenities": [
+                {
+                  "id": 26,
+                  "amenity": "Pool"
+                },
+                {
+                  "id": 27,
+                  "amenity": "Wifi"
+                },
+                {
+                  "id": 28,
+                  "amenity": "Coffee"
+                }
+              ],
+              "count": 0
+            }
+          ],
+          "name": "Rental Unit 1",
+          "description": "Unit for rent",
+          "occupancy": 3,
+          "rentalUnitType": "Rental unit",
+          "rentalId": 4
         },
-        { "id": 10, 
-          "name": "Room", 
-          "rentalUnit": {
-            "id": 15, 
-            "bathrooms": [
-              { "id": 2, 
-                "fixtue": 2
-              },
-              { "id": 1, 
-                "fixture": 1
-              }
-            ], 
-            "bedrooms": [
-              { "id": 2, 
-                "count": 1, 
-                "type": "master"
-              },
-              { "id": 1, 
-                "count": 2, 
-                "type": "guest"
-              }
-            ], 
-            "name": "227", 
-            "occupancy": 4, 
-            "type": "Hotel Room"
-          } 
-        },
-        { "id": 12, 
-          "name": "Room", 
-          "rentalUnit": {
-            "id": 15, 
-            "bathrooms": [
-              { "id": 2, 
-                "fixtue": 2
-              },
-              { "id": 1, 
-                "fixture": 1
-              }
-            ], 
-            "bedrooms": [
-              { "id": 2, 
-                "count": 1, 
-                "type": "master"
-              },
-              { "id": 1, 
-                "count": 2, 
-                "type": "guest"
-              }
-            ], 
-            "name": "232", 
-            "occupancy": 4, 
-            "type": "Hotel Room"
-          } 
-        }
-      ], 
-      "reviews": [
-        { 
-          "id": "3",
-          "accountID": "3",
-          "hotelID": "3",
-          "comment": "New Account Test Comment",
-          "dateCreated": "01-01-2019",
-          "rating": 2
-        },
-        { 
-          "id": "4",
-          "accountID": "4",
-          "hotelID": "4",
-          "comment": "Yet another test comment",
-          "dateCreated": "02-02-2019",
-          "rating": 1
-        }
-      ], 
-      "location": { 
-        "id": "", 
-        "address": { 
-          "id": "", 
-          "city": "Providince", 
-          "country": "USA", 
-          "postalCode": "99876", 
-          "stateProvince": "RI", 
-          "street": "123 Main St" }, 
-        "latitude": "", 
-        "longitude": "", 
-        "locale": "" } 
+        "lodgingId": 1
+      }
+    ],
+    "reviews": [
+      {
+        "id": 11,
+        "accountId": 4,
+        "comment": "I only came here for coffee.",
+        "dateCreated": "2020-06-18T11:08:19.055045",
+        "rating": 5,
+        "lodgingId": 1
+      },
+      {
+        "id": 12,
+        "accountId": 3,
+        "comment": "The nearby forest is great.",
+        "dateCreated": "2020-06-18T11:08:19.055044",
+        "rating": 8.5,
+        "lodgingId": 1
+      },
+      {
+        "id": 13,
+        "accountId": 2,
+        "comment": "I had fun.",
+        "dateCreated": "2020-06-18T11:08:19.05504",
+        "rating": 7,
+        "lodgingId": 1
+      },
+      {
+        "id": 14,
+        "accountId": 1,
+        "comment": "This lodge is fantastic!",
+        "dateCreated": "2020-06-18T11:08:19.051023",
+        "rating": 9,
+        "lodgingId": 1
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "location": {
+      "id": 2,
+      "address": {
+        "id": 2,
+        "city": "Alma",
+        "country": "United States",
+        "postalCode": "80420",
+        "stateProvince": "CO",
+        "street": "Co Rd 19",
+        "locationId": 2
+      },
+      "latitude": 0,
+      "locale": null,
+      "longitude": 0
     },
-
-    { "id": 6, 
-      "name": "Whose Lodging", 
-      "rentals": [
-        { "id": 20, 
-          "name": "My Rental", 
-          "rentalUnit": {
-            "id": 15, 
-            "bathrooms": [
-              { "id": 2, 
-                "fixtue": 2
-              },
-              { "id": 1, 
-                "fixture": 1
-              }
-            ], 
-            "bedrooms": [
-              { "id": 2, 
-                "count": 1, 
-                "type": "master"
-              },
-              { "id": 1, 
-                "count": 2, 
-                "type": "guest"
-              }
-            ], 
-            "name": "My Rental unit", 
-            "occupancy": 4, 
-            "type": "colonial"
-          }   
+    "name": "Outdoor Adventures",
+    "description": "A fun place to camp for families.",
+    "amenities": [
+      {
+        "id": 7,
+        "amenity": "Pool"
+      },
+      {
+        "id": 8,
+        "amenity": "Coffee"
+      },
+      {
+        "id": 9,
+        "amenity": "Wifi"
+      }
+    ],
+    "images": null,
+    "rentals": [
+      {
+        "id": 2,
+        "name": null,
+        "description": null,
+        "rentalUnit": {
+          "id": 2,
+          "bathrooms": [
+            {
+              "id": 3,
+              "fixture": 1
+            },
+            {
+              "id": 4,
+              "fixture": 2
+            }
+          ],
+          "bedrooms": [
+            {
+              "id": 3,
+              "bedType": "Queen",
+              "bedCount": 1,
+              "roomNumber": "200",
+              "images": null,
+              "amenities": [
+                {
+                  "id": 24,
+                  "amenity": "Pool"
+                },
+                {
+                  "id": 25,
+                  "amenity": "Wifi"
+                }
+              ],
+              "count": 0
+            },
+            {
+              "id": 4,
+              "bedType": "King",
+              "bedCount": 2,
+              "roomNumber": "202",
+              "images": null,
+              "amenities": [
+                {
+                  "id": 20,
+                  "amenity": "Pool"
+                },
+                {
+                  "id": 21,
+                  "amenity": "Wifi"
+                },
+                {
+                  "id": 22,
+                  "amenity": "Coffee"
+                }
+              ],
+              "count": 0
+            }
+          ],
+          "name": "Rental Unit 1",
+          "description": "Unit for rent",
+          "occupancy": 3,
+          "rentalUnitType": "Rental unit",
+          "rentalId": 2
         },
-        { "id": 10, 
-          "name": "My Rental", 
-          "rentalUnit": {
-            "id": 15, 
-            "bathrooms": [
-              { "id": 2, 
-                "fixtue": 2
-              },
-              { "id": 1, 
-                "fixture": 1
-              }
-            ], 
-            "bedrooms": [
-              { "id": 2, 
-                "count": 1, 
-                "type": "master"
-              },
-              { "id": 1, 
-                "count": 2, 
-                "type": "guest"
-              }
-            ], 
-            "name": "My Rental unit", 
-            "occupancy": 4, 
-            "type": "colonial"
-          }   
-        },
-        { "id": 10, 
-          "name": "My Rental", 
-          "rentalUnit": {
-            "id": 15, 
-            "bathrooms": [
-              { "id": 2, 
-                "fixtue": 2
-              },
-              { "id": 1, 
-                "fixture": 1
-              }
-            ], 
-            "bedrooms": [
-              { "id": 2, 
-                "count": 1, 
-                "type": "master"
-              },
-              { "id": 1, 
-                "count": 2, 
-                "type": "guest"
-              }
-            ], 
-            "name": "My Rental unit", 
-            "occupancy": 4, 
-            "type": "colonial"
-          }   
-        },
-        { "id": 10, 
-          "name": "My Rental", 
-          "rentalUnit": {
-            "id": 15, 
-            "bathrooms": [
-              { "id": 2, 
-                "fixtue": 2
-              },
-              { "id": 1, 
-                "fixture": 1
-              }
-            ], 
-            "bedrooms": [
-              { "id": 2, 
-                "count": 1, 
-                "type": "master"
-              },
-              { "id": 1, 
-                "count": 2, 
-                "type": "guest"
-              }
-            ], 
-            "name": "My Rental unit", 
-            "occupancy": 4, 
-            "type": "colonial"
-          }   
-        }
-      ], 
-      "reviews": [
-        { 
-          "id": "5",
-          "accountID": "10",
-          "hotelID": "150",
-          "comment": "So many of these Test Comments",
-          "dateCreated": "01-12-2010",
-          "rating": 5
-        },
-        { 
-          "id": "301",
-          "accountID": "5001",
-          "hotelID": "25",
-          "comment": "Too many test comments",
-          "dateCreated": "06-8-2019",
-          "rating": 4
-        }
-      ], 
-      "location": { 
-        "id": "", 
-        "address": { 
-          "id": "", 
-          "city": "Flint", 
-          "country": "USA", 
-          "postalCode": "78788", 
-          "stateProvince": "MI", 
-          "street": "4432 Green Ln" }, 
-        "latitude": "", 
-        "longitude": "", 
-        "locale": "" } 
+        "lodgingId": 2
+      }
+    ],
+    "reviews": [
+      {
+        "id": 3,
+        "accountId": 4,
+        "comment": "Great if you have small children.",
+        "dateCreated": "2020-06-18T11:08:19.055132",
+        "rating": 8,
+        "lodgingId": 2
+      },
+      {
+        "id": 8,
+        "accountId": 3,
+        "comment": "This is a fun place",
+        "dateCreated": "2020-06-18T11:08:19.055132",
+        "rating": 7,
+        "lodgingId": 2
+      },
+      {
+        "id": 9,
+        "accountId": 2,
+        "comment": "My mom made me go and I hated it.",
+        "dateCreated": "2020-06-18T11:08:19.055132",
+        "rating": 1,
+        "lodgingId": 2
+      },
+      {
+        "id": 10,
+        "accountId": 1,
+        "comment": "My family had a great time here.",
+        "dateCreated": "2020-06-18T11:08:19.05513",
+        "rating": 8,
+        "lodgingId": 2
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "location": {
+      "id": 3,
+      "address": {
+        "id": 3,
+        "city": "Buena Vista",
+        "country": "United States",
+        "postalCode": "81211",
+        "stateProvince": "CO",
+        "street": "27700 County Road",
+        "locationId": 3
+      },
+      "latitude": 0,
+      "locale": null,
+      "longitude": 0
     },
-
-    { "id": 7, 
-      "name": "Great Lodge", 
-      "rentals": [], 
-      "reviews": [], 
-      "location": { 
-        "id": "", 
-        "address": { 
-          "id": "", 
-          "city": "Atlanta", 
-          "country": "USA", 
-          "postalCode": "10001", 
-          "stateProvince": "GA", 
-          "street": "123 Prim Terrace" }, 
-        "latitude": "", 
-        "longitude": "", 
-        "locale": "" } 
+    "name": "Epic Camp",
+    "description": "Epic Camp offers the most fantastic outdoor experience!",
+    "amenities": [
+      {
+        "id": 3,
+        "amenity": "Pool"
+      },
+      {
+        "id": 4,
+        "amenity": "Coffee"
+      },
+      {
+        "id": 5,
+        "amenity": "Wifi"
+      }
+    ],
+    "images": null,
+    "rentals": [
+      {
+        "id": 3,
+        "name": null,
+        "description": null,
+        "rentalUnit": {
+          "id": 3,
+          "bathrooms": [
+            {
+              "id": 5,
+              "fixture": 1
+            },
+            {
+              "id": 6,
+              "fixture": 2
+            }
+          ],
+          "bedrooms": [
+            {
+              "id": 5,
+              "bedType": "King",
+              "bedCount": 3,
+              "roomNumber": "105",
+              "images": null,
+              "amenities": [
+                {
+                  "id": 16,
+                  "amenity": "Pool"
+                },
+                {
+                  "id": 17,
+                  "amenity": "Wifi"
+                },
+                {
+                  "id": 18,
+                  "amenity": "Coffee"
+                }
+              ],
+              "count": 0
+            },
+            {
+              "id": 6,
+              "bedType": "King",
+              "bedCount": 2,
+              "roomNumber": "106",
+              "images": null,
+              "amenities": [
+                {
+                  "id": 14,
+                  "amenity": "Coffee"
+                },
+                {
+                  "id": 32,
+                  "amenity": "Wifi"
+                },
+                {
+                  "id": 33,
+                  "amenity": "Pool"
+                }
+              ],
+              "count": 0
+            }
+          ],
+          "name": "Rental Unit 1",
+          "description": "Unit for rent",
+          "occupancy": 3,
+          "rentalUnitType": "Rental unit",
+          "rentalId": 3
+        },
+        "lodgingId": 3
+      }
+    ],
+    "reviews": [
+      {
+        "id": 4,
+        "accountId": 3,
+        "comment": "Don't believe the hype.",
+        "dateCreated": "2020-06-18T11:08:19.055143",
+        "rating": 2,
+        "lodgingId": 3
+      },
+      {
+        "id": 5,
+        "accountId": 2,
+        "comment": "I was expecting more.",
+        "dateCreated": "2020-06-18T11:08:19.055142",
+        "rating": 4,
+        "lodgingId": 3
+      },
+      {
+        "id": 6,
+        "accountId": 1,
+        "comment": "It wasn't that epic.",
+        "dateCreated": "2020-06-18T11:08:19.055142",
+        "rating": 5,
+        "lodgingId": 3
+      },
+      {
+        "id": 15,
+        "accountId": 4,
+        "comment": "ITS EPIC!1!!",
+        "dateCreated": "2020-06-18T11:08:19.055143",
+        "rating": 10,
+        "lodgingId": 3
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "location": {
+      "id": 4,
+      "address": {
+        "id": 4,
+        "city": "Buena Vista",
+        "country": "United States",
+        "postalCode": "81211",
+        "stateProvince": "CO",
+        "street": "33975 US Hwy 24 N",
+        "locationId": 4
+      },
+      "latitude": 0,
+      "locale": null,
+      "longitude": 0
     },
-    
-    { "id": 8, 
-      "name": "Fantastic Lodge", 
-      "rentals": [], 
-      "reviews": [], 
-      "location": { 
-        "id": "", 
-        "address": { 
-          "id": "", 
-          "city": "Atlanta", 
-          "country": "USA", 
-          "postalCode": "10001", 
-          "stateProvince": "GA", 
-          "street": "8874 Darrington Road" }, 
-        "latitude": "", 
-        "longitude": "", 
-        "locale": "" } 
-    }
-     
-          
-
-  ],
-
-
-  "Rental": [
-    { "id": 10, 
-      "name": "My Rental", 
-      "rentalUnit": {
-        "id": 15, 
-        "bathrooms": [
-          { "id": 2, 
-            "fixtue": 2
-          },
-          { "id": 1, 
-            "fixture": 1
-          }
-        ], 
-        "bedrooms": [
-          { "id": 2, 
-            "count": 1, 
-            "type": "master"
-          },
-          { "id": 1, 
-            "count": 2, 
-            "type": "guest"
-          }
-        ], "name": "My Rental unit", "occupancy": 4, "type": "colonial"
-    } }
-  ]
-}
+    "name": "The Woodsman",
+    "description": "The next level in camping outdoors.",
+    "amenities": [
+      {
+        "id": 2,
+        "amenity": "Pool"
+      },
+      {
+        "id": 6,
+        "amenity": "Coffee"
+      },
+      {
+        "id": 10,
+        "amenity": "Wifi"
+      }
+    ],
+    "images": null,
+    "rentals": [
+      {
+        "id": 1,
+        "name": null,
+        "description": null,
+        "rentalUnit": {
+          "id": 4,
+          "bathrooms": [
+            {
+              "id": 7,
+              "fixture": 1
+            },
+            {
+              "id": 8,
+              "fixture": 2
+            }
+          ],
+          "bedrooms": [
+            {
+              "id": 7,
+              "bedType": "King",
+              "bedCount": 3,
+              "roomNumber": "10",
+              "images": null,
+              "amenities": [
+                {
+                  "id": 15,
+                  "amenity": "Coffee"
+                },
+                {
+                  "id": 23,
+                  "amenity": "Wifi"
+                }
+              ],
+              "count": 0
+            },
+            {
+              "id": 8,
+              "bedType": "King",
+              "bedCount": 2,
+              "roomNumber": "11",
+              "images": null,
+              "amenities": [
+                {
+                  "id": 19,
+                  "amenity": "Wifi"
+                },
+                {
+                  "id": 29,
+                  "amenity": "Coffee"
+                }
+              ],
+              "count": 0
+            }
+          ],
+          "name": "Rental Unit 1",
+          "description": "Unit for rent",
+          "occupancy": 3,
+          "rentalUnitType": "Rental unit",
+          "rentalId": 1
+        },
+        "lodgingId": 4
+      }
+    ],
+    "reviews": [
+      {
+        "id": 1,
+        "accountId": 1,
+        "comment": "I had a good time.",
+        "dateCreated": "2020-06-18T11:08:19.055152",
+        "rating": 9,
+        "lodgingId": 4
+      },
+      {
+        "id": 2,
+        "accountId": 2,
+        "comment": "This place changed my life.",
+        "dateCreated": "2020-06-18T11:08:19.055152",
+        "rating": 10,
+        "lodgingId": 4
+      },
+      {
+        "id": 7,
+        "accountId": 3,
+        "comment": "It's good, but not next-level.",
+        "dateCreated": "2020-06-18T11:08:19.055153",
+        "rating": 7,
+        "lodgingId": 4
+      },
+      {
+        "id": 16,
+        "accountId": 4,
+        "comment": "This is just like any other place.",
+        "dateCreated": "2020-06-18T11:08:19.055153",
+        "rating": 5,
+        "lodgingId": 4
+      }
+    ]
+  }
+]
