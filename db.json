@@ -18,6 +18,21 @@
     },
     "name": "Quiet Forest Lodge",
     "description": "A quiet lodge with a nearby forest. Great for outdoor activities.",
+    "amenities": [
+      {
+        "id": 1,
+        "amenity": "Wifi"
+      },
+      {
+        "id": 11,
+        "amenity": "Coffee"
+      },
+      {
+        "id": 12,
+        "amenity": "Pool"
+      }
+    ],
+    "images": null,
     "rentals": [
       {
         "id": 4,
@@ -41,6 +56,21 @@
               "bedType": "King",
               "bedCount": 2,
               "roomNumber": "100",
+              "images": null,
+              "amenities": [
+                {
+                  "id": 13,
+                  "amenity": "Coffee"
+                },
+                {
+                  "id": 30,
+                  "amenity": "Pool"
+                },
+                {
+                  "id": 31,
+                  "amenity": "Wifi"
+                }
+              ],
               "count": 0
             },
             {
@@ -48,6 +78,21 @@
               "bedType": "King",
               "bedCount": 2,
               "roomNumber": "101",
+              "images": null,
+              "amenities": [
+                {
+                  "id": 26,
+                  "amenity": "Pool"
+                },
+                {
+                  "id": 27,
+                  "amenity": "Wifi"
+                },
+                {
+                  "id": 28,
+                  "amenity": "Coffee"
+                }
+              ],
               "count": 0
             }
           ],
@@ -114,6 +159,21 @@
     },
     "name": "Outdoor Adventures",
     "description": "A fun place to camp for families.",
+    "amenities": [
+      {
+        "id": 7,
+        "amenity": "Pool"
+      },
+      {
+        "id": 8,
+        "amenity": "Coffee"
+      },
+      {
+        "id": 9,
+        "amenity": "Wifi"
+      }
+    ],
+    "images": null,
     "rentals": [
       {
         "id": 2,
@@ -137,6 +197,17 @@
               "bedType": "Queen",
               "bedCount": 1,
               "roomNumber": "200",
+              "images": null,
+              "amenities": [
+                {
+                  "id": 24,
+                  "amenity": "Pool"
+                },
+                {
+                  "id": 25,
+                  "amenity": "Wifi"
+                }
+              ],
               "count": 0
             },
             {
@@ -144,6 +215,21 @@
               "bedType": "King",
               "bedCount": 2,
               "roomNumber": "202",
+              "images": null,
+              "amenities": [
+                {
+                  "id": 20,
+                  "amenity": "Pool"
+                },
+                {
+                  "id": 21,
+                  "amenity": "Wifi"
+                },
+                {
+                  "id": 22,
+                  "amenity": "Coffee"
+                }
+              ],
               "count": 0
             }
           ],
@@ -210,6 +296,21 @@
     },
     "name": "Epic Camp",
     "description": "Epic Camp offers the most fantastic outdoor experience!",
+    "amenities": [
+      {
+        "id": 3,
+        "amenity": "Pool"
+      },
+      {
+        "id": 4,
+        "amenity": "Coffee"
+      },
+      {
+        "id": 5,
+        "amenity": "Wifi"
+      }
+    ],
+    "images": null,
     "rentals": [
       {
         "id": 3,
@@ -233,6 +334,21 @@
               "bedType": "King",
               "bedCount": 3,
               "roomNumber": "105",
+              "images": null,
+              "amenities": [
+                {
+                  "id": 16,
+                  "amenity": "Pool"
+                },
+                {
+                  "id": 17,
+                  "amenity": "Wifi"
+                },
+                {
+                  "id": 18,
+                  "amenity": "Coffee"
+                }
+              ],
               "count": 0
             },
             {
@@ -240,6 +356,21 @@
               "bedType": "King",
               "bedCount": 2,
               "roomNumber": "106",
+              "images": null,
+              "amenities": [
+                {
+                  "id": 14,
+                  "amenity": "Coffee"
+                },
+                {
+                  "id": 32,
+                  "amenity": "Wifi"
+                },
+                {
+                  "id": 33,
+                  "amenity": "Pool"
+                }
+              ],
               "count": 0
             }
           ],
@@ -306,6 +437,21 @@
     },
     "name": "The Woodsman",
     "description": "The next level in camping outdoors.",
+    "amenities": [
+      {
+        "id": 2,
+        "amenity": "Pool"
+      },
+      {
+        "id": 6,
+        "amenity": "Coffee"
+      },
+      {
+        "id": 10,
+        "amenity": "Wifi"
+      }
+    ],
+    "images": null,
     "rentals": [
       {
         "id": 1,
@@ -329,6 +475,17 @@
               "bedType": "King",
               "bedCount": 3,
               "roomNumber": "10",
+              "images": null,
+              "amenities": [
+                {
+                  "id": 15,
+                  "amenity": "Coffee"
+                },
+                {
+                  "id": 23,
+                  "amenity": "Wifi"
+                }
+              ],
               "count": 0
             },
             {
@@ -336,6 +493,17 @@
               "bedType": "King",
               "bedCount": 2,
               "roomNumber": "11",
+              "images": null,
+              "amenities": [
+                {
+                  "id": 19,
+                  "amenity": "Wifi"
+                },
+                {
+                  "id": 29,
+                  "amenity": "Coffee"
+                }
+              ],
               "count": 0
             }
           ],
