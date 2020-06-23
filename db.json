@@ -1,14 +1,9 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
+ {
+    year: 2018,
+    month: June,
+    mont: [
+      {name: 'Food', netIncome: 120, color: '#b7e1b8'},
+      {name: 'Travel', netIncome: 420, color: '#e1b7b7'},
+      {name: 'Hygene', netIncome: 300, color: '#e1b7b7'},
+    ]
   }
-}
