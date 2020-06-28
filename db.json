@@ -10,8 +10,9 @@
   ],
   "profile": {
     "name": "typicode"
-  }
-  "albums":  [ {
+  },
+  "albums":  [ 
+  {
     "albumId": 1,
     "id": 1,
     "title": "accusamus beatae ad facilis cum similique qui sunt",
