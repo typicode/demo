@@ -1,14 +1,20 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+[
+{"id": 1,
+ "Carrier": "ALLP"},
+{"id": 2,
+ "Carrier": "ANK1"},
+{"id": 3,
+ "Carrier": "ANKS"},
+{"id": 4,
+ "Carrier": "ANNU"},
+{"id": 5,
+ "Carrier": "APLU"},
+{"id": 6,
+ "Carrier": "CHHK"},
+{"id": 7,
+ "Carrier": "CHNJ"},
+{"id": 8,
+ "Carrier": "CHNL"},
+{"id": 9,
+ "Carrier": "DMQC"}
+]
