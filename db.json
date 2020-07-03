@@ -67,13 +67,13 @@
     "items": [
       {
         "id": 10,
-        "name": "Ad"id"as NMD",
-        "imageUrl": "https://i.ibb.co/0s3pdnc/ad"id"as-nmd.png",
+        "name": "Adidas NMD",
+        "imageUrl": "https://i.ibb.co/0s3pdnc/adidas-nmd.png",
         "price": 220
       },
       {
         "id": 11,
-        "name": "Ad"id"as Yeezy",
+        "name": "Adidas Yeezy",
         "imageUrl": "https://i.ibb.co/dJbG1cT/yeezy.png",
         "price": 280
       },
