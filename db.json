@@ -1,14 +1,1 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+{"type":"0","ch":"0","mode":"10","loop":"0","eq":"0","status":"pause","curpos":"91962","offset_pts":"91962","totlen":"216000","Title":"47756E20536F6E67","Artist":"546865204C756D696E65657273","Album":"436C656F7061747261202844656C75786529","alarmflag":"0","plicount":"4","plicurr":"1","vol":"20","mute":"1","iuri":"687474703A2F2F3139322E3136382E302E3130303A31343939322F617564696F2D6974656D2D31353030","uri":"687474703A2F2F3139322E3136382E302E3130303A31343939322F617564696F2D6974656D2D31353030"}
