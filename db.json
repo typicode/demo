@@ -1,14 +1,96 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+"Noticias": [
+{
+"Enterate": [
+{
+"Foto": "https://www.essa.com.co/site/Archivos/imagenesApp/Enterate/lectura.jpg",
+"Titulo": "Recuerda que tenemos canales virtuales y telefónicos",
+"Texto": "Conversemos y aclaremos dudas"
+},
+{
+"Foto": "https://www.essa.com.co/site/Archivos/imagenesApp/Enterate/consumo.jpg",
+"Titulo": "Recuerda que tenemos canales virtuales y telefónicos",
+"Texto": "Conversemos y aclaremos dudas"
+},
+{
+"Foto": "https://www.essa.com.co/site/Archivos/imagenesApp/Enterate/canales.jpg",
+"Titulo": "Recuerda que tenemos canales virtuales y telefónicos",
+"Texto": "Conversemos y aclaremos dudas"
+},
+{
+"Foto": "http://www.essa.com.co/site/Archivos/imagenesApp/Enterate/nueva-version.jpeg",
+"Titulo": "Descarga la nueva versión de nuestra App en App Store o Play Store? --",
+"Texto": "Una nueva actualización te espera"
+},
+{
+"Foto": "http://www.essa.com.co/site/Archivos/imagenesApp/Enterate/Enterate-podas.png",
+"Titulo": "¿Por qué es necesario que ESSA realice podas? --",
+"Texto": "Los árboles al hacer contacto con las redes de energía se convierten en foco de riesgo eléctrico, pudiendo traer consigo graves consecuencias para las personas, fauna y flora, como son electrocución e incendios.  Por eso ESSA realiza podas a los árboles que se encuentran cerca de las redes de energía de media y baja tensión, y compensa esta poda a través de sus programas ambientales como BanCo2."
+},
+{
+"Foto": "http://www.essa.com.co/site/Archivos/imagenesApp/Enterate/Enterate-riesgo.png",
+"Titulo": "¡Protege tu vida!-- ",
+"Texto": "La energía eléctrica puede ser letal si no tomas precauciones. Durante una tormenta eléctrica evita manipular equipos que estén conectados a la energía; no tomes duchas o lava platos, las tuberías de agua son excelentes conductores de electricidad. Si la tormenta eléctrica te tomó fuera de casa, nunca busques refugio debajo de un árbol, asegúrate de refugiarte en un lugar seguro."
+},
+{
+"Foto": "http://www.essa.com.co/site/Archivos/imagenesApp/Enterate/Enterate-uso-legal.png",
+"Titulo": "El hurto de energía Sí es un delito.-- ",
+"Texto": "La defraudación de fluidos es una conducta delictiva que consiste en apropiarse de energía eléctrica valiéndose de cualquier mecanismo clandestino o por alteración de los sistemas de control o aparatos contadores.  Incurrir en este delito puede ocasionar pena de entre 16 a 72 meses en prisión. También puedes ser sancionado con multa de 1.33 a 150 salarios mínimos legales vigentes."
+},
+{
+"Foto": "http://www.essa.com.co/site/Archivos/imagenesApp/Enterate/Enterate-verificalo.png",
+"Titulo": "¡No te dejes engañar!-- ",
+"Texto": "Si tienes dudas sobre la identidad de nuestros trabajadores y contratistas, siempre puedes verificar su identidad a través de la página https://verificalo.com/. Recuerda que nuestro personal nunca te pedirá dinero ni está autorizado para recaudar dinero en nombre de la compañía."
+},
+{
+"Foto": "http://www.essa.com.co/site/Archivos/imagenesApp/Enterate/movilidad app.jpg",
+"Titulo": "Primera Ecoestación eléctrica pública de Santander-- ",
+"Texto": "Ya está disponible la primera Ecoestación eléctrica de la región, en la que se pueden recargar simultáneamente el 100% de las baterías de 2 vehículos, en tan solo 30 minutos. La Ecoestación funciona las 24 horas del día, está ubicada en la Cr. 21 con calle 45 y fue diseñada con tres estándares de carga, que son puntos habilitados para la mayoría de las marcas de vehículos eléctricos presentes en el mercado."
+},
+{
+"Foto": "http://www.essa.com.co/site/Archivos/imagenesApp/Enterate/nueva-factura-app.jpg",
+"Titulo": "La factura de energía de ESSA estrena diseños-- ",
+"Texto": "Este diseño contiene una estructura más dinámica, en la que se identifica la información a partir de íconos y colores, para facilitar su lectura y comprensión. Cada sección contiene datos que son relevantes para el cliente, entre ellos la evolución del consumo, que le permitirá ser más eficiente en el uso de la energía."
+}
+]
+},
+{
+"Programate": [
+{
+"Foto": "http://www.essa.com.co/site/Archivos/imagenesApp/Programate/Programate-corporativo.png",
+"Titulo": "¿Estás organizando un evento?-- ",
+"Texto": "Como parte de nuestra política de ciudadanía corporativa participamos en espacios de formación, innovación y gestión comercial ¡Invítanos a ser parte de tu evento y envía tu solicitud de vinculación publicitaria a través de nuestro portal web!"
+},
+{
+"Foto": "http://www.essa.com.co/site/Archivos/imagenesApp/Programate/Programate-cultura.png",
+"Titulo": "El arte nos recarga de energía-- ",
+"Texto": "Contribuimos al crecimiento y desarrollo de las comunidades a través del apoyo a eventos culturales, que no estén enmarcados en ferias y fiestas municipales. ¿Sabes de algún evento que necesite de nuestro apoyo? ¡Cuéntanos!"
+},
+{
+"Foto": "http://www.essa.com.co/site/Archivos/imagenesApp/Programate/Programate-deportes.png",
+"Titulo": "¡Somos la energía de la Máquina Amarilla!-- ",
+"Texto": "Como parte de nuestro apoyo al deporte de la región, patrocinamos al equipo Alianza Petrolera. Junto a ellos realizamos actividades que llevan la energía del fútbol a las comunidades de Barrancabermeja y el Magdalena Medio de Santander."
+}
+]
+},
+{
+"EssaTeEnsena": [
+{
+"Foto": "http://www.essa.com.co/site/Archivos/imagenesApp/EssaTeensena/ESSATeEnsena-uso-eficiente.png",
+"Titulo": "Campaña Canales de atención ‘ESSA Siempre contigo’-- ",
+"Texto": "Con el propósito de aumentar el posicionamiento de ESSA Grupo EPM en sus grupos de interés y promover los valores corporativos de la Compañía para ofrecer un mejor servicio, ESSA a través el equipo de canales presenciales el área de Gestión Comercial implementó la campaña de canales de atención."
+},
+{
+"Foto": "http://www.essa.com.co/site/Archivos/imagenesApp/EssaTeensena/Canales app.jpg",
+"Titulo": "Campaña Canales de atención ‘ESSA Siempre contigo’-- ",
+"Texto": "Con el propósito de aumentar el posicionamiento de ESSA Grupo EPM en sus grupos de interés y promover los valores corporativos de la Compañía para ofrecer un mejor servicio, ESSA a través el equipo de canales presenciales el área de Gestión Comercial implementó la campaña de canales de atención."
+},
+{
+"Foto": "http://www.essa.com.co/site/Archivos/imagenesApp/EssaTeensena/pacto.jpg",
+"Titulo": "Campaña PACTO-- ",
+"Texto": "Incentivar y motivar a los clientes para que hagan uso de esta opción de financiación que permite sanear su cartera vencida de forma ágil y sencilla."
+}
+]
+}
+]
 }
