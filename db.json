@@ -1,14 +1,54 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+	userSets:[
+        
+       {
+       	id: 1,
+       	userSetName: 'CGCLANDRAN_06FEB2020_MSC',
+       	createdDate: '04 Jan 2019',
+       	modifiedDate: '04 Jan 2019',
+       	userCount: 1023,
+       	createdBy: 'Satyendra Dubey'
+       },
+       {
+       	id: 2,
+       	userSetName: 'CGCLANDRAN_06FEB2020_MSC',
+       	createdDate: '04 Jan 2019',
+       	modifiedDate: '04 Jan 2019',
+       	userCount: 1023,
+       	createdBy: 'Satyendra Dubey'
+       },
+       {
+       	id: 3,
+       	userSetName: 'CGCLANDRAN_06FEB2020_MSC',
+       	createdDate: '04 Jan 2019',
+       	modifiedDate: '04 Jan 2019',
+       	userCount: 1023,
+       	createdBy: 'Satyendra Dubey'
+       },
+       {
+       	id: 4,
+       	userSetName: 'CGCLANDRAN_06FEB2020_MSC',
+       	createdDate: '04 Jan 2019',
+       	modifiedDate: '04 Jan 2019',
+       	userCount: 1023,
+       	createdBy: 'Satyendra Dubey'
+       },
+       {
+       	id: 5,
+       	userSetName: 'CGCLANDRAN_06FEB2020_MSC',
+       	createdDate: '04 Jan 2019',
+       	modifiedDate: '04 Jan 2019',
+       	userCount: 1023,
+       	createdBy: 'Satyendra Dubey'
+       },
+       {
+       	id: 6,
+       	userSetName: 'CGCLANDRAN_06FEB2020_MSC',
+       	createdDate: '04 Jan 2019',
+       	modifiedDate: '04 Jan 2019',
+       	userCount: 1023,
+       	createdBy: 'Satyendra Dubey'
+       }
+
+	]
 }
