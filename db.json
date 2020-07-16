@@ -5,10 +5,69 @@
     { "id": 3, "title": "Post 3" }
   ],
   "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+    { "id": 1, "body": "some comment on post 1", "postId": 1 },
+    { "id": 2, "body": "some comment on post 1", "postId": 1 }
+    { "id": 3, "body": "some comment on post 2", "postId": 2 }
+    { "id": 4, "body": "some comment on post 3", "postId": 3 }
   ],
   "profile": {
-    "name": "typicode"
+    "name": "hodolizer"
+  },
+  "dynamic-tasks-and-inputs": [
+  {
+   "dynamicTasksInputJSON": {
+      "comments-1": {
+         "inputParameters": {
+            "http_request": {
+               "headers": {},
+               "method": "GET",
+               "uri": "http://my-json-server.typicode.com/hodolizer/demo/comments/1",
+               "accept": "application/json",
+               "content-Type": "application/json"
+            }
+         }
+      },
+      "comments-2": {
+         "inputParameters": {
+            "http_request": {
+               "headers": {},
+               "method": "GET",
+               "uri": "http://my-json-server.typicode.com/hodolizer/demo/comments/2",
+               "accept": "application/json",
+               "content-Type": "application/json"
+            }
+         }
+      },
+      "comments-3": {
+         "inputParameters": {
+            "http_request": {
+               "headers": {},
+               "method": "GET",
+               "uri": "http://my-json-server.typicode.com/hodolizer/demo/comments/3",
+               "accept": "application/json",
+               "content-Type": "application/json"
+            }
+         }
+      }
+   },
+   "dynamicTasksJSON": [
+      {
+         "name": "comments-1",
+         "taskReferenceName": "comments-1",
+         "type": "HTTP"
+      },
+      {
+         "name": "comments-2",
+         "taskReferenceName": "comments-2",
+         "type": "HTTP"
+      },
+      {
+         "name": "comments-3",
+         "taskReferenceName": "comments-3",
+         "type": "HTTP"
+      }
+   ]
   }
+]
 }
+
