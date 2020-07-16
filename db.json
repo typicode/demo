@@ -13,7 +13,7 @@
   "profile": {
     "name": "hodolizer"
   },
-  "dynamic-tasks-and-inputs": [
+  "dynamic-tasks-and-inputs": {
   {
    "dynamicTasksInputJSON": {
       "comments-1": {
@@ -68,6 +68,6 @@
       }
    ]
   }
-]
+}
 }
 
