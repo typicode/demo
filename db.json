@@ -1,14 +1,62 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+[
+    {
+        "id": 1,
+        "name": "paiement prestations de services"
+    },
+    {
+        "id": 2,
+        "name": "report à nouveau"
+    },
+    {
+        "id": 3,
+        "name": "chèques émis par l'association non encore débités par la banque "
+    },
+    {
+        "id": 4,
+        "name": "chèques reçus par l'association non encore crédités par la banque"
+    },
+    {
+        "id": 5,
+        "name": "état de rapprochement"
+    },
+    {
+        "id": 6,
+        "name": "versement à la caisse"
+    },
+    {
+        "id": 7,
+        "name": "remises de chèques non créditées"
+    },
+    {
+        "id": 8,
+        "name": "chèque émis en attente de paiement"
+    },
+    {
+        "id": 9,
+        "name": "achats datées de l’exercice comptable mais non réglées sur l’exercice ;"
+    },
+    {
+        "id": 10,
+        "name": "recettes à rattacher à l’exercice comptable mais non encaissées à la clôture (par exemple, des cotisations en retard de règlement) ;"
+    },
+    {
+        "id": 11,
+        "name": "chèques émis avant la clôture de l’exercice comptable et non débités à cette date (qui seront repérés avec le talon du chéquier)."
+    },
+    {
+        "id": 12,
+        "name": "factures de fournisseurs non parvenues à la date de clôture mais concernant l’exercice comptable ;"
+    },
+    {
+        "id": 13,
+        "name": "factures à établir : ventes de marchandises ou prestations de service effectuées par l’association pendant l’exercice mais non encore facturées ;"
+    },
+    {
+        "id": 14,
+        "name": "charges constatées d’avance : achats facturés sur l’exercice mais qui seront utilisés et consommés sur l’exercice suivant (par exemple, si le loyer est payable d’avance) ;"
+    },
+    {
+        "id": 15,
+        "name": "produits constatés d’avance : ventes et acomptes facturés sur l’exercice qui concernent des livraisons ou des prestations de services qui seront faites sur l’exercice suivant."
+    }
+]
