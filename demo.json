@@ -1,0 +1,18 @@
+  [
+       {
+          "engdate":"1/1/20",
+          "pointType":'Base',
+          "eventType":"Engagement",
+          "EngagementSource":"member Enrollement",
+          "EngagementActivity":"Welcome Perk",
+          "Points":100
+        },
+        {
+          "engdate":"1/1/20",
+          "pointType":'Base',
+          "eventType":"Engagement",
+          "EngagementSource":"member Enrollement",
+          "EngagementActivity":"Welcome Perk",
+          "Points":100
+        },     
+  ]
