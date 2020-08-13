@@ -1,14 +1,18 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+    "laptops":[
+       {
+          "productName":"Asus TUF Gaming FX505GT-BQ018T Stealth Black plastový",
+          "productDescription":"Herný notebook – Intel Core i5 9300H Coffee Lake, 15.6\" IPS antireflexný 1920 × 1080, RAM 8GB DDR4, NVIDIA GeForce GTX 1650 4GB, SSD 512GB, numerická klávesnica, podsvietená klávesnica, webkamera, USB 3.2 Gen 1, WiFi 802.11ac, 3-článková batéria 48 Wh, Windows 10 Home 1 Zone RGB, MIL-STD 810G",
+          "productCount":3,
+          "productImage":"http://cdn.alza.sk/ImgW.ashx?fd=FotoAdd&cd=NA667d90d-03",
+          "productPrice":699
+       },
+       {
+          "productName":"Acer Nitro 5 Obsidian Black",
+          "productDescription":"Herný notebook – Intel Core i5 9300H Coffee Lake, 15.6\" IPS matný 1920 × 1080 120Hz, RAM 8GB DDR4, NVIDIA GeForce GTX 1650 4GB, SSD 512GB, numerická klávesnica, podsvietená klávesnica, webkamera, USB-C, WiFi 802.11ax, 4-článková batéria 56 Wh, Windows 10 Home, HDD upgrade kit (AN515-54-54KC)",
+          "productCount":8,
+          "productImage":"https://cdn.alza.sk/ImgW.ashx?fd=f15&cd=NC108c7b5t7",
+          "productPrice":749
+       }
+    ]
+ }
