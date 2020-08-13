@@ -1,8 +1,8 @@
 {
   "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+    { "siteModelEntityId": 1, "siteName": "Post 1", "siteId":"123", "addressLine1":"a1", "addressLine2":"a2", "city":"c1", "state":"state1", "phoneNumber":"p1", "postalCode":"pc" },
+    { "siteModelEntityId": 2, "siteName": "Post 1", "siteId":"123", "addressLine1":"a1", "addressLine2":"a2", "city":"c1", "state":"state1", "phoneNumber":"p1", "postalCode":"pc" },
+    { "siteModelEntityId": 3, "siteName": "Post 1", "siteId":"123", "addressLine1":"a1", "addressLine2":"a2", "city":"c1", "state":"state1", "phoneNumber":"p1", "postalCode":"pc" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
