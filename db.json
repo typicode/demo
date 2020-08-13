@@ -1,14 +1,15 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+   "timestamp":1597322297.21641,
+   "results":[
+      {
+         "expires":1597322324.2163236,
+         "output":"SUCCESS",
+         "passed":true,
+         "timestamp":1597322297.2163236,
+         "response_time":6e-06,
+         "checker":"app_status"
+      }
+   ],
+   "status":"success",
+   "hostname":"vm-engati-dev-1"
 }
