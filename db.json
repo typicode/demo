@@ -1,14 +1,167 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+[
+    {
+        "slider": [
+            {
+                "imgUrl": "../assets/imgs/bg8.jpg",
+                "title": "Fresh. Healthy. Delicious. Hygienic.",
+                "slogan": "Home Made Meals And Delicacies, Ingredients Which Are Healthy And Delicious And We Are FSSAI Registered."
+            },
+            {
+                "imgUrl": "../assets/imgs/bg9.jpg",
+                "title": "2 Fresh. Healthy. Delicious. Hygienic.",
+                "slogan": "2 Home Made Meals And Delicacies, Ingredients Which Are Healthy And Delicious And We Are FSSAI Registered."
+            },
+            {
+                "imgUrl": "../assets/imgs/bg10.jpg",
+                "title": "3 Fresh. Healthy. Delicious. Hygienic.",
+                "slogan": "3 Home Made Meals And Delicacies, Ingredients Which Are Healthy And Delicious And We Are FSSAI Registered."
+            }
+        ],
+        "flavours": [
+            {
+                "imgUrl": "../assets/imgs/bg4.jpg",
+                "title": "Ruchika Rasoi",
+                "slogan": "Our Flavours",
+                "paragraph": "I'm a paragraph. Click here to add your own text and edit me. It’s easy. Just click “Edit Text” or double click me to add your own content and make changes to the font. I'm a paragraph. Click here to add your own text and edit me. It’s easy. Just click “Edit Text” or double click me to add your own content and make changes to the font."
+            },
+            {
+                "imgUrl": "../assets/imgs/bg5.jpg",
+                "title": "5 Ruchika Rasoi",
+                "slogan": "Our Flavours",
+                "paragraph": "I'm a paragraph. Click here to add your own text and edit me. It’s easy. Just click “Edit Text” or double click me to add your own content and make changes to the font. I'm a paragraph. Click here to add your own text and edit me. It’s easy. Just click “Edit Text” or double click me to add your own content and make changes to the font."
+            }
+        ],
+        "parallax": [
+            {
+                "imgUrl": "../assets/imgs/bg2.jpg",
+                "title": "Enjoy",
+                "slogan": "Healthy And Hygienic"
+            },
+            {
+                "imgUrl": "../assets/imgs/bg3.jpg",
+                "title": "Taste",
+                "slogan": "Our Delicious Food"
+            }
+        ],
+        "ourPlace": [
+            {
+                "imgUrl": "../assets/imgs/bg7.jpg",
+                "title": "Our Place",
+                "slogan": "Our Flavours",
+                "paragraph": "Our Place I'm a paragraph. Click here to add your own text and edit me. It’s easy. Just click “Edit Text” or double click me to add your own content and make changes to the font. I'm a paragraph. Click here to add your own text and edit me. It’s easy. Just click “Edit Text” or click me to add your own content and make changes to the font."
+            }
+        ],
+        "gallery": [
+            {
+                "title": "Our Popular Dishes",
+                "paragraph": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta ab eligendi sunt iste nemo quaerat magni possimus, magnam pariatur dolor hic harum quia non esse assumenda beatae laboriosam id culpa!"
+            },
+            {
+                "imgUrl": "../assets/imgs/bg7.jpg"
+            },
+            {
+                "imgUrl": "../assets/imgs/bg8.jpg"
+            },
+            {
+                "imgUrl": "../assets/imgs/bg9.jpg"
+            },
+            {
+                "imgUrl": "../assets/imgs/bg10.jpg"
+            }
+        ]
+    },
+    {
+        "aboutus": [
+            {
+                "imgBgUrl": "../assets/imgs/bg8.jpg",
+                "title": "About",
+                "slogan": "Ruchika Health Rasoi",
+                "priyapic": "../assets/imgs/priya.jpg",
+                "priyatitle": "Mumbaikar Priyanka",
+                "priyaslogan": "Textile Engineer Turned Into Foodpreneur",
+                "paragraph": "Priyanka Sarode, a culinary enthusiast, who by education is an Engineer and Management graduate.<br><br> Food Is My Passion.<br> A passion about food, which showcases itself in her cooking by virtue of her Marathi and most important, Indian roots. A home trained foodie, who majorly learned from her Grandmother and Mother the traditional way of Indian cooking, continuously tries to learn new delicacies of different cultures."
+            }
+        ]
+    },
+    {
+        "ourmenu": [
+            {
+                "imgBgUrl": "../assets/imgs/bg8.jpg",
+                "title": "Taste",
+                "slogan": "Our Flavours"
+            },
+            {
+                "imgUrl": "../assets/imgs/dishes/1.jpeg",
+                "imgTitle": "Dal Makhni",
+                "paragraph": "two lines about the recipe, what's inside.. etc..two lines about",
+                "price": 300
+            },
+            {
+                "imgUrl": "../assets/imgs/dishes/2.jpeg",
+                "imgTitle": "Rabdi",
+                "paragraph": "two lines about the recipe, what's inside.. etc..two lines about",
+                "price": 300
+            },
+            {
+                "imgUrl": "../assets/imgs/dishes/3.jpg",
+                "imgTitle": "Chole Bhature with Lassi",
+                "paragraph": "two lines about the recipe, what's inside.. etc..two lines about",
+                "price": 300
+            },
+            {
+                "imgUrl": "../assets/imgs/dishes/4.jpeg",
+                "imgTitle": "Chole Bhature",
+                "paragraph": "two lines about the recipe, what's inside.. etc..two lines about",
+                "price": 200
+            },
+            {
+                "imgUrl": "../assets/imgs/dishes/5.jpg",
+                "imgTitle": "Veg Biryani",
+                "paragraph": "two lines about the recipe, what's inside.. etc..two lines about",
+                "price": 250
+            },
+            {
+                "imgUrl": "../assets/imgs/dishes/6.jpeg",
+                "imgTitle": "Mutton Korma",
+                "paragraph": "two lines about the recipe, what's inside.. etc..two lines about",
+                "price": 450
+            },
+            {
+                "imgUrl": "../assets/imgs/dishes/7.jpeg",
+                "imgTitle": "Chicken Sauji Masala",
+                "paragraph": "two lines about the recipe, what's inside.. etc..two lines about",
+                "price": 350
+            },
+            {
+                "imgUrl": "../assets/imgs/dishes/8.jpeg",
+                "imgTitle": "Chicken Masala",
+                "paragraph": "two lines about the recipe, what's inside.. etc..two lines about",
+                "price": 400
+            },
+            {
+                "imgUrl": "../assets/imgs/dishes/9.jpeg",
+                "imgTitle": "Alu Paratha",
+                "paragraph": "two lines about the recipe, what's inside.. etc..two lines about",
+                "price": 100
+            },
+            {
+                "imgUrl": "../assets/imgs/dishes/10.jpeg",
+                "imgTitle": "Laddu",
+                "paragraph": "two lines about the recipe, what's inside.. etc..two lines about",
+                "price": 300
+            }
+        ]
+    },
+    {
+        "contactus": [
+            {
+                "imgBgUrl": "../assets/imgs/bg8.jpg",
+                "title": "Feeling Hungry?",
+                "slogan": "Contact Us Now",
+                "address": "Ruchika Health Rasoi,<br> Sorrel, Applewoods, S.P. Ring Road,<br> Ahmedabad,Gujarat, India",
+                "email": "ruchikarasoi@gmail.com",
+                "phone": "+91 8155016517, +91 9898295283"
+            }
+        ]
+    }
+]
