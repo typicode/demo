@@ -5,8 +5,21 @@
     { "id": 3, "title": "Post 3" }
   ],
   "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+    {
+    id:1,
+    name:'Vijay',
+    salary:50000
+  },
+  {
+    id:2,
+    name:'Bharath',
+    salary:60000
+  },
+  {
+    id:3,
+    name:'Vamsi',
+    salary:500000
+  }
   ],
   "profile": {
     "name": "typicode"
