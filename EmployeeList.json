@@ -1,0 +1,17 @@
+"comments":[
+{
+    id:1,
+    name:'Vijay',
+    salary:50000
+  },
+  {
+    id:2,
+    name:'Bharath',
+    salary:60000
+  },
+  {
+    id:3,
+    name:'Vamsi',
+    salary:500000
+  }
+]
