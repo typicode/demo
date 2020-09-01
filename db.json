@@ -1,14 +1,36 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+[{
+  "id": 1,
+  "first_name": "Vyky",
+  "last_name": "MacIan",
+  "email": "vmacian0@1688.com",
+  "gender": "Female",
+  "ip_address": "51.170.34.102"
+}, {
+  "id": 2,
+  "first_name": "Matthias",
+  "last_name": "Pennock",
+  "email": "mpennock1@jalbum.net",
+  "gender": "Male",
+  "ip_address": "24.198.11.158"
+}, {
+  "id": 3,
+  "first_name": "Ivy",
+  "last_name": "Shildrick",
+  "email": "ishildrick2@slashdot.org",
+  "gender": "Female",
+  "ip_address": "160.237.206.99"
+}, {
+  "id": 4,
+  "first_name": "Bond",
+  "last_name": "Abbots",
+  "email": "babbots3@sakura.ne.jp",
+  "gender": "Male",
+  "ip_address": "222.94.148.133"
+}, {
+  "id": 5,
+  "first_name": "Delaney",
+  "last_name": "Joska",
+  "email": "djoska4@ebay.com",
+  "gender": "Male",
+  "ip_address": "27.179.49.201"
+}]
