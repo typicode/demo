@@ -361,78 +361,6 @@
       "middleWay": "no",
       "distance": 48,
       "date": "2020-07-30"
-    },
-    {
-      "id": 2,
-      "departure": "Adama",
-      "destination": "Debre Berhan",
-      "middleWay": "no",
-      "distance": 45,
-      "date": "2020-07-30"
-    },
-    {
-      "departure": "Addis Ababa",
-      "destination": "Mekele",
-      "middleWay": "woldiya",
-      "distance": 54,
-      "date": "2020-07-31",
-      "id": 5
-    },
-    {
-      "departure": "Adama",
-      "destination": "Debre Berhan",
-      "middleWay": "no",
-      "distance": 50,
-      "date": "2020-07-31",
-      "id": 6
-    },
-    {
-      "departure": "Addis Ababa",
-      "destination": "Hawasa",
-      "middleWay": "no",
-      "distance": 35,
-      "date": "2020-07-31",
-      "id": 7
-    },
-    {
-      "departure": " Addis Ababa",
-      "destination": " BahirDar",
-      "middleWay": " Mota",
-      "distance": " 54",
-      "date": "2020-08-03",
-      "id": 8
-    },
-    {
-      "departure": "Addis Ababa",
-      "destination": "Aksum",
-      "middleWay": "Woldiya",
-      "distance": 52,
-      "date": "2020-08-15",
-      "id": 9
-    },
-    {
-      "departure": "Addis Ababa",
-      "destination": "Bonga",
-      "middleWay": "no",
-      "distance": 53,
-      "date": "2020-08-15",
-      "id": 10
-    },
-    {
-      "departure": " Addis Ababa",
-      "destination": " BahirDar",
-      "middleWay": " Mota",
-      "distance": " 54",
-      "date": "2020-08-22",
-      "id": 18
-    },
-    {
-      "departure": " Addis Ababa",
-      "destination": " BahirDar",
-      "middleWay": " Mota",
-      "distance": " 54",
-      "date": "2020-08-29",
-      "id": 19
     }
   ],
   "Bus": [
@@ -455,24 +383,6 @@
       "status": "working"
     },
     {
-      "id": 3,
-      "tagNumber": "tg1235",
-      "sideNumber": "Golodon-Bus-bs1235",
-      "brand": "Golodon Bus",
-      "capacity": 54,
-      "owner": "Golodon Bus",
-      "status": "working"
-    },
-    {
-      "id": 4,
-      "tagNumber": "tg1235",
-      "sideNumber": "Golodon-Bus-1236",
-      "brand": "Golodon-Bus",
-      "capacity": 54,
-      "owner": "Golodon Bus",
-      "status": "working"
-    },
-    {
       "id": 5,
       "tagNumber": "tg1237",
       "sideNumber": "Golodon-Bus-side1237",
@@ -490,42 +400,7 @@
       "id": 6,
       "status": "working"
     },
-    {
-      "tagNumber": "1256",
-      "sideNumber": "Yegna-Bus-3352",
-      "brand": "Yegna-Bus",
-      "capacity": 45,
-      "owner": "Yegna Bus",
-      "id": 7,
-      "status": "working"
-    },
-    {
-      "tagNumber": "Yegna-Bus-567",
-      "sideNumber": "Yegna-Bus-12345",
-      "brand": "Yegna Bus",
-      "capacity": 55,
-      "owner": "Yegna Bus",
-      "id": 8,
-      "status": "working"
-    },
-    {
-      "tagNumber": "tag123456",
-      "sideNumber": "Selam-Bus111",
-      "brand": "Selam Bus",
-      "capacity": 54,
-      "owner": "Selam Bus",
-      "id": 9,
-      "status": "working"
-    },
-    {
-      "tagNumber": "tagmule12",
-      "sideNumber": "selam112",
-      "brand": "Selam Bus",
-      "capacity": 54,
-      "owner": "Selam Bus",
-      "id": 10,
-      "status": "working"
-    },
+    
     {
       "tagNumber": "56",
       "sideNumber": "1234",
@@ -553,33 +428,7 @@
       "id": 13,
       "status": "working"
     },
-    {
-      "tagNumber": "34",
-      "sideNumber": "23",
-      "brand": "Selam Bus",
-      "capacity": 23,
-      "owner": "Selam Bus",
-      "id": 14,
-      "status": "working"
-    },
-    {
-      "tagNumber": "1234",
-      "sideNumber": "2345",
-      "brand": "Selam Bus",
-      "capacity": 34,
-      "owner": "Selam Bus",
-      "id": 15,
-      "status": "working"
-    },
-    {
-      "tagNumber": "selam234",
-      "sideNumber": "selam2512",
-      "brand": "Selam Bus",
-      "capacity": 56,
-      "owner": "Selam Bus",
-      "id": 16,
-      "status": "working"
-    },
+    
     {
       "tagNumber": "123456",
       "sideNumber": "Yegna352",
@@ -588,15 +437,7 @@
       "owner": "Yegna Bus",
       "id": 17
     },
-    {
-      "tagNumber": "12356",
-      "sideNumber": "yegna 240",
-      "brand": "Yegna 350",
-      "capacity": 50,
-      "owner": "Yegna Bus",
-      "status": "working",
-      "id": 18
-    },
+
     {
       "tagNumber": "123456",
       "sideNumber": "golodon1234",
@@ -605,24 +446,6 @@
       "owner": "Golodon Bus",
       "status": "working",
       "id": 19
-    },
-    {
-      "tagNumber": "123456",
-      "sideNumber": "golodon 123456",
-      "brand": "Golodon Bus",
-      "capacity": 54,
-      "owner": "Golodon Bus",
-      "status": "working",
-      "id": 20
-    },
-    {
-      "tagNumber": "567890",
-      "sideNumber": "golodon 12345",
-      "brand": "Golodon Bus",
-      "capacity": 54,
-      "owner": "Golodon Bus",
-      "status": "working",
-      "id": 21
     }
   ],
   "travel": [
@@ -651,162 +474,6 @@
       "tripDate": "2020-07-30",
       "brand": "Selam Bus",
       "id": 3
-    },
-    {
-      "tripid": "14",
-      "capacity": 54,
-      "availableSeat": 54,
-      "BusID": "Yegna/14/541/4:00am",
-      "price": "400",
-      "departurTime": "4:00am",
-      "departureStation": "AutoBus tera",
-      "destinationStation": "menhari",
-      "tripDate": "2020-08-13",
-      "brand": "Yegna Bus",
-      "id": 4
-    },
-    {
-      "tripid": "14",
-      "capacity": 54,
-      "availableSeat": 54,
-      "BusID": "Yegna/14/542/4:00am",
-      "price": "400",
-      "departurTime": "4:00am",
-      "departureStation": "AutoBus tera",
-      "destinationStation": "menhari",
-      "tripDate": "2020-08-13",
-      "brand": "Yegna Bus",
-      "id": 5
-    },
-    {
-      "tripid": "14",
-      "capacity": 54,
-      "availableSeat": 54,
-      "BusID": "Yegna/14/543/4:00am",
-      "price": "400",
-      "departurTime": "4:00am",
-      "departureStation": "AutoBus tera",
-      "destinationStation": "menhari",
-      "tripDate": "2020-08-13",
-      "brand": "Yegna Bus",
-      "id": 6
-    },
-    {
-      "tripid": "14",
-      "capacity": 54,
-      "availableSeat": 54,
-      "BusID": "Golodon/14/544/4:00am",
-      "price": "400",
-      "departurTime": "4:00am",
-      "departureStation": "AutoBus tera",
-      "destinationStation": "menhari",
-      "tripDate": "2020-08-13",
-      "brand": "Golodon Bus",
-      "id": 7
-    },
-    {
-      "tripid": "17",
-      "capacity": 50,
-      "availableSeat": 50,
-      "BusID": "Golodon/17/501/12:00am",
-      "price": "350",
-      "departurTime": "12:00am",
-      "departureStation": "Auto Bus Tera",
-      "destinationStation": "Addisu menehariya",
-      "tripDate": "2020-08-14",
-      "brand": "Golodon Bus",
-      "id": 8
-    },
-    {
-      "tripid": "15",
-      "capacity": 56,
-      "availableSeat": 56,
-      "BusID": "Gologon/15/561/3:00",
-      "price": "32",
-      "departurTime": "3:00",
-      "departureStation": "Meskel square",
-      "destinationStation": "Addisu Menehariya",
-      "tripDate": "2020-08-15",
-      "brand": "Golodon Bus",
-      "id": 9
-    },
-    {
-      "tripid": "15",
-      "capacity": 56,
-      "availableSeat": 56,
-      "BusID": "golodon/15/562/3:00",
-      "price": "32",
-      "departurTime": "3:00",
-      "departureStation": "Meskel square",
-      "destinationStation": "Addisu Menehariya",
-      "tripDate": "2020-08-15",
-      "brand": "Golodon Bus",
-      "id": 10
-    },
-    {
-      "tripid": "13",
-      "capacity": 50,
-      "availableSeat": 50,
-      "BusID": "Yegna/13/501/3:00",
-      "price": "550",
-      "departurTime": "3:00",
-      "departureStation": "Meskel square",
-      "destinationStation": "Azwa ",
-      "tripDate": "2020-08-16",
-      "brand": "Yegna Bus",
-      "id": 11
-    },
-    {
-      "tripid": "13",
-      "capacity": 50,
-      "availableSeat": 50,
-      "BusID": "Yegna/13/502/3:00",
-      "price": "550",
-      "departurTime": "3:00",
-      "departureStation": "Meskel square",
-      "destinationStation": "Azwa ",
-      "tripDate": "2020-08-16",
-      "brand": "Yegna Bus",
-      "id": 12
-    },
-    {
-      "tripid": "13",
-      "capacity": 50,
-      "availableSeat": 50,
-      "BusID": "Yegna/13/503/3:00",
-      "price": "550",
-      "departurTime": "3:00",
-      "departureStation": "Meskel square",
-      "destinationStation": "Azwa ",
-      "tripDate": "2020-08-16",
-      "brand": "Yegna Bus",
-      "id": 13
-    },
-    {
-      "tripid": "19",
-      "capacity": 45,
-      "availableSeat": 45,
-      "BusID": "selam/19/451/10;:30",
-      "price": "500",
-      "departurTime": "10;:30",
-      "departureStation": "autoBus",
-      "destinationStation": "adisu menhariya",
-      "tripDate": "2020-08-29",
-      "brand": "Selam Bus",
-      "id": 14
-    },
-    {
-      "tripid": "19",
-      "capacity": 45,
-      "availableSeat": 45,
-      "BusID": " selam/19/452/10;:30",
-      "price": "500",
-      "departurTime": "10;:30",
-      "departureStation": "autoBus",
-      "destinationStation": "adisu menhariya",
-      "tripDate": "2020-08-29",
-      "brand": "Selam Bus",
-      "id": 15
     }
   ],
   
@@ -828,33 +495,6 @@
       "confNumber": "conf10000we",
       "status": "Booked",
       "id": 2
-    },
-    {
-      "name": "melkamu",
-      "phone": "0945272182",
-      "tripId": "trip12",
-      "tripDate": "2020-07-30",
-      "confNumber": "conf10000we",
-      "status": "Booked",
-      "id": 3
-    },
-    {
-      "name": "melkamu",
-      "phone": "0945383829",
-      "tripId": "trip12",
-      "tripDate": "2020-07-30",
-      "confNumber": "conf10000we",
-      "status": "Booked",
-      "id": 4
-    },
-    {
-      "name": "melkamu",
-      "phone": "0945272182",
-      "tripId": "trip12",
-      "tripDate": "2020-07-30",
-      "confNumber": "conf10000we",
-      "status": "Booked",
-      "id": 5
-    }   
+    }  
   ] 
 }
