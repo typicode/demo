@@ -1,51 +1,4 @@
 {
-  "serviceProvider": [
-    {
-      "providerName": "selam Bus",
-      "bankAccount": "10000000000",
-      "userName": "selam",
-      "phone": "0945272182",
-      "providerEmail": "selamBus@gmail.com",
-      "password": "selam0945272182",
-      "id": "Zvsbg8C"
-    },
-    {
-      "providerName": "Odda Bus",
-      "bankAccount": "100034567899",
-      "userName": "oddaBus",
-      "phone": "0945678192",
-      "providerEmail": "odda@gmail.com",
-      "password": "oddaBus0945678192",
-      "id": "3vgcFok"
-    },
-    {
-      "providerName": "Yegna Bus",
-      "bankAccount": "1000443423",
-      "userName": "yegnaBus",
-      "phone": "0945342739",
-      "providerEmail": "yegna@gmail.com",
-      "password": "yegnaBus0945342739",
-      "id": "DWEtO_0"
-    },
-    {
-      "providerName": "Habesha Bus",
-      "bankAccount": "13000232323",
-      "userName": "habesha",
-      "phone": "0945342678",
-      "providerEmail": "habesha@gmail.com",
-      "password": "habesha0945342678",
-      "id": "GsxHgMP"
-    },
-    {
-      "providerName": "mule Bus",
-      "bankAccount": "19999000",
-      "userName": "mule",
-      "phone": "0945272182",
-      "providerEmail": "mulebas@gmail.com",
-      "password": "mule0945272182",
-      "id": "XVgUfcZ"
-    }
-  ],
   "route": [
     {
       "id": "1",
@@ -195,47 +148,7 @@
       "date": "2020-08-03",
       "id": 8
     },
-    {
-      "departure": "Addis Ababa",
-      "destination": "Aksum",
-      "middleWay": "Woldiya",
-      "distance": 1020,
-      "date": "2020-08-15",
-      "id": 9
-    },
-    {
-      "departure": "Addis Ababa",
-      "destination": "Bonga",
-      "middleWay": "no",
-      "distance": 2300,
-      "date": "2020-08-15",
-      "id": 10
-    },
-    {
-      "departure": "Addis Ababa",
-      "destination": "Debre Markos",
-      "middleWay": "no",
-      "distance": 340,
-      "date": "2020-08-15",
-      "id": 11
-    },
-    {
-      "departure": "Adama",
-      "destination": "Debre Berhan",
-      "middleWay": "no",
-      "distance": 120,
-      "date": "2020-08-22",
-      "id": 12
-    },
-    {
-      "departure": " Addis Ababa",
-      "destination": " BahirDar",
-      "middleWay": " Mota",
-      "distance": " 550",
-      "date": "2020-08-16",
-      "id": 13
-    },
-    {
+     {
       "departure": "Adama",
       "destination": "Debre Berhan",
       "middleWay": "no",
@@ -291,47 +204,7 @@
       "date": "2020-08-25",
       "id": 20
     },
-    {
-      "departure": "Adama",
-      "destination": "Debre Berhan",
-      "middleWay": "no",
-      "distance": 120,
-      "date": "2020-09-05",
-      "id": 21
-    },
-    {
-      "departure": "Addis Ababa",
-      "destination": "Bonga",
-      "middleWay": "no",
-      "distance": 2300,
-      "date": "2020-09-05",
-      "id": 22
-    },
-    {
-      "departure": " Addis Ababa",
-      "destination": " BahirDar",
-      "middleWay": " Mota",
-      "distance": " 550",
-      "date": "2020-09-05",
-      "id": 23
-    },
-    {
-      "departure": "Addis Ababa",
-      "destination": "Bahir Dar",
-      "middleWay": "mota",
-      "distance": 3400,
-      "date": "2020-08-27",
-      "id": 24
-    },
-    {
-      "departure": " Addis Ababa",
-      "destination": " BahirDar",
-      "middleWay": " Mota",
-      "distance": " 550",
-      "date": "2020-08-29",
-      "id": 25
-    },
-    {
+     {
       "departure": " Addis Ababa",
       "destination": " BahirDar",
       "middleWay": " Mota",
@@ -379,15 +252,7 @@
       "date": "2020-08-31",
       "id": 31
     },
-    {
-      "departure": " Addis Ababa",
-      "destination": " BahirDar",
-      "middleWay": " Mota",
-      "distance": " 550",
-      "date": "2020-09-03",
-      "id": 32
-    },
-    {
+     {
       "departure": " Addis Ababa",
       "destination": " BahirDar",
       "middleWay": " Mota",
@@ -773,22 +638,6 @@
       "departure": "Adama",
       "destination": "Debre Berhan",
       "middleWay": "no",
-      "distance": 54,
-      "date": "2020-08-22",
-      "id": 12
-    },
-    {
-      "departure": " Addis Ababa",
-      "destination": " BahirDar",
-      "middleWay": " Mota",
-      "distance": " 54",
-      "date": "2020-08-16",
-      "id": 13
-    },
-    {
-      "departure": "Adama",
-      "destination": "Debre Berhan",
-      "middleWay": "no",
       "distance": 40,
       "date": "2020-08-13",
       "id": 14
@@ -800,22 +649,6 @@
       "distance": " 50",
       "date": "2020-08-15",
       "id": 15
-    },
-    {
-      "departure": " Addis Ababa",
-      "destination": " BahirDar",
-      "middleWay": " Mota",
-      "distance": " 50",
-      "date": "2020-08-14",
-      "id": 16
-    },
-    {
-      "departure": " Addis Ababa",
-      "destination": " BahirDar",
-      "middleWay": " Mota",
-      "distance": " 50",
-      "date": "2020-08-14",
-      "id": 17
     },
     {
       "departure": " Addis Ababa",
@@ -980,41 +813,6 @@
       "status": "working"
     },
     {
-      "tagNumber": "123456",
-      "sideNumber": "Yegna352",
-      "brand": "Yegna350",
-      "capacity": 54,
-      "owner": "Yegna Bus",
-      "id": 17
-    },
-    {
-      "tagNumber": "12356",
-      "sideNumber": "yegna 240",
-      "brand": "Yegna 350",
-      "capacity": 50,
-      "owner": "Yegna Bus",
-      "status": "working",
-      "id": 18
-    },
-    {
-      "tagNumber": "123456",
-      "sideNumber": "golodon1234",
-      "brand": "Golodon Bus",
-      "capacity": 54,
-      "owner": "Golodon Bus",
-      "status": "working",
-      "id": 19
-    },
-    {
-      "tagNumber": "123456",
-      "sideNumber": "golodon 123456",
-      "brand": "Golodon Bus",
-      "capacity": 54,
-      "owner": "Golodon Bus",
-      "status": "working",
-      "id": 20
-    },
-    {
       "tagNumber": "567890",
       "sideNumber": "golodon 12345",
       "brand": "Golodon Bus",
@@ -1129,135 +927,7 @@
       "brand": "Golodon Bus",
       "id": 9
     },
-    {
-      "tripid": "15",
-      "capacity": 56,
-      "availableSeat": 56,
-      "BusID": "golodon/15/562/3:00",
-      "price": "32",
-      "departurTime": "3:00",
-      "departureStation": "Meskel square",
-      "destinationStation": "Addisu Menehariya",
-      "tripDate": "2020-08-15",
-      "brand": "Golodon Bus",
-      "id": 10
-    },
-    {
-      "tripid": "13",
-      "capacity": 50,
-      "availableSeat": 50,
-      "BusID": "Yegna/13/501/3:00",
-      "price": "550",
-      "departurTime": "3:00",
-      "departureStation": "Meskel square",
-      "destinationStation": "Azwa ",
-      "tripDate": "2020-08-16",
-      "brand": "Yegna Bus",
-      "id": 11
-    },
-    {
-      "tripid": "13",
-      "capacity": 50,
-      "availableSeat": 50,
-      "BusID": "Yegna/13/502/3:00",
-      "price": "550",
-      "departurTime": "3:00",
-      "departureStation": "Meskel square",
-      "destinationStation": "Azwa ",
-      "tripDate": "2020-08-16",
-      "brand": "Yegna Bus",
-      "id": 12
-    },
-    {
-      "tripid": "13",
-      "capacity": 50,
-      "availableSeat": 50,
-      "BusID": "Yegna/13/503/3:00",
-      "price": "550",
-      "departurTime": "3:00",
-      "departureStation": "Meskel square",
-      "destinationStation": "Azwa ",
-      "tripDate": "2020-08-16",
-      "brand": "Yegna Bus",
-      "id": 13
-    },
-    {
-      "tripid": "19",
-      "capacity": 45,
-      "availableSeat": 45,
-      "BusID": "selam/19/451/10;:30",
-      "price": "500",
-      "departurTime": "10;:30",
-      "departureStation": "autoBus",
-      "destinationStation": "adisu menhariya",
-      "tripDate": "2020-08-29",
-      "brand": "Selam Bus",
-      "id": 14
-    },
-    {
-      "tripid": "19",
-      "capacity": 45,
-      "availableSeat": 45,
-      "BusID": " selam/19/452/10;:30",
-      "price": "500",
-      "departurTime": "10;:30",
-      "departureStation": "autoBus",
-      "destinationStation": "adisu menhariya",
-      "tripDate": "2020-08-29",
-      "brand": "Selam Bus",
-      "id": 15
-    }
-  ],
-  "agent": [
-    {
-      "firstName": "Melkamu",
-      "lastName": "Tessema",
-      "userName": "melkamu",
-      "addres": "Addis Ababa",
-      "Dob": "2020-08-06",
-      "phone": "0945272182",
-      "agentEmail": "melkamu@gmail.com",
-      "psw": "1234567u",
-      "balance": 5000,
-      "id": 1
-    },
-    {
-      "firstName": "Carlos",
-      "lastName": "Selamtaw",
-      "userName": "carlos",
-      "addres": "Addis Ababa",
-      "Dob": "2020-08-11",
-      "phone": "0945272182",
-      "agentEmail": "carlose@gmail.com",
-      "psw": "1234567i",
-      "balance": 4500,
-      "id": 2
-    },
-    {
-      "firstName": "melkamu",
-      "lastName": "lastName",
-      "userName": "carlose",
-      "addres": "AddisAbaba",
-      "Dob": "2020-08-06",
-      "phone": "0945272182",
-      "agentEmail": "melkamu@gmail.com",
-      "psw": "123456t",
-      "balance": 12.34,
-      "id": 3
-    },
-    {
-      "firstName": "melkamu",
-      "lastName": "lastName",
-      "userName": "melkam",
-      "addres": "Addis Ababa",
-      "Dob": "2020-08-06",
-      "phone": "0945272182",
-      "agentEmail": "melkamu@gmail.com",
-      "psw": "12345r6",
-      "balance": 6000,
-      "id": 4
-    }
-  ],
+   ],
   "bookedticket": [
     {
       "name": "melkamu tessema",
@@ -1303,155 +973,7 @@
       "confNumber": "conf10000we",
       "status": "Booked",
       "id": 5
-    },
-    {
-      "name": "melkamu",
-      "phone": "0945272182",
-      "tripId": "trip12",
-      "tripDate": "2020-07-30",
-      "confNumber": "conf10000we",
-      "status": "Booked",
-      "id": 6
-    },
-    {
-      "name": "melkamu tesseem",
-      "phone": "0945272189",
-      "tripId": "trip12",
-      "tripDate": "2020-07-30",
-      "confNumber": "conf10000we",
-      "status": "Booked",
-      "id": 7
-    },
-    {
-      "name": "melkamu tesseem",
-      "phone": "0945272189",
-      "tripId": "trip12",
-      "tripDate": "2020-07-30",
-      "confNumber": "conf10000we",
-      "status": "Booked",
-      "id": 8
-    },
-    {
-      "name": "melkamu",
-      "phone": "0945272182",
-      "tripId": "trip12",
-      "tripDate": "2020-07-30",
-      "confNumber": "conf10000we",
-      "status": "Booked",
-      "id": 9
-    },
-    {
-      "name": "melkamu",
-      "phone": "0952721890",
-      "tripId": "trip12",
-      "tripDate": "2020-07-30",
-      "confNumber": "conf10000we",
-      "status": "Booked",
-      "id": 10
-    },
-    {
-      "confNumber": "confo450",
-      "status": "Book",
-      "name": "Melkamu Kebede",
-      "phone": "0945341245",
-      "tripId": "1",
-      "tripDate": "2020-07-30",
-      "id": 24
-    },
-    {
-      "confNumber": "confo550",
-      "status": "Book",
-      "name": "gedefew almu",
-      "phone": "0954323456",
-      "tripId": "13",
-      "tripDate": "2020-08-16",
-      "id": 25
-    },
-    {
-      "confNumber": "confo400",
-      "status": "Book",
-      "name": "Carlos Selamntaw",
-      "phone": "0967894354",
-      "tripId": "14",
-      "tripDate": "2020-08-13",
-      "id": 26
     }
-  ],
-  "ticket": [
-    {
-      "name": "melkamu tessema",
-      "phone": "0945272182",
-      "id": 1
-    },
-    {
-      "name": "melkamu",
-      "phone": "0945272182",
-      "id": 2
-    },
-    {
-      "name": "melkamu",
-      "phone": "0945272182",
-      "id": 3
-    },
-    {
-      "name": "melkamu",
-      "phone": "0945383829",
-      "id": 4
-    },
-    {
-      "name": "melkamu",
-      "phone": "0945272182",
-      "id": 5
-    },
-    {
-      "name": "melkamu",
-      "phone": "0945272182",
-      "id": 6
-    },
-    {
-      "name": "melkamu tesseem",
-      "phone": "0945272189",
-      "id": 7
-    },
-    {
-      "name": "melkamu tesseem",
-      "phone": "0945272189",
-      "id": 8
-    },
-    {
-      "name": "melkamu",
-      "phone": "0945272182",
-      "id": 9
-    },
-    {
-      "name": "melkamu",
-      "phone": "0952721890",
-      "id": 10
-    },
-    {
-      "name": "melkamu",
-      "phone": "0945272124",
-      "id": 11
-    },
-    {
-      "name": "melkamu",
-      "phone": "0945272182",
-      "id": 12
-    },
-    {
-      "name": "melkamu",
-      "phone": "0945272128",
-      "id": 13
-    },
-    {
-      "name": "23",
-      "phone": "0945272192",
-      "id": 14
-    },
-    {
-      "name": "Andualem Getachew",
-      "phone": "0945273232",
-      "id": 15
-    }
-  ]
+     ],
+  
 }
