@@ -33,25 +33,6 @@
       "id": 8
     }
   ],
-  "tripRevenu": [{
-      "id": 1,
-      "departure": "Addis Ababa",
-      "destination": "Bahir Dar",
-      "middleWay": "mota",
-      "distance": "12",
-      "timeTaken": "1",
-      "date": "2020-09-30"
-    },
-
-    {
-      "id": 2,
-      "departure": "Adama",
-      "destination": "Debre Berhan",
-      "middleWay": "no",
-      "distance": 4,
-      "date": "2020-09-30"
-    }
-  ],
   "tripSeat": [{
       "id": 1,
       "departure": "Addis Ababa",
@@ -88,18 +69,7 @@
       "id": 2,
       "status": "working"
     },
-
-    {
-      "tagNumber": "56",
-      "sideNumber": "1234",
-      "brand": "Selam Bus",
-      "capacity": 45,
-      "owner": "Selam Bus",
-      "id": 3,
-      "status": "working"
-    }
-  ],
-  "travel": [{
+"travel": [{
       "tripid": "1",
       "capacity": 50,
       "availableSeat": 50,
