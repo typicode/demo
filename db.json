@@ -92,7 +92,7 @@
   ],
   "trip": [
     {
-      "id": "1",
+      "id": 1,
       "departure": "Addis Ababa",
       "destination": "Bahir Dar",
       "middleWay": "mota",
@@ -101,7 +101,7 @@
       "date": "2020-07-30"
     },
     {
-      "id": 4,
+      "id": 2,
       "departure": "Addis Ababa",
       "destination": "DireDawa",
       "middleWay": "no",
