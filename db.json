@@ -51,7 +51,7 @@
       "id": 2,
       "status": "working"
     },
-          
+
     {
       "tagNumber": "1234b",
       "sideNumber": "Selam-Bus300",
@@ -61,7 +61,7 @@
       "id": 3,
       "status": "working"
     },
-              
+
     {
       "tagNumber": "1234bcd",
       "sideNumber": "Selam-Bus310",
@@ -72,7 +72,7 @@
       "status": "working"
     }
   ],
-  
+
   "bookedticket": [{
       "name": "melkamu tessema",
       "phone": "0945272182",
@@ -91,7 +91,7 @@
       "status": "Booked",
       "id": 2
     },
-     {
+    {
       "name": "meseret alemu",
       "phone": "0945272325",
       "tripId": "trip122",
