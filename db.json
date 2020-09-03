@@ -37,7 +37,7 @@
       "id": 1,
       "tagNumber": "tag123456",
       "sideNumber": "Selam-Bus-123456",
-      "brand": "Selam-Bus",
+      "brand": "Selam Bus",
       "capacity": "54",
       "owner": "Selam Bus",
       "status": "working"
@@ -45,7 +45,7 @@
     {
       "tagNumber": "1234b",
       "sideNumber": "Yegna-Bus300",
-      "brand": "Yegna",
+      "brand": "Yegna Bus",
       "capacity": 54,
       "owner": "Yegna Bus",
       "id": 2,
