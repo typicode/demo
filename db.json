@@ -108,6 +108,33 @@
       "distance": 300,
       "date": "2020-07-30"
     }
-    ]
+    ],
+  "tripRevenu": [
+    {
+      "id": 1,
+      "departure": "Addis Ababa",
+      "destination": "Bahir Dar",
+      "middleWay": "mota",
+      "distance": "12",
+      "timeTaken": "1",
+      "date": "2020-07-30"
+    },
+    {
+      "id": 2,
+      "departure": "Addis Ababa",
+      "destination": "DireDawa",
+      "middleWay": "no",
+      "distance": 8,
+      "date": "2020-07-30"
+    },
+    {
+      "id": 3,
+      "departure": "Adama",
+      "destination": "Debre Berhan",
+      "middleWay": "no",
+      "distance": 4,
+      "date": "2020-07-30"
+    }
+  ]
   
 }
