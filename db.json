@@ -102,6 +102,20 @@
     }
   ],
   "travel": [
+    
+    {
+      "tripid": "1",
+      "capacity": 50,
+      "availableSeat": 50,
+      "BusID": "Yegna/1/502/12:00Pm",
+      "price": "450",
+      "departurTime": "12:00Pm",
+      "departureStation": "AutoBus Tera",
+      "destinationStation": "Addisu Menehariya",
+      "tripDate": "2020-09-09",
+      "brand": "Yegna Bus",
+      "id": 1
+    },
     {
       "tripid": "1",
       "capacity": 50,
@@ -132,12 +146,12 @@
       "tripid": "1",
       "capacity": 50,
       "availableSeat": 50,
-      "BusID": "Selam/1/502/12:00Pm",
+      "BusID": "yegna/1/522/12:00Pm",
       "price": "450",
       "departurTime": "12:00Pm",
       "departureStation": "AutoBus Tera",
       "destinationStation": "Addisu Menehariya",
-      "tripDate": "2020-07-30",
+      "tripDate": "2020-09-30",
       "brand": "Yegna Bus",
       "id": 4
     }
