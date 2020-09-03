@@ -70,6 +70,15 @@
       "owner": "Selam Bus",
       "id": 4,
       "status": "working"
+    },
+    {
+      "tagNumber": "1234bcd",
+      "sideNumber": "Yegna-Bus310",
+      "brand": "Yegna Bus",
+      "capacity": 54,
+      "owner": "Yegna Bus",
+      "id": 5,
+      "status": "working"
     }
   ],
 
