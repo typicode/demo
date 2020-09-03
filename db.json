@@ -1,6 +1,5 @@
 {
-"route": [
-    {
+  "route": [{
       "id": "1",
       "town1": " Addis Ababa",
       "town2": " BahirDar",
@@ -90,162 +89,32 @@
       "id": 12
     }
   ],
-  "trip": [
-    {
+  "trip": [{
       "id": "1",
       "departure": "Addis Ababa",
       "destination": "Bahir Dar",
       "middleWay": "mota",
       "distance": "500",
       "timeTaken": "1",
-      "date": "2020-07-30"
+      "date": "2020-09-30"
     },
     {
       "departure": " Addis Ababa",
       "destination": " BahirDar",
       "middleWay": " Mota",
       "distance": " 550",
-      "date": "2020-08-03",
+      "date": "2020-09-03",
       "id": 8
-    },
-    {
-      "departure": " Addis Ababa",
-      "destination": " BahirDar",
-      "middleWay": " Mota",
-      "distance": " 550",
-      "date": "2020-08-30",
-      "id": 36
-    },
-    {
-      "departure": " Addis Ababa",
-      "destination": " BahirDar",
-      "middleWay": " Mota",
-      "distance": " 550",
-      "date": "2020-08-31",
-      "id": 37
-    },
-    {
-      "departure": " Addis Ababa",
-      "destination": " BahirDar",
-      "middleWay": " Mota",
-      "distance": " 550",
-      "date": "2020-08-30",
-      "id": 38
-    },
-    {
-      "departure": " Addis Ababa",
-      "destination": " BahirDar",
-      "middleWay": " Mota",
-      "distance": " 550",
-      "date": "2020-08-30",
-      "id": 39
-    },
-    {
-      "departure": " Addis Ababa",
-      "destination": " BahirDar",
-      "middleWay": " Mota",
-      "distance": " 550",
-      "date": "2020-08-25",
-      "id": 40
-    },
-    {
-      "departure": " Addis Ababa",
-      "destination": " BahirDar",
-      "middleWay": " Mota",
-      "distance": " 550",
-      "date": "2020-08-25",
-      "id": 41
-    },
-    {
-      "departure": " Addis Ababa",
-      "destination": " BahirDar",
-      "middleWay": " Mota",
-      "distance": " 550",
-      "date": "2020-09-10",
-      "id": 42
-    },
-    {
-      "departure": " Addis Ababa",
-      "destination": " BahirDar",
-      "middleWay": " Mota",
-      "distance": " 550",
-      "date": "2020-09-06",
-      "id": 43
-    },
-    {
-      "departure": "Addis Ababa",
-      "destination": "Gondar",
-      "middleWay": "Bahir Dar",
-      "distance": 990,
-      "date": "2020-08-30",
-      "id": 44
-    },
-    {
-      "departure": "Addis Ababa",
-      "destination": "Gondar",
-      "middleWay": "Bahir Dar",
-      "distance": 990,
-      "date": "2020-08-02",
-      "id": 45
-    },
-    {
-      "departure": " Addis Ababa",
-      "destination": " BahirDar",
-      "middleWay": " Mota",
-      "distance": " 550",
-      "date": "2020-08-30",
-      "id": 46
-    },
-    {
-      "departure": " Addis Ababa",
-      "destination": " BahirDar",
-      "middleWay": " Mota",
-      "distance": " 550",
-      "date": "2020-07-26",
-      "id": 47
-    },
-    {
-      "departure": " Addis Ababa",
-      "destination": " BahirDar",
-      "middleWay": " Mota",
-      "distance": " 550",
-      "date": "2020-08-30",
-      "id": 48
-    },
-    {
-      "departure": " Addis Ababa",
-      "destination": " BahirDar",
-      "middleWay": " Mota",
-      "distance": " 550",
-      "date": "2020-08-30",
-      "id": 49
-    },
-    {
-      "departure": " Addis Ababa",
-      "destination": " BahirDar",
-      "middleWay": " Mota",
-      "distance": " 550",
-      "date": "2020-08-30",
-      "id": 50
-    },
-    {
-      "departure": " Addis Ababa",
-      "destination": " BahirDar",
-      "middleWay": " Mota",
-      "distance": " 550",
-      "date": "2020-09-04",
-      "id": 51
     }
   ],
-  "tripRevenu": [
-    {
+  "tripRevenu": [{
       "id": "1",
       "departure": "Addis Ababa",
       "destination": "Bahir Dar",
       "middleWay": "mota",
       "distance": "12",
       "timeTaken": "1",
-      "date": "2020-07-30"
+      "date": "2020-09-30"
     },
     {
       "id": 4,
@@ -253,7 +122,7 @@
       "destination": "DireDawa",
       "middleWay": "no",
       "distance": 8,
-      "date": "2020-07-30"
+      "date": "2020-09-30"
     },
     {
       "id": 2,
@@ -261,91 +130,10 @@
       "destination": "Debre Berhan",
       "middleWay": "no",
       "distance": 4,
-      "date": "2020-07-30"
-    },
-     {
-      "departure": "Addis Ababa",
-      "destination": "Bonga",
-      "middleWay": "no",
-      "distance": 3,
-      "date": "2020-08-15",
-      "id": 10
-    },
-    {
-      "departure": "Addis Ababa",
-      "destination": "Debre Markos",
-      "middleWay": "no",
-      "distance": 5,
-      "date": "2020-08-15",
-      "id": 11
-    },
-    {
-      "departure": "Adama",
-      "destination": "Debre Berhan",
-      "middleWay": "no",
-      "distance": 4,
-      "date": "2020-08-22",
-      "id": 12
-    },
-    {
-      "departure": " Addis Ababa",
-      "destination": " Mizan Tipi",
-      "middleWay": " ",
-      "distance": " 4",
-      "date": "2020-08-16",
-      "id": 13
-    },
-    {
-      "departure": "Hawasa",
-      "destination": "Addis Ababa",
-      "middleWay": "no",
-      "distance": 4,
-      "date": "2020-08-13",
-      "id": 14
-    },
-    {
-      "departure": " Addis Ababa",
-      "destination": "Gondar",
-      "middleWay": " BahirDar",
-      "distance": "6",
-      "date": "2020-08-15",
-      "id": 15
-    },
-    {
-      "departure": " Addis Ababa",
-      "destination": "Shashemene",
-      "middleWay": "no",
-      "distance": "3",
-      "date": "2020-08-14",
-      "id": 16
-    },
-    {
-      "departure": " Addis Ababa",
-      "destination": "Asossa",
-      "middleWay": "no",
-      "distance": " 5",
-      "date": "2020-08-14",
-      "id": 17
-    },
-    {
-      "departure": " Addis Ababa",
-      "destination": "Jigjiga",
-      "middleWay": "no",
-      "distance": " 4",
-      "date": "2020-08-22",
-      "id": 18
-    },
-    {
-      "departure": " Addis Ababa",
-      "destination": "Semera",
-      "middleWay": "no",
-      "distance": " 3",
-      "date": "2020-08-29",
-      "id": 19
+      "date": "2020-09-30"
     }
   ],
-  "tripSeat": [
-    {
+  "tripSeat": [{
       "id": "1",
       "departure": "Addis Ababa",
       "destination": "Bahir Dar",
@@ -363,8 +151,7 @@
       "date": "2020-07-30"
     }
   ],
-  "Bus": [
-    {
+  "Bus": [{
       "id": "1",
       "tagNumber": "tag123456",
       "sideNumber": "Golodon-Bus-123456",
@@ -400,7 +187,7 @@
       "id": 6,
       "status": "working"
     },
-    
+
     {
       "tagNumber": "56",
       "sideNumber": "1234",
@@ -428,7 +215,7 @@
       "id": 13,
       "status": "working"
     },
-    
+
     {
       "tagNumber": "123456",
       "sideNumber": "Yegna352",
@@ -448,8 +235,7 @@
       "id": 19
     }
   ],
-  "travel": [
-    {
+  "travel": [{
       "tripid": "1",
       "capacity": 50,
       "availableSeat": 50,
@@ -476,9 +262,8 @@
       "id": 3
     }
   ],
-  
-  "bookedticket": [
-    {
+
+  "bookedticket": [{
       "name": "melkamu tessema",
       "phone": "0945272182",
       "tripId": "trip12",
@@ -495,6 +280,6 @@
       "confNumber": "conf10000we",
       "status": "Booked",
       "id": 2
-    }  
-  ] 
+    }
+  ]
 }
