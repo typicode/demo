@@ -89,6 +89,25 @@
       "distance": 550,
       "id": 12
     }
-  ]
+  ],
+  "trip": [
+    {
+      "id": "1",
+      "departure": "Addis Ababa",
+      "destination": "Bahir Dar",
+      "middleWay": "mota",
+      "distance": "500",
+      "timeTaken": "1",
+      "date": "2020-07-30"
+    },
+    {
+      "id": 4,
+      "departure": "Addis Ababa",
+      "destination": "DireDawa",
+      "middleWay": "no",
+      "distance": 300,
+      "date": "2020-07-30"
+    },
+    ]
   
 }
