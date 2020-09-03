@@ -8,45 +8,12 @@
       "timeTaken": "6:00"
     },
     {
-      "id": 2,
-      "town1": "Adama",
-      "town2": "Debre Berhan",
-      "middleWay": "no",
-      "distance": 120,
-      "timeTaken": "2:00"
-    },
-    {
-      "id": 3,
       "town1": "Addis Ababa",
-      "town2": "Gondar",
-      "middleWay": "Bahir Dar",
-      "distance": 990,
-      "timeTaken": "18:00"
-    },
-    {
-      "id": 4,
-      "town1": "Addis Ababa",
-      "town2": "DireDawa",
-      "middleWay": "no",
-      "distance": 300,
-      "timeTaken": "3:00"
-    },
-    {
-      "id": 5,
-      "town1": "Addis Ababa",
-      "town2": "Mekele",
-      "middleWay": "woldiya",
-      "distance": 999,
-      "timeTaken": "13:00"
-    },
-    {
-      "id": 6,
-      "town1": "Addis Ababa",
-      "town2": "Jimma",
-      "middleWay": "no",
-      "distance": 700
+      "town2": "Bahir Dar",
+      "middleWay": "Debre Markos",
+      "distance": 550,
+      "id": 12
     }
-   
   ],
   "trip": [{
       "id": "1",
@@ -67,7 +34,7 @@
     }
   ],
   "tripRevenu": [{
-      "id": "1",
+      "id": 1,
       "departure": "Addis Ababa",
       "destination": "Bahir Dar",
       "middleWay": "mota",
@@ -75,14 +42,7 @@
       "timeTaken": "1",
       "date": "2020-09-30"
     },
-    {
-      "id": 4,
-      "departure": "Addis Ababa",
-      "destination": "DireDawa",
-      "middleWay": "no",
-      "distance": 8,
-      "date": "2020-09-30"
-    },
+
     {
       "id": 2,
       "departure": "Adama",
@@ -93,7 +53,7 @@
     }
   ],
   "tripSeat": [{
-      "id": "1",
+      "id": 1,
       "departure": "Addis Ababa",
       "destination": "Bahir Dar",
       "middleWay": "mota",
@@ -102,7 +62,7 @@
       "date": "2020-07-30"
     },
     {
-      "id": 4,
+      "id": 2,
       "departure": "Addis Ababa",
       "destination": "DireDawa",
       "middleWay": "no",
@@ -111,29 +71,11 @@
     }
   ],
   "Bus": [{
-      "id": "1",
+      "id": 1,
       "tagNumber": "tag123456",
       "sideNumber": "Golodon-Bus-123456",
       "brand": "Golodon-Bus",
       "capacity": "54",
-      "owner": "Golodon Bus",
-      "status": "working"
-    },
-    {
-      "id": 2,
-      "tagNumber": "1234oda",
-      "sideNumber": "123456",
-      "brand": "Golodon Bus",
-      "capacity": 54,
-      "owner": "Golodon Bus",
-      "status": "working"
-    },
-    {
-      "id": 5,
-      "tagNumber": "tg1237",
-      "sideNumber": "Golodon-Bus-side1237",
-      "brand": "Golodon-Bus",
-      "capacity": 54,
       "owner": "Golodon Bus",
       "status": "working"
     },
@@ -143,7 +85,7 @@
       "brand": "Yegna",
       "capacity": 54,
       "owner": "Yegna Bus",
-      "id": 6,
+      "id": 2,
       "status": "working"
     },
 
@@ -153,45 +95,8 @@
       "brand": "Selam Bus",
       "capacity": 45,
       "owner": "Selam Bus",
-      "id": 11,
+      "id": 3,
       "status": "working"
-    },
-    {
-      "tagNumber": "123456",
-      "sideNumber": "21ygna",
-      "brand": "Selam Bus",
-      "capacity": 54,
-      "owner": "Selam Bus",
-      "id": 12,
-      "status": "working"
-    },
-    {
-      "tagNumber": "123456",
-      "sideNumber": "1234oda",
-      "brand": "Selam Bus",
-      "capacity": 54,
-      "owner": "Selam Bus",
-      "id": 13,
-      "status": "working"
-    },
-
-    {
-      "tagNumber": "123456",
-      "sideNumber": "Yegna352",
-      "brand": "Yegna350",
-      "capacity": 54,
-      "owner": "Yegna Bus",
-      "id": 17
-    },
-
-    {
-      "tagNumber": "123456",
-      "sideNumber": "golodon1234",
-      "brand": "Golodon Bus",
-      "capacity": 54,
-      "owner": "Golodon Bus",
-      "status": "working",
-      "id": 19
     }
   ],
   "travel": [{
