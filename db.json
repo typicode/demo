@@ -45,49 +45,8 @@
       "town2": "Jimma",
       "middleWay": "no",
       "distance": 700
-    },
-    {
-      "id": 7,
-      "town1": "Addis Ababa",
-      "town2": "Hawasa",
-      "middleWay": "no",
-      "distance": 350
-    },
-    {
-      "town1": "Addis Ababa",
-      "town2": "Aksum",
-      "middleWay": "Woldiya",
-      "distance": 1020,
-      "id": 8
-    },
-    {
-      "town1": "Addis Ababa",
-      "town2": "Bonga",
-      "middleWay": "no",
-      "distance": 2300,
-      "id": 9
-    },
-    {
-      "town1": "Addis Ababa",
-      "town2": "Bahir Dar",
-      "middleWay": "mota",
-      "distance": 3400,
-      "id": 10
-    },
-    {
-      "town1": "Addis Ababa",
-      "town2": "Debre Markos",
-      "middleWay": "no",
-      "distance": 340,
-      "id": 11
-    },
-    {
-      "town1": "Addis Ababa",
-      "town2": "Bahir Dar",
-      "middleWay": "Debre Markos",
-      "distance": 550,
-      "id": 12
     }
+   
   ],
   "trip": [{
       "id": "1",
