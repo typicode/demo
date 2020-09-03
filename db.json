@@ -68,7 +68,7 @@
       "owner": "Yegna Bus",
       "id": 2,
       "status": "working"
-    },
+    }],
 "travel": [{
       "tripid": "1",
       "capacity": 50,
