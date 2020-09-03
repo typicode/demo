@@ -55,10 +55,20 @@
     {
       "tagNumber": "1234b",
       "sideNumber": "Selam-Bus300",
-      "brand": "Yegna",
+      "brand": "Selam Bus",
       "capacity": 54,
       "owner": "Selam Bus",
       "id": 3,
+      "status": "working"
+    }
+              
+    {
+      "tagNumber": "1234bcd",
+      "sideNumber": "Selam-Bus310",
+      "brand": "Selam Bus",
+      "capacity": 54,
+      "owner": "Selam Bus",
+      "id": 4,
       "status": "working"
     }
   ],
@@ -80,6 +90,15 @@
       "confNumber": "conf10000we",
       "status": "Booked",
       "id": 2
+    },
+     {
+      "name": "meseret alemu",
+      "phone": "0945272325",
+      "tripId": "trip122",
+      "tripDate": "2020-07-30",
+      "confNumber": "conf10000we",
+      "status": "Booked",
+      "id": 3
     }
   ]
 }
