@@ -100,5 +100,32 @@
       "status": "Booked",
       "id": 3
     }
-  ]
+  ],
+  "travel": [
+    {
+      "tripid": "1",
+      "capacity": 50,
+      "availableSeat": 50,
+      "BusID": "Selam/1/503/12:00Pm",
+      "price": "450",
+      "departurTime": "12:00Pm",
+      "departureStation": "AutoBus Tera",
+      "destinationStation": "Addisu Menehariya",
+      "tripDate": "2020-07-30",
+      "brand": "Selam Bus",
+      "id": 2
+    },
+    {
+      "tripid": "1",
+      "capacity": 50,
+      "availableSeat": 50,
+      "BusID": "Selam/1/502/12:00Pm",
+      "price": "450",
+      "departurTime": "12:00Pm",
+      "departureStation": "AutoBus Tera",
+      "destinationStation": "Addisu Menehariya",
+      "tripDate": "2020-07-30",
+      "brand": "Selam Bus",
+      "id": 3
+    }]
 }
