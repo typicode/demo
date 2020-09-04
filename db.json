@@ -1,6 +1,6 @@
 {
   "route": [{
-      "id": "1",
+      "id": 1,
       "town1": " Addis Ababa",
       "town2": " BahirDar",
       "middleWay": " Mota",
@@ -9,28 +9,30 @@
     },
     {
       "town1": "Addis Ababa",
-      "town2": "Bahir Dar",
-      "middleWay": "Debre Markos",
-      "distance": 550,
-      "id": 12
+      "town2": "Mekele",
+      "middleWay": "Weldiya",
+      "distance":990,
+      "id": 2
     }
   ],
   "trip": [{
-      "id": "1",
+      "id": 1,
       "departure": "Addis Ababa",
       "destination": "Bahir Dar",
       "middleWay": "mota",
       "distance": "500",
-      "timeTaken": "1",
+      "timeTaken": "10:00",
       "date": "2020-09-30"
     },
     {
-      "departure": " Addis Ababa",
-      "destination": " BahirDar",
-      "middleWay": " Mota",
-      "distance": " 550",
+      "departure": "Addis Ababa",
+      "destination":"Mekele",
+      "middleWay": "Weldiya",
+      "distance": "990",
       "date": "2020-09-03",
-      "id": 8
+      "distance": "990",
+      "timeTaken": "12:50",
+      "id": 2
     }
   ],
   "Bus": [{
@@ -96,7 +98,7 @@
   "bookedticket": [{
       "name": "melkamu tessema",
       "phone": "0945272182",
-      "tripId": "trip12",
+      "tripId": "1",
       "tripDate": "2020-07-30",
       "status": "Booked",
       "confNumber": "conf10000we",
@@ -105,7 +107,7 @@
     {
       "name": "melkamu",
       "phone": "0945272182",
-      "tripId": "trip12",
+      "tripId": "2",
       "tripDate": "2020-07-30",
       "confNumber": "conf10000we",
       "status": "Booked",
@@ -114,7 +116,7 @@
     {
       "name": "meseret alemu",
       "phone": "0945272325",
-      "tripId": "trip122",
+      "tripId": "1",
       "tripDate": "2020-07-30",
       "confNumber": "conf10000we",
       "status": "Booked",
@@ -124,7 +126,7 @@
   "travel": [
     
     {
-      "tripid": "1",
+      "tripid": 1,
       "capacity": 50,
       "availableSeat": 50,
       "BusID": "Yegna/1/502/12:00Pm",
@@ -137,7 +139,7 @@
       "id": 1
     },
     {
-      "tripid": "1",
+      "tripid": 1,
       "capacity": 50,
       "availableSeat": 50,
       "BusID": "Selam/1/503/12:00Pm",
@@ -150,24 +152,24 @@
       "id": 2
     },
     {
-      "tripid": "1",
-      "capacity": 50,
+      "tripid": 2,
+      "capacity": 48,
       "availableSeat": 50,
       "BusID": "Selam/1/502/12:00Pm",
-      "price": "450",
+      "price": "750",
       "departurTime": "12:00Pm",
       "departureStation": "AutoBus Tera",
       "destinationStation": "Addisu Menehariya",
-      "tripDate": "2020-07-30",
+      "tripDate": "2020-09-30",
       "brand": "Selam Bus",
       "id": 3
     },
     {
-      "tripid": "1",
+      "tripid": 2,
       "capacity": 50,
-      "availableSeat": 50,
+      "availableSeat": 45,
       "BusID": "yegna/1/522/12:00Pm",
-      "price": "450",
+      "price": "750",
       "departurTime": "12:00Pm",
       "departureStation": "AutoBus Tera",
       "destinationStation": "Addisu Menehariya",
