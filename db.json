@@ -100,6 +100,7 @@
       "phone": "0945272182",
       "tripId": "1",
       "tripDate": "2020-07-30",
+      "seatNo": "46",  
       "status": "Booked",
       "confNumber": "conf10000we",
       "id": 1
@@ -109,6 +110,7 @@
       "phone": "0945272182",
       "tripId": "2",
       "tripDate": "2020-07-30",
+      "seatNo": "45",
       "confNumber": "conf10000we",
       "status": "Booked",
       "id": 2
@@ -120,6 +122,7 @@
       "tripDate": "2020-07-30",
       "confNumber": "conf10000we",
       "status": "Booked",
+      "seatNo": "44",
       "id": 3
     }
   ],
