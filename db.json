@@ -1,4 +1,9 @@
 {
+  "students": [
+    { "id": 1, "name": "anas" },
+    { "id": 2, "name": "yahia" },
+    { "id": 3, "name": "gehad" }
+  ],
   "posts": [
     { "id": 1, "title": "Post 1" },
     { "id": 2, "title": "Post 2" },
