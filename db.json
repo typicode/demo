@@ -1,4 +1,5 @@
-{
+posts: [
+    {
     _id: "5dc1c465c892a37b9e81631a",
     address: "SQUARE - Ravenstein 2 (2 Ravenstein, 1000 BRUSSELS) - Entrance n°4",
     endDate: "2019-11-08",
@@ -147,6 +148,7 @@
     sessions: [{
             _id: "5dc1c78fc892a37b9e816329",
             subItems: [],
+            onDemand: true,
             offerings: [{
                     _id: "5dc1c78fc892a37b9e81632a",
                     date: "2019-11-07T20:00:00.000Z",
@@ -431,3 +433,11 @@
     startDate: "2019-11-07",
     title: "GIS in the European Union Summit | Detailed"
 }
+],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
