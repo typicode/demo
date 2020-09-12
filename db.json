@@ -1,3 +1,4 @@
+{
 "posts": [
     {
     _id: "5dc1c465c892a37b9e81631a",
@@ -441,3 +442,4 @@
   "profile": {
     "name": "typicode"
   }
+}
