@@ -67,83 +67,6 @@
             title: "Esri España",
             description: "Andres Muñoz is a solution engineer and an experienced geographic information systems specialist.",
             _id: "5dc1c570c892a37b9e81631c"
-        },
-        {
-            name: "Enrico Bonino",
-            title: "Esri BeLux",
-            description: "Enrico Bonino is a GIS engineer at Esri BeLux, where he trains and supports European Union institutions, Belgian public administrations, and private companies for a better knowledge of GIS and imagery.",
-            websiteURL: "https://www.esri.com/en-us/about/events/gis-euro-union/agenda/enrico-bonino",
-            websiteLabel: "Learn more about Enrico",
-            _id: "5dc1c59dc892a37b9e81631d"
-        },
-        {
-            name: "Hugo De Groof",
-            title: "DG Environment",
-            description: "Hugo De Groof is a European Commission policy officer in the Directorate-General for Environment of Belgian nationality.",
-            websiteURL: "https://www.esri.com/en-us/about/events/gis-euro-union/agenda/hugo-de-groof",
-            websiteLabel: "Learn more about Hugo",
-            _id: "5dc1c5c5c892a37b9e81631e"
-        },
-        {
-            name: "Catarina Clemente",
-            title: "FRONTEX",
-            description: "Catarina Clemente is a senior GIS expert at FRONTEX.",
-            _id: "5dc1c5e2c892a37b9e81631f"
-        },
-        {
-            name: "Pierre-Philippe Mathieu",
-            title: "ESA/ESRIN",
-            description: "Pierre-Philippe Mathieu is the head of the Φ-lab (Phi-lab) Explore Office at the ESA Centre for Earth Observation, also known as the European Space Research Institute (ESRIN).",
-            _id: "5dc1c600c892a37b9e816320"
-        },
-        {
-            name: "Chris Steenmans",
-            title: "European Environment Agency",
-            description: "Chris Steenmans is the head of program at the European Environment Agency (EEA). He is responsible for the programming and strategic development of the EEA ICT, data and information services.",
-            websiteURL: "https://www.esri.com/en-us/about/events/gis-euro-union/agenda/chris-steenmans",
-            websiteLabel: "Learn more about Chris",
-            _id: "5dc1c65fc892a37b9e816321"
-        },
-        {
-            name: "Stephen Peedell",
-            title: "European Commission JRC",
-            description: "Stephen Peedell is a senior scientific officer at the European Commission Joint Research Centre (JRC) and an expert in geospatial information technology.",
-            websiteURL: "https://www.esri.com/en-us/about/events/gis-euro-union/agenda/stephen-peedell",
-            websiteLabel: "Learn more about Stephen",
-            _id: "5dc1c68cc892a37b9e816322"
-        },
-        {
-            name: "Claudia Mureșan",
-            title: "European Commission",
-            description: "Claudia Mureșan is a policy officer in the space data unit of the Directorate-General for Internal Market, Industry, Entrepreneurship, and SMEs (DG GROW), European Commission, Brussels.",
-            websiteURL: "https://www.esri.com/en-us/about/events/gis-euro-union/agenda/claudia-muresan",
-            websiteLabel: "Learn more about Claudia",
-            _id: "5dc1c6bac892a37b9e816323"
-        },
-        {
-            name: "Colin Bray",
-            title: "EuroGeographics",
-            description: "Colin Bray is the president of EuroGeographics (the association of heads of European National Mapping, Cadastral, and Land Registration Authorities) and the CEO and chief survey officer of Ordnance Survey Ireland (OSi), the Irish national mapping agency.",
-            websiteURL: "https://www.esri.com/en-us/about/events/gis-euro-union/agenda/colin-bray",
-            websiteLabel: "Learn more about Colin",
-            _id: "5dc1c6e4c892a37b9e816324"
-        },
-        {
-            name: "Massimiliano Mazzer",
-            title: "Esri",
-            description: "Massimiliano Mazzer is a business development manager for the European Union and Commission at Esri.",
-            _id: "5dc1c6ffc892a37b9e816325"
-        },
-        {
-            name: "Aart van Wingerden",
-            title: "General Manager, Esri EU",
-            _id: "5dc1c925c892a37b9e81632f"
-        },
-        {
-            name: "James Higgins",
-            title: "International Business Development",
-            description: "James Higgins is an information technology professional with experience designing and implementing geographic information systems. For the last 20 years he has worked at Esri and now serves as the director of international business development. An expert in relating geospatial concepts and technology with business processes, Higgins is frequently called to serve as a guest lecturer and keynote speaker at utilities, industry associations, and international conferences.",
-            _id: "5dc1c94ac892a37b9e816330"
         }
     ],
     sessions: [{
@@ -212,52 +135,7 @@
         },
         {
             _id: "5dc1c9d3c892a37b9e816331",
-            subItems: [{
-                    _id: "5dc1cb44c892a37b9e816338",
-                    title: "Intro",
-                    duration: "15"
-                },
-                {
-                    _id: "5dc1cb4ec892a37b9e816339",
-                    title: "Vision",
-                    description: "Copernicus",
-                    duration: "25"
-                },
-                {
-                    _id: "5dc1cb56c892a37b9e81633a",
-                    title: "ArcGIS",
-                    duration: "25"
-                },
-                {
-                    _id: "5dc1cb65c892a37b9e81633b",
-                    title: "ArcGIS Capabilities",
-                    description: "Data Collection, A.I., Dashboards",
-                    duration: "25"
-                },
-                {
-                    _id: "5dc1cb88c892a37b9e81633c",
-                    title: "Break",
-                    description: "Hall 410 + Corridor | Level 4",
-                    duration: "30"
-                },
-                {
-                    _id: "5dc1cba1c892a37b9e81633d",
-                    title: "ArcGIS Capabilities",
-                    description: "Imagery",
-                    duration: "25"
-                },
-                {
-                    _id: "5dc1cba8c892a37b9e81633e",
-                    title: "Esri Geo-Enabled Systems",
-                    duration: "25",
-                    description: "Environment, Insights, Hub"
-                },
-                {
-                    _id: "5dc1cdd7c892a37b9e816340",
-                    title: "Plenary Close",
-                    duration: "25"
-                }
-            ],
+            subItems: [],
             offerings: [{
                 _id: "5dc1c9d3c892a37b9e816332",
                 date: "2019-11-07T20:00:00.000Z",
@@ -294,33 +172,7 @@
         },
         {
             _id: "5dc1d011c892a37b9e816341",
-            subItems: [{
-                    _id: "5dc1d096c892a37b9e816343",
-                    title: "Intro",
-                    duration: "10",
-                    description: "with moderator Joeri Robbrecht - European Commission"
-                },
-                {
-                    _id: "5dc1d0d4c892a37b9e816344",
-                    title: "The power of Informed decisions",
-                    presenters: [{
-                        name: "Catarina Clemente",
-                        title: "FRONTEX",
-                        description: "Catarina Clemente is a senior GIS expert at FRONTEX.",
-                        _id: "5dc1c5e2c892a37b9e81631f"
-                    }],
-                    duration: "25"
-                },
-                {
-                    _id: "5dc1d145c892a37b9e816345",
-                    title: "ESA Φ-lab (Phi-lab)",
-                    duration: "25",
-                    presenters: [{
-                        name: "Pierre-Philippe Mathieu",
-                        title: "ESA/ESRIN",
-                        description: "Pierre-Philippe Mathieu is the head of the Φ-lab (Phi-lab) Explore Office at the ESA Centre for Earth Observation, also known as the European Space Research Institute (ESRIN).",
-                        _id: "5dc1c600c892a37b9e816320"
-                    }]
+            subItems: []
                 },
                 {
                     _id: "5dc1d189c892a37b9e816346",
