@@ -1,14 +1,433 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+    _id: "5dc1c465c892a37b9e81631a",
+    address: "SQUARE - Ravenstein 2 (2 Ravenstein, 1000 BRUSSELS) - Entrance n°4",
+    endDate: "2019-11-08",
+    eventGroup: {
+        _id: "5d8161287c7e3b28212474e0",
+        name: "Redlands-USA",
+        common: [
+            "AEM_Access",
+            "Digital_Strategy",
+            "iam_aem_sites_author"
+        ]
+    },
+    highlightDay: null,
+    locations: [{
+            title: "SAS of the Ravenstein 2 Entrance",
+            _id: "5dc1c72bc892a37b9e816327",
+            eventGroup: {
+                _id: "5d8161287c7e3b28212474e0",
+                name: "Redlands-USA",
+                common: [
+                    "AEM_Access",
+                    "Digital_Strategy",
+                    "iam_aem_sites_author"
+                ]
+            }
+        },
+        {
+            title: "Hall 400 | Level 4",
+            _id: "5dc1c898c892a37b9e81632b",
+            eventGroup: {
+                _id: "5d8161287c7e3b28212474e0",
+                name: "Redlands-USA",
+                common: [
+                    "AEM_Access",
+                    "Digital_Strategy",
+                    "iam_aem_sites_author"
+                ]
+            }
+        },
+        {
+            title: "Hall 410 + Corridor | Level 4",
+            _id: "5dc1c8acc892a37b9e81632c",
+            eventGroup: {
+                _id: "5d8161287c7e3b28212474e0",
+                name: "Redlands-USA",
+                common: [
+                    "AEM_Access",
+                    "Digital_Strategy",
+                    "iam_aem_sites_author"
+                ]
+            }
+        }
+    ],
+    presenters: [{
+            name: "Guenter Doerffel",
+            title: "Esri Global",
+            description: "Guenter Doerffel's focus is on ArcGIS as an imagery platform, including management of imagery big data, cloud scenarios, and distributed analytics.",
+            websiteURL: "https://www.esri.com/en-us/about/events/gis-euro-union/agenda/guenter-doerffel",
+            websiteLabel: "Read more about Guenter",
+            _id: "5dc1c4e3c892a37b9e81631b"
+        },
+        {
+            name: "Andres Muñoz",
+            title: "Esri España",
+            description: "Andres Muñoz is a solution engineer and an experienced geographic information systems specialist.",
+            _id: "5dc1c570c892a37b9e81631c"
+        },
+        {
+            name: "Enrico Bonino",
+            title: "Esri BeLux",
+            description: "Enrico Bonino is a GIS engineer at Esri BeLux, where he trains and supports European Union institutions, Belgian public administrations, and private companies for a better knowledge of GIS and imagery.",
+            websiteURL: "https://www.esri.com/en-us/about/events/gis-euro-union/agenda/enrico-bonino",
+            websiteLabel: "Learn more about Enrico",
+            _id: "5dc1c59dc892a37b9e81631d"
+        },
+        {
+            name: "Hugo De Groof",
+            title: "DG Environment",
+            description: "Hugo De Groof is a European Commission policy officer in the Directorate-General for Environment of Belgian nationality.",
+            websiteURL: "https://www.esri.com/en-us/about/events/gis-euro-union/agenda/hugo-de-groof",
+            websiteLabel: "Learn more about Hugo",
+            _id: "5dc1c5c5c892a37b9e81631e"
+        },
+        {
+            name: "Catarina Clemente",
+            title: "FRONTEX",
+            description: "Catarina Clemente is a senior GIS expert at FRONTEX.",
+            _id: "5dc1c5e2c892a37b9e81631f"
+        },
+        {
+            name: "Pierre-Philippe Mathieu",
+            title: "ESA/ESRIN",
+            description: "Pierre-Philippe Mathieu is the head of the Φ-lab (Phi-lab) Explore Office at the ESA Centre for Earth Observation, also known as the European Space Research Institute (ESRIN).",
+            _id: "5dc1c600c892a37b9e816320"
+        },
+        {
+            name: "Chris Steenmans",
+            title: "European Environment Agency",
+            description: "Chris Steenmans is the head of program at the European Environment Agency (EEA). He is responsible for the programming and strategic development of the EEA ICT, data and information services.",
+            websiteURL: "https://www.esri.com/en-us/about/events/gis-euro-union/agenda/chris-steenmans",
+            websiteLabel: "Learn more about Chris",
+            _id: "5dc1c65fc892a37b9e816321"
+        },
+        {
+            name: "Stephen Peedell",
+            title: "European Commission JRC",
+            description: "Stephen Peedell is a senior scientific officer at the European Commission Joint Research Centre (JRC) and an expert in geospatial information technology.",
+            websiteURL: "https://www.esri.com/en-us/about/events/gis-euro-union/agenda/stephen-peedell",
+            websiteLabel: "Learn more about Stephen",
+            _id: "5dc1c68cc892a37b9e816322"
+        },
+        {
+            name: "Claudia Mureșan",
+            title: "European Commission",
+            description: "Claudia Mureșan is a policy officer in the space data unit of the Directorate-General for Internal Market, Industry, Entrepreneurship, and SMEs (DG GROW), European Commission, Brussels.",
+            websiteURL: "https://www.esri.com/en-us/about/events/gis-euro-union/agenda/claudia-muresan",
+            websiteLabel: "Learn more about Claudia",
+            _id: "5dc1c6bac892a37b9e816323"
+        },
+        {
+            name: "Colin Bray",
+            title: "EuroGeographics",
+            description: "Colin Bray is the president of EuroGeographics (the association of heads of European National Mapping, Cadastral, and Land Registration Authorities) and the CEO and chief survey officer of Ordnance Survey Ireland (OSi), the Irish national mapping agency.",
+            websiteURL: "https://www.esri.com/en-us/about/events/gis-euro-union/agenda/colin-bray",
+            websiteLabel: "Learn more about Colin",
+            _id: "5dc1c6e4c892a37b9e816324"
+        },
+        {
+            name: "Massimiliano Mazzer",
+            title: "Esri",
+            description: "Massimiliano Mazzer is a business development manager for the European Union and Commission at Esri.",
+            _id: "5dc1c6ffc892a37b9e816325"
+        },
+        {
+            name: "Aart van Wingerden",
+            title: "General Manager, Esri EU",
+            _id: "5dc1c925c892a37b9e81632f"
+        },
+        {
+            name: "James Higgins",
+            title: "International Business Development",
+            description: "James Higgins is an information technology professional with experience designing and implementing geographic information systems. For the last 20 years he has worked at Esri and now serves as the director of international business development. An expert in relating geospatial concepts and technology with business processes, Higgins is frequently called to serve as a guest lecturer and keynote speaker at utilities, industry associations, and international conferences.",
+            _id: "5dc1c94ac892a37b9e816330"
+        }
+    ],
+    sessions: [{
+            _id: "5dc1c78fc892a37b9e816329",
+            subItems: [],
+            offerings: [{
+                    _id: "5dc1c78fc892a37b9e81632a",
+                    date: "2019-11-07T20:00:00.000Z",
+                    startTime: "",
+                    endTime: "",
+                    location: "SAS of the Ravenstein 2 Entrance"
+                },
+                {
+                    _id: "5f0507b5fd4104616d12df95",
+                    date: "2019-11-07T20:00:00.000Z",
+                    presenters: [{
+                        name: "Catarina Clemente",
+                        title: "FRONTEX",
+                        description: "Catarina Clemente is a senior GIS expert at FRONTEX.",
+                        _id: "5dc1c5e2c892a37b9e81631f"
+                    }],
+                    startTime: "09:30",
+                    endTime: "10:00",
+                    location: "Hall 410 + Corridor | Level 4"
+                }
+            ],
+            title: "Registration",
+            level: "All users",
+            eventType: [
+                "Conference Activity"
+            ]
+        },
+        {
+            _id: "5dc1c909c892a37b9e81632d",
+            subItems: [],
+            offerings: [{
+                    _id: "5dc1c909c892a37b9e81632e",
+                    date: "2019-11-07T20:00:00.000Z",
+                    startTime: "09:00",
+                    endTime: "09:15",
+                    location: "Hall 400 | Level 4",
+                    presenters: [{
+                        name: "Aart van Wingerden",
+                        title: "General Manager, Esri EU",
+                        _id: "5dc1c925c892a37b9e81632f"
+                    }]
+                },
+                {
+                    _id: "5f05077bfd4104616d12df94",
+                    date: "2019-11-07T20:00:00.000Z",
+                    presenters: [{
+                        name: "Aart van Wingerden",
+                        title: "General Manager, Esri EU",
+                        _id: "5dc1c925c892a37b9e81632f"
+                    }],
+                    startTime: "09:30",
+                    endTime: "10:00",
+                    location: "SAS of the Ravenstein 2 Entrance"
+                }
+            ],
+            title: "Welcome",
+            eventType: [
+                "Conference Activity"
+            ]
+        },
+        {
+            _id: "5dc1c9d3c892a37b9e816331",
+            subItems: [{
+                    _id: "5dc1cb44c892a37b9e816338",
+                    title: "Intro",
+                    duration: "15"
+                },
+                {
+                    _id: "5dc1cb4ec892a37b9e816339",
+                    title: "Vision",
+                    description: "Copernicus",
+                    duration: "25"
+                },
+                {
+                    _id: "5dc1cb56c892a37b9e81633a",
+                    title: "ArcGIS",
+                    duration: "25"
+                },
+                {
+                    _id: "5dc1cb65c892a37b9e81633b",
+                    title: "ArcGIS Capabilities",
+                    description: "Data Collection, A.I., Dashboards",
+                    duration: "25"
+                },
+                {
+                    _id: "5dc1cb88c892a37b9e81633c",
+                    title: "Break",
+                    description: "Hall 410 + Corridor | Level 4",
+                    duration: "30"
+                },
+                {
+                    _id: "5dc1cba1c892a37b9e81633d",
+                    title: "ArcGIS Capabilities",
+                    description: "Imagery",
+                    duration: "25"
+                },
+                {
+                    _id: "5dc1cba8c892a37b9e81633e",
+                    title: "Esri Geo-Enabled Systems",
+                    duration: "25",
+                    description: "Environment, Insights, Hub"
+                },
+                {
+                    _id: "5dc1cdd7c892a37b9e816340",
+                    title: "Plenary Close",
+                    duration: "25"
+                }
+            ],
+            offerings: [{
+                _id: "5dc1c9d3c892a37b9e816332",
+                date: "2019-11-07T20:00:00.000Z",
+                location: "Hall 400 | Level 4",
+                presenters: [{
+                    name: "James Higgins",
+                    title: "International Business Development",
+                    description: "James Higgins is an information technology professional with experience designing and implementing geographic information systems. For the last 20 years he has worked at Esri and now serves as the director of international business development. An expert in relating geospatial concepts and technology with business processes, Higgins is frequently called to serve as a guest lecturer and keynote speaker at utilities, industry associations, and international conferences.",
+                    _id: "5dc1c94ac892a37b9e816330"
+                }],
+                startTime: "09:15",
+                endTime: "12:30"
+            }],
+            title: "Plenary Session",
+            eventType: [
+                "General Session (Plenary/Closing)"
+            ],
+            description: "GIS the intelligent nervous system"
+        },
+        {
+            _id: "5dc1ca65c892a37b9e816336",
+            subItems: [],
+            offerings: [{
+                _id: "5dc1ca65c892a37b9e816337",
+                date: "2019-11-07T20:00:00.000Z",
+                location: "Hall 400 | Level 4",
+                endTime: "13:30",
+                startTime: "12:30"
+            }],
+            title: "Lunch",
+            eventType: [
+                "Conference Activity"
+            ]
+        },
+        {
+            _id: "5dc1d011c892a37b9e816341",
+            subItems: [{
+                    _id: "5dc1d096c892a37b9e816343",
+                    title: "Intro",
+                    duration: "10",
+                    description: "with moderator Joeri Robbrecht - European Commission"
+                },
+                {
+                    _id: "5dc1d0d4c892a37b9e816344",
+                    title: "The power of Informed decisions",
+                    presenters: [{
+                        name: "Catarina Clemente",
+                        title: "FRONTEX",
+                        description: "Catarina Clemente is a senior GIS expert at FRONTEX.",
+                        _id: "5dc1c5e2c892a37b9e81631f"
+                    }],
+                    duration: "25"
+                },
+                {
+                    _id: "5dc1d145c892a37b9e816345",
+                    title: "ESA Φ-lab (Phi-lab)",
+                    duration: "25",
+                    presenters: [{
+                        name: "Pierre-Philippe Mathieu",
+                        title: "ESA/ESRIN",
+                        description: "Pierre-Philippe Mathieu is the head of the Φ-lab (Phi-lab) Explore Office at the ESA Centre for Earth Observation, also known as the European Space Research Institute (ESRIN).",
+                        _id: "5dc1c600c892a37b9e816320"
+                    }]
+                },
+                {
+                    _id: "5dc1d189c892a37b9e816346",
+                    title: "European Environment Agency",
+                    duration: "25",
+                    presenters: [{
+                        name: "Chris Steenmans",
+                        title: "European Environment Agency",
+                        description: "Chris Steenmans is the head of program at the European Environment Agency (EEA). He is responsible for the programming and strategic development of the EEA ICT, data and information services.",
+                        websiteURL: "https://www.esri.com/en-us/about/events/gis-euro-union/agenda/chris-steenmans",
+                        websiteLabel: "Learn more about Chris",
+                        _id: "5dc1c65fc892a37b9e816321"
+                    }]
+                },
+                {
+                    _id: "5dc1d1aac892a37b9e816347",
+                    title: "Break",
+                    duration: "30",
+                    description: "Hall 410 + Corridor | Level 4"
+                },
+                {
+                    _id: "5dc1d23ac892a37b9e816348",
+                    title: "DG JRC",
+                    duration: "25",
+                    presenters: [{
+                        name: "Stephen Peedell",
+                        title: "European Commission JRC",
+                        description: "Stephen Peedell is a senior scientific officer at the European Commission Joint Research Centre (JRC) and an expert in geospatial information technology.",
+                        websiteURL: "https://www.esri.com/en-us/about/events/gis-euro-union/agenda/stephen-peedell",
+                        websiteLabel: "Learn more about Stephen",
+                        _id: "5dc1c68cc892a37b9e816322"
+                    }]
+                },
+                {
+                    _id: "5dc1d255c892a37b9e816349",
+                    title: "DG GROW-ESA",
+                    duration: "25",
+                    presenters: [{
+                        name: "Claudia Mureșan",
+                        title: "European Commission",
+                        description: "Claudia Mureșan is a policy officer in the space data unit of the Directorate-General for Internal Market, Industry, Entrepreneurship, and SMEs (DG GROW), European Commission, Brussels.",
+                        websiteURL: "https://www.esri.com/en-us/about/events/gis-euro-union/agenda/claudia-muresan",
+                        websiteLabel: "Learn more about Claudia",
+                        _id: "5dc1c6bac892a37b9e816323"
+                    }]
+                },
+                {
+                    _id: "5dc1d27ac892a37b9e81634a",
+                    title: "EuroGeographics",
+                    duration: "25",
+                    presenters: [{
+                        name: "Colin Bray",
+                        title: "EuroGeographics",
+                        description: "Colin Bray is the president of EuroGeographics (the association of heads of European National Mapping, Cadastral, and Land Registration Authorities) and the CEO and chief survey officer of Ordnance Survey Ireland (OSi), the Irish national mapping agency.",
+                        websiteURL: "https://www.esri.com/en-us/about/events/gis-euro-union/agenda/colin-bray",
+                        websiteLabel: "Learn more about Colin",
+                        _id: "5dc1c6e4c892a37b9e816324"
+                    }]
+                }
+            ],
+            offerings: [{
+                _id: "5dc1d011c892a37b9e816342",
+                startTime: "13:30",
+                endTime: "16:50",
+                location: "Hall 400 | Level 4",
+                date: "2019-11-07T20:00:00.000Z"
+            }],
+            title: "Customer Case Studies",
+            eventType: [
+                "Panel Discussion"
+            ],
+            description: "with moderator, Joeri Robbrecht - European Commission"
+        },
+        {
+            _id: "5dc1d2aec892a37b9e81634b",
+            subItems: [],
+            offerings: [{
+                _id: "5dc1d2aec892a37b9e81634c",
+                date: "2019-11-07T20:00:00.000Z",
+                presenters: [{
+                    name: "Massimiliano Mazzer",
+                    title: "Esri",
+                    description: "Massimiliano Mazzer is a business development manager for the European Union and Commission at Esri.",
+                    _id: "5dc1c6ffc892a37b9e816325"
+                }],
+                startTime: "16:50",
+                endTime: "17:00",
+                location: "Hall 400 | Level 4"
+            }],
+            title: "Close",
+            eventType: [
+                "General Session (Plenary/Closing)"
+            ]
+        },
+        {
+            _id: "5dc1d395c892a37b9e81634d",
+            subItems: [],
+            offerings: [{
+                _id: "5dc1d395c892a37b9e81634e",
+                date: "2019-11-07T20:00:00.000Z",
+                startTime: "17:00",
+                location: "Hall 410 + Corridor | Level 4"
+            }],
+            title: "Networking reception",
+            eventType: [
+                "Social Activity"
+            ],
+            description: ""
+        }
+    ],
+    startDate: "2019-11-07",
+    title: "GIS in the European Union Summit | Detailed"
 }
