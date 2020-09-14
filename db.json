@@ -1,14 +1,61 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+"products":[{
+  "id": "95aa1750-16b2-4f62-91ab-4aba03850e71",
+  "name": "Jam - Strawberry, 20 Ml Jar",
+  "description": "parturient montes nascetur ridiculus mus vivamus vestibulum sagittis sapien cum sociis natoque penatibus et magnis dis",
+  "imageURL": "http://dummyimage.com/300x200.jpg/cc0000/ffffff"
+}, {
+  "id": "b80f8207-3ab4-41cf-9ce2-942764eccc9b",
+  "name": "Syrup - Monin - Granny Smith",
+  "description": "sit amet consectetuer adipiscing elit proin risus praesent lectus vestibulum quam sapien varius ut blandit non",
+  "imageURL": "http://dummyimage.com/300x200.jpg/5fa2dd/ffffff"
+}, {
+  "id": "8050099a-ff08-4d05-a72e-2c4dad0f6af0",
+  "name": "Vermacelli - Sprinkles, Assorted",
+  "description": "vitae quam suspendisse potenti nullam porttitor lacus at turpis donec posuere metus vitae ipsum aliquam",
+  "imageURL": "http://dummyimage.com/300x200.jpg/5fa2dd/ffffff"
+}, {
+  "id": "1cb28e6a-f07a-4445-9c91-67f99c641de4",
+  "name": "Phyllo Dough",
+  "description": "dui vel sem sed sagittis nam congue risus semper porta volutpat quam pede",
+  "imageURL": "http://dummyimage.com/300x200.jpg/5fa2dd/ffffff"
+}, {
+  "id": "fdb3318b-9d31-4eb4-8960-6fef95850548",
+  "name": "Wine - Alsace Riesling Reserve",
+  "description": "congue elementum in hac habitasse platea dictumst morbi vestibulum velit id pretium iaculis diam erat fermentum justo",
+  "imageURL": "http://dummyimage.com/300x200.jpg/cc0000/ffffff"
+}, {
+  "id": "9623a274-63ae-40cb-831c-f017e6727407",
+  "name": "Cheese - Brick With Onion",
+  "description": "eget eros elementum pellentesque quisque porta volutpat erat quisque erat eros viverra eget congue",
+  "imageURL": "http://dummyimage.com/300x200.jpg/cc0000/ffffff"
+}, {
+  "id": "787bfb35-e13f-4887-a6cb-002045cd1636",
+  "name": "Lettuce - Frisee",
+  "description": "euismod scelerisque quam turpis adipiscing lorem vitae mattis nibh ligula nec sem duis aliquam",
+  "imageURL": "http://dummyimage.com/300x200.jpg/dddddd/000000"
+}, {
+  "id": "37ae2cc7-b3ee-4dcd-80d6-bf0fe5bd496e",
+  "name": "Chickhen - Chicken Phyllo",
+  "description": "orci nullam molestie nibh in lectus pellentesque at nulla suspendisse potenti",
+  "imageURL": "http://dummyimage.com/300x200.jpg/dddddd/000000"
+}, {
+  "id": "0baa3dba-8f4e-4d5f-9804-331c3941b708",
+  "name": "Artichokes - Jerusalem",
+  "description": "sodales sed tincidunt eu felis fusce posuere felis sed lacus morbi sem mauris laoreet ut rhoncus aliquet",
+  "imageURL": "http://dummyimage.com/300x200.jpg/5fa2dd/ffffff"
+}, {
+  "id": "7553d46d-6155-4173-a7fb-16c36c80bdcf",
+  "name": "Chicken - Whole",
+  "description": "eu nibh quisque id justo sit amet sapien dignissim vestibulum vestibulum ante ipsum primis in faucibus",
+  "imageURL": "http://dummyimage.com/300x200.jpg/dddddd/000000"
+}, {
+  "id": "8c3d314f-54a7-4db8-ba3c-ec6c407ccb50",
+  "name": "Apricots - Dried",
+  "description": "posuere cubilia curae donec pharetra magna vestibulum aliquet ultrices erat tortor sollicitudin mi sit amet lobortis",
+  "imageURL": "http://dummyimage.com/300x200.jpg/cc0000/ffffff"
+}, {
+  "id": "688c1a84-6faf-42a4-a808-f034920a0646",
+  "name": "Alize Red Passion",
+  "description": "rhoncus mauris enim leo rhoncus sed vestibulum sit amet cursus id turpis",
+  "imageURL": "http://dummyimage.com/300x200.jpg/5fa2dd/ffffff"
+}]
