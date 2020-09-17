@@ -1,14 +1,63 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "users": [
+    {
+      "id": "f6af4768-d248-4aa0-bbb3-af6b41019d17",
+      "picture": "http://placehold.it/32x32",
+      "age": 25,
+      "name": "Vega Willis",
+      "gender": "male",
+      "email": "vegawillis@jetsilk.com",
+      "phone": "+91 (979) 488-2157",
+      "is_verified": true
+    },
+    {
+      "id": "0b5a9402-d597-4130-a3b9-97dbc0025b3d",
+      "picture": "http://placehold.it/32x32",
+      "age": 37,
+      "name": "Angeline Bryan",
+      "gender": "female",
+      "email": "angelinebryan@jetsilk.com",
+      "phone": "+91 (849) 417-3743",
+      "is_verified": true
+    },
+    {
+      "id": "4207be9a-9c26-4018-858e-f48d15044814",
+      "picture": "http://placehold.it/32x32",
+      "age": 34,
+      "name": "Ayers Hancock",
+      "gender": "male",
+      "email": "ayershancock@jetsilk.com",
+      "phone": "+91 (805) 485-3062",
+      "is_verified": true
+    }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "business": [
+    {
+      "id": "6e51be4b-0748-43b8-a264-f308e458a3d9",
+      "user_id": 0,
+      "name": "Sonique",
+      "address": "599 Beacon Court, Konterra, Pennsylvania, 317121",
+      "latitude": -20.900764,
+      "longitude": -9.485358,
+      "is_verified": false
+    },
+    {
+      "id": "90663e95-5254-4a45-a119-17ad772d723e",
+      "user_id": 1,
+      "name": "Neocent",
+      "address": "494 Jefferson Avenue, Worcester, Hawaii, 980691",
+      "latitude": -85.236301,
+      "longitude": 65.718769,
+      "is_verified": true
+    },
+    {
+      "id": "42c963fa-1a7d-4d39-91fe-c59192cdf3e2",
+      "user_id": 2,
+      "name": "Xleen",
+      "address": "329 Dewey Place, Datil, Texas, 386749",
+      "latitude": -5.764145,
+      "longitude": 147.154948,
+      "is_verified": false
+    }
+  ]
 }
