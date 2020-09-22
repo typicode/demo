@@ -1,14 +1,33 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+	"result":
+		{
+			"code":200,
+			"status":"OK"
+		},
+		"securities":
+			[
+				{
+					"id":"3133H",
+					"sec":"USIG//FFCB",
+					"xcc":0,"liq":"9",
+					"dr":"-434.114562",
+					"dur":"5.411709",
+					"obs":
+						[
+							{
+								"d":1549918953000,
+								"bps":"0.001751",
+								"m":231,
+								"prevTrId":"2019021AM_530",
+								"apc":
+									{
+										"tt":"-0.000328",
+										"tc":"0.001751",
+										"tta":"-0.033",
+										"tca":"0.175892"
+									}
+							}
+						]
+				}
+			]
 }
