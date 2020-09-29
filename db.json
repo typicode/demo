@@ -1,14 +1,8 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "dataSlide" = [
+    {"sourceImage": `https://images.pexels.com/photos/4727507/pexels-photo-4727507.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260`, "alt":'Slide one'},
+    {"sourceImage": `https://images.pexels.com/photos/4870974/pexels-photo-4870974.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260`, "alt":'Slide two'},
+    {"sourceImage": `https://images.pexels.com/photos/4001404/pexels-photo-4001404.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260`, "alt":'Slide three'},
+    {"sourceImage": `https://images.pexels.com/photos/4144080/pexels-photo-4144080.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500`, "alt":'Slide four'}
+  ]
 }
