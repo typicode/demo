@@ -1,14 +1,57 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  POSTS:IPost[] = [
+    {
+        id: 1,
+        title: 'Check out my new Halloween costume!',
+        date: new Date ('09/26/2020'),
+        time: '09:00 am',
+        imageUrl: 'https://i.imgur.com/PjOvbgt.png',
+        location: {
+          address: 'Hampshire View',
+          city: 'London',
+          country: 'United Kingdom'
+        },
+        comments: [
+          {
+            id: 1,
+            title: "Awesome",
+            abstract: `I love your new Ninja costume! I have also bought myself a similar
+            costume. I will be a samurai! Trick or treat!`,
+            voters: ['bradgreen', 'igorminar', 'martinfowler']
+          },
+          {
+            id: 2,
+            title: "Not bad",
+            abstract: `Not bad, but mine is better. (ツ)_/¯`,
+            voters: ['johnpapa', 'bradgreen', 'igorminar', 'martinfowler']
+          }
+        ]
+      },
+      {
+        id: 2,
+        title: 'Nature',
+        date: new Date ('4/15/2020'),
+        time: '15:00 am',
+        imageUrl: 'https://i.imgur.com/z3jx5TR.jpg',
+        location: {
+          address: 'Partizanski Odredi 73',
+          city: 'Skopje',
+          country: 'Macedonia'
+        },
+        comments: [
+          {
+            id: 1,
+            title: "Woah",
+            abstract: `Is this your garden?`,
+            voters: []
+          },
+          {
+            id: 2,
+            title: "Good 4 u",
+            abstract: `Not bad, but my flowers are better.`,
+            voters: ['bradgreen', 'igorminar']
+          }
+        ]
+      }
+]
 }
