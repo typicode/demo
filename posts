@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "title": "Check out my new Halloween costume!",
+        "date": "09/26/2020",
+        "time": "09:00 am",
+        "imageUrl": "https://i.imgur.com/PjOvbgt.png",
+        "location": {
+          "address": "Hampshire View",
+          "city": "London",
+          "country": "United Kingdom"
+        },
+        "comments": [
+          {
+            "id": 1,
+            "title": "Awesome",
+            "abstract": "I love your new Ninja costume! I have also bought myself a similar
+            costume. I will be a samurai! Trick or treat!",
+            "voters": "['bradgreen', 'igorminar', 'martinfowler']"
+          },
+          {
+            "id": 2,
+            "title": "Not bad",
+            "abstract": "Not bad, but mine is better. (ツ)_/¯",
+            "voters": "['johnpapa', 'bradgreen', 'igorminar', 'martinfowler']"
+          }
+        ]
+      }
+   ]
