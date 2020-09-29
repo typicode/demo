@@ -10,5 +10,36 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "products": [
+    {
+      "name": "Monitors",
+      "price": "129",
+      "id": 1,
+      "editable": false
+    },
+    {
+      "name": "Monitor Dell",
+      "price": "222",
+      "id": 2,
+      "editable": false
+    },
+    {
+      "name": "Hp Desktop",
+      "price": "333",
+      "id": 3,
+      "editable": false
+    },
+    {
+      "name": "Dell",
+      "price": "444",
+      "id": 4,
+      "editable": false
+    },
+    {
+      "name": "Test",
+      "price": "322",
+      "id": 5
+    }
+  ]
 }
