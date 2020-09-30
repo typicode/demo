@@ -21,9 +21,9 @@
     ],
     "nameUser" : "Ari Staprans Leff",
     "socialUser" : {
-    "number-Post":532,
-    "number-Follower":206,
-    "number-Following":101
+    "numberPost":532,
+    "numberFollower":206,
+    "numberFollowing":101
     }
   }
 }
