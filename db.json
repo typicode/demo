@@ -25,7 +25,7 @@
     "numberFollower":206,
     "numberFollowing":101
     }
-  }
+  },
   "dataNotification" : [
   {"imageNotifi":"https://images.pexels.com/photos/1661469/pexels-photo-1661469.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500", "typeNotification": "Alex đã nhắc đến bạn trong 1 bài viết", "contentNotification": "Rep inbox đi bạn tôi ơi"},
   {"imageNotifi":"https://images.pexels.com/photos/1457983/pexels-photo-1457983.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260", "typeNotification": "Lauv đã đăng 1 video mới", "contentNotification": "Hát một bài hát"},
