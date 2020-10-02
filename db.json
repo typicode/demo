@@ -32,5 +32,36 @@
   {"imageNotification":"https://images.pexels.com/photos/4450354/pexels-photo-4450354.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260", "typeNotification": "Donan đã nhắc đến bạn trong 1 bình luận", "contentNotification": "Rep inbox đi bạn tôi ơi"},
   {"imageNotification":"https://images.pexels.com/photos/1661469/pexels-photo-1661469.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500", "typeNotification": "Trung Thu vừa thay đổi ảnh đại diện", "contentNotification": "Hôm nay trung thu ..."},
   {"imageNotification":"https://images.pexels.com/photos/573295/pexels-photo-573295.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260", "typeNotification": "Haha đã cười vào mặt bạn", "contentNotification": ":)"}
-  ]
+  ],
+   "dataPost": {
+    "nameUser" : "Daira Rem",
+    "avatarUser" : {"sourceImage":"https://images.pexels.com/photos/1977055/pexels-photo-1977055.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260", "alt":"Daira Rem Photo"},
+    "timePost" : "5 min",
+    "contentPost" : "Hôm nay là Tuesday, mai là Wednesday, bao giờ thì em mới đổ anh đây",
+    "imagePost" : {"sourceImage":"https://images.pexels.com/photos/4646828/pexels-photo-4646828.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260", "alt":"PhotoImage"},
+    "votePoint" : "2.4",
+    "totalComment" : "6",
+    "detailComment" : [
+    {
+    "idComment" : "xxx1"
+    "nameUser" : "Agafonova",
+    "avatarUser" : {"sourceImage":"https://images.pexels.com/photos/5284979/pexels-photo-5284979.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260", "alt":"Agafonova Photo"},
+    "contentComment" : "Thank you !!!",
+    "parentCode" : "0",
+    },
+    "idComment" : "xxx2"
+    {"nameUser" : "Tom Leishman",
+    "avatarUser" : {"sourceImage":"https://images.pexels.com/photos/5255331/pexels-photo-5255331.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500", "alt":"Tom Leishman"},
+    "contentComment" : "So sweet <3",
+    "parentCode" : "0",
+    },
+    {
+    "idComment" : "xxx3"
+    {"nameUser" : "Daira Rem",
+    "avatarUser" : {"sourceImage":"https://images.pexels.com/photos/1977055/pexels-photo-1977055.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260", "alt":"Daira Rem"},
+    "contentComment" : "Thank, too ><",
+    "parentCode" : "xxx1",
+    }
+    ]
+  }
 }
