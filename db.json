@@ -97,13 +97,13 @@
           "idPost" : "p002",
           "nameUser" : "Khoa Võ",
           "avatarUser" : {"sourceImage":"https://images.pexels.com/photos/4958740/pexels-photo-4958740.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260", "alt":"Khoa Photo"},
-          "contentComment" : "Ổn áp đây :)",
+          "contentComment" : "Ổn áp phết nhỉ :))",
           "timeComment" : "13 min",
           "parentCode" : "xxx4"
           },
           {
           "idComment" : "xxx6",
-          "idPost" : "p001",
+          "idPost" : "p002",
           "nameUser" : "Elijah O'Donnell",
           "avatarUser" : {"sourceImage":"https://images.pexels.com/photos/5259295/pexels-photo-5259295.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260", "alt":"Donnell Photo"},
           "contentComment" : "So fastttt haha",
