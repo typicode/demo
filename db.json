@@ -40,6 +40,12 @@
     "contentPost" : "Hôm nay là Tuesday, mai là Wednesday, bao giờ thì em mới đổ anh đây",
     "imagePost" : {"sourceImage":"https://images.pexels.com/photos/4646828/pexels-photo-4646828.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260", "alt":"PhotoImage"},
     "votePoint" : "2.4",
-    "totalComment" : "6"
+    "totalComment" : "6",
+    "detailComment" : [
+      {
+      "idComment" : "xxx1",
+      "nameUser" : "Agafonova"
+      }
+    ]
   }
 }
