@@ -42,10 +42,7 @@
     "votePoint" : "2.4",
     "totalComment" : "6",
     "detailComment" : [
-      {
-      "idComment" : "xxx1",
-      "nameUser" : "Agafonova"
-      }
+      
     ]
   }
 }
