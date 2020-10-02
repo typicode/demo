@@ -56,7 +56,7 @@
       "idPost" : "p001",
       "nameUser" : "Ivan Oboleninov",
       "avatarUser" : {"sourceImage":"https://images.pexels.com/photos/2853909/pexels-photo-2853909.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260", "alt":"Oboleninov Photo"},
-      "contentComment" : "Thank you !!!",
+      "contentComment" : "Bravo !!!",
       "parentCode" : "0"
       },
       {
@@ -64,7 +64,7 @@
       "idPost" : "p001",
       "nameUser" : "Rojan Maguyon",
       "avatarUser" : {"sourceImage":"https://images.pexels.com/photos/4334137/pexels-photo-4334137.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260", "alt":"Maguyon Photo"},
-      "contentComment" : "Thank you !!!",
+      "contentComment" : "Love u !!!",
       "parentCode" : "xxx1"
       }
     ]
