@@ -54,16 +54,16 @@
       {
       "idComment" : "xxx2",
       "idPost" : "p001",
-      "nameUser" : "Agafonova",
-      "avatarUser" : {"sourceImage":"https://images.pexels.com/photos/5284979/pexels-photo-5284979.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260", "alt":"Agafonova Photo"},
+      "nameUser" : "Ivan Oboleninov",
+      "avatarUser" : {"sourceImage":"https://images.pexels.com/photos/2853909/pexels-photo-2853909.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260", "alt":"Oboleninov Photo"},
       "contentComment" : "Thank you !!!",
       "parentCode" : "0"
       },
       {
       "idComment" : "xxx3",
       "idPost" : "p001",
-      "nameUser" : "Agafonova",
-      "avatarUser" : {"sourceImage":"https://images.pexels.com/photos/5284979/pexels-photo-5284979.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260", "alt":"Agafonova Photo"},
+      "nameUser" : "Rojan Maguyon",
+      "avatarUser" : {"sourceImage":"https://images.pexels.com/photos/4334137/pexels-photo-4334137.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260", "alt":"Maguyon Photo"},
       "contentComment" : "Thank you !!!",
       "parentCode" : "xxx1"
       }
