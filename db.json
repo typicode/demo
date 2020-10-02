@@ -43,20 +43,20 @@
     "totalComment" : "6",
     "detailComment" : [
     {
-    "idComment" : "xxx1"
+    "idComment" : "xxx1",
     "nameUser" : "Agafonova",
     "avatarUser" : {"sourceImage":"https://images.pexels.com/photos/5284979/pexels-photo-5284979.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260", "alt":"Agafonova Photo"},
     "contentComment" : "Thank you !!!",
     "parentCode" : "0",
     },
-    "idComment" : "xxx2"
+    "idComment" : "xxx2",
     {"nameUser" : "Tom Leishman",
     "avatarUser" : {"sourceImage":"https://images.pexels.com/photos/5255331/pexels-photo-5255331.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500", "alt":"Tom Leishman"},
     "contentComment" : "So sweet <3",
     "parentCode" : "0",
     },
     {
-    "idComment" : "xxx3"
+    "idComment" : "xxx3",
     {"nameUser" : "Daira Rem",
     "avatarUser" : {"sourceImage":"https://images.pexels.com/photos/1977055/pexels-photo-1977055.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260", "alt":"Daira Rem"},
     "contentComment" : "Thank, too ><",
