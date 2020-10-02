@@ -49,15 +49,17 @@
     "contentComment" : "Thank you !!!",
     "parentCode" : "0",
     },
+    {
     "idComment" : "xxx2",
-    {"nameUser" : "Tom Leishman",
+    "nameUser" : "Tom Leishman",
     "avatarUser" : {"sourceImage":"https://images.pexels.com/photos/5255331/pexels-photo-5255331.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500", "alt":"Tom Leishman"},
     "contentComment" : "So sweet <3",
     "parentCode" : "0",
     },
     {
+    {
     "idComment" : "xxx3",
-    {"nameUser" : "Daira Rem",
+    "nameUser" : "Daira Rem",
     "avatarUser" : {"sourceImage":"https://images.pexels.com/photos/1977055/pexels-photo-1977055.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260", "alt":"Daira Rem"},
     "contentComment" : "Thank, too ><",
     "parentCode" : "xxx1",
