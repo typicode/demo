@@ -34,6 +34,7 @@
   {"imageNotification":"https://images.pexels.com/photos/573295/pexels-photo-573295.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260", "typeNotification": "Haha đã cười vào mặt bạn", "contentNotification": ":)"}
   ],
    "dataPost": {
+     "idPost" : "p001",
     "nameUser" : "Daira Rem",
     "avatarUser" : {"sourceImage":"https://images.pexels.com/photos/1977055/pexels-photo-1977055.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260", "alt":"Daira Rem Photo"},
     "timePost" : "5 min",
