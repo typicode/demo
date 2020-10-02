@@ -33,40 +33,84 @@
   {"imageNotification":"https://images.pexels.com/photos/1661469/pexels-photo-1661469.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500", "typeNotification": "Trung Thu vừa thay đổi ảnh đại diện", "contentNotification": "Hôm nay trung thu ..."},
   {"imageNotification":"https://images.pexels.com/photos/573295/pexels-photo-573295.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260", "typeNotification": "Haha đã cười vào mặt bạn", "contentNotification": ":)"}
   ],
-   "dataPost": {
-    "idPost" : "p001",
-    "nameUser" : "Daira Rem",
-    "avatarUser" : {"sourceImage":"https://images.pexels.com/photos/1977055/pexels-photo-1977055.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260", "alt":"Daira Rem Photo"},
-    "timePost" : "5 min",
-    "contentPost" : "Hôm nay là Tuesday, mai là Wednesday, bao giờ thì em mới đổ anh đây",
-    "imagePost" : {"sourceImage":"https://images.pexels.com/photos/4646828/pexels-photo-4646828.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260", "alt":"PhotoImage"},
-    "votePoint" : "2.4",
-    "totalComment" : "6",
-    "detailComment" : [
+   "dataPost": [
       {
-      "idComment" : "xxx1",
-      "idPost" : "p001",
-      "nameUser" : "Agafonova",
-      "avatarUser" : {"sourceImage":"https://images.pexels.com/photos/5284979/pexels-photo-5284979.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260", "alt":"Agafonova Photo"},
-      "contentComment" : "Thank you !!!",
-      "parentCode" : "0"
+        "idPost" : "p001",
+        "nameUser" : "Daira Rem",
+        "avatarUser" : {"sourceImage":"https://images.pexels.com/photos/1977055/pexels-photo-1977055.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260", "alt":"Daira Rem Photo"},
+        "timePost" : "1 day",
+        "contentPost" : "Hôm nay là Tuesday, mai là Wednesday, bao giờ thì em mới đổ anh đây",
+        "imagePost" : {"sourceImage":"https://images.pexels.com/photos/4646828/pexels-photo-4646828.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260", "alt":"PhotoImage"},
+        "votePoint" : "2.4",
+        "totalComment" : "3",
+        "detailComment" : [
+          {
+          "idComment" : "xxx1",
+          "idPost" : "p001",
+          "nameUser" : "Agafonova",
+          "avatarUser" : {"sourceImage":"https://images.pexels.com/photos/5284979/pexels-photo-5284979.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260", "alt":"Agafonova Photo"},
+          "contentComment" : "Thank you !!!",
+          "timeComment" : "1 hour",
+          "parentCode" : "0"
+          },
+          {
+          "idComment" : "xxx2",
+          "idPost" : "p001",
+          "nameUser" : "Ivan Oboleninov",
+          "avatarUser" : {"sourceImage":"https://images.pexels.com/photos/2853909/pexels-photo-2853909.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260", "alt":"Oboleninov Photo"},
+          "contentComment" : "Bravo !!!",
+          "timeComment" : "13 min",
+          "parentCode" : "0"
+          },
+          {
+          "idComment" : "xxx3",
+          "idPost" : "p001",
+          "nameUser" : "Rojan Maguyon",
+          "avatarUser" : {"sourceImage":"https://images.pexels.com/photos/4334137/pexels-photo-4334137.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260", "alt":"Maguyon Photo"},
+          "contentComment" : "Love u !!!",
+          "timeComment" : "6 min",
+          "parentCode" : "xxx1"
+          }
+        ]
       },
       {
-      "idComment" : "xxx2",
-      "idPost" : "p001",
-      "nameUser" : "Ivan Oboleninov",
-      "avatarUser" : {"sourceImage":"https://images.pexels.com/photos/2853909/pexels-photo-2853909.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260", "alt":"Oboleninov Photo"},
-      "contentComment" : "Bravo !!!",
-      "parentCode" : "0"
-      },
-      {
-      "idComment" : "xxx3",
-      "idPost" : "p001",
-      "nameUser" : "Rojan Maguyon",
-      "avatarUser" : {"sourceImage":"https://images.pexels.com/photos/4334137/pexels-photo-4334137.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260", "alt":"Maguyon Photo"},
-      "contentComment" : "Love u !!!",
-      "parentCode" : "xxx1"
+        "idPost" : "p002",
+        "nameUser" : "Ichad Windhiagiri",
+        "avatarUser" : {"sourceImage":"https://images.pexels.com/photos/4096356/pexels-photo-4096356.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260", "alt":"Windhiagiri Photo"},
+        "timePost" : "2 day",
+        "contentPost" : "Hi! welcome everyone | If you like and use it, please donate for supporting",
+        "imagePost" : {"sourceImage":"https://images.pexels.com/photos/3989134/pexels-photo-3989134.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260", "alt":"PhotoImage"},
+        "votePoint" : "1.8",
+        "totalComment" : "3",
+        "detailComment" : [
+          {
+          "idComment" : "xxx4",
+          "idPost" : "p002",
+          "nameUser" : "gryffyn m",
+          "avatarUser" : {"sourceImage":"https://images.pexels.com/photos/5397725/pexels-photo-5397725.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260", "alt":"Agafonova Photo"},
+          "contentComment" : "So cool <3",
+          "timeComment" : "1 hour",
+          "parentCode" : "0"
+          },
+          {
+          "idComment" : "xxx5",
+          "idPost" : "p002",
+          "nameUser" : "Khoa Võ",
+          "avatarUser" : {"sourceImage":"https://images.pexels.com/photos/4958740/pexels-photo-4958740.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260", "alt":"Khoa Photo"},
+          "contentComment" : "Ổn áp đây :)",
+          "timeComment" : "13 min",
+          "parentCode" : "xxx4"
+          },
+          {
+          "idComment" : "xxx6",
+          "idPost" : "p001",
+          "nameUser" : "Elijah O'Donnell",
+          "avatarUser" : {"sourceImage":"https://images.pexels.com/photos/5259295/pexels-photo-5259295.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260", "alt":"Donnell Photo"},
+          "contentComment" : "So fastttt haha",
+          "timeComment" : "6 min",
+          "parentCode" : "xxx4"
+          }
+        ]
       }
-    ]
-  }
+  ]
 }
