@@ -127,5 +127,15 @@
     {"sourceImage":"https://images.pexels.com/photos/573295/pexels-photo-573295.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260","Alt":"Hightlight Photo"},
     {"sourceImage":"https://images.pexels.com/photos/573295/pexels-photo-573295.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260","Alt":"Hightlight Photo"},
     {"sourceImage":"https://images.pexels.com/photos/573295/pexels-photo-573295.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260","Alt":"Hightlight Photo"}
+    ],
+  "information" : {
+    "basicinfo" : [
+      "nameUser" : "Ari Staprans Leff",
+      "generUser" : "Female",
+      "BODUser" : "1998/12/06"
+    ],
+    "contactinfo" : [
+      "emailUser" : "abcd@gmali.com"
     ]
+  }
 }
