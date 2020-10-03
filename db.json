@@ -126,12 +126,12 @@
     ],
   "informationProfile" : {
     "basicInfo" : [
-      {"key":"nameUser","value":"Ari Staprans Leff"},
-      {"key":"generUser", "value":"Female"},
-      {"key":"BODUser", "value":"2020/04/04"}
+      {"key":"Name","value":"Ari Staprans Leff"},
+      {"key":"Gener", "value":"Female"},
+      {"key":"Birth of date", "value":"2020/04/04"}
     ],
     "contactInfo" : [
-      {"key":"emailUser", "value":"ari0404@gmail.com"}
+      {"key":"Email", "value":"ari0404@gmail.com"}
     ]
   }
 }
