@@ -125,9 +125,13 @@
       {"sourceImage":"https://images.pexels.com/photos/1059040/pexels-photo-1059040.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260","Alt":"Hightlight Photo"}
     ],
   "informationProfile" : {
-    "nameUser" : "Ari Staprans Leff",
-    "generUser" : "Female",
-    "BODUser" : "2020/04/04",
-    "emailUser" : "ari0404@gmail.com"
+    "basicInfo" : [
+      "nameUser" : "Ari Staprans Leff",
+      "generUser" : "Female",
+      "BODUser" : "2020/04/04"
+    ],
+    "contactInfo" : [
+      "emailUser" : "ari0404@gmail.com"
+    ]
   }
 }
