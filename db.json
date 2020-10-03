@@ -1,8 +1,19 @@
 {
   "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+    {
+    "id": "1",
+    "name": "Tony Hawks Pro Skater 1+2 - PS4",
+    "details": "The most classic skate games in history are back. Play the fully remastered version of Tony Hawk’s ™ Pro Skater ™ and Tony Hawk’s ™ Pro Skater ™ 2 in an incredible collection, recreated from scratch in high definition.",
+    "price": "$49.80",
+    "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_74923346/mobile_786_587_png/PS4-Tony-Hawks-Pro-Skater-1-2"
+  },
+  {
+    "id": "2",
+    "name": "Resident Evil 3 Remake - PS4",
+    "details": "Jill Valentine é uma das últimas pessoas em Raccoon City a testemunhar as atrocidades que a Umbrella cometeu. Para pará-la a Umbrella libera sua arma secreta suprema: Nemesis!",
+    "price": "$45.80",
+    "image": "https://www.shopto.net/userdata/dcshop/images/normal/463332_re3_ps4_packshot_3d_eng_pegi.png"
+  }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
