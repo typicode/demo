@@ -126,12 +126,10 @@
     ],
   "information" : {
     "basicinfo" : [
-      "nameUser" : "Ari Staprans Leff",
-      "generUser" : "Female",
-      "BODUser" : "1998/12/06"
+      
     ],
     "contactinfo" : [
-      "emailUser" : "abcd@gmali.com"
+      
     ]
   }
 }
