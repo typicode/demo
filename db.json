@@ -10,5 +10,9 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "employees": [
+    { "id": 1, "name": "Rahul", "gendar": "Male", "photoPath": "assets/images/admin.png" },
+    { "id": 1, "name": "Rajesh", "gendar": "Male", "photoPath": "assets/images/admin.png" }
+  ],
 }
