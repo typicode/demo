@@ -1,14 +1,42 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+[
+            {
+                "ID": "1",
+                "Name": "Rupsi",
+                "Class": "3",
+                "Section": "D",
+				"Sub1":"23",
+				"Sub2":"54",
+				"Sub3":"65"
+				
+            },
+            {
+                "ID": "2",
+                "Name": "Aman",
+                "Class": "3",
+                "Section": "E",
+				"Sub1":"23",
+				"Sub2":"45",
+				"Sub3":"67"
+				
+            },
+            {
+                "ID": "3",
+                "Name": "Ajay",
+                "Class": "3",
+                "Section": "F",
+				"Sub1":"26",
+				"Sub2":"34",
+				"Sub3":"45"
+				
+            },
+			{
+                "ID": "4",
+                "Name": "Ritu",
+                "Class": "3",
+                "Section": "A",
+				"Sub1":"34",
+				"Sub2":"34",
+				"Sub3":"71"
+				
+            }
+      ]  
