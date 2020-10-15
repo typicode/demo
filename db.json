@@ -1,14 +1,39 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "SchedulerMockup ": [
+   {
+      "sDate":"2020-11-05T21:00:00.000Z",
+      "eDate":"2020-11-03T21:00:00.000Z",
+      "title":"Test0",
+      "department":"Test",
+      "location":"Test0 room"
+   },
+   {
+      "sDate":"2020-11-03T21:00:00.000Z",
+      "eDate":"2020-11-01T21:00:00.000Z",
+      "title":"Test1",
+      "department":"Test",
+      "location":"Test1 room"
+   },
+   {
+      "sDate":"2020-10-30T21:00:00.000Z",
+      "eDate":"2020-10-30T21:00:00.000Z",
+      "title":"Test2",
+      "department":"Test",
+      "location":"Test2 room"
+   },
+   {
+      "sDate":"2020-11-09T21:00:00.000Z",
+      "eDate":"2020-11-09T21:00:00.000Z",
+      "title":"Test3",
+      "department":"Test",
+      "location":"Test3 room"
+   },
+   {
+      "sDate":"2020-11-13T21:00:00.000Z",
+      "eDate":"2020-11-07T21:00:00.000Z",
+      "title":"Test4",
+      "department":"Test",
+      "location":"Test4 room"
+   }
+]
 }
