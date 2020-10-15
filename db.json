@@ -1,14 +1,23 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
   "profile": {
-    "name": "typicode"
+    "id": 1,
+    "ime": "Milica",
+    "prezime":"Spasojevic",
+    "slikaUrl":"http://estiem.org.rs/wp-content/uploads/2020/01/milica-min-scaled.jpg",
+    "clanstvo": 2017,
+    "status": "aktivan",
+    "bodovi": [
+      {
+        "bodoviId":1,
+        "kolicina":4,
+        "poreklo": "Dani Sporta HR"
+      },
+            {
+        "bodoviId":2,
+        "kolicina":10,
+        "poreklo": "Lider komiteta"
+      }
+    
+    ]
   }
 }
