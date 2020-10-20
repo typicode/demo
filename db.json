@@ -10,5 +10,11 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "tipoCambio":[
+	{"fechaCambio": "19/10/2020", "from":"USD","to":"PEN", "value":"3.55"},
+	{"fechaCambio": "19/10/2020", "from":"PEN","to":"PEN", "value":"1.00"},
+	{"fechaCambio": "20/10/2020", "from":"USD","to":"PEN", "value":"3.45"},
+	{"fechaCambio": "20/10/2020", "from":"PEN","to":"PEN", "value":"1.00"}
+  ]
 }
