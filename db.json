@@ -1,17 +1,19 @@
-[
-  {
-    "foodId": 1,
-    "foodName": "Chicken",
-    "foodCalories": 100
-  },
-  {
-    "foodId": 2,
-    "foodName": "Beef",
-    "foodCalories": 200
-  },
-  {
-    "foodId": 3,
-    "foodName": "Pork",
-    "foodCalories": 300
-  }
-]
+{
+  "food": [
+    {
+      "foodId": 1,
+      "foodName": "Chicken",
+      "foodCalories": 100
+    },
+    {
+      "foodId": 2,
+      "foodName": "Beef",
+      "foodCalories": 200
+    },
+    {
+      "foodId": 3,
+      "foodName": "Pork",
+      "foodCalories": 300
+    }
+  ]
+}
