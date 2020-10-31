@@ -1,19 +1,19 @@
 {
-  "topics": [
+  "food": [
     {
       "id": 1,
-      "title": "to learn angular",
-      "completed": false
+      "name": "Chicken",
+      "calories": 100
     },
     {
       "id": 2,
-      "title": "to learn french",
-      "completed": true
+      "title": "Beef",
+      "completed": 200
     },
     {
       "id": 3,
-      "title": "to learn some",
-      "completed": false
+      "title": "Pork",
+      "completed": 300
     }
   ]
 }
