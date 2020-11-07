@@ -10,5 +10,8 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "properties": [
+    { "id": 1, "name": "Vasavi", "address": "Rest, Hyd, 500085", "name_b": "R_Vasavi", "type": "build", "status": "Rest_A", "area": "R Acres", "description": "From Rest" }
+  ]
 }
