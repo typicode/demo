@@ -112,5 +112,31 @@
     "documento": "112312323123",
     "correo": "juancabdu@unisabana.edu.co",
     "telefono": "+57 312 321 3211"
-  }
+  },
+  "reservas": [
+    {
+      "id": "12ASDF",
+      "person": "Luis Martinez",
+      "hour": "12:00 PM",
+      "date": "28/4/2020"
+    },
+    {
+      "id": "13SDF",
+      "person": "Laura Gonzales",
+      "hour": "4:00 PM",
+      "date": "22/4/2020"
+    },
+    {
+      "id": "16DFSDF",
+      "person": "Augusto Echeverria",
+      "hour": "12:00 PM",
+      "date": "21/4/2020"
+    },
+    {
+      "id": "32SDFD",
+      "person": "Sara Ruiz",
+      "hour": "12:00 PM",
+      "date": "30/4/2020"
+    }
+  ]
 }
