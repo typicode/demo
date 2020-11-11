@@ -16,46 +16,6 @@
         "name": "Apple - Northern Spy",
         "description": "Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.",
         "price": 21423
-      }, {
-        "id": 3,
-        "name": "Chicken - Wieners",
-        "description": "Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.",
-        "price": 40582
-      }, {
-        "id": 4,
-        "name": "Chocolate - Milk, Callets",
-        "description": "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.\n\nEtiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.",
-        "price": 20058
-      }, {
-        "id": 5,
-        "name": "Cheese - Cambozola",
-        "description": "Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.",
-        "price": 29563
-      }, {
-        "id": 6,
-        "name": "Juice - Clamato, 341 Ml",
-        "description": "Phasellus in felis. Donec semper sapien a libero. Nam dui.",
-        "price": 38129
-      }, {
-        "id": 7,
-        "name": "Cheese - Fontina",
-        "description": "Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.",
-        "price": 6466
-      }, {
-        "id": 8,
-        "name": "Soup - Campbells, Chix Gumbo",
-        "description": "Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.\n\nDuis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.",
-        "price": 45718
-      }, {
-        "id": 9,
-        "name": "Cheese - Pied De Vents",
-        "description": "Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.",
-        "price": 12728
-      }, {
-        "id": 10,
-        "name": "Lid - High Heat, Super Clear",
-        "description": "Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.\n\nPhasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.",
-        "price": 38198
       }]
     }, {
       "id": 2,
@@ -78,41 +38,6 @@
         "name": "Pastry - Cheese Baked Scones",
         "description": "Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.",
         "price": 28373
-      }, {
-        "id": 4,
-        "name": "Nantucket Orange Juice",
-        "description": "Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.",
-        "price": 49286
-      }, {
-        "id": 5,
-        "name": "Beans - Butter Lrg Lima",
-        "description": "Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.",
-        "price": 13255
-      }, {
-        "id": 6,
-        "name": "Beans - Navy, Dry",
-        "description": "Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.",
-        "price": 38769
-      }, {
-        "id": 7,
-        "name": "Tuna - Loin",
-        "description": "In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.\n\nAliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.",
-        "price": 31058
-      }, {
-        "id": 8,
-        "name": "Pail - 4l White, With Handle",
-        "description": "Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.",
-        "price": 27917
-      }, {
-        "id": 9,
-        "name": "Wine - Jackson Triggs Okonagan",
-        "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus.",
-        "price": 15923
-      }, {
-        "id": 10,
-        "name": "Rum - Coconut, Malibu",
-        "description": "Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.\n\nIn quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.",
-        "price": 2959
       }]
     }, {
       "id": 3,
@@ -140,36 +65,6 @@
         "name": "Bagel - Ched Chs Presliced",
         "description": "In congue. Etiam justo. Etiam pretium iaculis justo.\n\nIn hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.",
         "price": 37937
-      }, {
-        "id": 5,
-        "name": "Sugar - Invert",
-        "description": "Sed ante. Vivamus tortor. Duis mattis egestas metus.\n\nAenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.",
-        "price": 8593
-      }, {
-        "id": 6,
-        "name": "Salmon - Fillets",
-        "description": "In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.",
-        "price": 20980
-      }, {
-        "id": 7,
-        "name": "Pepper - Paprika, Spanish",
-        "description": "Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.",
-        "price": 10781
-      }, {
-        "id": 8,
-        "name": "Chicken - Livers",
-        "description": "Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.\n\nNam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.",
-        "price": 34282
-      }, {
-        "id": 9,
-        "name": "Tamarillo",
-        "description": "Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.",
-        "price": 7486
-      }, {
-        "id": 10,
-        "name": "Cheese - Taleggio D.o.p.",
-        "description": "Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.",
-        "price": 9096
       }]
     }, {
       "id": 4,
