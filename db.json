@@ -106,5 +106,11 @@
         }
       ]
     }
-  ]
+  ],
+  "user": {
+    "name": "Juan David Cabrera",
+    "documento": "112312323123",
+    "correo": "juancabdu@unisabana.edu.co",
+    "telefono": "+57 312 321 3211"
+  }
 }
