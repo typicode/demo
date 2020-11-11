@@ -1,85 +1,105 @@
 {
-  "restaurants":
-    [{
+  "restaurants": [
+    {
       "id": 1,
       "name": "Hills, Beatty and Cassin",
       "description": "Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.",
       "capacity": 3,
       "menu": "res1"
-    }, {
+    },
+    {
       "id": 2,
       "name": "Carroll-Klein",
       "description": "Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.\n\nProin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.",
       "capacity": 29,
       "menu": "res2"
-    }, {
+    },
+    {
       "id": 3,
       "name": "Ledner-Hartmann",
       "description": "Phasellus in felis. Donec semper sapien a libero. Nam dui.",
       "capacity": 94,
       "menu": "res4"
-    }, {
+    },
+    {
       "id": 4,
       "name": "Mann Group",
       "description": "Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.\n\nMorbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.",
       "capacity": 35
-    }, {
+    },
+    {
       "id": 5,
       "name": "Leannon Group",
       "description": "Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.\n\nCras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",
       "capacity": 92
-    }],
+    }
+  ],
   "menus": [
-    "res1": [
-      {
-        "id": 1,
-        "name": "Doilies - 7, Paper",
-        "description": "Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.\n\nNam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.",
-        "price": 37149
-      }, {
-        "id": 2,
-        "name": "Apple - Northern Spy",
-        "description": "Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.",
-        "price": 21423
-      }],
-    "res2": [
-      {
-        "id": 1,
-        "name": "Wine - Red, Black Opal Shiraz",
-        "description": "Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.\n\nQuisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.",
-        "price": 40538
-      }, {
-        "id": 2,
-        "name": "Lettuce - Treviso",
-        "description": "Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.",
-        "price": 19910
-      }, {
-        "id": 3,
-        "name": "Pastry - Cheese Baked Scones",
-        "description": "Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.",
-        "price": 28373
-      }],
-    "res3": [
-      {
-        "id": 1,
-        "name": "Yoplait - Strawbrasp Peac",
-        "description": "Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.\n\nVestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.",
-        "price": 22593
-      }, {
-        "id": 2,
-        "name": "Veal - Heart",
-        "description": "Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.",
-        "price": 17209
-      }, {
-        "id": 3,
-        "name": "Pumpkin",
-        "description": "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
-        "price": 35182
-      }, {
-        "id": 4,
-        "name": "Bagel - Ched Chs Presliced",
-        "description": "In congue. Etiam justo. Etiam pretium iaculis justo.\n\nIn hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.",
-        "price": 37937
-      }]
+    {
+      "menu1": [
+        {
+          "id": 1,
+          "name": "Doilies - 7, Paper",
+          "description": "Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.\n\nNam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.",
+          "price": 37149
+        },
+        {
+          "id": 2,
+          "name": "Apple - Northern Spy",
+          "description": "Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.",
+          "price": 21423
+        }
+      ]
+    },
+    {
+      "res2": [
+        {
+          "id": 1,
+          "name": "Wine - Red, Black Opal Shiraz",
+          "description": "Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.\n\nQuisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.",
+          "price": 40538
+        },
+        {
+          "id": 2,
+          "name": "Lettuce - Treviso",
+          "description": "Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.",
+          "price": 19910
+        },
+        {
+          "id": 3,
+          "name": "Pastry - Cheese Baked Scones",
+          "description": "Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.",
+          "price": 28373
+        }
+      ]
+    },
+    {
+      "res3": [
+        {
+          "id": 1,
+          "name": "Yoplait - Strawbrasp Peac",
+          "description": "Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.\n\nVestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.",
+          "price": 22593
+        },
+        {
+          "id": 2,
+          "name": "Veal - Heart",
+          "description": "Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.",
+          "price": 17209
+        },
+        {
+          "id": 3,
+          "name": "Pumpkin",
+          "description": "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
+          "price": 35182
+        },
+        {
+          "id": 4,
+          "name": "Bagel - Ched Chs Presliced",
+          "description": "In congue. Etiam justo. Etiam pretium iaculis justo.\n\nIn hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.",
+          "price": 37937
+        }
+      ]
+    }
   ]
 }
