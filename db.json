@@ -5,40 +5,41 @@
       "name": "Hills, Beatty and Cassin",
       "description": "Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.",
       "capacity": 3,
-      "menu": "res1"
+      "menu": 1
     },
     {
       "id": 2,
       "name": "Carroll-Klein",
       "description": "Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.\n\nProin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.",
       "capacity": 29,
-      "menu": "res2"
+      "menu": 2
     },
     {
       "id": 3,
       "name": "Ledner-Hartmann",
       "description": "Phasellus in felis. Donec semper sapien a libero. Nam dui.",
       "capacity": 94,
-      "menu": "res3"
+      "menu": 3
     },
     {
       "id": 4,
       "name": "Mann Group",
       "description": "Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.\n\nMorbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.",
       "capacity": 35,
-      "menu": "res1"
+      "menu": 1
     },
     {
       "id": 5,
       "name": "Leannon Group",
       "description": "Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.\n\nCras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",
       "capacity": 92,
-      "menu": "res2"
+      "menu": 2
     }
   ],
   "menus": [
     {
-      "menu1": [
+      "id": 1,
+      "menu": [
         {
           "id": 1,
           "name": "Doilies - 7, Paper",
@@ -54,7 +55,8 @@
       ]
     },
     {
-      "res2": [
+      "id": 2,
+      "menu": [
         {
           "id": 1,
           "name": "Wine - Red, Black Opal Shiraz",
@@ -76,7 +78,8 @@
       ]
     },
     {
-      "res3": [
+      "id": 3,
+      "menu": [
         {
           "id": 1,
           "name": "Yoplait - Strawbrasp Peac",
