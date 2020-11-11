@@ -19,19 +19,21 @@
       "name": "Ledner-Hartmann",
       "description": "Phasellus in felis. Donec semper sapien a libero. Nam dui.",
       "capacity": 94,
-      "menu": "res4"
+      "menu": "res3"
     },
     {
       "id": 4,
       "name": "Mann Group",
       "description": "Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.\n\nMorbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.",
-      "capacity": 35
+      "capacity": 35,
+      "menu": "res1"
     },
     {
       "id": 5,
       "name": "Leannon Group",
       "description": "Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.\n\nCras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",
-      "capacity": 92
+      "capacity": 92,
+      "menu": "res2"
     }
   ],
   "menus": [
