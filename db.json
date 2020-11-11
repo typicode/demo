@@ -1,5 +1,5 @@
 {
-  "restaurants": [
+  "restaurants":
     [{
       "id": 1,
       "name": "Hills, Beatty and Cassin",
@@ -28,9 +28,8 @@
       "name": "Leannon Group",
       "description": "Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.\n\nCras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",
       "capacity": 92
-    }]
-  ],
-  "menus": {
+    }],
+  "menus": [
     "res1": [
       {
         "id": 1,
@@ -82,5 +81,5 @@
         "description": "In congue. Etiam justo. Etiam pretium iaculis justo.\n\nIn hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.",
         "price": 37937
       }]
-  }
+  ]
 }
