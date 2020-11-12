@@ -118,25 +118,29 @@
       "id": "12ASDF",
       "person": "Luis Martinez",
       "hour": "12:00 PM",
-      "date": "28/4/2020"
+      "date": "28/4/2020",
+      "quantity": 10
     },
     {
       "id": "13SDF",
       "person": "Laura Gonzales",
       "hour": "4:00 PM",
-      "date": "22/4/2020"
+      "date": "22/4/2020",
+      "quantity": 2
     },
     {
       "id": "16DFSDF",
       "person": "Augusto Echeverria",
       "hour": "12:00 PM",
-      "date": "21/4/2020"
+      "date": "21/4/2020",
+      "quantity": 4
     },
     {
       "id": "32SDFD",
       "person": "Sara Ruiz",
       "hour": "12:00 PM",
-      "date": "30/4/2020"
+      "date": "30/4/2020",
+      "quantity": 5
     }
   ]
 }
