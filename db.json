@@ -1,14 +1,18 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+[
+    {
+        "login": "Francois2344",
+        "avatar": "https://avatars3.githubusercontent.com/u/67748446?s=460&u=9c933b928bc3ca58263b71cb89ee5040ef072935&v=4"
+    }
+    ,{
+        "login": "Loicbdev",
+        "avatar": "https://avatars3.githubusercontent.com/u/70198199?s=460&u=162a5629c7523ba2cf49ec8ffe6eb472eb41cc62&v=4"
+    }
+    ,{
+        "login": "thomas37000",
+        "avatar": "https://avatars3.githubusercontent.com/u/31045816?s=460&u=a8919d32da52b9ca6a97c1f63d93539b106f0fea&v=4"
+    }
+    ,{
+        "login": "Baptiste-Gfy",
+        "avatar": "https://avatars1.githubusercontent.com/u/55758403?s=460&u=d46426b41abe8bc877b9be9f445f7b23897d644f&v=4"
+    }
+]
