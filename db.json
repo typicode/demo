@@ -1,14 +1,10 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "movies": [
+    { "id": 1, "title": "gone with the wind" ,"actors":[{"pacino"},{"decaprio"}],"director":"scorsezi","genre":"drama","rating":3,"links":"129.234.14.63"},
+    { "id": 2, "title": "dark" ,"actors":[{"cillian murphy"}],"director":"hanzo","genre":"action","rating":4,"links":"129.234.14.63"},
+    { "id": 3, "title": "power","actors":[{"pacino"},{"deniro"}],"director":"tommy lee","genre":"comedy","rating":1,"links":"129.234.14.63" },
+    { "id": 4, "title": "unhealthy obsession","actors":[{"pacino"}],"director":"hasan","genre":"romance","rating":5,"links":"129.234.14.63" },
+    { "id": 5, "title": "railroad country","actors":[{"pacino"},{"decaprio"},{"tom hardy"}],"director":"scorsezi","genre":"thriller","rating":2,"links":"129.234.14.63" }
+  ]
+ 
 }
