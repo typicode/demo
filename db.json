@@ -2,7 +2,40 @@
   "posts": [
     { "id": 1, "title": "Post 1" },
     { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+    { "id": 3, "title": "Post 3" },
+    {"data":{
+"NrbCpDateReceiptDataUISS":null,
+"UsrINN":"7116025938",
+"usrCompanyGroup":null,
+"Owner":null,
+"UsrAbsID":null,
+"UsrKPP":null,
+"Address":null,
+"SparkID":null,
+"Name":"ПАО \"НОРЭ\"",
+"NrbCpFullNameUISS":null,
+"Industry":null,
+"NrbCpDateStart":null,
+"web":null,
+"UsrClientType":null,
+"DomSegment":null,
+"id":null,
+"email":null,
+"Comment":"123",
+"Address0":null,
+"NrbCpisgk":false,
+"alternativename":"ПАО \"НОРЭ\"",
+"NrbCpKindActivity":null,
+"NrbCpRelatedBorrowersGroup":null,
+"phone":null,
+"NrbCpSegment":null,
+"nrbCPidCD":"35182689"
+},
+"sourceSystem":"cd",
+"correlationId":"dae7c1ba-11b1-4db2-826e-49e8b68375d0",
+"type":"ACCOUNT",
+"createdOn":"2020-11-25T11:14:21.306Z"
+}
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
