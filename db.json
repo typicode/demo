@@ -10,5 +10,27 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "RNProducts": [
+        {
+          "id": 1,
+          "productName": 'Moto G5',
+          "quantity": 2,
+        },
+        {
+          "id": 2,
+          "productName": 'Racold Geyser',
+          "quantity": 3,
+        },
+        {
+          "id": 3,
+          "productName": 'Dell Inspiron',
+          "quantity": 1,
+        },
+        {
+          "id": 4,
+          "productName": 'Logitech Keyboard',
+          "quantity": 4,
+        },
+      ],
 }
