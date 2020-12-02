@@ -1,14 +1,47 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  rooms: [
+        { room: 100, x: 500, y: 60, clear: true, full: false, type: "DT" },
+        { room: 101, x: 450, y: 165, clear: false, full: false, type: "DD" },
+        { room: 102, x: 555, y: 165, clear: true, full: true, type: "DD" },
+        { room: 103, x: 350, y: 375, clear: false, full: true, type: "PT" },
+        { room: 104, x: 665, y: 375, clear: true, full: true, type: "DT" },
+        { room: 105, x: 300, y: 480, clear: true, full: true, type: "DT" },
+        { room: 106, x: 405, y: 480, clear: false, full: false, type: "DT" },
+        { room: 107, x: 615, y: 480, clear: true, full: false, type: "DD" },
+        { room: 108, x: 720, y: 480, clear: false, full: false, type: "PT" },
+        { room: 109, x: 400, y: 270, clear: true, full: false, type: "DT" },
+        { room: 110, x: 505, y: 270, clear: true, full: true, type: "PT" },
+        { room: 111, x: 610, y: 270, clear: true, full: false, type: "PT" },
+        { room: 112, x: 455, y: 375, clear: false, full: true, type: "DD" },
+        { room: 113, x: 560, y: 375, clear: true, full: true, type: "DT" },
+        { room: 114, x: 510, y: 480, clear: true, full: true, type: "PT" }
+      ],
+      dropdown_btn: [
+        { title: "Set inspected" },
+        { title: "Set clean" },
+        { title: "Set dirty" },
+        { title: "Make OOO" },
+        { title: "Cancel OOO" },
+        { title: "View message" },
+        { title: "Print message" },
+        { title: "Print Regcard" },
+        { title: "Change Folio" },
+        { title: "Checkin" },
+        { title: "WalkIn" },
+        { title: "Posting" },
+        { title: "Keycard" },
+        { title: "Properties" },
+        { title: "Power controls" }
+      ],
+      types: [
+        "Hotel Map",
+        "Premium Twin",
+        "Premium Double",
+        "Deluxe Twin",
+        "Deluxe Double",
+        "Suite",
+        "Junior Suite",
+        "Senior Suite",
+        "Connecting"
+      ]
 }
