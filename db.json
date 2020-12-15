@@ -1,14 +1,56 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+{           
+  "Category": [               
+    {             
+      "CategoryID": 1,            
+      "CategoryName": "歴史的",            
+      "CategoryImagePath": "/category/history.png"            
+    },              
+    {             
+      "CategoryID": 2,            
+      "CategoryName": "仮想通貨",           
+      "CategoryImagePath": "/category/virtualcurrency.png"            
+    }             
+  ],                
+  "SmallCategory": [                
+    {             
+      "SmallCategoryID": 1,           
+      "CategoryID": 3,            
+      "SmallCategoryName": "雇用統計",            
+      "SmallCategoryImagePath": "/category/child/employment.png"            
+    },              
+    {             
+      "SmallCategoryID": 2,           
+      "CategoryID": 3,            
+      "SmallCategoryName": "政策金利",            
+      "SmallCategoryImagePath": "/category/child/policies.png"            
+    }             
+  ],                
+  "Event": [                
+    {             
+      "EventID": "0001",            
+      "EventTitle": "イベント1",            
+      "CategoryID": 1,            
+      "SmallCategoryID": null,            
+      "ChartStartDate": "Fri Oct 09 01:23:45 UTC 2020",           
+      "ChartEndDate": "Fri Oct 09 10:23:45 UTC 2020",           
+      "CurrencyPairID": "0001",           
+      "Image": "data:image/jpeg;base64,GPwK+yysuW1mTZNyvdB6LicPkrgd8OV/…………….9k=",            
+      "InfoExplanation": "インフォメーション文",            
+      "LaterPlayFlag": 1,           
+      "AlreadyPlayedFlag": 0            
+    },              
+    {             
+      "EventID": "0002",            
+      "EventTitle": "イベント2",            
+      "CategoryID": 3,            
+      "SmallCategoryID": 1,           
+      "ChartStartDate": "Fri Oct 09 01:23:45 UTC 2020",           
+      "ChartEndDate": "Fri Oct 09 10:23:45 UTC 2020",           
+      "CurrencyPairID": "0001",           
+      "Image": "data:image/jpeg;base64,GPwK+yysuW1mTZNyvdB6LicPkrgd8OV/…………….9k=",            
+      "InfoExplanation": "インフォメーション文",            
+      "LaterPlayFlag": 1,           
+      "AlreadyPlayedFlag": 1            
+    }             
+  ]               
+}                 
