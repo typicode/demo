@@ -1,14 +1,21 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "employees": [
+    
+    {"firstname": "Afnan",
+      "age": 22,
+      "mail", "ak@gmail.com"
+    },
+    {"firstname": "Khanu",
+      "age": 23,
+      "mail", "ak1@gmail.com"
+    },
+    {"firstname": "Malangg",
+      "age": 24,
+      "mail", "ak2@gmail.com"
+    },
+    {"firstname": "Pathan",
+      "age": 25,
+      "mail", "ak3@gmail.com"
+    },
+  ]
 }
