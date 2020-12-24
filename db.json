@@ -1,14 +1,90 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "fas": [
+{
+"postId": 1,
+"id": 1, 
+"imgTarget": "assets/images/fa1img.png",
+"name": "山村美嘉",
+"postition": "チーフ・ファイナンシャルアドバイザー",
+"monetization": "無料",
+"rating": 4.5,
+"reviewCount": 742,
+"tags": "世界分散投資,相続対策,ビジネスマッチング",
+"recommended": true
+},  
+{
+"postId": 2,
+"id": 2,
+"imgTarget": "assets/images/fa2img.png",
+"name": "高橋 J 義明",
+"postition": "チーフ・ファイナンシャルアドバイザー",
+"monetization": "有料",
+"rating": 4,
+"reviewCount": 1281,
+"tags": "日本株大型日本,グローバル,事業継承",
+"recommended": true
+},
+{
+     "postId": 3,
+      "id": 3,
+      "imgTarget": "assets/images/fa2img.png",
+      "name": "高橋 J 義明",
+      "postition": "チーフ・ファイナンシャルアドバイザー",
+      "monetization": "有料",
+      "rating": 4,
+      "reviewCount": 1281,
+      "tags": "日本株大型日本,グローバル,事業継承",
+      "recommended": true
+},
+{
+      "postId": 4,
+      "id": 4,
+      "imgTarget": "assets/images/fa3img.png",
+      "name": "谷村俊平",
+      "postition": "ファイナンシャルアドバイザー",
+      "rating": 4.5,
+      "reviewCount": 235,
+      "tags": "資産形成,iDeCo"
+},
+{
+      "postId": 5,
+      "id": 5,
+      "imgTarget": "assets/images/fa4img.png",
+      "name": "北川亜季奈",
+      "postition": "ライフプランナー",
+      "rating": 3,
+      "reviewCount": 436,
+      "tags": "生命保険,ライフプラン"
+},
+{
+     "postId":6,
+      "id": 6,
+      "imgTarget": "assets/images/fa6img.png",
+      "name": "北川亜季奈",
+      "postition": "ライフプランナー",
+      "rating": 3,
+      "reviewCount": 436,
+      "tags": "生命保険,ライフプラン"
+},
+{
+     "postId": 7,
+      "id": 7,
+      "imgTarget": "assets/images/fa7img.png",
+      "name": "北川亜季奈",
+      "postition": "ライフプランナー",
+      "rating": 3,
+      "reviewCount": 436,
+      "tags": "生命保険,ライフプラン"
+    },
+{
+      "postId": 8,
+      "id": 8,
+      "imgTarget": "assets/images/fa8img.png",
+      "name": "北川亜季奈",
+      "postition": "ライフプランナー",
+      "rating": 3,
+      "reviewCount": 436,
+      "tags": "生命保険,ライフプラン"
+    }
+]
 }
