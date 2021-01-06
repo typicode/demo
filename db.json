@@ -8,7 +8,13 @@
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
+  "trainers": [
+    { "id": 1, "name": "Jessica", "description": "From Sammamish" },
+    { "id": 2, "name": "Erika", "description": "From Nashville" },
+    { "id": 3, "name": "Vivian", "description": "Loves K-pop" },    
+    { "id": 4, "name": "Amanda", "description": "Fitness person" }
+  ],
   "profile": {
     "name": "typicode"
-  }
+  },
 }
