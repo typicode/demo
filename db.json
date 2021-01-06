@@ -14,6 +14,7 @@
   "trainers": [
     { "id": 1, "name": "Jessica", "description": "From Sammamish" },
     { "id": 2, "name": "Erika", "description": "From Nashville" },
-    { "id": 3, "name": "Vivian", "description": "Loves K-pop" }
+    { "id": 3, "name": "Vivian", "description": "Loves K-pop" },    
+    { "id": 4, "name": "Amanda", "description": "Fitness person" }
   ],
 }
