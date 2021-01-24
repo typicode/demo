@@ -1,14 +1,12 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+    "-MNQo55Aw0tLdwahMZMK" : [
+  {    "adresa" : "Gogoljeva 39, Novi Sad"},
+  {"datumRodjenja" : "1994-10-22"},
+{"email" : "ppetrovic@webd.com"},
+{"ime" : "Petar"},
+{"password" : "petar123"},
+{"prezime" : "Petrović"},
+{"telefon" : "061456456"},
+{"username" : "petar"}
+]
 }
