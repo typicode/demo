@@ -9,8 +9,8 @@
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
   "modes" : [
-    { "id" : 1, "mode": "run" },
-    { "id" : 2, "mode": "stop" }
+    { "id" : 0, "mode": "run" },
+    { "id" : 1, "mode": "stop" }
   ],
   "profile": {
     "name": "typicode"
