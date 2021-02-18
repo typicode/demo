@@ -1,10 +1,7 @@
 {
   "image":"https://google.com",
   "RenewalDate":"17/02/2021",
-  "title":"test",
-  "RecipientName":"Debashis",
-  "jobtitle":"Developer",
+  "Email":"debashisdash@test.com",
   "companyname":"My Org",
-  "salesorg":"CCPA",
   "SAPCode":"1120345"
 }
