@@ -1,7 +1,7 @@
 {
   "notification": [
-    { "image": "google.com", "renewaldate": "17/02/2021","sapcode": "112345","companyname": "Google India","salesorg":"ESI","email":"debashis@test.com"},
-    { "image": "github.com", "renewaldate": "16/02/2021","sapcode": "112346","companyname": "HP India","salesorg":"LLY","email":"ram@test.com"}
+    { "image": "google.com", "renewaldate": "17/02/2021","sapcode": "112345","companyname": "Google India","salesorg":"ESI","email":"debashis@test.com","recipientName":"debashis"},
+    { "image": "github.com", "renewaldate": "16/02/2021","sapcode": "112346","companyname": "HP India","salesorg":"LLY","email":"ram@test.com","recipientname":"Ram"}
   ]
   
 }
