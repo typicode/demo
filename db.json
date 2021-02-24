@@ -4,26 +4,7 @@
          "accountnumber":"1005388680",
          "companyid":"LRA",
          "name":"ABC Crop"
-      },
-      "renewalnotice":{
-         "notice":{
-            "item":[
-               {
-                  "id":"0004582083",
-                  "referencenumber":"0050916486",
-                  "noticedate":"2020-06-28",
-                  "renewaldate":"2020-09-28",
-                  "url":"http"
-               },
-               {
-                  "id":"0004582081",
-                  "referencenumber":"0050916487",
-                  "noticedate":"2020-06-28",
-                  "renewaldate":"2020-09-28",
-                  "url":"http"
-               }
-            ]
-         }
       }
+      
    }
 }
