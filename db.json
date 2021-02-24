@@ -1,7 +1,29 @@
 {
-  "notification": [
-    { "image": "google.com", "renewaldate": "17/02/2021","sapcode": "112345","companyname": "Google India","salesorg":"ESI","email":"debashis@test.com","recipientname":"debashis"},
-    { "image": "github.com", "renewaldate": "16/02/2021","sapcode": "112346","companyname": "HP India","salesorg":"LLY","email":"ram@test.com","recipientname":"Ram"}
-  ]
-  
+   "renewalnoticedeatils":{
+      "account":{
+         "accountnumber":"1005388680",
+         "companyid":"LRA",
+         "name":"ABC Crop"
+      },
+      "renewalnotice":{
+         "notice":{
+            "item":[
+               {
+                  "id":"0004582083",
+                  "referencenumber":"0050916486",
+                  "noticedate":"2020-06-28",
+                  "renewaldate":"2020-09-28",
+                  "url":"http"
+               },
+               {
+                  "id":"0004582081",
+                  "referencenumber":"0050916487",
+                  "noticedate":"2020-06-28",
+                  "renewaldate":"2020-09-28",
+                  "url":"http"
+               }
+            ]
+         }
+      }
+   }
 }
