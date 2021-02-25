@@ -1,14 +1,66 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+const data = {
+  products: [
+    {
+      _id: "4",
+      name: "Casio Premium Watch",
+      category: "watch",
+      image: "product.jpg",
+      price: "120",
+      brand: "casio",
+      ratings: "4",
+      reviews: 57,
+      description:
+        "dsjlhberk ghtrb rtj bjrthb ltjbg lk lsdkb ld sltjb ljsdb lkjj eb",
+    },
+    {
+      _id: "2",
+      name: "Casio dfh fg Watch",
+      category: "watch",
+      image: "product.jpg",
+      price: "120",
+      brand: "casio",
+      ratings: "4",
+      reviews: 57,
+      description:
+        "dsjlhberk ghtrb rtj bjrthb ltjbg lk lsdkb ld sltjb ljsdb lkjj eb",
+    },
+    {
+      _id: "3",
+      name: "Casio erqweer  Watch",
+      category: "watch",
+      image: "product.jpg",
+      price: "120",
+      brand: "casio",
+      ratings: "4",
+      reviews: 57,
+      description:
+        "dsjlhberk ghtrb rtj bjrthb ltjbg lk lsdkb ld sltjb ljsdb lkjj eb",
+    },
+    {
+      _id: "1",
+      name: "Casio kfhdgfhg Watch",
+      category: "watch",
+      image: "product.jpg",
+      price: "120",
+      brand: "casio",
+      ratings: "4",
+      reviews: 57,
+      description:
+        "dsjlhberk ghtrb rtj bjrthb ltjbg lk lsdkb ld sltjb ljsdb lkjj eb",
+    },
+    {
+      _id: "5",
+      name: "Casio qwere Watch",
+      category: "watch",
+      image: "product.jpg",
+      price: "120",
+      brand: "casio",
+      ratings: "4",
+      reviews: 57,
+      description:
+        "dsjlhberk ghtrb rtj bjrthb ltjbg lk lsdkb ld sltjb ljsdb lkjj eb",
+    },
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+};
+
+export default data;
