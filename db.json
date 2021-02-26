@@ -1,59 +1,48 @@
 {
-   "renewalnoticedeatils": {
-      "account": {
-         "accountnumber": "1005388680",
-         "companyid": "LRA",
-         "name": "ABC Crop"
+  "renewalDeatils": {
+    "item": [
+      {
+        "accountNumber": "1005388680",
+        "SalesOrg": "LRA",
+        "CompanynName": "Company Name",
+        "id": "0004582083",
+        "referenceNumber": "0050916486",
+        "noticeDate": "2020-06-28",
+        "renewalDate": "2020-09-28",
+        "url": "http://opentextprod.int.thomsonreuters.com:8080/archive?get&pVersion=0045&contRep=BP&docId=0050569B51261EDB9DD40A93AC96B63E",
+        "title": "Mr",
+        "recipientName": "Eric Jane",
+        "jobTitle": "Sr Account Rep",
+        "email": "Eric.Jane@abc.com"
       },
-      "renewalnotice": {
-         "notice": {
-            "item": [
-               {
-                  "id": "0004582080",
-                  "referencenumber": "0050916486",
-                  "noticedate": "2020-06-28",
-                  "renewaldate": "2020-09-28",
-                  "url": "http",
-                  "title": "Mr",
-                  "recipientname": "Eric Jane",
-                  "jobtitle": "Sr Account Rep",
-                  "email": "Eric.Jane@abc.com"
-               },
-               {
-                  "id": "0004582081",
-                  "referencenumber": "0050916487",
-                  "noticedate": "2020-06-29",
-                  "renewaldate": "2020-09-28",
-                  "url": "http",
-                  "title": "Mr",
-                  "recipientname": "Thomas Alvin",
-                  "jobtitle": "Account Rep",
-                  "email": "Thomas.Alvin@abc.com"
-               },
-               {
-                  "id": "0004582082",
-                  "referencenumber": "0050916487",
-                  "noticedate": "2020-06-30",
-                  "renewaldate": "2020-09-28",
-                  "url": "http",
-                  "title": "Mr",
-                  "recipientname": "Nick Alvin",
-                  "jobtitle": "Account Rep",
-                  "email": "Nick.Alvin@abc.com"
-               },
-               {
-                  "id": "0004582083",
-                  "referencenumber": "0050916487",
-                  "noticedate": "2020-06-31",
-                  "renewaldate": "2020-09-28",
-                  "url": "http",
-                  "title": "Mr",
-                  "recipientname": "John Abraham",
-                  "jobtitle": "Account Rep",
-                  "email": "John.Abraham@abc.com"
-               }
-            ]
-         }
+      {
+        "accountNumber": "1005388680",
+        "SalesOrg": "LRA",
+        "CompanynName": "Company Name",
+        "id": "0004582083",
+        "referenceNumber": "0050916481",
+        "noticeDate": "2020-06-27",
+        "renewalDate": "2020-09-28",
+        "url": "http://opentextprod.int.thomsonreuters.com:8080/archive?get&pVersion=0045&contRep=BP&docId=0050569B51261EDB9DD40A93AC96B63E",
+        "title": "Mr",
+        "recipientName": "Alwin Thomas",
+        "jobTitle": "Sr Account Rep",
+        "email": "Alwin.Thomas@abc.com"
+      },
+       {
+        "accountNumber": "1005388681",
+        "SalesOrg": "LRA",
+        "CompanynName": "Company Name",
+        "id": "0004582083",
+        "referenceNumber": "0050916481",
+        "noticeDate": "2020-06-29",
+        "renewalDate": "2020-09-28",
+        "url": "http://opentextprod.int.thomsonreuters.com:8080/archive?get&pVersion=0045&contRep=BP&docId=0050569B51261EDB9DD40A93AC96B63E",
+        "title": "Mr",
+        "recipientName": "Alwin Thomas",
+        "jobTitle": "Sr Account Rep",
+        "email": "Alwin.Thomas@abc.com"
       }
-   }
+    ]
+  }
 }
