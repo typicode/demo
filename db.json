@@ -14,34 +14,6 @@
         "recipientName": "Eric Jane",
         "jobTitle": "Sr Account Rep",
         "email": "Eric.Jane@abc.com"
-      },
-      {
-        "accountNumber": "1005388680",
-        "SalesOrg": "LRA",
-        "CompanyName": "Company Name",
-        "id": "0004582083",
-        "referenceNumber": "0050916481",
-        "noticeDate": "2020-06-27",
-        "renewalDate": "2020-09-28",
-        "url": "http://opentextprod.int.thomsonreuters.com:8080/archive?get&pVersion=0045&contRep=BP&docId=0050569B51261EDB9DD40A93AC96B63E",
-        "title": "Mr",
-        "recipientName": "Alwin Thomas",
-        "jobTitle": "Sr Account Rep",
-        "email": "Alwin.Thomas@abc.com"
-      },
-       {
-        "accountNumber": "1005388681",
-        "SalesOrg": "LRA",
-        "CompanyName": "Company Name",
-        "id": "0004582083",
-        "referenceNumber": "0050916481",
-        "noticeDate": "2020-06-29",
-        "renewalDate": "2020-09-28",
-        "url": "http://opentextprod.int.thomsonreuters.com:8080/archive?get&pVersion=0045&contRep=BP&docId=0050569B51261EDB9DD40A93AC96B63E",
-        "title": "Mr",
-        "recipientName": "Alwin Thomas",
-        "jobTitle": "Sr Account Rep",
-        "email": "Alwin.Thomas@abc.com"
       }
     ]
   }
