@@ -1,14 +1,72 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+[
+    {
+        "Name" : "John",
+        "ID" : 123450,
+        "Skills" : "ReactJS, Angualr, JS",
+        "Project" : "Cognizant Internal",
+        "HCM" : "Alex"
+    },
+    {
+        "Name" : "Mike",
+        "ID" : 123451,
+        "Skills" : "ReactJS, Angualr, JS",
+        "Project" : "Cognizant Internal",
+        "HCM" : "Alex"
+    },
+    {
+        "Name" : "Satish",
+        "ID" : 123452,
+        "Skills" : "ReactJS, Angualr, JS",
+        "Project" : "Cognizant Internal",
+        "HCM" : "Alex"
+    },
+    {
+        "Name" : "Bose",
+        "ID" : 123450,
+        "Skills" : "ReactJS, Angualr, JS",
+        "Project" : "Cognizant Internal",
+        "HCM" : "Alex"
+    },
+    {
+        "Name" : "Rhonda",
+        "ID" : 123450,
+        "Skills" : "ReactJS, Angualr, JS",
+        "Project" : "Cognizant Internal",
+        "HCM" : "Alex"
+    },
+    {
+        "Name" : "Jinny",
+        "ID" : 123450,
+        "Skills" : "ReactJS, Angualr, JS",
+        "Project" : "Cognizant Internal",
+        "HCM" : "Alex"
+    },
+    {
+        "Name" : "Claire",
+        "ID" : 123450,
+        "Skills" : "ReactJS, Angualr, JS",
+        "Project" : "Cognizant Internal",
+        "HCM" : "Alex"
+    },
+    {
+        "Name" : "Dan",
+        "ID" : 123450,
+        "Skills" : "ReactJS, Angualr, JS",
+        "Project" : "Cognizant Internal",
+        "HCM" : "Alex"
+    },
+    {
+        "Name" : "Rafael",
+        "ID" : 123450,
+        "Skills" : "ReactJS, Angualr, JS",
+        "Project" : "Cognizant Internal",
+        "HCM" : "Alex"
+    },
+    {
+        "Name" : "Roger",
+        "ID" : 123450,
+        "Skills" : "ReactJS, Angualr, JS",
+        "Project" : "Cognizant Internal",
+        "HCM" : "Alex"
+    }
+]
