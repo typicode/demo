@@ -1,0 +1,12 @@
+[
+    {
+        "Ma_so": "NV01",
+        "Ho_ten": "Nhân viên 01",
+        "Ten_dang_nhap": "NV01",
+        "Mat_khau": "NV01",
+        "Nhom_nguoi_dung": {
+            "Ma_so": "NVBH",
+            "Ten": "Quản Lý"
+        }
+    }
+]
