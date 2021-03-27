@@ -1,14 +1,114 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+    "Sheet1": [
+        {
+            "id": "productCard1",
+            "title-product": "t-shirt",
+            "price": "1099",
+            "priceAfterDisc": "599",
+            "imgName": "cart1",
+            "new": "TRUE",
+            "rating": "4",
+            "imageOfProduct": "https://raw.githubusercontent.com/mubarakhusain/images-for-website-skilllync/main/Group%202579%402x.png"
+        },
+        {
+            "id": "productCard2",
+            "title-product": "awsm-t",
+            "price": "1055",
+            "priceAfterDisc": "899",
+            "imgName": "cart2",
+            "new": "FALSE",
+            "rating": "5",
+            "imageOfProduct": "https://raw.githubusercontent.com/mubarakhusain/images-for-website-skilllync/main/Group%202579%402x.png"
+        },
+        {
+            "id": "productCard3",
+            "title-product": "red-tank",
+            "price": "1063",
+            "priceAfterDisc": "799",
+            "imgName": "cart3",
+            "new": "FALSE",
+            "rating": "4",
+            "imageOfProduct": "https://raw.githubusercontent.com/mubarakhusain/images-for-website-skilllync/main/Group%202579%402x.png"
+        },
+        {
+            "id": "productCard4",
+            "title-product": "hello",
+            "price": "1544",
+            "priceAfterDisc": "799",
+            "imgName": "cart4",
+            "new": "TRUE",
+            "rating": "4",
+            "imageOfProduct": "https://raw.githubusercontent.com/mubarakhusain/images-for-website-skilllync/main/Group%202579%402x.png"
+        },
+        {
+            "id": "productCard5",
+            "title-product": "hey-t",
+            "price": "999",
+            "priceAfterDisc": "699",
+            "imgName": "cart5",
+            "new": "TRUE",
+            "rating": "4",
+            "imageOfProduct": "https://raw.githubusercontent.com/mubarakhusain/images-for-website-skilllync/main/Group%202579%402x.png"
+        },
+        {
+            "id": "productCard6",
+            "title-product": "shirt-me",
+            "price": "1288",
+            "priceAfterDisc": "899",
+            "imgName": "cart6",
+            "new": "FALSE",
+            "rating": "4",
+            "imageOfProduct": "https://raw.githubusercontent.com/mubarakhusain/images-for-website-skilllync/main/Group%202579%402x.png"
+        },
+        {
+            "id": "productCard7",
+            "title-product": "kurtas-es ",
+            "price": "1967",
+            "priceAfterDisc": "999",
+            "imgName": "cart7",
+            "new": "FALSE",
+            "rating": "5",
+            "imageOfProduct": "https://raw.githubusercontent.com/mubarakhusain/images-for-website-skilllync/main/Group%202579%402x.png"
+        },
+        {
+            "id": "productCard8",
+            "title-product": "my-hodie",
+            "price": "1333",
+            "priceAfterDisc": "899",
+            "imgName": "cart8",
+            "new": "TRUE",
+            "rating": "5",
+            "imageOfProduct": "https://raw.githubusercontent.com/mubarakhusain/images-for-website-skilllync/main/Group%202579%402x.png"
+        },
+        {
+            "id": "productCard9",
+            "title-product": "shirt-wow",
+            "price": "1255",
+            "priceAfterDisc": "799",
+            "imgName": "cart9",
+            "new": "TRUE",
+            "rating": "5",
+            "imageOfProduct": "https://raw.githubusercontent.com/mubarakhusain/images-for-website-skilllync/main/Group%202579%402x.png"
+        },
+        {
+            "id": "productCard10",
+            "title-product": "t-top",
+            "price": "1456",
+            "priceAfterDisc": "699",
+            "imgName": "cart10",
+            "new": "FALSE",
+            "rating": "5",
+            "imageOfProduct": "https://raw.githubusercontent.com/mubarakhusain/images-for-website-skilllync/main/Group%202579%402x.png"
+        },
+        {
+            "id": "productCard11",
+            "title-product": "aws-shirt",
+            "price": "1099",
+            "priceAfterDisc": "599",
+            "imgName": "cart11",
+            "new": "FALSE",
+            "rating": "5",
+            "imageOfProduct": "https://raw.githubusercontent.com/mubarakhusain/images-for-website-skilllync/main/Group%202579%402x.png"
+        }
+    ]
 }
