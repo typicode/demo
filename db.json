@@ -1,14 +1,25 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
+[
+  {
+    "id": 1,
+    "name": "Dr. John Doe",
+    "gender": "m",
+    "org": "Kings London Hospital",
+    "availibility": {
+      "sun": "10:00 AM - 06:00 PM",
+      "wed": "06:00 PM - 09:00 PM"
+    },
+    "visitDurationInMin": 15
+  },
+  {
+    "id": 2,
+    "name": "Dr. Mary Ellis",
+    "gender": "f",
+    "org": "ABC Hospital",
+    "availibility": {
+      "sun": "10:00 AM - 06:00 PM",
+      "mon": "09:00 PM - 11:00 PM",
+      "thu": "11:00 AM - 02:00 PM"
+    },
+    "visitDurationInMin": 15
   }
-}
+]
