@@ -1,8 +1,9 @@
-{
+sd{
   "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+    { "id": 1, "Name": "Mayur Shinde" },
+    { "id": 2, "Name": "Aishwarya" },
+    { "id": 3, "Name": "chaitnya" }
+    { "id": 4, "Name": "Yash" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
