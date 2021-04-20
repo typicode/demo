@@ -1,14 +1,22 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+[
+  {
+    "tenTruyen":"Kishuku Gakkou No Juliet",
+    "tenChap":"Chapter 24.2",
+    "linkAnh":"https://hinhnendephd.com/wp-content/uploads/2019/07/hinh-nen-anime-boy-cute-lanh-lung-dang-yeu-cho-iphone-1.jpg"
+    },
+  {
+    "tenTruyen":"Công Chúa Pháo Hôi Muốn Tùy Tiện Đến Cùng",
+    "tenChap":"Chapter 83",
+    "linkAnh":"https://st.imageinstant.net/data/comics/191/cong-chua-phao-hoi-muon-tuy-tien-den-cun-2805.jpg"
+    },
+  {
+    "tenTruyen":"Công Lược Trưởng Thành Của Vương Phi",
+    "tenChap":"Chapter 111",
+    "linkAnh":"https://st.imageinstant.net/data/comics/168/cong-luoc-truong-thanh-cua-vuong-phi.jpg"
+    },
+  {
+    "tenTruyen":"Vua Sinh Tồn",
+    "tenChap":"Chapter 76",
+    "linkAnh":"https://3.bp.blogspot.com/-SZp0rjc6udI/W27dOU44XoI/AAAAAAAAYoM/T9MzAUxGfsw9O4KpPELkd9DBFMrytnHjQCHMYCw/vua-sinh-ton"
+    }
+]
