@@ -1,14 +1,443 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+var characterLinks = {
+	en: {
+		title: "CHaRAcTeRS",
+		joker : {
+			image: 'img/characters/joker_framed.jpg',
+			fbimage: 'img/characters/joker.png',
+			name: 'Codename: Joker',
+			desc: 'His Persona awakened in the midst of a series of psychotic-breakdown incidents. This lead to the creation of the "Phantom Thieves of Hearts," dedicated to changing the hearts of rotten adults and responsible for foiling a menacing conspiracy.<br><br>Joker has high attack power and mobility, darting in with his dagger for quick close-range attacks.'
+		},
+		morgana : {
+			image: 'img/characters/morgana_framed.jpg',
+			fbimage: 'img/characters/morgana.png',
+			name: 'Codename: Mona',
+			desc: 'A talking black cat(?) that the protagonist rescued in the Metaverse who has stuck with him ever since. He guides the Phantom Thieves and also acts as their mascot.<br><br>Mona wields a shortsword. He is an agile fighter who can unleash attacks both on the ground and in the air. He can also lock onto multiple enemies using his slingshot.'
+		},	
+		makoto : {
+			image: 'img/characters/makoto_framed.jpg',
+			fbimage: 'img/characters/makoto.png',
+			name: 'Codename: Queen',
+			desc: 'Though not as strict and serious as she was as the student council president of Shujin Academy, she still acts as an older sister figure to the Phantom Thieves.<br><br>Queen is a close-range fighter who uses her fists as her weapons. She can use various skills while riding on her bike-shaped Persona. In addition, her attacks have the Burst feature, giving them a nuclear element. Her gun is a revolver, which allows her to fire quickly.'
+		},
+		futaba : {
+			image: 'img/characters/futaba_framed.jpg',
+			fbimage: 'img/characters/futaba.png',
+			name: 'Codename: Oracle',
+			desc: 'A super hacker who once caused chaos across the world, she is a support specialist for the Phantom Thieves and acts as their navigator.<br><br>Oracle doesn\'t fight in battle, but navigates for the Phantom Thieves by analyzing their surroundings and enemy data. By observing combat situations, she can report the team\'s ailments, discover the weaknesses of enemies, and chart the team\'s movements.'
+		},	
+		sophia : {
+			image: 'img/characters/sophia_framed.jpg',
+			fbimage: 'img/characters/sophia.png',
+			name: 'Codename: Sophie',
+			desc: 'A mysterious girl that the thieves meet in the Shibuya Metaverse. She seems to have lost her memories, and the only thing she can recall is her directive to "become humanity\'s companion."<br><br>Sophie uses a yo-yo to quickly attack a large number of enemies. She uses a blaster for her Gun attacks.'
+		},	
+		yusuke : {
+			image: 'img/characters/yusuke_framed.jpg',
+			fbimage: 'img/characters/yusuke.png',
+			name: 'Codename: Fox',
+			desc: 'Although he\'s handsome at first glance, he\'s so devoted to his craft that he sometimes lacks common sense, baffling those around him.<br><br>Fox wields a katana. He boasts high attack power and, thanks to his speed, can strike an enemy multiple times. He can unleash a flurry of attacks, and even counter as he sheathes his sword. His gun, a rifle, allows him to aim at enemies with ease and accuracy.'
+		},		
+		haru : {
+			image: 'img/characters/haru_framed.jpg',
+			fbimage: 'img/characters/haru.png',
+			name: 'Codename: Noir',
+			desc: 'A girl with a strong sense of justice, who also has a naive side and calls herself "Beauty Thief."<br><br>In contrast to her refined appearance, Haru wields an axe when fighting. She can connect her Psychokinesis and Gun attacks to her regular attacks. Her gun, a grenade launcher, has high attack power and range.'
+		},			
+		ryuji : {
+			image: 'img/characters/ryuji_framed.jpg',
+			fbimage: 'img/characters/ryuji.png',
+			name: 'Codename: Skull',
+			desc: 'Despite his short temper, he is a courageous young man with a good heart who will do anything for his allies and those who have suffered abuse.<br><br>Boasting high attack and defense, Skull can rush headfirst into battle. Charge up your attacks to increase their damage and range. Skull\'s shotgun can also be charged to increase its damage output.'
+		},			
+		anne : {
+			image: 'img/characters/anne_framed.jpg',
+			fbimage: 'img/characters/anne.png',
+			name: 'Codename: Panther',
+			desc: 'A kind soul who protects the weak and stands against evil with her willpower.<br><br>Panther wields a whip in battle. Her attacks have a wide range and can hit multiple enemies. She can also ignite her whip with flames and add the Fire element to her attacks. She uses a machine gun, which has ample ammo and can use rapid fire.'
+		},			
+		zenkichi : {
+			image: 'img/characters/zenkichi_framed.jpg',
+			fbimage: 'img/characters/zenkichi.png',
+			name: 'Zenkichi Hasegawa',
+			desc: 'An investigator in Tokyo\'s Public Security branch who was dispatched from the Kyoto Police Dept. To get to the bottom of the Change of Heart incidents in Japan, he seeks out the Phantom Thieves and offers to make a "deal" with them. Though he may appear easygoing on the outside, Zenkichi is a ruthless investigator who will stop at nothing to accomplish his goals.'
+		}
+	},	
+	au: {
+		title: "CHaRAcTeRS",
+		joker : {
+			image: 'img/characters/joker_framed.jpg',
+			fbimage: 'img/characters/joker.png',
+			name: 'Codename: Joker',
+			desc: 'His Persona awakened in the midst of a series of psychotic-breakdown incidents. This lead to the creation of the "Phantom Thieves of Hearts," dedicated to changing the hearts of rotten adults and responsible for foiling a menacing conspiracy.<br><br>Joker has high attack power and mobility, darting in with his dagger for quick close-range attacks.'
+		},
+		morgana : {
+			image: 'img/characters/morgana_framed.jpg',
+			fbimage: 'img/characters/morgana.png',
+			name: 'Codename: Mona',
+			desc: 'A talking black cat(?) that the protagonist rescued in the Metaverse who has stuck with him ever since. He guides the Phantom Thieves and also acts as their mascot.<br><br>Mona wields a shortsword. He is an agile fighter who can unleash attacks both on the ground and in the air. He can also lock onto multiple enemies using his slingshot.'
+		},	
+		makoto : {
+			image: 'img/characters/makoto_framed.jpg',
+			fbimage: 'img/characters/makoto.png',
+			name: 'Codename: Queen',
+			desc: 'Though not as strict and serious as she was as the student council president of Shujin Academy, she still acts as an older sister figure to the Phantom Thieves.<br><br>Queen is a close-range fighter who uses her fists as her weapons. She can use various skills while riding on her bike-shaped Persona. In addition, her attacks have the Burst feature, giving them a nuclear element. Her gun is a revolver, which allows her to fire quickly.'
+		},
+		futaba : {
+			image: 'img/characters/futaba_framed.jpg',
+			fbimage: 'img/characters/futaba.png',
+			name: 'Codename: Oracle',
+			desc: 'A super hacker who once caused chaos across the world, she is a support specialist for the Phantom Thieves and acts as their navigator.<br><br>Oracle doesn\'t fight in battle, but navigates for the Phantom Thieves by analyzing their surroundings and enemy data. By observing combat situations, she can report the team\'s ailments, discover the weaknesses of enemies, and chart the team\'s movements.'
+		},	
+		sophia : {
+			image: 'img/characters/sophia_framed.jpg',
+			fbimage: 'img/characters/sophia.png',
+			name: 'Codename: Sophie',
+			desc: 'A mysterious girl that the thieves meet in the Shibuya Metaverse. She seems to have lost her memories, and the only thing she can recall is her directive to "become humanity\'s companion."<br><br>Sophie uses a yo-yo to quickly attack a large number of enemies. She uses a blaster for her Gun attacks.'
+		},	
+		yusuke : {
+			image: 'img/characters/yusuke_framed.jpg',
+			fbimage: 'img/characters/yusuke.png',
+			name: 'Codename: Fox',
+			desc: 'Although he\'s handsome at first glance, he\'s so devoted to his craft that he sometimes lacks common sense, baffling those around him.<br><br>Fox wields a katana. He boasts high attack power and, thanks to his speed, can strike an enemy multiple times. He can unleash a flurry of attacks, and even counter as he sheathes his sword. His gun, a rifle, allows him to aim at enemies with ease and accuracy.'
+		},		
+		haru : {
+			image: 'img/characters/haru_framed.jpg',
+			fbimage: 'img/characters/haru.png',
+			name: 'Codename: Noir',
+			desc: 'A girl with a strong sense of justice, who also has a naive side and calls herself "Beauty Thief."<br><br>In contrast to her refined appearance, Haru wields an axe when fighting. She can connect her Psychokinesis and Gun attacks to her regular attacks. Her gun, a grenade launcher, has high attack power and range.'
+		},			
+		ryuji : {
+			image: 'img/characters/ryuji_framed.jpg',
+			fbimage: 'img/characters/ryuji.png',
+			name: 'Codename: Skull',
+			desc: 'Despite his short temper, he is a courageous young man with a good heart who will do anything for his allies and those who have suffered abuse.<br><br>Boasting high attack and defense, Skull can rush headfirst into battle. Charge up your attacks to increase their damage and range. Skull\'s shotgun can also be charged to increase its damage output.'
+		},			
+		anne : {
+			image: 'img/characters/anne_framed.jpg',
+			fbimage: 'img/characters/anne.png',
+			name: 'Codename: Panther',
+			desc: 'A kind soul who protects the weak and stands against evil with her willpower.<br><br>Panther wields a whip in battle. Her attacks have a wide range and can hit multiple enemies. She can also ignite her whip with flames and add the Fire element to her attacks. She uses a machine gun, which has ample ammo and can use rapid fire.'
+		},			
+		zenkichi : {
+			image: 'img/characters/zenkichi_framed.jpg',
+			fbimage: 'img/characters/zenkichi.png',
+			name: 'Zenkichi Hasegawa',
+			desc: 'An investigator in Tokyo\'s Public Security branch who was dispatched from the Kyoto Police Dept. To get to the bottom of the Change of Heart incidents in Japan, he seeks out the Phantom Thieves and offers to make a "deal" with them. Though he may appear easygoing on the outside, Zenkichi is a ruthless investigator who will stop at nothing to accomplish his goals.'
+		}
+	},	
+	uk: {
+		title: "CHaRAcTeRS",
+		joker : {
+			image: 'img/characters/joker_framed.jpg',
+			fbimage: 'img/characters/joker.png',
+			name: 'Codename: Joker',
+			desc: 'His Persona awakened in the midst of a series of psychotic-breakdown incidents. This lead to the creation of the "Phantom Thieves of Hearts," dedicated to changing the hearts of rotten adults and responsible for foiling a menacing conspiracy.<br><br>Joker has high attack power and mobility, darting in with his dagger for quick close-range attacks.'
+		},
+		morgana : {
+			image: 'img/characters/morgana_framed.jpg',
+			fbimage: 'img/characters/morgana.png',
+			name: 'Codename: Mona',
+			desc: 'A talking black cat(?) that the protagonist rescued in the Metaverse who has stuck with him ever since. He guides the Phantom Thieves and also acts as their mascot.<br><br>Mona wields a shortsword. He is an agile fighter who can unleash attacks both on the ground and in the air. He can also lock onto multiple enemies using his slingshot.'
+		},	
+		makoto : {
+			image: 'img/characters/makoto_framed.jpg',
+			fbimage: 'img/characters/makoto.png',
+			name: 'Codename: Queen',
+			desc: 'Though not as strict and serious as she was as the student council president of Shujin Academy, she still acts as an older sister figure to the Phantom Thieves.<br><br>Queen is a close-range fighter who uses her fists as her weapons. She can use various skills while riding on her bike-shaped Persona. In addition, her attacks have the Burst feature, giving them a nuclear element. Her gun is a revolver, which allows her to fire quickly.'
+		},
+		futaba : {
+			image: 'img/characters/futaba_framed.jpg',
+			fbimage: 'img/characters/futaba.png',
+			name: 'Codename: Oracle',
+			desc: 'A super hacker who once caused chaos across the world, she is a support specialist for the Phantom Thieves and acts as their navigator.<br><br>Oracle doesn\'t fight in battle, but navigates for the Phantom Thieves by analyzing their surroundings and enemy data. By observing combat situations, she can report the team\'s ailments, discover the weaknesses of enemies, and chart the team\'s movements.'
+		},	
+		sophia : {
+			image: 'img/characters/sophia_framed.jpg',
+			fbimage: 'img/characters/sophia.png',
+			name: 'Codename: Sophie',
+			desc: 'A mysterious girl that the thieves meet in the Shibuya Metaverse. She seems to have lost her memories, and the only thing she can recall is her directive to "become humanity\'s companion."<br><br>Sophie uses a yo-yo to quickly attack a large number of enemies. She uses a blaster for her Gun attacks.'
+		},	
+		yusuke : {
+			image: 'img/characters/yusuke_framed.jpg',
+			fbimage: 'img/characters/yusuke.png',
+			name: 'Codename: Fox',
+			desc: 'Although he\'s handsome at first glance, he\'s so devoted to his craft that he sometimes lacks common sense, baffling those around him.<br><br>Fox wields a katana. He boasts high attack power and, thanks to his speed, can strike an enemy multiple times. He can unleash a flurry of attacks, and even counter as he sheathes his sword. His gun, a rifle, allows him to aim at enemies with ease and accuracy.'
+		},		
+		haru : {
+			image: 'img/characters/haru_framed.jpg',
+			fbimage: 'img/characters/haru.png',
+			name: 'Codename: Noir',
+			desc: 'A girl with a strong sense of justice, who also has a naive side and calls herself "Beauty Thief."<br><br>In contrast to her refined appearance, Haru wields an axe when fighting. She can connect her Psychokinesis and Gun attacks to her regular attacks. Her gun, a grenade launcher, has high attack power and range.'
+		},			
+		ryuji : {
+			image: 'img/characters/ryuji_framed.jpg',
+			fbimage: 'img/characters/ryuji.png',
+			name: 'Codename: Skull',
+			desc: 'Despite his short temper, he is a courageous young man with a good heart who will do anything for his allies and those who have suffered abuse.<br><br>Boasting high attack and defense, Skull can rush headfirst into battle. Charge up your attacks to increase their damage and range. Skull\'s shotgun can also be charged to increase its damage output.'
+		},			
+		anne : {
+			image: 'img/characters/anne_framed.jpg',
+			fbimage: 'img/characters/anne.png',
+			name: 'Codename: Panther',
+			desc: 'A kind soul who protects the weak and stands against evil with her willpower.<br><br>Panther wields a whip in battle. Her attacks have a wide range and can hit multiple enemies. She can also ignite her whip with flames and add the Fire element to her attacks. She uses a machine gun, which has ample ammo and can use rapid fire.'
+		},			
+		zenkichi : {
+			image: 'img/characters/zenkichi_framed.jpg',
+			fbimage: 'img/characters/zenkichi.png',
+			name: 'Zenkichi Hasegawa',
+			desc: 'An investigator in Tokyo\'s Public Security branch who was dispatched from the Kyoto Police Dept. To get to the bottom of the Change of Heart incidents in Japan, he seeks out the Phantom Thieves and offers to make a "deal" with them. Though he may appear easygoing on the outside, Zenkichi is a ruthless investigator who will stop at nothing to accomplish his goals.'
+		}
+	},	
+	fr: {
+		title: " PErSONnAgES",
+		joker : {
+			image: 'img/characters/joker_framed.jpg',
+			fbimage: 'img/characters/joker.png',
+			name: 'Nom de code : Joker',
+			desc: 'Sa Persona s\'est éveillée durant les incidents liés aux frénésies et ruptures psychiques. Il est le leader des "Voleurs fantômes de cœurs", groupe ayant pour objectif de changer le cœur des adultes corrompus et ayant déjà déjoué une sombre conspiration. <br><br>Joker est doté d\'une attaque et d\'une mobilité élevées. Il fonce sur ses ennemis et exécute des attaques rapides au corps-à-corps avec sa dague.'
+		},
+		morgana : {
+			image: 'img/characters/morgana_framed.jpg',
+			fbimage: 'img/characters/morgana.png',
+			name: 'Nom de code : Mona',
+			desc: 'Un chat noir doué de parole (?) que le héros a sauvé dans le métavers et qui le suit désormais partout. Il guide les Voleurs fantômes et leur fait office de mascotte.<br><br>Mona est armé d\'une épée courte. Ce combattant agile peut déclencher des attaques en l\'air comme au sol. Il est également capable de cibler plusieurs ennemis avec sa fronde.'
+		},	
+		makoto : {
+			image: 'img/characters/makoto_framed.jpg',
+			fbimage: 'img/characters/makoto.png',
+			name: 'Nom de code : Queen',
+			desc: 'Moins sévère et sérieuse qu\'elle ne l\'était en tant que présidente du conseil des élèves de la Shujin Academy, elle se comporte néanmoins comme une grande sœur pour les Voleurs fantômes.<br><br>Queen se bat au corps-à-corps, avec ses poings. Elle peut monter sur sa Persona en forme de moto pour utiliser de nombreuses techniques. De plus, ses attaques ont une propriété explosive, ce qui leur confère l\'élément nucléaire. Son arme à feu est un revolver, ce qui lui permet de tirer rapidement.'
+		},
+		futaba : {
+			image: 'img/characters/futaba_framed.jpg',
+			fbimage: 'img/characters/futaba.png',
+			name: 'Nom de code : Oracle',
+			desc: 'Une super hackeuse ayant déjà semé le chaos dans le monde. Futaba fait office de navigatrice pour les Voleurs fantômes en leur apportant son soutien dans les missions.<br><br>Elle ne participe pas aux combats mais aide les Voleurs fantômes à se diriger en analysant leur environnement et les données de l\'ennemi. Observer les situations de combat lui permet de repérer les altérations qu\'a subies l\'équipe, les points faibles de l\'ennemi et de planifier les mouvements de ses équipiers.'
+		},	
+		sophia : {
+			image: 'img/characters/sophia_framed.jpg',
+			fbimage: 'img/characters/sophia.png',
+			name: 'Nom de code : Sophie',
+			desc: 'Fille énigmatique que les voleurs rencontrent dans le métavers de Shibuya. Elle semble avoir perdu la mémoire, à l\'exception d\'une injonction : "devenir l\'amie de l\'humanité."<br><br>Sophie se sert d\'un yo-yo pour exécuter des attaques rapides sur un grand nombre d\'ennemis à la fois. Elle utilise également un blaster comme arme à feu.'
+		},	
+		yusuke : {
+			image: 'img/characters/yusuke_framed.jpg',
+			fbimage: 'img/characters/yusuke.png',
+			name: 'Nom de code : Fox',
+			desc: 'Bien fait de sa personne, Fox est cependant entièrement dédié à son art et manque parfois de bon sens, au grand étonnement de ses compagnons.<br><br>Il est armé d\'un katana. Ses attaques sont puissantes et sa rapidité lui permet de frapper un ennemi à plusieurs reprises. Il peut également infliger une rafale d\'attaques, lui permettant de contrer même après avoir rengainé son épée. Son arme à feu, un fusil, lui permet d\'atteindre ses cibles avec facilité et précision.'
+		},		
+		haru : {
+			image: 'img/characters/haru_framed.jpg',
+			fbimage: 'img/characters/haru.png',
+			name: 'Nom de code : Noir',
+			desc: 'Cette jeune fille au sens de la justice très développé a un côté naïf et se fait appeler "Belle voleuse".<br><br>Contrastant avec son look raffiné, Haru se bat avec une hache. Elle est capable de combiner ses attaques psychokinétiques et à l\'arme à feu à ses coups ordinaires. Son arme à feu, un lance-grenades, a une puissance et une portée élevées.'
+		},			
+		ryuji : {
+			image: 'img/characters/ryuji_framed.jpg',
+			fbimage: 'img/characters/ryuji.png',
+			name: 'Nom de code : Skull',
+			desc: 'Bien que de nature irritable, ce jeune homme courageux a du cœur et ferait n\'importe quoi pour venir en aide à ses alliés comme à toutes les personnes victimes de maltraitance.<br><br>Excellent en attaque comme en défense, Skull n\'hésite pas à se jeter la tête la première au coeur du combat. Chargez vos attaques pour augmenter leurs dégâts et leur portée. Le fusil à pompe de Skull peut être chargé pour infliger encore plus de dégâts.'
+		},			
+		anne : {
+			image: 'img/characters/anne_framed.jpg',
+			fbimage: 'img/characters/anne.png',
+			name: 'Nom de code : Panther',
+			desc: 'Une âme charitable qui protège les faibles et s\'oppose au mal avec une volonté de fer.<br><br>Panther est armée d\'un fouet. Ses attaques ont une grande portée et peuvent toucher plusieurs ennemis à la fois. Elle peut également enflammer son fouet et ainsi ajouter l\'élément Feu à ses attaques. Elle possède aussi une mitrailleuse bien chargée en munitions et dotée d\'un tir rapide.'
+		},			
+		zenkichi : {
+			image: 'img/characters/zenkichi_framed.jpg',
+			fbimage: 'img/characters/zenkichi.png',
+			name: 'Zenkichi Hasegawa',
+			desc: 'Cet inspecteur du commissariat de Kyoto a été muté à la Sécurité publique de Tokyo. Il recrute les Voleurs fantômes et leur propose un marché afin de percer le mystère des incidents qui se répandent dans tout le Japon. S\'il semble plutôt détendu, Zenkichi n\'en est pas moins un enquêteur intraitable, prêt à tout pour mener à bien sa mission.'
+		}		
+	},	
+	it: {
+		title: "PErSONaGgI",
+		joker : {
+			image: 'img/characters/joker_framed.jpg',
+			fbimage: 'img/characters/joker.png',
+			name: 'Nome in codice: Joker',
+			desc: 'La sua Persona si è risvegliata durante una serie di raptus improvvisi. Questo ha portato alla nascita dei "Ladri Fantasma di Cuori", intenzionati a risvegliare i cuori degli adulti corrotti e impegnati nella lotta contro una malvagia cospirazione.<br><br>Joker vanta un attacco e una mobilità elevati, e sfrutta un pugnale per mettere a segno rapidi colpi ravvicinati.'
+		},
+		morgana : {
+			image: 'img/characters/morgana_framed.jpg',
+			fbimage: 'img/characters/morgana.png',
+			name: 'Nome in codice: Mona',
+			desc: 'Un gatto nero parlante (?) salvato dal protagonista nel Metaverso e rimasto al suo fianco da allora. Guida i Ladri Fantasma vestendo anche i panni della loro mascotte. Mona impugna una spada corta. È un combattente agile in grado di attaccare sia a terra che in aria. Può anche agganciare più nemici con la sua fionda.'
+		},	
+		makoto : {
+			image: 'img/characters/makoto_framed.jpg',
+			fbimage: 'img/characters/makoto.png',
+			name: 'Nome in codice: Queen',
+			desc: 'Pur non essendo più rigida come quando era la presidentessa del consiglio studentesco della Shujin Academy, si comporta ancora come la sorella maggiore dei Ladri Fantasma.<br><br>Queen è una combattente corpo a corpo che si affida ai pugni. Quando è in sella alla sua Persona simile a una moto, può usare diverse abilità. Inoltre, i suoi attacchi possono sfruttare Detonazione, ottenendo le proprietà dell\'elemento Nucleare. Come arma da fuoco usa un revolver, che le permette di sparare molto rapidamente.'
+		},
+		futaba : {
+			image: 'img/characters/futaba_framed.jpg',
+			fbimage: 'img/characters/futaba.png',
+			name: 'Nome in codice: Oracle',
+			desc: 'Super hacker che tempo prima aveva gettato il mondo nel caos, è la specialista di supporto dei Ladri Fantasma e veste il ruolo di navigatrice.<br><br>Oracle non combatte, ma guida i Ladri Fantasma analizzando i nemici e l\'ambiente circostante. Osservando le situazioni di combattimento, può scoprire le alterazioni di stato del gruppo, le debolezze dei nemici e tracciare i movimenti della squadra.'
+		},	
+		sophia : {
+			image: 'img/characters/sophia_framed.jpg',
+			fbimage: 'img/characters/sophia.png',
+			name: 'Nome in codice: Sophie',
+			desc: 'Una ragazza misteriosa incontrata dai Ladri nel Metaverso di Shibuya. A quanto pare ha perso la memoria e ricorda solo una direttiva: "diventare l\'amica dell\'umanità".<br><br>Sophie usa uno yo-yo per attaccare rapidamente un gran numero di nemici. La sua arma da fuoco è un disintegratore.'
+		},	
+		yusuke : {
+			image: 'img/characters/yusuke_framed.jpg',
+			fbimage: 'img/characters/yusuke.png',
+			name: 'Nome in codice: Fox',
+			desc: 'Anche se a prima vista è affascinante, è così devoto all\'arte da essere quasi privo di buon senso, aspetto che in molti trovano sconcertante.Fox impugna una katana. Ha una potenza d\'attacco notevole e grazie alla sua velocità può colpire più volte i nemici. Può scatenare una raffica di attacchi e contrattaccare anche dopo aver rinfoderato la spada. Grazie alla sua arma da fuoco, un fucile, può prendere di mira i nemici con grande precisione.'
+		},		
+		haru : {
+			image: 'img/characters/haru_framed.jpg',
+			fbimage: 'img/characters/haru.png',
+			name: 'Nome in codice: Noir',
+			desc: 'Una ragazza dal forte senso di giustizia e dotata di un lato ingenuo che ama farsi chiamare "la Splendida Ladra".<br><br>In netto contrasto con il suo aspetto raffinato, in battaglia Haru impugna un\'ascia. Può potenziare i colpi normali con la Psicocinesi e gli attacchi con le armi da fuoco. La sua arma da fuoco, un lanciagranate, vanta una potenza e una gittata notevoli.'
+		},			
+		ryuji : {
+			image: 'img/characters/ryuji_framed.jpg',
+			fbimage: 'img/characters/ryuji.png',
+			name: 'Nome in codice: Skull',
+			desc: 'Nonostante l\'irascibilità, è un ragazzo coraggioso e di buon cuore che farebbe qualunque cosa per i suoi alleati e per le vittime di abusi.<br><br>Dotato di un attacco e una difesa notevoli, Skull può gettarsi a capofitto in battaglia. Carica i tuoi attacchi per incrementarne i danni e il raggio. Anche il fucile di Skull può essere caricato per incrementare i danni.'
+		},			
+		anne : {
+			image: 'img/characters/anne_framed.jpg',
+			fbimage: 'img/characters/anne.png',
+			name: 'Nome in codice: Panther',
+			desc: 'Una figura gentile che protegge i deboli e affronta i malvagi con una grande forza di volontà.<br><br>Panther combatte con una frusta. I suoi attacchi hanno una portata notevole e possono colpire più nemici alla volta. Può anche incendiare la frusta aggiungendo agli attacchi l\'elemento Fuoco. Usa una mitragliatrice dal caricatore capiente e dalla cadenza di fuoco notevole.'
+		},			
+		zenkichi : {
+			image: 'img/characters/zenkichi_framed.jpg',
+			fbimage: 'img/characters/zenkichi.png',
+			name: 'Zenkichi Hasegawa',
+			desc: 'Un investigatore della polizia di Kyoto che è stato trasferito al dipartimento della pubblica sicurezza di Tokyo. Per venire a capo degli incidenti dei risvegli del cuore in Giappone, scova i Ladri Fantasma e offre loro di stringere un "accordo". Anche se a prima vista potrebbe sembrare un tipo alla mano, Zenkichi è un investigatore spietato disposto a tutto pur di raggiungere il proprio obiettivo.'
+		}		
+	},	
+	de: {
+		title: "CHaRAkTeRE",
+		joker : {
+			image: 'img/characters/joker_framed.jpg',
+			fbimage: 'img/characters/joker.png',
+			name: 'Codename: Joker',
+			desc: 'Seine Persona erwachte inmitten mehrerer Vorfälle von psychotischen Störungen in der Öffentlichkeit. Dies führte zur Gründung der „Herz-Phantomdiebe“ - einer Gruppe von Teenagern, die Sinneswandel bei verdorbenen Erwachsenen herbeiführten, und dabei eine bedrohliche Verschwörung aufdeckten.<br><br>Joker verfügt über hohe Angriffskraft und Beweglichkeit. Mit seinem Dolch eignet er sich für schnelle Nahkampfattacken.'
+		},
+		morgana : {
+			image: 'img/characters/morgana_framed.jpg',
+			fbimage: 'img/characters/morgana.png',
+			name: 'Codename: Mona',
+			desc: 'Ein schwarzer Kater (?), der sprechen kann. Der Protagonist rettete ihn im Meta-Universum, seitdem halten die beiden zusammen. Er ist eine Art Maskottchen der Phantomdiebe und steht ihnen mit Rat zur Seite.<br><br>Mona führt ein Kurzschwert. Als gewandter Kämpfer attackiert er am Boden wie in der Luft. Mit seiner Schleuder kann er ebenfalls mehrere Gegner anvisieren.'
+		},	
+		makoto : {
+			image: 'img/characters/makoto_framed.jpg',
+			fbimage: 'img/characters/makoto.png',
+			name: 'Codename: Queen',
+			desc: 'Auch wenn die ehemalige Präsidentin des Schülerrats an der Shujin-Akademie mittlerweile nicht mehr so strink ist, ist sie für die anderen Phantomdiebe immer noch wie eine ältere Schwester.<br><br>Im Nahkampf lässt Queen ihre Fäuste sprechen. Fährt sie mit ihrer Motorrad-Persona, kann sie diverse Skills einsetzen. Das Nuklearelement verleiht ihren Angriffen zusätzlich Schub. Mit ihrem Revolver feuert sie Schüsse in rascher Folge ab.'
+		},
+		futaba : {
+			image: 'img/characters/futaba_framed.jpg',
+			fbimage: 'img/characters/futaba.png',
+			name: 'Codename: Navi',
+			desc: 'Als Superhackerin sorgte sie überall für Chaos. Jetzt unterstützt sie die Phantomdiebe aus der Ferne und agiert als ihre Navigatorin.<br><br>Oracle kämpft zwar nicht selbst, dafür aber analysiert sie die Umgebung und den Gegner. So hilft sie den Phantomdieben bei der Orientierung. Als Beobachterin in der Schlacht erkennt sie die Statuseffekte des Teams sowie die gegnerischen Schwächen und bietet entsprechend taktische Hilfe.'
+		},	
+		sophia : {
+			image: 'img/characters/sophia_framed.jpg',
+			fbimage: 'img/characters/sophia.png',
+			name: 'Codename: Sophie',
+			desc: 'Ein geheimnisvolles Mädchen, dem die Phantomdiebe im Meta-Universum von Shibuya begegneten. Sie scheint ihr Gedächtnis verloren zu haben. Alles, woran sie sich erinnert, ist die Anweisung, „zur Begleiterin der Menschheit“ zu werden. <br><br>Mit ihrem Jo-Jo trifft Sophie blitzschnell eine große Anzahl von Gegnern. Für Schussangriffe feuert sie mit einem Blaster.'
+		},	
+		yusuke : {
+			image: 'img/characters/yusuke_framed.jpg',
+			fbimage: 'img/characters/yusuke.png',
+			name: 'Codename: Fox',
+			desc: 'Ein gutaussehender wie leidenschaftlicher Künstler, dessen Vorstellungskraft manchmal die Grenzen des Alltags sprengt, sodass er seine Freunde verblüfft und bisweilen verwirrt.<br><br>Fox schwingt ein Katana. Dank seiner Schnelligkeit kann er mit hoher Angriffskraft einen Gegner gleich mehrmals treffen. Mit seinem Wirbelangriff kontert er den Gegner, selbst wenn er sein Katana bereits wieder eingesteckt hat. Die Schüsse aus seinem Gewehr treffen die Gegner mit präziser Leichtigkeit.'
+		},		
+		haru : {
+			image: 'img/characters/haru_framed.jpg',
+			fbimage: 'img/characters/haru.png',
+			name: 'Codename: Noir',
+			desc: 'Ein unbefangenes Mädchen mit einem ausgeprägten Sinn für Gerechtigkeit. Sie nennt sich selbst „Diebische Schönheit“.<br><br>In Kontrast zu ihrem ausgesuchten Outfit schwingt Haru im Kampf eine Axt. Sie ist in der Lage, ihre Psychokinese- und Schusswaffen-Attacken mit ihrem normalen Angriff zu kombinieren. Ihr Granatwerfer verfügt über hohe Angriffskraft und Reichweite.'
+		},			
+		ryuji : {
+			image: 'img/characters/ryuji_framed.jpg',
+			fbimage: 'img/characters/ryuji.png',
+			name: 'Codename: Skull',
+			desc: 'Ein mutiger Teenager mit reinem Herzen, der schnell mal die Beherrschung verliert. Für seine Verbündeten und im Kampf gegen die Unterdrückung würde er alles geben.<br><br>Da sein Angriff und seine Verteidigung gleich stark sind, kann er sich kopfüber in die Schlacht stürzen. Mit aufgeladenen Angriffen fügt er mehr Schaden auf höherer Reichweite zu. Die Schüsse seiner Schrotflinte lassen sich ebenfalls aufladen, so bewirken sie mehr Schaden.'
+		},			
+		anne : {
+			image: 'img/characters/anne_framed.jpg',
+			fbimage: 'img/characters/anne.png',
+			name: 'Codename: Panther',
+			desc: 'Eine gütige Seele. Sie beschützt die Schwachen und setzt all ihre Willenskraft im Kampf gegen das Böse ein.<br><br>Im Kampf schwingt Panther eine Peitsche. Ihre Angriffe treffen auf hohe Reichweite mehrere Gegner. Sie kann ihre Peitsche entzünden und so die Gegner mit dem Element Feuer attackieren. Ihr Maschinengewehr weist reichlich Munition auf und schießt per Schnellfeuer.'
+		},			
+		zenkichi : {
+			image: 'img/characters/zenkichi_framed.jpg',
+			fbimage: 'img/characters/zenkichi.png',
+			name: 'Zenkichi Hasegawa',
+			desc: 'Ein Ermittler der Polizei von Kyoto, der ebenfalls zur Abteilung für Public Security von Tokio gehört.<br><br>Um den ungewöhnlichen Vorfällen von Sinneswandeln in Japan auf den Grund zu gehen, spürt er die Phantomdiebe auf und schlägt ihnen eine Abmachung vor. Nach außen hin wirkt Zenkichi eher lässig, als gnadenloser Ermittler schreckt er jedoch vor nichts zurück, um seine Ziele zu erreichen.'
+		}		
+	},	
+	es: {
+		title: "PErSOnAJeS",
+		joker : {
+			image: 'img/characters/joker_framed.jpg',
+			fbimage: 'img/characters/joker.png',
+			name: 'Nombre en clave: Joker',
+			desc: 'Su Persona despertó en mitad de una serie de episodios de descontrol. Esto llevó a la creación de «Los Ladrones Fantasma de Corazones», un grupo que se dedicaba a despertar los corazones de los adultos corruptos y desbarató una temible conspiración.<br><br>Joker cuenta con un poder de ataque y una movilidad excepcionales, y se desplaza rápidamente con su daga para propinar veloces ataques cuerpo a cuerpo.'
+		},
+		morgana : {
+			image: 'img/characters/morgana_framed.jpg',
+			fbimage: 'img/characters/morgana.png',
+			name: 'Nombre en clave: Mona',
+			desc: 'Un gato (¿?) negro parlante que el protagonista rescató en el Metaverso. Ha estado con él desde entonces. Guía a los Ladrones Fantasma y también actúa como su mascota.<br><br>Mona empuña una espada corta. Es un luchador ágil que puede atacar tanto en el suelo como en el aire. También puede apuntar a varios enemigos a la vez con su tirachinas.'
+		},	
+		makoto : {
+			image: 'img/characters/makoto_framed.jpg',
+			fbimage: 'img/characters/makoto.png',
+			name: 'Nombre en clave: Queen',
+			desc: 'Ya no es tan estricta y seria como cuando era la presidenta del consejo estudiantil del Instituto Shujin, pero para los Ladrones Fantasma sigue siendo la voz de la razón.<br><br>Queen es una luchadora cuerpo a cuerpo que usa sus puños como arma. Puede utilizar varias habilidades mientras conduce su Persona con forma de moto. Además, sus ataques cuentan con la característica Explosión, que les otorga el elemento nuclear. Su arma a distancia es un revólver que le permite disparar a gran velocidad.'
+		},
+		futaba : {
+			image: 'img/characters/futaba_framed.jpg',
+			fbimage: 'img/characters/futaba.png',
+			name: 'Nombre en clave: Oracle',
+			desc: 'Una hacker de primera que una vez sembró el caos en el mundo. Se dedica a ayudar a los Ladrones Fantasma y hace las veces de navegador.<br><br>Oracle no participa en los combates, pero analiza los alrededores y los datos de los enemigos para guiar a los Ladrones Fantasma. Es capaz de descubrir los estados alterados del equipo, las debilidades de los enemigos y mapear los movimientos de sus aliados observando los combates.'
+		},	
+		sophia : {
+			image: 'img/characters/sophia_framed.jpg',
+			fbimage: 'img/characters/sophia.png',
+			name: 'Nombre en clave: Sophie',
+			desc: 'Una chica misteriosa a la que los Ladrones conocen en la Shibuya del Metaverso. Parece haber perdido la memoria y lo único que recuerda es la directriz de convertirse en «la aliada de la humanidad».<br><br>Sophie emplea su yoyó para atacar a gran velocidad a numerosos enemigos. También utiliza un bláster para atacar a distancia.'
+		},	
+		yusuke : {
+			image: 'img/characters/yusuke_framed.jpg',
+			fbimage: 'img/characters/yusuke.png',
+			name: 'Nombre en clave: Fox',
+			desc: 'A pesar de su apuesta apariencia, está tan obsesionado con su arte que a menudo carece de sentido común y confunde a quienes lo rodean.<br><br>Fox blande una katana. Tiene mucho poder de ataque y, gracias a su velocidad, puede golpear a un mismo enemigo varias veces. Además, puede encadenar varios espadazos, lo que le permite lanzar contraataques incluso después de envainar la espada. Su arma a distancia es un rifle, con el que puede apuntar a los enemigos con facilidad y precisión.'
+		},		
+		haru : {
+			image: 'img/characters/haru_framed.jpg',
+			fbimage: 'img/characters/haru.png',
+			name: 'Nombre en clave: Noir',
+			desc: 'Una chica con un fuerte sentido de la justicia, aunque tiene un lado inocente y se hace llamar «Bella ladrona».<br><br>A pesar de su delicada apariencia, empuña un hacha para combatir. Puede encadenar ataques psicoquinéticos y a larga distancia con sus ataques normales. Su arma a distancia, un lanzagranadas, es muy poderosa y tiene mucho rango.'
+		},			
+		ryuji : {
+			image: 'img/characters/ryuji_framed.jpg',
+			fbimage: 'img/characters/ryuji.png',
+			name: 'Nombre en clave: Skull',
+			desc: 'A pesar de su mal genio, es un joven muy valiente con un gran corazón y siempre está dispuesto a hacer lo que sea por sus amigos y por quienes sufren abusos.<br><br>Skull puede lanzarse de cabeza a la batalla gracias a su gran ataque y defensa. Carga sus ataques para aumentar su daño y su alcance. La escopeta de Skull también se puede cargar para mejorar su potencia.'
+		},			
+		anne : {
+			image: 'img/characters/anne_framed.jpg',
+			fbimage: 'img/characters/anne.png',
+			name: 'Nombre en clave: Panther',
+			desc: 'Un alma noble con una gran fuerza de voluntad que protege a los débiles y combate el mal.<br><br>Panther usa un látigo para luchar. Sus ataques abarcan un rango muy amplio y puede golpear a múltiples rivales. También puede prender el látigo y potenciar sus ataques con el elemento Fuego. Utiliza una ametralladora repleta de balas y puede disparar a gran velocidad.'
+		},			
+		zenkichi : {
+			image: 'img/characters/zenkichi_framed.jpg',
+			fbimage: 'img/characters/zenkichi.png',
+			name: 'Zenkichi Hasegawa',
+			desc: 'Un investigador del Departamento de Seguridad Ciudadana de Tokio al que echaron de la policía de Kioto. Quiere hacer un «trato» con los Ladrones Fantasma para descubrir el motivo de los despertares que asolan todo Japón. A primera vista, puede parecer un tipo relajado, pero Zenkichi es un investigador implacable que no se detiene hasta conseguir su objetivo.'
+		}		
+	}	
 }
