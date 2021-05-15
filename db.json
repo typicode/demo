@@ -1,14 +1,1 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+{"rooms":[{"name":"Room 110","capacity":12,"isAvailable":true,"location":"1st Floor"},{"name":"Room 105","capacity":2,"isAvailable":true,"location":"1st Floor"},{"name":"Room 106","capacity":2,"isAvailable":true,"location":"1st Floor"},{"name":"Room 205","capacity":1,"isAvailable":true,"location":"2nd Floor"},{"name":"Room 206","capacity":1,"isAvailable":true,"location":"2nd Floor"},{"name":"Room 207","capacity":1,"isAvailable":true,"location":"2nd Floor"},{"name":"Room 305","capacity":1,"isAvailable":true,"location":"3rd Floor"},{"name":"Room 306","capacity":1,"isAvailable":true,"location":"3rd Floor"},{"name":"Room 307","capacity":1,"isAvailable":true,"location":"3rd Floor"},{"name":"Room 308","capacity":6,"isAvailable":true,"location":"3rd Floor"}]}
