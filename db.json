@@ -1,8 +1,25 @@
 {
   "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+    {
+        "id": 1,
+        "temp": 279.946,
+        "temp_min": 279.946,
+        "temp_max": 279.946,
+        "dt": 1485717216,
+      },
+    { 
+      "id": 2,
+      "temp": 282.597,
+        "temp_min": 282.597,
+        "temp_max": 282.597,
+        "dt": 1485745061 ,
+    },
+    { "id": 3,
+     "temp": 279.38, 
+     "temp_min": 278.15,
+        "temp_max": 280.15,
+        "dt": 1485768552 ,
+    }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
