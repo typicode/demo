@@ -1,14 +1,317 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "user": [
+    {
+      "id": "b60db27-6f7-bb0-cdc6-7d4dea042ff8",
+      "email": "admin@gmail.com",
+      "password": "mohit",
+      "cpassword": "mohit"
+    },
+    {
+      "id": "e7a254-a03f-22ec-e02f-53fcac5348",
+      "email": "admin2@gmail.com",
+      "password": "mohit",
+      "cpassword": "mohit"
+    },
+    {
+      "id": "ffdc1ec-7c45-735-3827-e36b37e18",
+      "email": "admin1@gmail.com",
+      "password": "mohit",
+      "cpassword": "mohit"
+    },
+    {
+      "id": "df3764d-2a2-b5-602a-d3e117fe560",
+      "email": "admin3@gmail.com",
+      "password": "mohit",
+      "cpassword": "mohit"
+    },
+    {
+      "id": "bc25e46-bfa-6fd3-857c-234707277b3",
+      "email": "radhika@gmail.com",
+      "password": "mohit",
+      "cpassword": "mohit"
+    },
+    {
+      "id": "1a830a2-062a-10fc-fcc6-d1262e5c64d1",
+      "email": "admin5@gmail.com",
+      "password": "mohit",
+      "cpassword": "mohit"
+    }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+  "questions": [
+    {
+      "id": "0353c3-dc44-d06-61ff-268ecdf53d",
+      "userId": "e7a254-a03f-22ec-e02f-53fcac5348",
+      "mcq": {
+        "question": "How can you create an e-mail link?",
+        "option1": "<mail href=\"a@b\">",
+        "option2": "<mail>a@b</mail>",
+        "option3": "<a href=\"a@b\">",
+        "option4": "<a href=\"mailto:a@b.com\">",
+        "answer": "C"
+      },
+      "msq": {
+        "question": "Which of the following JavaScript cannot do?",
+        "option1": " JavaScript can react to events",
+        "option2": "JavaScript can manipulate HTML elements",
+        "option3": "JavaScript can be use to validate data",
+        "option4": "javascript use in designing also",
+        "answer": [
+          "A",
+          "B",
+          "C"
+        ]
+      },
+      "trueFalse": {
+        "question": "Easy data exchange great about XML!",
+        "answer": "True"
+      }
+    },
+    {
+      "id": "d1e1131-5fe6-e14-1eb-8ee1faf2116e",
+      "userId": "ffdc1ec-7c45-735-3827-e36b37e18",
+      "mcq": {
+        "question": "what is js?",
+        "option1": "html",
+        "option2": "css",
+        "option3": "js",
+        "option4": "python",
+        "answer": "C"
+      },
+      "msq": {
+        "question": "what is ml?",
+        "option1": "scss",
+        "option2": "sss",
+        "option3": "sdadsa",
+        "option4": "dsasds",
+        "answer": [
+          "B",
+          "A",
+          "C"
+        ]
+      },
+      "trueFalse": {
+        "question": "is this a mobile?",
+        "answer": ""
+      }
+    },
+    {
+      "id": "8e1a5a-b22d-018-bf8-f26f13846fe3",
+      "userId": "ffdc1ec-7c45-735-3827-e36b37e18",
+      "mcq": {
+        "question": "htmlo?",
+        "option1": "dwwdwd",
+        "option2": "wdwd",
+        "option3": "wdqwd",
+        "option4": "dwqwdqdwqw",
+        "answer": "C"
+      },
+      "msq": {
+        "question": "wwwwwwwwwwwwwww",
+        "option1": "wwwwwwwwwww",
+        "option2": "sadsdsda",
+        "option3": "dasdsa",
+        "option4": "sdadsds",
+        "answer": [
+          "B",
+          "A"
+        ]
+      },
+      "trueFalse": {
+        "question": "sddssddsa",
+        "answer": "False"
+      }
+    },
+    {
+      "id": "44bb08b-2b20-843c-66c4-fe35e146ebf",
+      "userId": "b60db27-6f7-bb0-cdc6-7d4dea042ff8",
+      "mcq": {
+        "question": "what is js?",
+        "option1": "html",
+        "option2": "css",
+        "option3": "javascript",
+        "option4": "python",
+        "answer": "C"
+      },
+      "msq": {
+        "question": "what is ml?",
+        "option1": "ai",
+        "option2": "python",
+        "option3": "machine",
+        "option4": "robot",
+        "answer": [
+          "A",
+          "C"
+        ]
+      },
+      "trueFalse": {
+        "question": "is this a mobile?",
+        "answer": "False"
+      }
+    },
+    {
+      "id": "33757-1880-1640-1fae-b8ccc6bb14a1",
+      "userId": "df3764d-2a2-b5-602a-d3e117fe560",
+      "mcq": {
+        "question": "what is js?",
+        "option1": "html",
+        "option2": "css",
+        "option3": "js",
+        "option4": "python",
+        "answer": "C"
+      },
+      "msq": {
+        "question": "what is ml?",
+        "option1": "sss",
+        "option2": "fsdds",
+        "option3": "sfdsf",
+        "option4": "dfsffds",
+        "answer": [
+          "B",
+          "A"
+        ]
+      },
+      "trueFalse": {
+        "question": "is this a mobile?",
+        "answer": "False"
+      }
+    },
+    {
+      "id": "d118e8a-7ac-4e8c-3bf-55127f873dd3",
+      "userId": "bc25e46-bfa-6fd3-857c-234707277b3",
+      "mcq": {
+        "question": "what is js?",
+        "option1": "sssf",
+        "option2": "fsdfd",
+        "option3": "fddsdsf",
+        "option4": "fdfddfs",
+        "answer": "C"
+      },
+      "msq": {
+        "question": "what is ml?",
+        "option1": "dfdf",
+        "option2": "dff",
+        "option3": "dfsd",
+        "option4": "dffdfd",
+        "answer": [
+          "A",
+          "B"
+        ]
+      },
+      "trueFalse": {
+        "question": "is this a mobile?",
+        "answer": "False"
+      }
+    },
+    {
+      "id": "45e6ae-b23b-f17e-d14a-1c247b4bcf8",
+      "userId": "b60db27-6f7-bb0-cdc6-7d4dea042ff8",
+      "mcq": {
+        "question": "what is mohit?",
+        "option1": "hello",
+        "option2": "i am",
+        "option3": "mohit",
+        "option4": "kandhari",
+        "answer": "C"
+      },
+      "msq": {
+        "question": "what is ml?",
+        "option1": "sasff",
+        "option2": "fdsas",
+        "option3": "dfasdf",
+        "option4": "fasdaf",
+        "answer": [
+          "B",
+          "C"
+        ]
+      },
+      "trueFalse": {
+        "question": "is this a mobile?",
+        "answer": ""
+      }
+    },
+    {
+      "id": "7ba6-38e0-d870-06b2-e3f788f5ff2",
+      "userId": "b60db27-6f7-bb0-cdc6-7d4dea042ff8",
+      "mcq": {
+        "question": "",
+        "option1": "",
+        "option2": "",
+        "option3": "",
+        "option4": "",
+        "answer": ""
+      },
+      "msq": {
+        "question": "",
+        "option1": "",
+        "option2": "",
+        "option3": "",
+        "option4": "",
+        "answer": []
+      },
+      "trueFalse": {
+        "question": "",
+        "answer": ""
+      }
+    }
   ],
-  "profile": {
-    "name": "typicode"
-  }
+  "answers": [
+    {
+      "questioId": "d1e1131-5fe6-e14-1eb-8ee1faf2116e",
+      "id": "2ccf56f-8841-3b41-d853-2713aa73cc8d",
+      "user": "mohit",
+      "mcqAnswer": "C",
+      "msqAnswer": [
+        "B",
+        "A"
+      ],
+      "trueFalseAnswer": "True"
+    },
+    {
+      "questioId": "44bb08b-2b20-843c-66c4-fe35e146ebf",
+      "id": "2ef7f5-d86-f8c-1bfb-7a621720bbdb",
+      "user": "mohit",
+      "mcqAnswer": "C",
+      "msqAnswer": [
+        "C",
+        "B"
+      ],
+      "trueFalseAnswer": "True"
+    },
+    {
+      "questioId": "33757-1880-1640-1fae-b8ccc6bb14a1",
+      "id": "ea6f5e-560a-b727-da46-300a3ed1d",
+      "user": "avinash",
+      "mcqAnswer": "C",
+      "msqAnswer": [
+        "B",
+        "C",
+        "D"
+      ],
+      "trueFalseAnswer": "True"
+    },
+    {
+      "questioId": "d118e8a-7ac-4e8c-3bf-55127f873dd3",
+      "id": "eed3c15-8e40-b1ce-fd84-47f821045de",
+      "user": "mohit",
+      "mcqAnswer": "B",
+      "msqAnswer": [
+        "B",
+        "C",
+        "D"
+      ],
+      "trueFalseAnswer": "True"
+    },
+    {
+      "questioId": "45e6ae-b23b-f17e-d14a-1c247b4bcf8",
+      "id": "35406ff-670f-0806-f273-b233733260b3",
+      "user": "jai ho",
+      "mcqAnswer": "C",
+      "msqAnswer": [
+        "B",
+        "A",
+        "C"
+      ],
+      "trueFalseAnswer": "True"
+    }
+  ]
 }
