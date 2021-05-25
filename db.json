@@ -1,14 +1,12 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+    "status": "BAŞARILI",
+    "message": "Kayıt Başarılı",
+    "data":{
+        "_id":"203221030",
+        "name":"Tugay",
+        "email":"tugaybaslik.59@gmail.com",
+        "password":"AhmakIslatan._23",
+        "dateOfBirth":"2001-12-12T03:04:003Z",
+        "__v":0
+    }
 }
