@@ -10,5 +10,29 @@
   ],
   "profile": {
     "name": "typicode"
+  },
+  "category" :  [{
+    "id": 1,
+    "name": "Location",
+    "photo_url":
+      "https://t3.gstatic.com/images?q=tbn:ANd9GcSc-LCLbHA_ihf9O_7sXlSg9Yz4QGSKS9-xGzirzzMPkkoOCB0PiAX3pRQ6SKM8Il3d5p_MFnlLp49uUb0h776qlQ",
+  },
+ {
+    "id": 2,
+    "name": "Location1",
+    "photo_url":
+      "https://t3.gstatic.com/images?q=tbn:ANd9GcSc-LCLbHA_ihf9O_7sXlSg9Yz4QGSKS9-xGzirzzMPkkoOCB0PiAX3pRQ6SKM8Il3d5p_MFnlLp49uUb0h776qlQ",
+  },{
+    "id": 3,
+    "name": "Location2",
+    "photo_url":
+      "https://t3.gstatic.com/images?q=tbn:ANd9GcSc-LCLbHA_ihf9O_7sXlSg9Yz4QGSKS9-xGzirzzMPkkoOCB0PiAX3pRQ6SKM8Il3d5p_MFnlLp49uUb0h776qlQ",
+  },
+  {
+    "id": 4,
+    "name": "Location3",
+    "photo_url":
+      "https://t3.gstatic.com/images?q=tbn:ANd9GcSc-LCLbHA_ihf9O_7sXlSg9Yz4QGSKS9-xGzirzzMPkkoOCB0PiAX3pRQ6SKM8Il3d5p_MFnlLp49uUb0h776qlQ",
   }
+  ]
 }
