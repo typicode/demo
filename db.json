@@ -1,14 +1,1 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+{"notificationSettings":[{"id":"dataUsage","email":true,"push":true,"text":true,"displayValues":[{"id":"NAME","value":"Data Usage"},{"id":"DETAILS","value":"Nam sit amit..."}]},{"id":"accountChanges","email":true,"push":true,"text":true,"displayValues":[{"id":"NAME","value":"Account Changes"},{"id":"DETAILS","value":"Nam sit amit..."}]},{"id":"paymentReminders","email":true,"push":true,"text":true,"displayValues":[{"id":"NAME","value":"Payment Reminders"},{"id":"DETAILS","value":"Nam sit amit..."}]},{"id":"deals","email":true,"push":true,"text":true,"displayValues":[{"id":"NAME","value":"Special Deals and More"},{"id":"DETAILS","value":"Nam sit amit..."}]}],"displayValues":[{"id":"EMAIL","value":"Email"},{"id":"PUSH","value":"Push Notifications"},{"id":"TEXT","value":"Text Messages"}]}
