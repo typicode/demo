@@ -1,14 +1,19 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "details": [
+    {
+      "id": 1,
+      "author": "John Doe",
+      "msg": "Lorem ipsum dolor sit amet. Et laboriosam vero a molestiae cumque qui libero omnis non unde maxime qui officiis minus. Id culpa temporibus aut error laudantium et error omnis et tenetur aspernatur. Ex obcaecati aut voluptatem consequatur eos possimus iure sit blanditiis."
+    },
+    {
+      "id": 2,
+      "author": "John Doe",
+      "msg": "Lorem ipsum dolor sit amet. Et laboriosam vero a molestiae cumque qui libero omnis non unde maxime qui officiis minus. Id culpa temporibus aut error laudantium et error omnis et tenetur aspernatur. Ex obcaecati aut voluptatem consequatur eos possimus iure sit blanditiis."
+    },
+    {
+      "id": 3,
+      "author": "John Doe",
+      "msg": "Lorem ipsum dolor sit amet. Et laboriosam vero a molestiae cumque qui libero omnis non unde maxime qui officiis minus. Id culpa temporibus aut error laudantium et error omnis et tenetur aspernatur. Ex obcaecati aut voluptatem consequatur eos possimus iure sit blanditiis."
+    }
+  ]
 }
