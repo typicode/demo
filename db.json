@@ -11,4 +11,9 @@
   "profile": {
     "name": "typicode"
   }
+    "tasks": [
+    { "id": 1, "text": "Post 1" },
+    { "id": 2, "text": "Post 2" },
+    { "id": 3, "text": "Post 3" }
+  ],
 }
