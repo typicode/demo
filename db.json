@@ -1,14 +1,26 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
+[
+  {
+    "transactionName": "OCLI1",
+    "pageNumber": "01",
+    "typeOperation": "Saisie1",
+    "fieldName": "Intitule intervenant1",
+    "fieldValue": "CMB TESTRPA1",
+    "dateTime": "07-01-2021"
+  },
+  {
+    "transactionName": "OCLI2",
+    "pageNumber": "02",
+    "typeOperation": "Saisie2",
+    "fieldName": "Intitule intervenant2",
+    "fieldValue": "CMB TESTRPA2",
+    "dateTime": "07-02-2021"
+  },
+  {
+    "transactionName": "OCLI3",
+    "pageNumber": "03",
+    "typeOperation": "Saisie3",
+    "fieldName": "Intitule intervenant3",
+    "fieldValue": "CMB TESTRPA",
+    "dateTime": "07-03-2021"
   }
-}
+]
