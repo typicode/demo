@@ -1,14 +1,20 @@
 {
   "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+    { "id": 1, "name": "Imam Ghazzali" },
+    { "id": 2, "name": "Ibn Taymiyyah" },
+    { "id": 3, "name": "Ibn Qayim" },
+    { "id": 4, "name": "Imam Bukhari" },
+    { "id": 5, "name": "Ibn Hajr" },
+    { "id": 6, "name": "Sufyan eth Theuri" },
+    { "id": 7, "name": "Imam Ahmed" },
+    { "id": 8, "name": "Imam Shafii" },
+    { "id": 9, "name": "Imam Malik" },
+    { "id": 10, "name": "Ibn Sina" }
+    
+   
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
+ 
   "profile": {
-    "name": "typicode"
+    "name": "imams"
   }
 }
