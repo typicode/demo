@@ -11,4 +11,8 @@
   "profile": {
     "name": "typicode"
   }
+  
+  "Clients": [
+  { "id": 1, "birthDate": "", "fullName": "Carluis Jimenez", {""}}
+  ]
 }
