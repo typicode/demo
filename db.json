@@ -1,14 +1,29 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "course": [
+    {
+      "name": "Vu Kim An",
+      "studentId": "A40076",
+      "id": 1
+    },
+    {
+      "name": "Hai An",
+      "studentId": "A1234",
+      "id": 2
+    },
+    {
+      "name": "html",
+      "studentId": "123",
+      "id": 3
+    },
+    {
+      "name": "html",
+      "studentId": "123",
+      "id": 4
+    },
+    {
+      "name": "html",
+      "studentId": "123",
+      "id": 5
+    }
+  ]
 }
