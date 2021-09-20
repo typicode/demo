@@ -15,16 +15,16 @@
     {"id": 1,"userId": 3, "name": "TRAPPA", "bs": "dn", "catchPhrase": ""}
   ],
   "posts": [
-    { "id": 1, "userId": 1, "title": "Post 1" },
-    { "id": 2, "userId": 2, "title": "Post 1" },
-    { "id": 2, "userId": 2, "title": "Post 2" },
-    { "id": 2, "userId": 2, "title": "Post 3" },
-    { "id": 2, "userId": 2, "title": "Post 4" },
-    { "id": 3, "userId": 5, "title": "Post 1" }
+    { "id": 1, "userId": 1, "title": "Post 1", "description": "many many many many many text" },
+    { "id": 1, "userId": 2, "title": "Post 1", "description": "many many many many many text" },
+    { "id": 2, "userId": 2, "title": "Post 2", "description": "many many many many many text" },
+    { "id": 3, "userId": 2, "title": "Post 3", "description": "many many many many many text" },
+    { "id": 4, "userId": 2, "title": "Post 4", "description": "many many many many many text" },
+    { "id": 1, "userId": 5, "title": "Post 1", "description": "many many many many many text" }
   ],
   "comments": [
-    { "id": 1, "text": "some comment", "postId": 1 },
-    { "id": 2, "text": "some comment", "postId": 1 }
+    {  "userId": 1, "id": 1, "text": "some comment", "postId": 1 },
+    {  "userId": 1, "id": 2, "text": "some comment", "postId": 1 }
   ],
   "albums": [
     { "id": 1, "text": "some comment", "postId": 1 },
