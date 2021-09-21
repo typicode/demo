@@ -27,12 +27,12 @@
     {  "userId": 1, "id": 2, "text": "some comment", "postId": 1 }
   ],
   "albums": [
-    { "id": 1, "title": "some comment", "userId": 1 },
-    { "id": 2, "title": "some comment", "userId": 1 },
-    { "id": 3, "title": "some comment", "userId": 1 },
-    { "id": 4, "title": "some comment", "userId": 1 },
-    { "id": 1, "title": "some comment", "userId": 2 },
-    { "id": 2, "title": "some comment", "userId": 2 }
+    { "id": 1, "title": "my 1st album", "userId": 1, "numberPhotos": 4},
+    { "id": 2, "title": "some comment", "userId": 1, "numberPhotos": 400 },
+    { "id": 3, "title": "some comment", "userId": 1, "numberPhotos": 41 },
+    { "id": 4, "title": "some comment", "userId": 1, "numberPhotos": 2 },
+    { "id": 1, "title": "some comment", "userId": 2, "numberPhotos": 15 },
+    { "id": 2, "title": "some comment", "userId": 2, "numberPhotos": 47 }
   ]
 }
 
