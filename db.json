@@ -27,8 +27,12 @@
     {  "userId": 1, "id": 2, "text": "some comment", "postId": 1 }
   ],
   "albums": [
-    { "id": 1, "text": "some comment", "postId": 1 },
-    { "id": 2, "text": "some comment", "postId": 1 }
+    { "id": 1, "title": "some comment", "userId": 1 },
+    { "id": 2, "title": "some comment", "userId": 1 },
+    { "id": 3, "title": "some comment", "userId": 1 },
+    { "id": 4, "title": "some comment", "userId": 1 },
+    { "id": 1, "title": "some comment", "userId": 2 },
+    { "id": 2, "title": "some comment", "userId": 2 }
   ]
 }
 
