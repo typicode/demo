@@ -29,9 +29,9 @@
     {  "userId": 3, "id": 1, "text": "too cool", "postId": 1 },
     {  "userId": 4, "id": 1, "text": "OMG", "postId": 1 },
     {  "userId": 5, "id": 1, "text": "some comment", "postId": 1 },
-    {  "userId": 2, "id": 1, "text": "some comment", "postId": 1 },
-    {  "userId": 3, "id": 1, "text": "some comment", "postId": 1 },
-    {  "userId": 4, "id": 2, "text": "some comment", "postId": 1 }
+    {  "userId": 2, "id": 1, "text": "some comment", "postId": 2 },
+    {  "userId": 3, "id": 1, "text": "some comment", "postId": 2 },
+    {  "userId": 4, "id": 2, "text": "some comment", "postId": 2 }
   ],
   "albums": [
     { "id": 1, "title": "my 1st album", "userId": 1, "numberPhotos": 4},
