@@ -1,14 +1,64 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "Employee": [
+    {
+      "id": 1,
+      "name": "vinay",
+      "uname": "sir",
+      "password": "cjc"
+    },
+    {
+      "id": 2,
+      "name": "tausif",
+      "uname": "tau",
+      "password": "1234"
+    },
+    {
+      "id": 3,
+      "name": "jugal",
+      "uname": "mm",
+      "password": "abcded"
+    },
+    {
+      "id": 4,
+      "name": "saurabh",
+      "uname": "kelani",
+      "password": "kk"
+    },
+    {
+      "id": 5,
+      "name": "sdb",
+      "uname": "emf",
+      "password": "tausif"
+    },
+    {
+      "id": 6,
+      "name": "lavish",
+      "uname": "kakad",
+      "password": "dfdfee"
+    },
+    {
+      "id": 7,
+      "name": "aliya",
+      "uname": "aliya",
+      "password": "khan"
+    },
+    {
+      "id": 8,
+      "name": "sanket",
+      "uname": "mane",
+      "password": "jalgaon"
+    }
+    {
+      "id": 9,
+      "name": "prasana",
+      "uname": "kulkarni",
+      "password": "bid"
+    }
+    {
+      "id": 10,
+      "name": "akshay",
+      "uname": "sir",
+      "password": "cjc"
+    }
+  ]
 }
