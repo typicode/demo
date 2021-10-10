@@ -1,12 +1,100 @@
 {
   "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
   ],
   "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "admin": [
+    {
+      "name": "Rohit sengar",
+      "username": "rohitsengar001@gmail.com",
+      "password": "rohit@321"
+    },
+    {
+      "name": "Rahul sengar",
+      "username": "rahulsengar001@gmail.com",
+      "password": "rohit@321"
+    }
+  ],
+  "bands": [
+    {
+      "band7": [
+        "CEO"
+      ],
+      "band6": [
+        "CTO"
+      ],
+      "band5": [
+        "Vice President"
+      ],
+      "band4": [
+        "Engineering Director"
+      ],
+      "band3": [
+        "Engineering Manager"
+      ],
+      "band2": [
+        "Lead Engineer",
+        "QA",
+        "IT Consultant",
+        "Finance Consultant",
+        ""
+      ],
+      "band1": [
+        "Software Engineer",
+        "QA",
+        "IT Consultant",
+        "Finance Consultant",
+        ""
+      ]
+    }
+  ],
+  "todo": [
+    {
+      "content": "sdasdsd",
+      "status": "",
+      "id": 1
+    },
+    {
+      "content": "assignment tailorsoft",
+      "status": "",
+      "id": 5
+    }
+  ],
+  "employee": [
+    {
+      "name": "RAJESH SHARMA",
+      "email": "rohitsengar001@gmail.com",
+      "password": "rohit@321",
+      "designation": [
+        "Software Engineer"
+      ],
+      "band": "band2",
+      "reporting_manager": "ROHIT SENGAR",
+      "allocate_project": "ANGULAR project",
+      "id": 1
+    },
+    {
+      "name": "rohit sengar",
+      "email": "rohitsengar001@gmail.com",
+      "password": "rohit@321",
+      "designation": [
+        "CEO"
+      ],
+      "band": "band7",
+      "reporting_manager": "myself",
+      "allocate_project": "nothing",
+      "id": 2
+    }
   ],
   "profile": {
     "name": "typicode"
