@@ -1,0 +1,113 @@
+{"question list" : [
+  {
+    "question": "What is cricket?",
+    "options": [
+      "Dance",
+      "Sport",
+      "Music",
+      "Book"
+    ],
+    "correctOptionIndex": 1
+  },
+  {
+    "question": "The World Largest desert is?",
+    "options": [
+      "Thar",
+      "Kalahari",
+      "Sahara",
+      "Gobi"
+    ],
+    "correctOptionIndex": 2
+  },
+  {
+    "question": "Which of the following is the national animal of India?",
+    "options": [
+      "Tiger",
+      "Lion",
+      "Deer",
+      "Cat"
+    ],
+    "correctOptionIndex": 0
+  },
+  {
+    "question": "How many colors are there in India's National Flag?",
+    "options": [
+      "One",
+      "Three",
+      "Five",
+      "Seven"
+    ],
+    "correctOptionIndex": 1
+  },
+  {
+    "question": "When do we celebrate our Independence Day?",
+    "options": [
+      "15 Aug",
+      "15 Jan",
+      "26 Jan",
+      "26 Aug"
+    ],
+    "correctOptionIndex": 0
+  },
+  {
+    "question": "Young one of a cat is called?",
+    "options": [
+      "Calf",
+      "Kitten",
+      "Puppy",
+      "Cub"
+    ],
+    "correctOptionIndex": 1
+  },
+  {
+    "question": "How many players are there in a cricket team?",
+    "options": [
+      "Ten",
+      "Nine",
+      "Twelve",
+      "Eleven"
+    ],
+    "correctOptionIndex": 3
+  },
+  {
+    "question": "Which of the following is not an outdoor game?",
+    "options": [
+      "Cricket",
+      "Table Tennis",
+      "Football",
+      "Hockey"
+    ],
+    "correctOptionIndex": 0
+  },
+  {
+    "question": "Which of the following organ is used to taste food?",
+    "options": [
+      "Tongue",
+      "Lips",
+      "Teeth",
+      "Nose"
+    ],
+    "correctOptionIndex": 0
+  },
+  {
+    "question": "Where does a dog live?",
+    "options": [
+      "Den",
+      "Bee-hives",
+      "Kennel",
+      "Burrow"
+    ],
+    "correctOptionIndex": 2
+  },
+  {
+    "question": "Which of the following month have 31 days?",
+    "options": [
+      "October",
+      "February",
+      "June",
+      "April"
+    ],
+    "correctOptionIndex": 0
+  }
+]
+}
