@@ -1,14 +1,44 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+
+[
+    {
+        "id": "1",
+        "name": "I.C.U",
+        "img": "https://media.istockphoto.com/photos/nurse-tending-patient-in-intensive-care-picture-id91156500?k=20&m=91156500&s=612x612&w=0&h=x4taplRpMnmxIhDotZacshfanR4I0GTAgHDvc9Jd7hM=",
+        "description": "Special Department of our hospital that provides intensive care medicines and life Support to patients  suffering  from a serious injury or illness."
+        
+    },
+    {
+        "id": "2",
+        "name": "MRI",
+        "img": "https://cdn-prod.medicalnewstoday.com/content/images/articles/146/146309/mri-scan.jpg",
+        "description": "We have world famous 3 tesla MRI machine which Prominent with emboar experience and low sound. This MRI machine guided by foreign."
+        
+    },
+    {
+        "id": "3",
+        "name": "Cath Lab",
+        "img": "http://www.miotinternational.com/wp-content/uploads/2015/06/coronary-angiography-stenting.jpg",
+        "description": "A  cath lab is Where tests and procedures including ablation, angiogram angio plasty&implantation of pacemaker are carried out."
+        
+    },
+    {
+        "id": "4",
+        "name": "EndosCopy",
+        "img": "https://nci-media.cancer.gov/pdq/media/images/433287-571.jpg",
+        "description": "An endoscopy unit refers to a dedicated area where medical procedures  performed with endoscopes,which are cameras used to visualize structures within the body"
+        
+    },
+    {
+        "id": "5",
+        "name": "EEG",
+        "img": "https://media.springernature.com/original/springer-static/image/chp%3A10.1007%2F978-3-319-47653-7_1/MediaObjects/419678_1_En_1_Fig1_HTML.gif",
+        "description": "An electroencephalogram (EEG) is a test used to find problems related to electrical activity of the brain. An EEG tracks and records brain wave patterns."
+        
+    },
+    {
+        "id": "6",
+        "name": "N.I.C.U",
+        "img": "https://media.istockphoto.com/photos/hospital-ward-for-prematurely-born-infants-with-ultraviolet-lighting-picture-id1152699638?k=20&m=1152699638&s=612x612&w=0&h=mC1tcqNGga1QnWPXxkmHgZo9j2JmOpDogI-B7-ad7Go=",
+        "description": "Our NICU can provide continuous life support and comprehensive care.We have an isolate  which provides heat to keep a constant body temperature"
+    }
+]
