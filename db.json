@@ -1,14 +1,49 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "customers": [
+    {
+      "id": 1,
+      "company_name": "My awesome Company",
+      "contact_firstname": "Jane",
+      "contact_lastname": "Doe",
+      "contact_email": "jdoe@awesome.com",
+      "acquired_on": "2021-04-03",
+      "customer_status": "active"
+    },
+    {
+      "id": 2,
+      "company_name": "Company ABC",
+      "contact_firstname": "Sarah",
+      "contact_lastname": "Jane",
+      "contact_email": "sjane@coabc.com",
+      "acquired_on": "2021-06-03",
+      "customer_status": "active"
+    },
+    {
+      "id": 3,
+      "company_name": "Company xYZ",
+      "contact_firstname": "Tim",
+      "contact_lastname": "Hane",
+      "contact_email": "thane@coxyz.com",
+      "acquired_on": "2020-12-03",
+      "customer_status": "active"
+    },
+    {
+      "id": 4,
+      "company_name": "Video Production Consulting",
+      "contact_firstname": "Miriam",
+      "contact_lastname": "Doe",
+      "contact_email": "mdoe@vidprod.com",
+      "acquired_on": "2020-07-05",
+      "customer_status": "inactive"
+    },
+    {
+      "id": 5,
+      "company_name": "Code Writers",
+      "contact_firstname": "Jill",
+      "contact_lastname": "Wade",
+      "contact_email": "jwade@codewrit.com",
+      "acquired_on": "2020-04-03",
+      "customer_status": "active"
+    }
+  ]
 }
