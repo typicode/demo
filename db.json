@@ -1,14 +1,156 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
+[
+  {
+    "id": "1",
+    "thumb_img": "",
+    "store_name": "테스트 스토어 01",
+    "phone_number": "010-0000-0000",
+    "address": "제주시 구좌읍 문주란로 12"
+  },
+  {
+    "id": "2",
+    "thumb_img": "",
+    "store_name": "테스트 스토어 02",
+    "phone_number": "010-0000-0002",
+    "address": "제주시 하도리 1222"
+  },
+  {
+    "id": "3",
+    "thumb_img": "",
+    "store_name": "테스트 스토어 03",
+    "phone_number": "010-0000-0003",
+    "address": "제주시 하도리 123232"
+  },
+  {
+    "id": "4",
+    "thumb_img": "",
+    "store_name": "테스트 스토어 04",
+    "phone_number": "010-0000-0004",
+    "address": "제주시 하도리 12424242"
+  },
+  {
+    "id": "5",
+    "thumb_img": "",
+    "store_name": "테스트 스토어 05",
+    "phone_number": "010-0000-0005",
+    "address": "제주시 하도리 12433333"
+  },
+  {
+    "id": "6",
+    "thumb_img": "",
+    "store_name": "테스트 스토어 06",
+    "phone_number": "010-0000-0202",
+    "address": "제주시 하도리 1243323232333"
+  },
+  {
+    "id": "7",
+    "thumb_img": "",
+    "store_name": "테스트 스토어 07",
+    "phone_number": "010-0000-00405",
+    "address": "제주시 하도리 12433332233"
+  },
+  {
+    "id": "8",
+    "thumb_img": "",
+    "store_name": "테스트 스토어 08",
+    "phone_number": "010-0000-0002",
+    "address": "제주시 하도리 1222"
+  },
+  {
+    "id": "9",
+    "thumb_img": "",
+    "store_name": "테스트 스토어 09",
+    "phone_number": "010-0000-0003",
+    "address": "제주시 하도리 123232"
+  },
+  {
+    "id": "10",
+    "thumb_img": "",
+    "store_name": "테스트 스토어 10",
+    "phone_number": "010-0000-0004",
+    "address": "제주시 하도리 12424242"
+  },
+  {
+    "id": "11",
+    "thumb_img": "",
+    "store_name": "테스트 스토어 11",
+    "phone_number": "010-0000-0005",
+    "address": "제주시 하도리 12433333fdfdfd"
+  },
+  {
+    "id": "12",
+    "thumb_img": "",
+    "store_name": "테스트 스토어 12",
+    "phone_number": "010-0000-0202",
+    "address": "제주시 하도리 1243323232333"
+  },
+  {
+    "id": "13",
+    "thumb_img": "",
+    "store_name": "테스트 스토어 13",
+    "phone_number": "010-0000-00405",
+    "address": "제주시 하도리 12433332233"
+  },
+  {
+    "id": "13",
+    "thumb_img": "",
+    "store_name": "테스트 스토어 14",
+    "phone_number": "010-0000-00405",
+    "address": "제주시 하도리 12433332233"
+  },
+  {
+    "id": "14",
+    "thumb_img": "",
+    "store_name": "테스트 스토어 15",
+    "phone_number": "010-0000-00405",
+    "address": "제주시 하도리 12433332233"
+  },
+  {
+    "id": "15",
+    "thumb_img": "",
+    "store_name": "테스트 스토어 16",
+    "phone_number": "010-0000-00405",
+    "address": "제주시 하도리 12433332233"
+  },
+  {
+    "id": "16",
+    "thumb_img": "",
+    "store_name": "테스트 스토어 16",
+    "phone_number": "010-0000-00405",
+    "address": "제주시 하도리 1243333223sds3"
+  },
+  {
+    "id": "17",
+    "thumb_img": "",
+    "store_name": "테스트 스토어 17",
+    "phone_number": "010-0000-00405",
+    "address": "제주시 하도리 1243333223sds3"
+  },
+  {
+    "id": "18",
+    "thumb_img": "",
+    "store_name": "테스트 스토어 18",
+    "phone_number": "010-0000-00405",
+    "address": "제주시 하도리 1243333223sds3"
+  },
+  {
+    "id": "19",
+    "thumb_img": "",
+    "store_name": "테스트 스토어 19",
+    "phone_number": "010-0000-00405",
+    "address": "제주시 하도리 1243333223sds3"
+  },
+  {
+    "id": "20",
+    "thumb_img": "",
+    "store_name": "테스트 스토어 20",
+    "phone_number": "010-0000-00405",
+    "address": "제주시 하도리 1243333223sds3"
+  },
+  {
+    "id": "21",
+    "thumb_img": "",
+    "store_name": "테스트 스토어 21",
+    "phone_number": "010-0000-00405",
+    "address": "제주시 하도리 1243333223sds3"
   }
-}
+]
