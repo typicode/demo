@@ -1,14 +1,66 @@
+
+
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+ "results":[
+    {      
+        "type":"multiple",
+        "difficulty":"easy",
+        "question":"What is the scientific name for modern day humans?",
+        "correct_answer":"Homo Sapiens",
+        "incorrect_answers":["Homo Ergaster","Homo Erectus","Homo Neanderthalensis"]},
+    {
+        "type":"multiple",
+        "difficulty":"medium",
+        "question":"Cashmere is the wool from which kind of animal?",
+        "correct_answer":"Goat",
+        "incorrect_answers":["Sheep","Camel","Llama"]},
+    {
+        "type":"multiple",
+        "difficulty":"medium",
+        "question":"Which animal was part of an Russian domestication experiment in 1959?",
+        "correct_answer":"Foxes",
+        "incorrect_answers":["Pigeons","Bears","Alligators"]},
+    {
+        "type":"multiple",
+        "difficulty":"medium",
+        "question":"Which of these species is not extinct?",
+        "correct_answer":"Komodo dragon",
+        "incorrect_answers":["Japanese sea lion","Tasmanian tiger","Saudi gazelle"]},
+    {
+        "type":"multiple",
+        "difficulty":"medium",
+        "question":"What dog bread is one of the oldest breeds of dog and has flourished since before 400 BCE.",
+        "correct_answer":"Pugs",
+        "incorrect_answers":["Bulldogs","Boxers","Chihuahua"]},
+    {
+        "type":"multiple",
+        "difficulty":"medium",
+        "question":"What is the scientific name of the Common Chimpanzee?",
+        "correct_answer":"Pan troglodytes",
+        "incorrect_answers":["Gorilla gorilla","Pan paniscus","Panthera leo"]},
+    {
+        "type":"multiple",
+        "difficulty":"easy",
+        "question":"What colour is the female blackbird?",
+        "correct_answer":"Brown",
+        "incorrect_answers":["Black","White","Yellow"]},
+    {
+        "type":"multiple",
+        "difficulty":"medium",
+        "question":"What is the common term for bovine spongiform encephalopathy (BSE)?",
+        "correct_answer":"Mad Cow disease",
+        "incorrect_answers":["Weil&#039;s disease","Milk fever","Foot-and-mouth disease"]},
+    {
+        "type":"multiple",
+        "difficulty":"hard",
+        "question":"What bird is born with claws on its wing digits?",
+        "correct_answer":"Hoatzin",
+        "incorrect_answers":["Cormorant","Cassowary","Secretary bird"]},
+    {
+        "type":"multiple",
+        "difficulty":"hard",
+        "question":"To which biological phylum do all mammals, birds and reptiles belong?",
+        "correct_answer":"Chordata",
+        "incorrect_answers":["Echinodermata","Annelida","Placazoa"]}
+        ]
 }
