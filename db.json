@@ -1,14 +1,102 @@
+[
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+"thumb": "https://img.youtube.com/vi/dPqsP84GOwE/maxresdefault.jpg",
+"title": "Rxjs #1 | Rxjs Introduction | Observables | Rxjs Series in Hindi (2020)",
+"description": "In This Video You will Learn about Rxjs Tutorial - Rxjs Introduction. Follow this video to know more about."
+},
+{
+"thumb": "https://img.youtube.com/vi/k8Q8SFlBCks/maxresdefault.jpg",
+"title": "Rxjs #2  | Javascript Promise Explained  |  Asynchronous  | Rxjs Series in Hindi (2020)",
+"description": "In This Video You will Learn about Javascript Promise and Explanation of  Asynchronous . Follow this video to know more about."
+},
+{
+"thumb": "https://img.youtube.com/vi/G9SwnMZ4SW4/maxresdefault.jpg",
+"title": "Rxjs #2.2  | Javascript Promise in Action  | Rxjs Series in Hindi (2020)",
+"description": "In This Video You will Learn about Javascript Promise in Action . Follow this video to know more about."
+},
+{
+"thumb": "https://img.youtube.com/vi/ZpETSHJWpG8/maxresdefault.jpg",
+"title": "Upgrade  to Angular 9   | Angular Dependencies Upgrade |  Angular 9 Tutorial in  Hindi (2020) [#5]",
+"description": "In This Video You will Learn about How to update angular 6/7/8 to 9 Version. Follow this video to know more about."
+},
+{
+"thumb": "https://img.youtube.com/vi/tUZtOUFB_1Y/maxresdefault.jpg",
+"title": "Validate Angular Form in Improved Way   | MarkAsTouched |  Angular 8 Tutorial in  Hindi (2020) [#4]",
+"description": "In This Video You will Learn about How to Validate Angular Form all form field on Submit Click in Angular 8+. Follow this video to know more about."
+},
+{
+"thumb": "https://img.youtube.com/vi/yObqRIgSogA/maxresdefault.jpg",
+"title": "Angular CRUD #1 - Post Method |  Angular Firebase  |  Angular 8 Tutorial in Hindi (2020) [#63]",
+"description": "In This Video You will Learn about Angular CRUD Tutorial - Post Method in Angular 8+. Follow this video to know more about."
+},
+{
+"thumb": "https://img.youtube.com/vi/T1yCe4IX9U4/maxresdefault.jpg",
+"title": "Angular CRUD #2 - Fetch Data |  Angular Firebase  |  Angular 8 Tutorial in Hindi (2020) [#64]",
+"description": "In This Video You will Learn about Angular CRUD Tutorial - Fetch Data in Angular 8+. Follow this video to know more about."
+},
+{
+"thumb": "https://img.youtube.com/vi/QU6XU5zbS2k/maxresdefault.jpg",
+"title": "Spread Operator in ES6 in Hindi   |  { … }  |  Three Dot Operator  |  ES6 Tutorial (2020) [#3]",
+"description": "In This Video You will Learn about Es6 Spread Operator which is known as three dot operator. Follow this video to know more about."
+},
+{
+"thumb": "https://img.youtube.com/vi/YehL_mrK94o/maxresdefault.jpg",
+"title": "JSON.stringify() Vs JSON.parse() use with Real Json Api in Angular   | Angular8 Tutorial (2020) [#2]",
+"description": "In This Video You will Learn about JSON.stringify() Vs JSON.parse() use with Real Json Api in Angular 8+. Follow this video to know more about."
+},
+{
+"thumb": "https://img.youtube.com/vi/8NiJZ7QinGU/maxresdefault.jpg",
+"title": "Ngx Translate in Angular in Hindi  |  MultiLanguage Angular App  |  Angular Exercise #4",
+"description": "In This Video You will Learn about Ngx Translate in Angular 8+. Follow this video to know more about."
+},
+{
+"thumb": "https://img.youtube.com/vi/aYcdMr2Vwn0/maxresdefault.jpg",
+"title": "Lazy Loading in Angular in Hindi  |  Angular Modules  |  Angular 6/7/8+ Tutorial in Hindi 2019 [#56]",
+"description": "dIn This Video You will Learn about Lazy Loading in Angular in Hindi "
+},
+{
+"thumb": "https://img.youtube.com/vi/rtO6aeUNHAo/maxresdefault.jpg",
+"title": "[#7] Change Image in devices  |  Jquery Tutorial  |  HTML & CSS Tutorial (2019) [EP #7]",
+"description": "In This Video You will Learn about how to Change Image in devices  |  Jquery Tutorial  |  HTML & CSS Tutorial "
+},
+{
+"thumb": "https://img.youtube.com/vi/5hJmOViuGrY/maxresdefault.jpg",
+"title": "Modules in Angular in Hindi  |  Angular Modules  |  Angular 6+ Tutorial in Hindi (2019) [#51]",
+"description": "In This Video You will Learn about Modules in Angular in Hindi  |  Angular Modules  |  Angular 6+ Tutorial in Hindi (2019) [#51]"
+},
+{
+"thumb": "https://img.youtube.com/vi/0sGMNeK8o78/maxresdefault.jpg",
+"title": "Reactive FormArray   |  Angular Forms  |  Angular 6 Tutorial in Hindi (2019) [#47]",
+"description": "In This Video You will Learn about Reactive FormArray   |  Angular Forms  |  Angular 6 Tutorial in Hindi (2019) [#47]"
+},
+{
+"thumb": "https://img.youtube.com/vi/A9SZshaxYjY/maxresdefault.jpg",
+"title": "Angular Exercise #3  - Solution   |  Work with Data Modal in Angular  |  [Ep #3]",
+"description": "In This Video You will Learn about how to Work with Data Modal in Angular  |  [Ep #3]"
+},
+{
+"thumb": "https://img.youtube.com/vi/TLzUHjTnjEo/maxresdefault.jpg",
+"title": "Pipes in Angular 6+   |  Angular Pipe  |  Angular 6 Tutorial in Hindi (2019) [#38]",
+"description": "In This Video You will Learn about Pipes in Angular 6+   |  Angular Pipe  |  Angular 6 Tutorial in Hindi (2019) [#38]"
+},
+{
+"thumb": "https://img.youtube.com/vi/s9NqICibhIc/maxresdefault.jpg",
+"title": "HostListener in Angular 6+   |  HostListener  |  Angular 6 Tutorial in Hindi (2019) [#36]",
+"description": "In This Video You will Learn about HostListener in Angular 6+   |  HostListener  |  Angular 6 Tutorial in Hindi (2019) [#36]"
+},
+{
+"thumb": "https://img.youtube.com/vi/AMK_f8MWnCY/maxresdefault.jpg",
+"title": "Code Small WebPage with Bootstrap  +   Owl Carousel    |  Speed Art  |  UX Speed  [#1]",
+"description": "In This Video You will Learn about Code Small WebPage with Bootstrap  +   Owl Carousel    |  Speed Art  |  UX Speed  [#1]"
+},
+{
+"thumb": "https://img.youtube.com/vi/WZTm_jPznTs/maxresdefault.jpg",
+"title": "Content in Sass  | @Content  |  Sass Tutorial in Hindi (2019) [#13]",
+"description": "In This Video You will Learn about Content in Sass  | @Content  |  Sass Tutorial in Hindi (2019) [#13]"
+},
+{
+"thumb": "https://img.youtube.com/vi/BKCagzIlLNM/maxresdefault.jpg",
+"title": "Sass Interpolation  | #{ }  | Sass Tutorial in Hindi (2019) [#8]",
+"description": "In This Video You will Learn about Sass Interpolation  | #{ }  | Sass Tutorial in Hindi (2019) [#8]"
 }
+]
