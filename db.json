@@ -1,11 +1,4 @@
 {
-  "works":[
-    {"id":1, "title": "وبسایت گل فروشی", "img":"https://cdn.motocms.com/src/868x580/63700/63718-original-1200.jpg", "info":"وبسایت مربوط به یک گل فروشی است!"},
-    {"id":2, "title": "وبسایت کتاب فروشی", "img":"https://s.tmimgcdn.com/scr/800x500/94800/bookday-clean-and-rapid-online-bookstore-website-design-woocommerce-theme_94894-2-original.png", "info":"وبسایت مربوط به یک کتابفروشی است!"},
-    {"id":3, "title": "وبسایت رستوران سنتی", "img":"https://cdn.dribbble.com/users/4827602/screenshots/14519314/restoweb_4x.jpg", "info":"وبسایت مربوط به یک رستوران سنتی است!"},
-    {"id":4, "title": "وبسایت گاوداری", "img":"https://s.tmimgcdn.com/scr/800x500/55100/cattle-farm-responsive-website-template_55159-original.jpg", "info":"وبسایت مربوط به دنیای گاوها است!"},
-    {"id":5, "title": "وبسایت خدمات باغبانی", "img":"https://colorlib.com/wp/wp-content/uploads/sites/2/5_landscaping-website-design.jpg", "info":"وبسایت مربوط به خدمات باغبانی است!"}
-  ],
   "posts": [
     { "id": 1, "title": "Post 1" },
     { "id": 2, "title": "Post 2" },
