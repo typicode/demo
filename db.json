@@ -8,6 +8,13 @@
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
+  "users" [{
+  id : 'tttt',
+  username : 'test test',
+  email : 'test1@gmail.com',
+  password : '123456',
+  profile :'assets/profile-photo/test.jpg'
+}]
   "profile": {
     "name": "typicode"
   }
