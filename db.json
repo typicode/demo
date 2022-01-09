@@ -1,14 +1,14 @@
 {
   "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+    { "id": 1, "title": "Raghu },
+    { "id": 2, "title": "Ramesh },
+    { "id": 3, "title": "Suresh" }
   ],
   "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+    { "id": 1, "body": "Engineer", "EmpId": 1 },
+    { "id": 2, "body": "Doctor, "EmpId": 2 }
   ],
   "profile": {
-    "name": "typicode"
+    "name": "Intro"
   }
 }
