@@ -1,14 +1,11 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "cars": [
+    { "brand": "FIAT", "model": "Coupè 24v" },
+    { "brand": "Audi", "model": "A3" },
+    { "brand": "BMW", "model": "M140i" }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+  "colors": [
+    { "id": 1, "color": "white"},
+    { "id": 2, "color": "black"}
   ],
-  "profile": {
-    "name": "typicode"
-  }
 }
