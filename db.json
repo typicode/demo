@@ -1,14 +1,15 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+[
+    {
+    "id":1,
+    "url": "https://www.pngitem.com/pimgs/m/281-2812459_floor-plan-png-download-floor-plan-transparent-background.png",
+    "x": 0.0,
+    "y": 2.3
+    },
+
+    {
+    "id":2,
+    "url": "https://images.squarespace-cdn.com/content/v1/5bdde6530dbda3230ba6bd5d/1542037787083-LUDEIUFVCQBA4PSM4RKQ/Southern+California+Luxury+Home+SFP+1.png?format=2500w",
+    "x": 5.0,
+    "y": -2.3
+    }
+]
