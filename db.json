@@ -1,14 +1,19 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  items:[
+    {
+      "category":"food",
+      "id":"P1",
+      "name":"Chivito uruguayo"
+      "prize":300,
+      "url":"https://www.themealdb.com/images/media/meals/n7qnkb1630444129.jpg"
+    },
+    {
+      "category":"food",
+      "id":"P2",
+      "name":"Walnut Roll Gužvara"
+      "prize":300,
+      "url":"https://www.themealdb.com/images/media/meals/u9l7k81628771647.jpg"
+    },
+    
+  ]
 }
