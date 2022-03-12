@@ -1,0 +1,316 @@
+{
+    "listProduct": [
+        {
+            "id": 0,
+            "title": "Mugs Diseño de referencia 1",
+            "price": 15000,
+            "desc": "Hermosos mugs personalizados calidad AAA en porcelana  colores variados resistentes al calor y al frio de 11 Onz .",
+            "category": "mugs",
+            "img": "/assets/images/img-api/mugs/mugs1.jpg"
+        },
+        {
+            "id": 1,
+            "title": "Mugs Diseño de referencia 2",
+            "price": 15000,
+            "desc": "Hermosos mugs personalizados calidad AAA en porcelana  colores variados resistentes al calor y al frio de 11 Onz .",
+            "category": "mugs",
+            "img": "/assets/images/img-api/mugs/mugs2.jpg"
+        },
+        {
+            "id": 2,
+            "title": "Mugs Diseño de referencia 3",
+            "price": 15000,
+            "desc": "Hermosos mugs personalizados calidad AAA en porcelana  colores variados resistentes al calor y al frio de 11 Onz .",
+            "category": "mugs",
+            "img": "/assets/images/img-api/mugs/mugs3.jpg"
+        },
+        {
+            "id": 3,
+            "title": "Mugs Diseño de referencia 4",
+            "price": 15000,
+            "desc": "Hermosos mugs personalizados calidad AAA en porcelana  colores variados resistentes al calor y al frio de 11 Onz .",
+            "category": "mugs",
+            "img": "/assets/images/img-api/mugs/mugs4.jpg"
+        },
+        {
+            "id": 4,
+            "title": "Mugs Diseño de referencia 5",
+            "price": 15000,
+            "desc": "Hermosos mugs personalizados calidad AAA en porcelana  colores variados resistentes al calor y al frio de 11 Onz .",
+            "category": "mugs",
+            "img": "/assets/images/img-api/mugs/mugs5.jpg"
+        },
+        {
+            "id": 5,
+            "title": "Mugs Diseño de referencia 6",
+            "price": 15000,
+            "desc": "Hermosos mugs personalizados calidad AAA en porcelana  colores variados resistentes al calor y al frio de 11 Onz .",
+            "category": "mugs",
+            "img": "/assets/images/img-api/mugs/mugs6.jpg"
+        },
+        {
+            "id": 6,
+            "title": "Mugs Diseño de referencia 7",
+            "price": 15000,
+            "desc": "Hermosos mugs personalizados calidad AAA en porcelana  colores variados resistentes al calor y al frio de 11 Onz .",
+            "category": "mugs",
+            "img": "/assets/images/img-api/mugs/mugs7.jpg"
+        },
+        {
+            "id": 7,
+            "title": "Mugs Diseño de referencia 8",
+            "price": 15000,
+            "desc": "Hermosos mugs personalizados calidad AAA en porcelana  colores variados resistentes al calor y al frio de 11 Onz .",
+            "category": "mugs",
+            "img": "/assets/images/img-api/mugs/mugs8.jpg"
+        },
+        {
+            "id": 8,
+            "title": "Mugs Diseño de referencia 9",
+            "price": 15000,
+            "desc": "Hermosos mugs personalizados calidad AAA en porcelana  colores variados resistentes al calor y al frio de 11 Onz .",
+            "category": "mugs",
+            "img": "/assets/images/img-api/mugs/mugs9.jpg"
+        },
+        {
+            "id": 9,
+            "title": "Mugs Diseño de referencia 10",
+            "price": 15000,
+            "desc": "Hermosos mugs personalizados calidad AAA en porcelana  colores variados resistentes al calor y al frio de 11 Onz .",
+            "category": "mugs",
+            "img": "/assets/images/img-api/mugs/mugs10.jpg"
+        },
+        {
+            "id": 10,
+            "title": "Camiseta Diseño de referencia 1",
+            "price": 20000,
+            "desc": "Hermosas camisetas 100% en algodón peruano estampado en DTF full color tallas S, M, L, XL diseños personalizados.",
+            "category": "camiseta",
+            "img": "/assets/images/img-api/camisetas/camisetas1.jpg"
+        },
+        {
+            "id": 11,
+            "title": "Camiseta Diseño de referencia 2",
+            "price": 20000,
+            "desc": "Hermosas camisetas 100% en algodón peruano estampado en DTF full color tallas S, M, L, XL diseños personalizados.",
+            "category": "camiseta",
+            "img": "/assets/images/img-api/camisetas/camisetas2.jpg"
+        },
+        {
+            "id": 12,
+            "title": "Camiseta Diseño de referencia 3",
+            "price": 20000,
+            "desc": "Hermosas camisetas 100% en algodón peruano estampado en DTF full color tallas S, M, L, XL diseños personalizados.",
+            "category": "camiseta",
+            "img": "/assets/images/img-api/camisetas/camisetas3.jpg"
+        },
+        {
+            "id": 13,
+            "title": "Camiseta Diseño de referencia 4",
+            "price": 20000,
+            "desc": "Hermosas camisetas 100% en algodón peruano estampado en DTF full color tallas S, M, L, XL diseños personalizados.",
+            "category": "camiseta",
+            "img": "/assets/images/img-api/camisetas/camisetas4.jpg"
+        },
+        {
+            "id": 14,
+            "title": "Camiseta Diseño de referencia 5",
+            "price": 20000,
+            "desc": "Hermosas camisetas 100% en algodón peruano estampado en DTF full color tallas S, M, L, XL diseños personalizados.",
+            "category": "camiseta",
+            "img": "/assets/images/img-api/camisetas/camisetas5.jpg"
+        },
+        {
+            "id": 15,
+            "title": "Camiseta Diseño de referencia 6",
+            "price": 20000,
+            "desc": "Hermosas camisetas 100% en algodón peruano estampado en DTF full color tallas S, M, L, XL diseños personalizados.",
+            "category": "camiseta",
+            "img": "/assets/images/img-api/camisetas/camisetas6.jpg"
+        },
+        {
+            "id": 16,
+            "title": "Camiseta Diseño de referencia 7",
+            "price": 20000,
+            "desc": "Hermosas camisetas 100% en algodón peruano estampado en DTF full color tallas S, M, L, XL diseños personalizados.",
+            "category": "camiseta",
+            "img": "/assets/images/img-api/camisetas/camisetas7.jpg"
+        },
+        {
+            "id": 17,
+            "title": "Camiseta Diseño de referencia 8",
+            "price": 20000,
+            "desc": "Hermosas camisetas 100% en algodón peruano estampado en DTF full color tallas S, M, L, XL diseños personalizados.",
+            "category": "camiseta",
+            "img": "/assets/images/img-api/camisetas/camisetas8.jpg"
+        },
+        {
+            "id": 18,
+            "title": "Camiseta Diseño de referencia 9",
+            "price": 20000,
+            "desc": "Hermosas camisetas 100% en algodón peruano estampado en DTF full color tallas S, M, L, XL diseños personalizados.",
+            "category": "camiseta",
+            "img": "/assets/images/img-api/camisetas/camisetas9.jpg"
+        },
+        {
+            "id": 19,
+            "title": "Camiseta Diseño de referencia 10",
+            "price": 20000,
+            "desc": "Hermosas camisetas 100% en algodón peruano estampado en DTF full color tallas S, M, L, XL diseños personalizados.",
+            "category": "camiseta",
+            "img": "/assets/images/img-api/camisetas/camisetas10.jpg"
+        },
+        {
+            "id": 20,
+            "title": "Gorra Diseño de referencia 1",
+            "price": 15000,
+            "desc": "Hermosas gorras 100% en poliester y malla en nylon con sublimado o estampado DTF colores variados talla unica tipo camionero.",
+            "category": "gorra",
+            "img": "/assets/images/img-api/gorras/gorra1.jpg"
+        },
+        {
+            "id": 21,
+            "title": "Gorra Diseño de referencia 2",
+            "price": 15000,
+            "desc": "Hermosas gorras 100% en poliester y malla en nylon con sublimado o estampado DTF colores variados talla unica tipo camionero.",
+            "category": "gorra",
+            "img": "/assets/images/img-api/gorras/gorra2.jpg"
+        },
+        {
+            "id": 22,
+            "title": "Gorra Diseño de referencia 3",
+            "price": 15000,
+            "desc": "Hermosas gorras 100% en poliester y malla en nylon con sublimado o estampado DTF colores variados talla unica tipo camionero.",
+            "category": "gorra",
+            "img": "/assets/images/img-api/gorras/gorra3.jpg"
+        },
+        {
+            "id": 23,
+            "title": "Gorra Diseño de referencia 4",
+            "price": 15000,
+            "desc": "Hermosas gorras 100% en poliester y malla en nylon con sublimado o estampado DTF colores variados talla unica tipo camionero.",
+            "category": "gorra",
+            "img": "/assets/images/img-api/gorras/gorra4.jpg"
+        },
+        {
+            "id": 24,
+            "title": "Gorra Diseño de referencia 5",
+            "price": 15000,
+            "desc": "Hermosas gorras 100% en poliester y malla en nylon con sublimado o estampado DTF colores variados talla unica tipo camionero.",
+            "category": "gorra",
+            "img": "/assets/images/img-api/gorras/gorra5.jpg"
+        },
+        {
+            "id": 25,
+            "title": "Gorra Diseño de referencia 6",
+            "price": 15000,
+            "desc": "Hermosas gorras 100% en poliester y malla en nylon con sublimado o estampado DTF colores variados talla unica tipo camionero.",
+            "category": "gorra",
+            "img": "/assets/images/img-api/gorras/gorra6.jpg"
+        },
+        {
+            "id": 26,
+            "title": "Gorra Diseño de referencia 7",
+            "price": 15000,
+            "desc": "Hermosas gorras 100% en poliester y malla en nylon con sublimado o estampado DTF colores variados talla unica tipo camionero.",
+            "category": "gorra",
+            "img": "/assets/images/img-api/gorras/gorra7.jpg"
+        },
+        {
+            "id": 27,
+            "title": "Gorra Diseño de referencia 1",
+            "price": 15000,
+            "desc": "Hermosas gorras 100% en poliester y malla en nylon con sublimado o estampado DTF colores variados talla unica tipo camionero.",
+            "category": "gorra",
+            "img": "/assets/images/img-api/gorras/gorra8.jpg"
+        },
+        {
+            "id": 28,
+            "title": "Gorra Diseño de referencia 8",
+            "price": 15000,
+            "desc": "Hermosas gorras 100% en poliester y malla en nylon con sublimado o estampado DTF colores variados talla unica tipo camionero..",
+            "category": "gorra",
+            "img": "/assets/images/img-api/gorras/gorra9.jpg"
+        },
+        {
+            "id": 29,
+            "title": "Gorra Diseño de referencia 9",
+            "price": 15000,
+            "desc": "Hermosas gorras 100% en poliester y malla en nylon con sublimado o estampado DTF colores variados talla unica tipo camionero.",
+            "category": "gorra",
+            "img": "/assets/images/img-api/gorras/gorra10.jpg"
+        },
+        {
+            "id": 30,
+            "title": "Gorra Diseño de referencia 10",
+            "price": 15000,
+            "desc": "Hermosas gorras 100% en poliester y malla en nylon con sublimado o estampado DTF colores variados talla unica tipo camionero..",
+            "category": "gorra",
+            "img": "/assets/images/img-api/gorras/gorra11.jpg"
+        },
+        {
+            "id": 31,
+            "title": "Medias Diseño de referencia 1",
+            "price": 5000,
+            "desc": "Hermosas Medias 100% en poliester Tallas 34 a la 37 sublimación solo en color blanco.",
+            "category": "medias",
+            "img": "/assets/images/img-api/medias/medias1.jpg"
+        },
+        {
+            "id": 32,
+            "title": "Medias Diseño de referencia 2",
+            "price": 5000,
+            "desc": "Hermosas Medias 100% en poliester Tallas 34 a la 37 sublimación solo en color blanco.",
+            "category": "medias",
+            "img": "/assets/images/img-api/medias/medias2.jpg"
+        },
+        {
+            "id": 33,
+            "title": "Medias Diseño de referencia 3",
+            "price": 5000,
+            "desc": "Hermosas Medias 100% en poliester Tallas 34 a la 37 sublimación solo en color blanco.",
+            "category": "medias",
+            "img": "/assets/images/img-api/medias/medias3.jpg"
+        },
+        {
+            "id": 34,
+            "title": "Medias Diseño de referencia 4",
+            "price": 5000,
+            "desc": "Hermosas Medias 100% en poliester Tallas 34 a la 37 sublimación solo en color blanco.",
+            "category": "medias",
+            "img": "/assets/images/img-api/medias/medias4.jpg"
+        },
+        {
+            "id": 35,
+            "title": "Medias Diseño de referencia 5",
+            "price": 5000,
+            "desc": "Hermosas Medias 100% en poliester Tallas 34 a la 37 sublimación solo en color blanco.",
+            "category": "medias",
+            "img": "/assets/images/img-api/medias/medias5.jpg"
+        },
+        {
+            "id": 36,
+            "title": "Medias Diseño de referencia 6",
+            "price": 5000,
+            "desc": "Hermosas Medias 100% en poliester Tallas 34 a la 37 sublimación solo en color blanco.",
+            "category": "medias",
+            "img": "/assets/images/img-api/medias/medias6.jpg"
+        },
+        {
+            "id": 37,
+            "title": "Medias Diseño de referencia 7",
+            "price": 5000,
+            "desc": "Hermosas Medias 100% en poliester Tallas 34 a la 37 sublimación solo en color blanco.",
+            "category": "medias",
+            "img": "/assets/images/img-api/medias/medias7.jpg"
+        },
+        {
+            "id": 38,
+            "title": "Medias Diseño de referencia 8",
+            "price": 5000,
+            "desc": "Hermosas Medias 100% en poliester Tallas 34 a la 37 sublimación solo en color blanco.",
+            "category": "medias",
+            "img": "/assets/images/img-api/medias/medias8.jpg"
+        }
+    ]
+}
