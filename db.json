@@ -1,14 +1,22 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+      "posts": [
+    {
+      "id": 1,
+      "user": "John Wick",
+      "title": "Born to code",
+      "article": "Do not steal my puppy or i will come for you."
+    },
+    {
+      "id": 2,
+      "user": "JackiLoh",
+      "title": "Developer",
+      "article": "This is Jacks assignment 4"
+    },
+    {
+      "id": 3,
+      "user": "Johnny",
+      "title": "Creator",
+      "article": "This is a test"
+    }
+  ]
 }
