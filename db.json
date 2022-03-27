@@ -1,14 +1,29 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+"product":[{
+    "id": 1,
+    "name": "Tony Stark",
+    "code": "tony@mcu.com",
+    "price": 6435,
+    "checked": "false"
+  }, {
+    "id": 5,
+    "name": "Tony dasd",
+    "code": "fgdghfdmcu.com",
+    "price": 6435,
+    "checked":"false"
+  },
+{
+    "id": 2,
+    "name": "Tony gfgdk",
+    "code": "tony4354.com",
+    "price": 6435,
+    "checked": "false"
+  },
+{
+    "id": 3,
+    "name": "Tony hgf",
+    "code": "tonytert.com",
+    "price": 6435,
+    "checked":"false"
+  }]
 }
