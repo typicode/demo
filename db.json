@@ -1,14 +1,31 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
+[
+  {
+    "id": 1,
+    "name": "Sweet Potato",
+    "ingredient1": "Organic Brown Rice Flower",
+    "ingredient2": "Organic Sweet Potato",
+    "ingredient3": "Free Range Organic Eggs",
+    "ingredient4": "Organic Uncured Bacon",
+    "ingredient5": "Organic Coconut Oil"
+  },
+
+  {
+    "id": 2,
+    "name": "Peanut Butter",
+    "ingredient1": "Organic Brown Rice Flower",
+    "ingredient2": "Organic Peanut Butter",
+    "ingredient3": "Organic Apple Sauce",
+    "ingredient4": "Organic Honey",
+    "ingredient5": "Organic Coconut Oil"
+  },
+  {
+    "id": 3,
+    "name": "Honey Cheddar",
+    "ingredient1": "Organic Brown Rice Flower",
+    "ingredient2": "Cheddar Cheese",
+    "ingredient3": "Organic Apple Sauce",
+    "ingredient4": "Free Range Organic Eggs",
+    "ingredient5": "Organic Honey",
+    "ingredient6": "Organic Coconut Oil"
   }
-}
+]
