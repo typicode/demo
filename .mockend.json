@@ -1,8 +1,9 @@
 {
-  "name": {
-    "string": [
-      "Thor",
-      "Loki"
+  "code": {
+    "int": [
+      100,
+      200,
+      300
     ]
   }
 }
