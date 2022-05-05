@@ -1,14 +1,48 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
+  "query":  
+  {
+      "request": "json",
+      "time": "2022-05-05",
+      "ip": "x.x.x.x",
+      "device": "Environmental Sensor"
+  },
+  
+  "devicestate" 
+  {
+    "sensor": 
+    [
+      {
+        "name": "Temperature"
+        "id": 0,
+        "unit": "Celcius",
+        "value": 22.2
+      }, 
+      {
+        "name": "Humidity"
+        "id": 1,
+        "unit": "%",
+        "value": 32.4
+      }
+    ]
+  },
+  
+  "system":
+  {
+    "time": "2022-05-05, 09:00:05",
+    "diagnosis":
+    [
+      {
+        "time": "05.05.2022 09:00:05",
+        "msg": "Device Status: OK"
+      }
+    ],
+    
+    "archive":
+    [
+      {
+        "time": "05.05.2022 09:00:05",
+        "msg": "Device Status: OK"
+      }
+    ]
   }
 }
