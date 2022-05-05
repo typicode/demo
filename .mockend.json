@@ -1,6 +1,11 @@
 {
   "Post": {
-    "title": { "string": {} },
+    "title": { 
+      "string": [
+        "Thor",
+        "Loki"
+      ]
+    },
     "code": {
       "int": [
         100,
