@@ -1,9 +1,14 @@
 {
-  "code": {
-    "int": [
-      100,
-      200,
-      300
-    ]
+  "Post": {
+    "title": { "string": {} },
+    "comments": {
+      "hasMany": "Comment"
+    }
+  },
+  "Comment": {
+    "body": { "string": {} },
+    "post": {
+      "belongsTo": "Post"
+    }
   }
 }
