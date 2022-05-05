@@ -1,6 +1,13 @@
 {
   "Post": {
     "title": { "string": {} },
+    "code": {
+      "int": [
+        100,
+        200,
+        300
+      ]
+    },
     "comments": {
       "hasMany": "Comment"
     }
