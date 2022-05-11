@@ -1,14 +1,61 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
+    "IdKupca": 1,
+    "idKnjige": 1,
+    "Naslov": "Sunce na šalteru",
+    "Zanr": "poezija"
+  },
+ {
+    "IdKupca": 1,
+    "idKnjige": 2,
+    "Naslov": "Ugovor s prašinom",
+    "Zanr":"poezija"
+  },
+  {
+    "IdKupca": 1,
+    "idKnjige": 3,
+    "Naslov": "100% pamuk",
+    "Zanr":"poezija"
+  },
+  {
+    "IdKupca": 1,
+    "idKnjige": 4,
+    "Naslov": "Roki Raketa",
+    "Zanr": "poezija"
+  },
+  {
+    "IdKupca": 1,
+    "idKnjige": 5,
+    "Naslov": "Mehanika peluda",
+    "Zanr": "poezija"
+  },
+  {
+    "IdKupca": 1,
+    "idKnjige": 6,
+    "Naslov": "proza",
+    "Zanr": "Walden"
+  },
+  {
+    "IdKupca": 1,
+    "idKnjige": 7,
+    "Naslov": "proza",
+    "Zanr": "Ljubav je sve"
+  },
+  {
+    "IdKupca": 1,
+    "idKnjige": 8,
+    "Naslov": "proza",
+    "Zanr": "Ah,ludnica"
+  },
+  {
+    "IdKupca": 2,
+    "idKnjige": 9,
+    "Naslov": "proza",,
+    "Zanr": "Kičma"
+  },
+  {
+    "IdKupca": 1,
+    "idKnjige": 10,
+    "Naslov": "proza",,
+    "Zanr": "Enciklopedija ništavila"
   }
 }
