@@ -1,0 +1,61 @@
+
+{
+    "title": "Osobní údaje",
+    "position": {
+        "row": "1",
+        "column": "1"
+    },
+    "rows": [
+        {
+            "row": [
+                {
+                    "type": "span",
+                    "name": "u_firstname_spc",
+                    "cols": "1",
+                    "id": "idu_firstname_spc",
+                    "content": "&nbsp;"
+                },
+                {
+                    "type": "label",
+                    "name": "u_firstname_lbl",
+                    "cols": "13",
+                    "id": "idu_firstname_lbl",
+                    "content": "Jméno"
+                },
+                {
+                    "type": "textbox",
+                    "name": "u_firstname",
+                    "cols": "25",
+                    "id": "idu_firstname",
+                    "value": "",
+                    "placeholder": ""
+                }
+            ]
+        },
+        {
+            "row": [
+                {
+                    "type": "span",
+                    "name": "u_active_spc",
+                    "cols": "1",
+                    "id": "idu_active_spc",
+                    "content": "&nbsp;"
+                },
+                {
+                    "type": "checkbox",
+                    "name": "u_active",
+                    "cols": "2",
+                    "id": "idu_active",
+                    "value": "false"
+                },
+                {
+                    "type": "label",
+                    "name": "u_active_lbl",
+                    "cols": "13",
+                    "id": "idu_active_lbl",
+                    "content": "Účet aktivní"
+                }
+            ]
+        }
+    ]
+}
