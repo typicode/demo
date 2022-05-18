@@ -1,5 +1,5 @@
 {
-  "posts": [],
+  "posts": [{"id": 1}],
   "comments": [],
   "users": []
 }
