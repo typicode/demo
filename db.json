@@ -1,14 +1,31 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+"subjects": [
+{
+"id": 1,
+"title": "English",
+"courses": [
+{
+"id": 1,
+"teacher_name": "Teacher name 1",
+"starting_date": "2020-03-01"
+}
+]
+},
+{
+"id": 1,
+"title": "Math",
+"courses": [
+{
+"id": 2,
+"teacher_name": "Teacher name 2",
+"starting_date": "2020-03-02"
+},
+{
+"id": 3,
+"teacher_name": "Teacher name 3",
+"starting_date": "2020-03-03"
+}
+]
+}
+]
 }
