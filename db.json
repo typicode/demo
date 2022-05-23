@@ -1,17 +1,8 @@
-{  "sample" : 
-    [   
-      {"id" : "001","name" : "surya","city":"khmamma"},
-      {"id" : "001","name" : "surya","city":"khmamma"},
-      {"id" : "001","name" : "surya","city":"khmamma"},
-      {"id" : "001","name" : "surya","city":"khmamma"}
-    ],
-  "sample2" : 
-    [   
-      {"id" : "001","name" : "surya","city":"khmamma"},
-      {"id" : "001","name" : "surya","city":"khmamma"},
-      {"id" : "001","name" : "surya","city":"khmamma"},
-      {"id" : "001","name" : "surya","city":"khmamma"}
-    ]
+{  
+    "order" : 
+    {   
+      "001" : [{"id" : "001"},{"name" : "surya"},{"city":"khmamma"}]
+    }
 }
     
 
