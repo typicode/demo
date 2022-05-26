@@ -1,1 +1,21 @@
-{"pincode": [{"Message":"Number of pincode(s) found:9","Status":"Success","PostOffice":[{"Name":"Annaruguda","Description":null,"BranchType":"Branch Post Office","DeliveryStatus":"Delivery","Circle":"Andhra Pradesh","District":"Khammam","Division":"Khammam","Region":"Vijayawada","Block":"Tallada","State":"Telangana","Country":"India","Pincode":"507167"},{"Name":"Billupahad","Description":null,"BranchType":"Branch Post Office","DeliveryStatus":"Delivery","Circle":"Andhra Pradesh","District":"Khammam","Division":"Khammam","Region":"Vijayawada","Block":"Tallada","State":"Telangana","Country":"India","Pincode":"507167"},{"Name":"Kalakodima","Description":null,"BranchType":"Branch Post Office","DeliveryStatus":"Delivery","Circle":"Andhra Pradesh","District":"Khammam","Division":"Khammam","Region":"Vijayawada","Block":"Tallada","State":"Telangana","Country":"India","Pincode":"507167"},{"Name":"Kurnavalli","Description":null,"BranchType":"Branch Post Office","DeliveryStatus":"Delivery","Circle":"Andhra Pradesh","District":"Khammam","Division":"Khammam","Region":"Vijayawada","Block":"Tallada","State":"Telangana","Country":"India","Pincode":"507167"},{"Name":"Mallaram","Description":null,"BranchType":"Branch Post Office","DeliveryStatus":"Delivery","Circle":"Andhra Pradesh","District":"Khammam","Division":"Khammam","Region":"Vijayawada","Block":"Tallada","State":"Telangana","Country":"India","Pincode":"507167"},{"Name":"Mittapalli","Description":null,"BranchType":"Branch Post Office","DeliveryStatus":"Delivery","Circle":"Andhra Pradesh","District":"Khammam","Division":"Khammam","Region":"Vijayawada","Block":"Tallada","State":"Telangana","Country":"India","Pincode":"507167"},{"Name":"Muddunuru","Description":null,"BranchType":"Branch Post Office","DeliveryStatus":"Delivery","Circle":"Andhra Pradesh","District":"Khammam","Division":"Khammam","Region":"Vijayawada","Block":"Tallada","State":"Telangana","Country":"India","Pincode":"507167"},{"Name":"Noothankal","Description":null,"BranchType":"Branch Post Office","DeliveryStatus":"Delivery","Circle":"Andhra Pradesh","District":"Khammam","Division":"Khammam","Region":"Vijayawada","Block":"Tallada","State":"Telangana","Country":"India","Pincode":"507167"},{"Name":"Tallada","Description":null,"BranchType":"Sub Post Office","DeliveryStatus":"Delivery","Circle":"Andhra Pradesh","District":"Khammam","Division":"Khammam","Region":"Vijayawada","Block":"Tallada","State":"Telangana","Country":"India","Pincode":"507167"}]}]}
+“users”: [
+{
+“id”: 1,
+“firstName”: “Sachin”,
+“lastName”: “Tendulkar”,
+“age”: 45
+},
+{
+“id”: 2,
+“firstName”: “Alastair”,
+“lastName”: “Cook”,
+“age”: 37
+},
+{
+“id”: 3,
+“firstName”: “Steve”,
+“lastName”: “Smith”,
+“age”: 32
+}
+]
+}
