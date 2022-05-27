@@ -1,5 +1,67 @@
 {
   "posts": [{"id": 1}],
   "comments": [],
-  "users": []
+  "users": [],
+  "news": [
+    {
+      "id": 1,
+      "header": "The job profiles that are 'hot' today",
+      "time": "3d ago",
+      "readers": "13,966 readers"
+    },
+    {
+      "id": 2,
+      "header": "Musk says Twitter deal 'on hold'",
+      "time": "2d ago",
+      "readers": "62,146 readers"
+    },
+    {
+      "id": 3,
+      "header": "Bengaluru chills as India sizzles",
+      "time": "5h ago",
+      "readers": "664 readers"
+    },
+    {
+      "id": 4,
+      "header": "Hiring picks up at Big Foury",
+      "time": "7d ago",
+      "readers": "18,618 readers"
+    },
+    {
+      "id": 5,
+      "header": "Musk's waffling ups Twitter intrigue",
+      "time": "53m ago",
+      "readers": "2,016 readers"
+    },
+    {
+      "id": 6,
+      "header": "The job profiles that are 'hot' today",
+      "time": "3d ago",
+      "readers": "13,966 readers"
+    },
+    {
+      "id": 7,
+      "header": "Musk says Twitter deal 'on hold'",
+      "time": "2d ago",
+      "readers": "62,146 readers"
+    },
+    {
+      "id": 8,
+      "header": "Bengaluru chills as India sizzles",
+      "time": "5h ago",
+      "readers": "664 readers"
+    },
+    {
+      "id": 9,
+      "header": "Hiring picks up at Big Foury",
+      "time": "7d ago",
+      "readers": "18,618 readers"
+    },
+    {
+      "id": 10,
+      "header": "Musk's waffling ups Twitter intrigue",
+      "time": "53m ago",
+      "readers": "2,016 readers"
+    }
+  ]
 }
