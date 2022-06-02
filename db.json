@@ -1,14 +1,2836 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+[
+    {
+        "OldPrice": 24967,
+        "Price": 7490,
+        "Weight": 49,
+        "ItemId": 251657,
+        "CategoryIds": [
+            4
+        ],
+        "CategoryPathsToRoot": [
+            [
+                4,
+                6,
+                3,
+                2,
+                1
+            ]
+        ],
+        "Regions": null,
+        "CategoryNames": [
+            "Серьги"
+        ],
+        "Params": {
+            "max_bonus_discount": "",
+            "product_id": "78b1cec3-0d63-11eb-8106-005056b30bd2",
+            "list_name": "SUNLIGHT",
+            "material": "3607",
+            "discount_range": "5662",
+            "podvid": "8358",
+            "povod": "5455",
+            "s_kamnjami": "3838",
+            "gender_position": "4457",
+            "material_color": "1609",
+            "proba": "2494",
+            "tip_zamka": "3297",
+            "karatnost": "4712",
+            "stone_color": "2052",
+            "style": "1263",
+            "dsgn": "8384",
+            "is_hit": "4565",
+            "pokritie": "3559",
+            "stone": "322",
+            "cutting_type": "5811",
+            "genders": "6739",
+            "forma_vstavki": "3718",
+            "additional_bonuses": "5659"
+        },
+        "GroupId": "251657",
+        "StockId": "Москва",
+        "Size": null,
+        "Color": null,
+        "Algorithm": "p",
+        "BuyUrl": null,
+        "Vendor": "SUNLIGHT",
+        "Description": "",
+        "TypePrefix": null,
+        "Model": null,
+        "Url": "https://sunlight.net/catalog/earring_251657.html",
+        "PictureUrl": "https://g8.sunlight.net/media/products/c786dbf1f4018a08ddda5ae753115169242af7a3.jpg",
+        "Name": "Золотые серьги с фианитами"
+    },
+    {
+        "OldPrice": 29950,
+        "Price": 5990,
+        "Weight": 48,
+        "ItemId": 1654951800,
+        "CategoryIds": [
+            5
+        ],
+        "CategoryPathsToRoot": [
+            [
+                5,
+                6,
+                3,
+                2,
+                1
+            ]
+        ],
+        "Regions": null,
+        "CategoryNames": [
+            "Кольца"
+        ],
+        "Params": {
+            "max_bonus_discount": "",
+            "product_id": "51f6f44c-fa02-11e7-84bb-001018f04542",
+            "list_name": "Бриллианты Якутии",
+            "material": "3607",
+            "discount_range": "5662",
+            "brill_karat": "6796",
+            "povod": "5455",
+            "s_kamnjami": "3838",
+            "gender_position": "4458",
+            "material_color": "1609",
+            "proba": "2494",
+            "stone": "13",
+            "tematika": "8406",
+            "stone_color": "2052",
+            "vid_izdelija": "3860",
+            "style": "1263",
+            "dsgn": "8370",
+            "is_hit": "4565",
+            "tags": "5473",
+            "pokritie": "3559",
+            "cutting_type": "5811",
+            "genders": "6739",
+            "forma_vstavki": "3718",
+            "karatnost": "3724",
+            "tgs": "11067",
+            "ogrankabrills": "9544",
+            "podvid": "8606",
+            "additional_bonuses": "5659",
+            "Размер": "18.0"
+        },
+        "GroupId": "165495",
+        "StockId": "Москва",
+        "Size": "18.0",
+        "Color": null,
+        "Algorithm": "p",
+        "BuyUrl": null,
+        "Vendor": "Бриллианты Якутии",
+        "Description": "",
+        "TypePrefix": null,
+        "Model": null,
+        "Url": "https://sunlight.net/catalog/ring_165495.html",
+        "PictureUrl": "https://g5.sunlight.net/media/products/0e804ade-1adb-11ec-8262-005056b30bd2.jpg",
+        "Name": "Золотое кольцо «Бриллианты Якутии»"
+    },
+    {
+        "OldPrice": 590,
+        "Price": 295,
+        "Weight": 47,
+        "ItemId": 290569,
+        "CategoryIds": [
+            708
+        ],
+        "CategoryPathsToRoot": [
+            [
+                708,
+                6,
+                3,
+                2,
+                1
+            ]
+        ],
+        "Regions": null,
+        "CategoryNames": [
+            "Аксессуары"
+        ],
+        "Params": {
+            "max_bonus_discount": "20",
+            "product_id": "0d7dec32-96ba-11eb-81b7-005056b30bd2",
+            "list_name": "SUNLIGHT",
+            "discount_range": "5662",
+            "has_discount_with_bonuses": "10200",
+            "additional_bonuses": "10214",
+            "vid_izdelija": "4938",
+            "is_hit": "4565",
+            "stone": "1",
+            "proba": "4701",
+            "genders": "6742"
+        },
+        "GroupId": "290569",
+        "StockId": "Москва",
+        "Size": null,
+        "Color": null,
+        "Algorithm": "p",
+        "BuyUrl": null,
+        "Vendor": "SUNLIGHT",
+        "Description": "",
+        "TypePrefix": null,
+        "Model": null,
+        "Url": "https://sunlight.net/catalog/accessories_42290.html",
+        "PictureUrl": "https://g8.sunlight.net/media/products/686ca52e00e57ad3f90644cc1c4c75aaa16bc913.jpg",
+        "Name": "Спрей SUNLIGHT для чистки ювелирных изделий"
+    },
+    {
+        "OldPrice": 4990,
+        "Price": 1497,
+        "Weight": 46,
+        "ItemId": 242690,
+        "CategoryIds": [
+            8
+        ],
+        "CategoryPathsToRoot": [
+            [
+                8,
+                6,
+                3,
+                2,
+                1
+            ]
+        ],
+        "Regions": null,
+        "CategoryNames": [
+            "Подвески"
+        ],
+        "Params": {
+            "max_bonus_discount": "",
+            "product_id": "a5e996ff-0d65-11eb-8106-005056b30bd2",
+            "list_name": "SUNLIGHT",
+            "material": "3607",
+            "discount_range": "5662",
+            "podvid": "8358",
+            "povod": "5455",
+            "gender_position": "4456",
+            "material_color": "1609",
+            "proba": "2494",
+            "karatnost": "4712",
+            "stone_color": "2052",
+            "style": "1263",
+            "dsgn": "8387",
+            "is_hit": "4565",
+            "s_kamnjami": "3554",
+            "pokritie": "3559",
+            "stone": "322",
+            "cutting_type": "5811",
+            "genders": "6739",
+            "forma_vstavki": "3718",
+            "additional_bonuses": "5659"
+        },
+        "GroupId": "242690",
+        "StockId": "Москва",
+        "Size": null,
+        "Color": null,
+        "Algorithm": "p",
+        "BuyUrl": null,
+        "Vendor": "SUNLIGHT",
+        "Description": "",
+        "TypePrefix": null,
+        "Model": null,
+        "Url": "https://sunlight.net/catalog/pendants_242690.html",
+        "PictureUrl": "https://g8.sunlight.net/media/products/af84366ebb56aaa9a1c2f43275574a8dcc60225a.jpg",
+        "Name": "Золотая подвеска с фианитами"
+    },
+    {
+        "OldPrice": 50400,
+        "Price": 15120,
+        "Weight": 45,
+        "ItemId": 449194500,
+        "CategoryIds": [
+            319
+        ],
+        "CategoryPathsToRoot": [
+            [
+                319,
+                6,
+                3,
+                2,
+                1
+            ]
+        ],
+        "Regions": null,
+        "CategoryNames": [
+            "Цепи"
+        ],
+        "Params": {
+            "max_bonus_discount": "",
+            "product_id": "90d7edc6-d425-11e7-8254-001018f04542",
+            "list_name": "КРАСЦВЕТМЕТ",
+            "material": "3607",
+            "discount_range": "5662",
+            "povod": "4602",
+            "weaving": "774",
+            "material_color": "1609",
+            "proba": "2494",
+            "style": "1263",
+            "vid_tsepi": "5083",
+            "is_hit": "4565",
+            "tags": "5473",
+            "gender_position": "447",
+            "pokritie": "3559",
+            "vid_izdelija": "3977",
+            "additional_bonuses": "5659",
+            "Размер": "45.0"
+        },
+        "GroupId": "44919",
+        "StockId": "Москва",
+        "Size": "45.0",
+        "Color": null,
+        "Algorithm": "p",
+        "BuyUrl": null,
+        "Vendor": "КРАСЦВЕТМЕТ",
+        "Description": "",
+        "TypePrefix": null,
+        "Model": null,
+        "Url": "https://sunlight.net/catalog/chains_44919.html",
+        "PictureUrl": "https://g9.sunlight.net/media/products/31a5ac0e3bb16c9b3cea9460fc069303f1efff49.jpg",
+        "Name": "Золотая цепь"
+    },
+    {
+        "OldPrice": 4967,
+        "Price": 1490,
+        "Weight": 44,
+        "ItemId": 1583964000,
+        "CategoryIds": [
+            365
+        ],
+        "CategoryPathsToRoot": [
+            [
+                365,
+                6,
+                3,
+                2,
+                1
+            ]
+        ],
+        "Regions": null,
+        "CategoryNames": [
+            "Колье"
+        ],
+        "Params": {
+            "max_bonus_discount": "",
+            "product_id": "663b7617-bd0d-11ea-a7ad-001018f04542",
+            "list_name": "SUNLIGHT",
+            "discount_range": "5662",
+            "podvid": "8358",
+            "povod": "5455",
+            "gender_position": "4456",
+            "material_color": "1600",
+            "proba": "2739",
+            "karatnost": "4712",
+            "stone_color": "2052",
+            "vid_izdelija": "4886",
+            "dsgn": "8639",
+            "style": "1263",
+            "is_hit": "4565",
+            "tags": "3087",
+            "s_kamnjami": "3554",
+            "pokritie": "3559",
+            "material": "329",
+            "stone": "322",
+            "cutting_type": "5811",
+            "genders": "6739",
+            "forma_vstavki": "3718",
+            "additional_bonuses": "5659",
+            "Размер": "40.0"
+        },
+        "GroupId": "158396",
+        "StockId": "Москва",
+        "Size": "40.0",
+        "Color": null,
+        "Algorithm": "p",
+        "BuyUrl": null,
+        "Vendor": "SUNLIGHT",
+        "Description": "",
+        "TypePrefix": null,
+        "Model": null,
+        "Url": "https://sunlight.net/catalog/necklace_158396.html",
+        "PictureUrl": "https://g2.sunlight.net/media/products/191a5de7dc555dec482a9ede6b1ebe54d7506c3b.jpg",
+        "Name": "Серебряное колье с фианитами"
+    },
+    {
+        "OldPrice": 4967,
+        "Price": 1490,
+        "Weight": 43,
+        "ItemId": 510122000,
+        "CategoryIds": [
+            317
+        ],
+        "CategoryPathsToRoot": [
+            [
+                317,
+                6,
+                3,
+                2,
+                1
+            ]
+        ],
+        "Regions": null,
+        "CategoryNames": [
+            "Браслеты"
+        ],
+        "Params": {
+            "max_bonus_discount": "",
+            "product_id": "47b17477-685c-11e6-ae47-001018f04542",
+            "list_name": "LINEA",
+            "discount_range": "5662",
+            "povod": "5455",
+            "weaving": "783",
+            "material_color": "1600",
+            "proba": "2739",
+            "hand_made": "4280",
+            "tip_zamka": "8593",
+            "tematika": "8406",
+            "karatnost": "4712",
+            "vid_izdelija": "4009",
+            "style": "1263",
+            "is_hit": "4565",
+            "vid_tsepi": "5799",
+            "dsgn": "9043",
+            "tags": "5473",
+            "gender_position": "447",
+            "s_kamnjami": "3555",
+            "pokritie": "3559",
+            "material": "329",
+            "stone": "1",
+            "stone_color": "4699",
+            "forma_vstavki": "4700",
+            "cutting_type": "4702",
+            "genders": "6742",
+            "podvid": "8613",
+            "additional_bonuses": "5659",
+            "Размер": "20.0"
+        },
+        "GroupId": "51012",
+        "StockId": "Москва",
+        "Size": "20.0",
+        "Color": null,
+        "Algorithm": "p",
+        "BuyUrl": null,
+        "Vendor": "LINEA",
+        "Description": "",
+        "TypePrefix": null,
+        "Model": null,
+        "Url": "https://sunlight.net/catalog/bracelets_51012.html",
+        "PictureUrl": "https://g9.sunlight.net/media/products/65daff8ddb15a3325c6ee6889cab501a8cafbb0d.jpg",
+        "Name": "Серебряный браслет"
+    },
+    {
+        "OldPrice": 7690,
+        "Price": 3845,
+        "Weight": 42,
+        "ItemId": 74528,
+        "CategoryIds": [
+            890
+        ],
+        "CategoryPathsToRoot": [
+            [
+                890,
+                6,
+                3,
+                2,
+                1
+            ]
+        ],
+        "Regions": null,
+        "CategoryNames": [
+            "Крест-подвеска"
+        ],
+        "Params": {
+            "max_bonus_discount": "30",
+            "product_id": "2d3cbce5-dbf8-11e7-aebe-001018f04542",
+            "list_name": "Сорокин",
+            "material": "3607",
+            "discount_range": "5662",
+            "povod": "5455",
+            "tgs": "8663",
+            "has_discount_with_bonuses": "10200",
+            "additional_bonuses": "10214",
+            "material_color": "1609",
+            "proba": "2494",
+            "vid_izdelija": "3981",
+            "tematika": "8435",
+            "karatnost": "4712",
+            "style": "1263",
+            "dsgn": "8373",
+            "is_hit": "4565",
+            "gender_position": "1533",
+            "tags": "3644",
+            "s_kamnjami": "3555",
+            "pokritie": "3559",
+            "stone": "1",
+            "stone_color": "4699",
+            "forma_vstavki": "4700",
+            "cutting_type": "4702",
+            "podvid": "9372",
+            "genders": "6742"
+        },
+        "GroupId": "74528",
+        "StockId": "Москва",
+        "Size": null,
+        "Color": null,
+        "Algorithm": "p",
+        "BuyUrl": null,
+        "Vendor": "Сорокин",
+        "Description": "",
+        "TypePrefix": null,
+        "Model": null,
+        "Url": "https://sunlight.net/catalog/pendants_74528.html",
+        "PictureUrl": "https://g6.sunlight.net/media/products/4f780e2fe04aa5b93fd7272939079d9b89cbc046.jpg",
+        "Name": "Золотой крест-подвеска"
+    },
+    {
+        "OldPrice": 2490,
+        "Price": 1245,
+        "Weight": 41,
+        "ItemId": 1051304500,
+        "CategoryIds": [
+            659
+        ],
+        "CategoryPathsToRoot": [
+            [
+                659,
+                6,
+                3,
+                2,
+                1
+            ]
+        ],
+        "Regions": null,
+        "CategoryNames": [
+            "Шейное украшение"
+        ],
+        "Params": {
+            "max_bonus_discount": "20",
+            "product_id": "5dd7b63b-d62b-11e9-8d97-001018f04542",
+            "list_name": "SUNLIGHT",
+            "discount_range": "5662",
+            "podvid": "8358",
+            "povod": "5455",
+            "s_kamnjami": "3838",
+            "gender_position": "4456",
+            "has_discount_with_bonuses": "10200",
+            "additional_bonuses": "10214",
+            "material_color": "1600",
+            "proba": "2739",
+            "karatnost": "4712",
+            "stone_color": "2052",
+            "vid_izdelija": "4886",
+            "dsgn": "8639",
+            "style": "1263",
+            "is_hit": "4565",
+            "tags": "3087",
+            "pokritie": "3559",
+            "material": "329",
+            "stone": "322",
+            "cutting_type": "5811",
+            "genders": "6739",
+            "forma_vstavki": "3718",
+            "Размер": "45.0"
+        },
+        "GroupId": "105130",
+        "StockId": "Москва",
+        "Size": "45.0",
+        "Color": null,
+        "Algorithm": "p",
+        "BuyUrl": null,
+        "Vendor": "SUNLIGHT",
+        "Description": "",
+        "TypePrefix": null,
+        "Model": null,
+        "Url": "https://sunlight.net/catalog/neck_decoration_105130.html",
+        "PictureUrl": "https://g7.sunlight.net/media/products/6ec391e1f848b7ac4420502a22379630926a5ffc.jpg",
+        "Name": "Серебряное шейное украшение с фианитами"
+    },
+    {
+        "OldPrice": 11990,
+        "Price": 3597,
+        "Weight": 40,
+        "ItemId": 38118,
+        "CategoryIds": [
+            4
+        ],
+        "CategoryPathsToRoot": [
+            [
+                4,
+                6,
+                3,
+                2,
+                1
+            ]
+        ],
+        "Regions": null,
+        "CategoryNames": [
+            "Серьги"
+        ],
+        "Params": {
+            "max_bonus_discount": "",
+            "product_id": "e6e03a8e-1a76-11eb-8117-005056b30bd2",
+            "list_name": "SUNLIGHT",
+            "material": "3607",
+            "discount_range": "5662",
+            "povod": "5455",
+            "vid_izdelija": "5466",
+            "gender_position": "4457",
+            "material_color": "1609",
+            "proba": "2494",
+            "tip_zamka": "2914",
+            "diametr_sergi_web": "6459",
+            "karatnost": "4712",
+            "style": "1263",
+            "is_hit": "4565",
+            "tags": "5473",
+            "s_kamnjami": "3555",
+            "pokritie": "3559",
+            "stone": "1",
+            "stone_color": "4699",
+            "forma_vstavki": "4700",
+            "cutting_type": "4702",
+            "genders": "6739",
+            "additional_bonuses": "5659"
+        },
+        "GroupId": "38118",
+        "StockId": "Москва",
+        "Size": null,
+        "Color": null,
+        "Algorithm": "p",
+        "BuyUrl": null,
+        "Vendor": "SUNLIGHT",
+        "Description": "",
+        "TypePrefix": null,
+        "Model": null,
+        "Url": "https://sunlight.net/catalog/earring_38118.html",
+        "PictureUrl": "https://g0.sunlight.net/media/products/9d45588dbe7d98f5ff13d154a507c49897d6c73b.jpg",
+        "Name": "Золотые серьги"
+    },
+    {
+        "OldPrice": 3967,
+        "Price": 1190,
+        "Weight": 39,
+        "ItemId": 59795,
+        "CategoryIds": [
+            318
+        ],
+        "CategoryPathsToRoot": [
+            [
+                318,
+                6,
+                3,
+                2,
+                1
+            ]
+        ],
+        "Regions": null,
+        "CategoryNames": [
+            "Часы"
+        ],
+        "Params": {
+            "max_bonus_discount": "",
+            "product_id": "d1d6f55c-d380-11e7-89d3-001018f04542",
+            "list_name": "SUNLIGHT",
+            "discount_range": "5662",
+            "clock_imperty": "11083",
+            "clock_gear": "11089",
+            "functions": "4359",
+            "length_braslet": "4363",
+            "clock_case_material": "4364",
+            "watchband_size": "4370",
+            "povod": "4460",
+            "osoben": "3307",
+            "displaying": "3172",
+            "case_diameter": "570",
+            "clock_material_bracelet": "4646",
+            "clock_face": "4638",
+            "bracelet_color": "3104",
+            "clock_glass": "364",
+            "producer_countries": "2701",
+            "style": "3757",
+            "indexes": "3777",
+            "is_hit": "4565",
+            "tags": "3087",
+            "gender_position": "447",
+            "back_cover": "3830",
+            "dial_color": "4036",
+            "genders": "6739",
+            "body_color": "2100",
+            "rim_color": "3187",
+            "additional_bonuses": "5659"
+        },
+        "GroupId": "59795",
+        "StockId": "Москва",
+        "Size": null,
+        "Color": null,
+        "Algorithm": "p",
+        "BuyUrl": null,
+        "Vendor": "SUNLIGHT",
+        "Description": "",
+        "TypePrefix": null,
+        "Model": null,
+        "Url": "https://sunlight.net/catalog/clock_59795.html",
+        "PictureUrl": "https://g8.sunlight.net/media/products/74bd6f975dd3389b2d4a6ee7305e92ac380de2e9.jpg",
+        "Name": "Женские часы с плавающими кристаллами"
+    },
+    {
+        "OldPrice": 2990,
+        "Price": 1495,
+        "Weight": 38,
+        "ItemId": 2556974500,
+        "CategoryIds": [
+            747
+        ],
+        "CategoryPathsToRoot": [
+            [
+                747,
+                6,
+                3,
+                2,
+                1
+            ]
+        ],
+        "Regions": null,
+        "CategoryNames": [
+            "Шнурок"
+        ],
+        "Params": {
+            "max_bonus_discount": "20",
+            "product_id": "6090733c-3620-11eb-813c-005056b30bd2",
+            "list_name": "SUNLIGHT",
+            "discount_range": "5662",
+            "marketing_group": "10850",
+            "has_discount_with_bonuses": "10200",
+            "additional_bonuses": "10214",
+            "vid_izdelija": "5175",
+            "is_hit": "4565",
+            "genders": "6739",
+            "Размер": "45.0"
+        },
+        "GroupId": "255697",
+        "StockId": "Москва",
+        "Size": "45.0",
+        "Color": null,
+        "Algorithm": "p",
+        "BuyUrl": null,
+        "Vendor": "SUNLIGHT",
+        "Description": "",
+        "TypePrefix": null,
+        "Model": null,
+        "Url": "https://sunlight.net/catalog/lace_255697.html",
+        "PictureUrl": "https://g7.sunlight.net/media/products/c564bd368189b0ac0363701057d6ea163473d998.jpg",
+        "Name": "Текстильный шнурок"
+    },
+    {
+        "OldPrice": 0,
+        "Price": 273,
+        "Weight": 37,
+        "ItemId": 325250,
+        "CategoryIds": [
+            916
+        ],
+        "CategoryPathsToRoot": [
+            [
+                916,
+                6,
+                3,
+                2,
+                1
+            ]
+        ],
+        "Regions": null,
+        "CategoryNames": [
+            "Средства для умывания"
+        ],
+        "Params": {
+            "max_bonus_discount": "10",
+            "product_id": "85dbb472-ae6c-11ec-8322-005056b30bd2",
+            "list_name": "Гель для умывания очищающий для жирной и склонной к жирности кожи 150мл",
+            "has_discount_with_bonuses": "10200",
+            "additional_bonuses": "10214",
+            "application_area": "10092",
+            "result": "10103",
+            "gender_position": "10366",
+            "is_hit": "4565",
+            "marketing_group": "10765",
+            "type_of_cosmetic": "10354",
+            "item_type": "10772",
+            "genders": "6739",
+            "volume": "10138",
+            "discount_range": "5664",
+            "skin_type": "10373"
+        },
+        "GroupId": "325250",
+        "StockId": "Москва",
+        "Size": null,
+        "Color": null,
+        "Algorithm": "p",
+        "BuyUrl": null,
+        "Vendor": "Nivea",
+        "Description": "",
+        "TypePrefix": null,
+        "Model": null,
+        "Url": "https://sunlight.net/catalog/cleansers_325250.html",
+        "PictureUrl": "https://g4.sunlight.net/media/products/4562564e-b3f9-11ec-8329-005056b30bd2.jpg",
+        "Name": "Гель для умывания очищающий для жирной и склонной к жирности кожи 150мл"
+    },
+    {
+        "OldPrice": 6990,
+        "Price": 3495,
+        "Weight": 36,
+        "ItemId": 91539,
+        "CategoryIds": [
+            478
+        ],
+        "CategoryPathsToRoot": [
+            [
+                478,
+                6,
+                3,
+                2,
+                1
+            ]
+        ],
+        "Regions": null,
+        "CategoryNames": [
+            "Пирсинг"
+        ],
+        "Params": {
+            "max_bonus_discount": "30",
+            "product_id": "c03e669a-9674-11e9-bac4-001018f04542",
+            "list_name": "SUNLIGHT",
+            "material": "3607",
+            "discount_range": "5662",
+            "povod": "5455",
+            "gender_position": "4458",
+            "podvid": "9142",
+            "has_discount_with_bonuses": "10200",
+            "additional_bonuses": "10214",
+            "material_color": "1609",
+            "proba": "2494",
+            "karatnost": "4712",
+            "stone_color": "2052",
+            "style": "3757",
+            "dsgn": "8387",
+            "is_hit": "4565",
+            "tags": "5473",
+            "s_kamnjami": "3554",
+            "pokritie": "3559",
+            "stone": "322",
+            "vid_izdelija": "5359",
+            "cutting_type": "5811",
+            "genders": "6739",
+            "forma_vstavki": "3718"
+        },
+        "GroupId": "91539",
+        "StockId": "Москва",
+        "Size": null,
+        "Color": null,
+        "Algorithm": "p",
+        "BuyUrl": null,
+        "Vendor": "SUNLIGHT",
+        "Description": "",
+        "TypePrefix": null,
+        "Model": null,
+        "Url": "https://sunlight.net/catalog/piercing_91539.html",
+        "PictureUrl": "https://g1.sunlight.net/media/products/57c3490bc33e198a0192877090c16458c6692478.jpg",
+        "Name": "Золотой пирсинг с фианитами"
+    },
+    {
+        "OldPrice": 4490,
+        "Price": 898,
+        "Weight": 35,
+        "ItemId": 41815,
+        "CategoryIds": [
+            8
+        ],
+        "CategoryPathsToRoot": [
+            [
+                8,
+                6,
+                3,
+                2,
+                1
+            ]
+        ],
+        "Regions": null,
+        "CategoryNames": [
+            "Подвески"
+        ],
+        "Params": {
+            "max_bonus_discount": "",
+            "product_id": "1876f606-d572-11e5-822f-001018f04542",
+            "list_name": "SUNLIGHT",
+            "tags": "3611",
+            "discount_range": "5662",
+            "podvid": "8358",
+            "povod": "5455",
+            "s_kamnjami": "3838",
+            "gender_position": "4457",
+            "material_color": "1600",
+            "proba": "2739",
+            "tematika": "8430",
+            "karatnost": "4712",
+            "stone_color": "2051",
+            "vid_izdelija": "4007",
+            "style": "1263",
+            "dsgn": "8374",
+            "is_hit": "4565",
+            "stone": "482",
+            "pokritie": "3559",
+            "material": "329",
+            "cutting_type": "3320",
+            "genders": "6739",
+            "forma_vstavki": "3717",
+            "additional_bonuses": "5659"
+        },
+        "GroupId": "41815",
+        "StockId": "Москва",
+        "Size": null,
+        "Color": null,
+        "Algorithm": "p",
+        "BuyUrl": null,
+        "Vendor": "SUNLIGHT",
+        "Description": "",
+        "TypePrefix": null,
+        "Model": null,
+        "Url": "https://sunlight.net/catalog/silver/pendants258443.html",
+        "PictureUrl": "https://g5.sunlight.net/media/products/4e6a0a751b5d55b6e90871ab8c7330c95ad02d46.jpg",
+        "Name": "Серебряная подвеска с фианитами и алпанитом"
+    },
+    {
+        "OldPrice": 0,
+        "Price": 2490,
+        "Weight": 34,
+        "ItemId": 75809,
+        "CategoryIds": [
+            890
+        ],
+        "CategoryPathsToRoot": [
+            [
+                890,
+                6,
+                3,
+                2,
+                1
+            ]
+        ],
+        "Regions": null,
+        "CategoryNames": [
+            "Крест-подвеска"
+        ],
+        "Params": {
+            "max_bonus_discount": "",
+            "product_id": "815c68c6-0d62-11e8-ae09-001018f04542",
+            "list_name": "SUNLIGHT",
+            "Хит": "true",
+            "material": "3607",
+            "povod": "5455",
+            "tgs": "8666",
+            "material_color": "1609",
+            "proba": "2494",
+            "vid_izdelija": "3981",
+            "tematika": "8435",
+            "karatnost": "4712",
+            "style": "1263",
+            "dsgn": "8373",
+            "tags": "3087",
+            "gender_position": "1533",
+            "s_kamnjami": "3555",
+            "pokritie": "3559",
+            "stone": "1",
+            "stone_color": "4699",
+            "forma_vstavki": "4700",
+            "cutting_type": "4702",
+            "podvid": "9372",
+            "genders": "6738",
+            "is_hit": "4564",
+            "discount_range": "5664",
+            "additional_bonuses": "5659"
+        },
+        "GroupId": "75809",
+        "StockId": "Москва",
+        "Size": null,
+        "Color": null,
+        "Algorithm": "p",
+        "BuyUrl": null,
+        "Vendor": "SUNLIGHT",
+        "Description": "",
+        "TypePrefix": null,
+        "Model": null,
+        "Url": "https://sunlight.net/catalog/pendants_75809.html",
+        "PictureUrl": "https://g9.sunlight.net/media/products/21270692fa1c351ae6ec853e4f31975b19e6ee9a.jpg",
+        "Name": "Золотой крест-подвеска"
+    },
+    {
+        "OldPrice": 2790,
+        "Price": 1395,
+        "Weight": 33,
+        "ItemId": 2722512800,
+        "CategoryIds": [
+            745
+        ],
+        "CategoryPathsToRoot": [
+            [
+                745,
+                6,
+                3,
+                2,
+                1
+            ]
+        ],
+        "Regions": null,
+        "CategoryNames": [
+            "Ножной браслет"
+        ],
+        "Params": {
+            "max_bonus_discount": "20",
+            "product_id": "5f43a474-3b7a-11eb-8143-005056b30bd2",
+            "list_name": "SUNLIGHT",
+            "discount_range": "5662",
+            "has_discount_with_bonuses": "10200",
+            "additional_bonuses": "10214",
+            "material_color": "1609",
+            "proba": "2739",
+            "is_hit": "4565",
+            "material": "329",
+            "podvid": "9324",
+            "Размер": "28.0"
+        },
+        "GroupId": "272251",
+        "StockId": "Москва",
+        "Size": "28.0",
+        "Color": null,
+        "Algorithm": "p",
+        "BuyUrl": null,
+        "Vendor": "SUNLIGHT",
+        "Description": "",
+        "TypePrefix": null,
+        "Model": null,
+        "Url": "https://sunlight.net/catalog/anklets_272251.html",
+        "PictureUrl": "https://g0.sunlight.net/media/products/4df08666-b7f9-11eb-81e1-005056b30bd2.jpg",
+        "Name": "Серебряный ножной браслет"
+    },
+    {
+        "OldPrice": 5490,
+        "Price": 2745,
+        "Weight": 32,
+        "ItemId": 80429,
+        "CategoryIds": [
+            373
+        ],
+        "CategoryPathsToRoot": [
+            [
+                373,
+                6,
+                3,
+                2,
+                1
+            ]
+        ],
+        "Regions": null,
+        "CategoryNames": [
+            "Серьга"
+        ],
+        "Params": {
+            "max_bonus_discount": "20",
+            "product_id": "ee6d76ff-18ef-11eb-8115-005056b30bd2",
+            "list_name": "SUNLIGHT",
+            "material": "3607",
+            "discount_range": "5662",
+            "vid_izdelija": "5466",
+            "gender_position": "4456",
+            "has_discount_with_bonuses": "10200",
+            "additional_bonuses": "10214",
+            "material_color": "1609",
+            "proba": "2494",
+            "tip_zamka": "2914",
+            "diametr_sergi_web": "6459",
+            "karatnost": "4712",
+            "tags": "3408",
+            "style": "1263",
+            "is_hit": "4565",
+            "povod": "3547",
+            "s_kamnjami": "3555",
+            "pokritie": "3559",
+            "stone": "1",
+            "stone_color": "4699",
+            "forma_vstavki": "4700",
+            "cutting_type": "4702"
+        },
+        "GroupId": "80429",
+        "StockId": "Москва",
+        "Size": null,
+        "Color": null,
+        "Algorithm": "p",
+        "BuyUrl": null,
+        "Vendor": "SUNLIGHT",
+        "Description": "",
+        "TypePrefix": null,
+        "Model": null,
+        "Url": "https://sunlight.net/catalog/one_earring_80429.html",
+        "PictureUrl": "https://g2.sunlight.net/media/products/517420ec7fbbdd0cd212d9da1a9775038e950834.jpg",
+        "Name": "Золотая серьга"
+    },
+    {
+        "OldPrice": 8950,
+        "Price": 1790,
+        "Weight": 31,
+        "ItemId": 903614800,
+        "CategoryIds": [
+            659
+        ],
+        "CategoryPathsToRoot": [
+            [
+                659,
+                6,
+                3,
+                2,
+                1
+            ]
+        ],
+        "Regions": null,
+        "CategoryNames": [
+            "Шейное украшение"
+        ],
+        "Params": {
+            "max_bonus_discount": "",
+            "product_id": "d5fb984e-1b28-11e9-87ab-001018f04542",
+            "list_name": "SUNLIGHT",
+            "discount_range": "5662",
+            "podvid": "8358",
+            "povod": "5455",
+            "s_kamnjami": "3838",
+            "gender_position": "4457",
+            "material_color": "1600",
+            "proba": "2739",
+            "tematika": "8432",
+            "karatnost": "4712",
+            "stone_color": "2052",
+            "vid_izdelija": "4886",
+            "dsgn": "8639",
+            "is_hit": "4565",
+            "tags": "3087",
+            "style": "3654",
+            "pokritie": "3559",
+            "material": "329",
+            "stone": "322",
+            "cutting_type": "5811",
+            "genders": "6739",
+            "forma_vstavki": "3718",
+            "additional_bonuses": "5659",
+            "Размер": "48.0"
+        },
+        "GroupId": "90361",
+        "StockId": "Москва",
+        "Size": "48.0",
+        "Color": null,
+        "Algorithm": "p",
+        "BuyUrl": null,
+        "Vendor": "SUNLIGHT",
+        "Description": "",
+        "TypePrefix": null,
+        "Model": null,
+        "Url": "https://sunlight.net/catalog/neck_decoration_90361.html",
+        "PictureUrl": "https://g5.sunlight.net/media/products/bce4be1523eb2c41b79f945aa95a1bc283f88f45.jpg",
+        "Name": "Шейное украшение с фианитами \"Спичка\""
+    },
+    {
+        "OldPrice": 0,
+        "Price": 472,
+        "Weight": 30,
+        "ItemId": 325533,
+        "CategoryIds": [
+            931
+        ],
+        "CategoryPathsToRoot": [
+            [
+                931,
+                6,
+                3,
+                2,
+                1
+            ]
+        ],
+        "Regions": null,
+        "CategoryNames": [
+            "Шампуни"
+        ],
+        "Params": {
+            "max_bonus_discount": "10",
+            "product_id": "97779882-ae83-11ec-8322-005056b30bd2",
+            "list_name": "Шампунь для волос бессульфатный Цветущий цвет 400 мл",
+            "has_discount_with_bonuses": "10200",
+            "additional_bonuses": "10214",
+            "item_type": "10836",
+            "volume": "10382",
+            "sunscreen": "10095",
+            "gender_position": "10366",
+            "type_of_cosmetic": "10272",
+            "application_area": "10279",
+            "is_hit": "4565",
+            "marketing_group": "10763",
+            "genders": "6739",
+            "discount_range": "5664"
+        },
+        "GroupId": "325533",
+        "StockId": "Москва",
+        "Size": null,
+        "Color": null,
+        "Algorithm": "p",
+        "BuyUrl": null,
+        "Vendor": "LOVE BEAUTY&PLANET",
+        "Description": "",
+        "TypePrefix": null,
+        "Model": null,
+        "Url": "https://sunlight.net/catalog/shampoos_325533.html",
+        "PictureUrl": "https://g4.sunlight.net/media/products/92a43f161c42b9205420c2027e5c2df808564565.png",
+        "Name": "Шампунь для волос бессульфатный Цветущий цвет 400 мл"
+    },
+    {
+        "OldPrice": 5580,
+        "Price": 2790,
+        "Weight": 29,
+        "ItemId": 260921,
+        "CategoryIds": [
+            708
+        ],
+        "CategoryPathsToRoot": [
+            [
+                708,
+                6,
+                3,
+                2,
+                1
+            ]
+        ],
+        "Regions": null,
+        "CategoryNames": [
+            "Аксессуары"
+        ],
+        "Params": {
+            "max_bonus_discount": "10",
+            "product_id": "a33a4d6f-490e-11eb-8154-005056b30bd2",
+            "list_name": "Шкатулка для украшений",
+            "discount_range": "5662",
+            "has_discount_with_bonuses": "10200",
+            "additional_bonuses": "10214",
+            "material": "1300",
+            "is_hit": "4565",
+            "stone": "1"
+        },
+        "GroupId": "260921",
+        "StockId": "Москва",
+        "Size": null,
+        "Color": null,
+        "Algorithm": "p",
+        "BuyUrl": null,
+        "Vendor": "",
+        "Description": "",
+        "TypePrefix": null,
+        "Model": null,
+        "Url": "https://sunlight.net/catalog/accessories_260921.html",
+        "PictureUrl": "https://g1.sunlight.net/media/products/11b4f254356f3848a653fff84751e60955b654ad.jpg",
+        "Name": "Шкатулка для украшений"
+    },
+    {
+        "OldPrice": 0,
+        "Price": 2990,
+        "Weight": 28,
+        "ItemId": 34436,
+        "CategoryIds": [
+            4
+        ],
+        "CategoryPathsToRoot": [
+            [
+                4,
+                6,
+                3,
+                2,
+                1
+            ]
+        ],
+        "Regions": null,
+        "CategoryNames": [
+            "Серьги"
+        ],
+        "Params": {
+            "max_bonus_discount": "",
+            "product_id": "a0e29194-e219-11ea-80cf-005056b30bd2",
+            "list_name": "SUNLIGHT",
+            "Хит": "true",
+            "material": "3607",
+            "povod": "5455",
+            "vid_izdelija": "5466",
+            "gender_position": "4457",
+            "material_color": "1609",
+            "proba": "2494",
+            "tip_zamka": "2914",
+            "diametr_sergi_web": "6459",
+            "tematika": "8406",
+            "karatnost": "4712",
+            "style": "1263",
+            "dsgn": "8366",
+            "tags": "5473",
+            "s_kamnjami": "3555",
+            "pokritie": "3559",
+            "stone": "1",
+            "stone_color": "4699",
+            "forma_vstavki": "4700",
+            "cutting_type": "4702",
+            "genders": "6739",
+            "is_hit": "4564",
+            "discount_range": "5664",
+            "podvid": "8607",
+            "additional_bonuses": "5659"
+        },
+        "GroupId": "34436",
+        "StockId": "Москва",
+        "Size": null,
+        "Color": null,
+        "Algorithm": "p",
+        "BuyUrl": null,
+        "Vendor": "SUNLIGHT",
+        "Description": "",
+        "TypePrefix": null,
+        "Model": null,
+        "Url": "https://sunlight.net/catalog/earring246395.html",
+        "PictureUrl": "https://g5.sunlight.net/media/products/0650137319013832a45482be737a8c59e4b22e40.jpg",
+        "Name": "Золотые серьги"
+    },
+    {
+        "OldPrice": 8490,
+        "Price": 2547,
+        "Weight": 27,
+        "ItemId": 133760,
+        "CategoryIds": [
+            366
+        ],
+        "CategoryPathsToRoot": [
+            [
+                366,
+                6,
+                3,
+                2,
+                1
+            ]
+        ],
+        "Regions": null,
+        "CategoryNames": [
+            "Брошь"
+        ],
+        "Params": {
+            "max_bonus_discount": "",
+            "product_id": "0641bf9f-a3ea-11ea-a96f-001018f04542",
+            "list_name": "SUNLIGHT",
+            "discount_range": "5662",
+            "tgs": "8963",
+            "podvid": "8358",
+            "povod": "5455",
+            "pokritie": "6231",
+            "gender_position": "4457",
+            "tematika": "9136",
+            "material_color": "1609",
+            "proba": "2739",
+            "karatnost": "4712",
+            "stone_color": "2047",
+            "s_kamnjami": "3842",
+            "style": "1263",
+            "is_hit": "4565",
+            "tags": "3087",
+            "material": "329",
+            "cutting_type": "3316",
+            "genders": "6739",
+            "vid_izdelija": "4167",
+            "forma_vstavki": "3718",
+            "dsgn": "8638",
+            "stone": "1530",
+            "additional_bonuses": "5659"
+        },
+        "GroupId": "133760",
+        "StockId": "Москва",
+        "Size": null,
+        "Color": null,
+        "Algorithm": "p",
+        "BuyUrl": null,
+        "Vendor": "SUNLIGHT",
+        "Description": "",
+        "TypePrefix": null,
+        "Model": null,
+        "Url": "https://sunlight.net/catalog/brooch_133760.html",
+        "PictureUrl": "https://g0.sunlight.net/media/products/023a2f5987698b90ceb634fcedeb3cc411ad083a.jpg",
+        "Name": "Серебряная брошь с янтарем"
+    },
+    {
+        "OldPrice": 8990,
+        "Price": 4495,
+        "Weight": 26,
+        "ItemId": 87639,
+        "CategoryIds": [
+            318
+        ],
+        "CategoryPathsToRoot": [
+            [
+                318,
+                6,
+                3,
+                2,
+                1
+            ]
+        ],
+        "Regions": null,
+        "CategoryNames": [
+            "Часы"
+        ],
+        "Params": {
+            "max_bonus_discount": "20",
+            "product_id": "5112c1bf-2e9b-11e9-bd16-001018f04542",
+            "list_name": "TAMER",
+            "discount_range": "5662",
+            "clock_imperty": "11088",
+            "clock_gear": "11089",
+            "clock_case_material": "4364",
+            "watchband_size": "4374",
+            "povod": "5455",
+            "length_braslet": "3790",
+            "podvid": "9346",
+            "osoben": "3307",
+            "has_discount_with_bonuses": "10200",
+            "additional_bonuses": "10214",
+            "indexes": "4187",
+            "displaying": "3172",
+            "back_cover": "6413",
+            "clock_material_bracelet": "6300",
+            "bracelet_color": "3103",
+            "dial_color": "3111",
+            "case_diameter": "639",
+            "is_hit": "4565",
+            "functions": "4499",
+            "tags": "5473",
+            "gender_position": "446",
+            "clock_glass": "4620",
+            "stone": "1",
+            "proba": "4701",
+            "genders": "6738",
+            "body_color": "2100",
+            "rim_color": "3187",
+            "bracelet_feature": "10227",
+            "style": "10231",
+            "type_of_mechanism": "9377"
+        },
+        "GroupId": "87639",
+        "StockId": "Москва",
+        "Size": null,
+        "Color": null,
+        "Algorithm": "p",
+        "BuyUrl": null,
+        "Vendor": "TAMER",
+        "Description": "",
+        "TypePrefix": null,
+        "Model": null,
+        "Url": "https://sunlight.net/catalog/clock_87639.html",
+        "PictureUrl": "https://g1.sunlight.net/media/products/38db98535ff6fe93118248d86800923d54914269.jpg",
+        "Name": "Часы мужские"
+    },
+    {
+        "OldPrice": 0,
+        "Price": 196,
+        "Weight": 25,
+        "ItemId": 325436,
+        "CategoryIds": [
+            927
+        ],
+        "CategoryPathsToRoot": [
+            [
+                927,
+                6,
+                3,
+                2,
+                1
+            ]
+        ],
+        "Regions": null,
+        "CategoryNames": [
+            "Средства для ухода за телом"
+        ],
+        "Params": {
+            "max_bonus_discount": "10",
+            "product_id": "6cc6e210-ae83-11ec-8322-005056b30bd2",
+            "list_name": "Крем для ухода за кожей универсальный 75мл",
+            "has_discount_with_bonuses": "10200",
+            "additional_bonuses": "10214",
+            "type_of_cosmetic": "10663",
+            "item_type": "10799",
+            "volume": "10655",
+            "result": "10104",
+            "skin_type": "10111",
+            "gender_position": "10366",
+            "application_area": "10283",
+            "is_hit": "4565",
+            "marketing_group": "10764",
+            "genders": "6742",
+            "discount_range": "5664"
+        },
+        "GroupId": "325436",
+        "StockId": "Москва",
+        "Size": null,
+        "Color": null,
+        "Algorithm": "p",
+        "BuyUrl": null,
+        "Vendor": "Nivea",
+        "Description": "",
+        "TypePrefix": null,
+        "Model": null,
+        "Url": "https://sunlight.net/catalog/body_care_products_325436.html",
+        "PictureUrl": "https://g3.sunlight.net/media/products/a60ed41ebeb9f9b4ecf5661e7916cd15253b5970.png",
+        "Name": "Крем для ухода за кожей универсальный 75мл"
+    },
+    {
+        "OldPrice": 0,
+        "Price": 479,
+        "Weight": 24,
+        "ItemId": 325401,
+        "CategoryIds": [
+            933
+        ],
+        "CategoryPathsToRoot": [
+            [
+                933,
+                6,
+                3,
+                2,
+                1
+            ]
+        ],
+        "Regions": null,
+        "CategoryNames": [
+            "Средства для ванной и душа"
+        ],
+        "Params": {
+            "max_bonus_discount": "10",
+            "product_id": "541bd8f4-ae83-11ec-8322-005056b30bd2",
+            "list_name": "Гель для душа \"Нежное увлажнение\" 750 мл",
+            "type_of_cosmetic": "9817",
+            "item_type": "10783",
+            "has_discount_with_bonuses": "10200",
+            "additional_bonuses": "10214",
+            "result": "10110",
+            "skin_type": "10111",
+            "volume": "10360",
+            "gender_position": "10366",
+            "application_area": "10283",
+            "is_hit": "4565",
+            "marketing_group": "10764",
+            "genders": "6742",
+            "discount_range": "5664"
+        },
+        "GroupId": "325401",
+        "StockId": "Москва",
+        "Size": null,
+        "Color": null,
+        "Algorithm": "p",
+        "BuyUrl": null,
+        "Vendor": "Nivea",
+        "Description": "",
+        "TypePrefix": null,
+        "Model": null,
+        "Url": "https://sunlight.net/catalog/bath_bush_products_325401.html",
+        "PictureUrl": "https://g3.sunlight.net/media/products/b7665d7f-b1d9-11ec-8326-005056b30bd2.jpg",
+        "Name": "Гель для душа \"Нежное увлажнение\" 750 мл"
+    },
+    {
+        "OldPrice": 0,
+        "Price": 120,
+        "Weight": 23,
+        "ItemId": 325292,
+        "CategoryIds": [
+            919
+        ],
+        "CategoryPathsToRoot": [
+            [
+                919,
+                6,
+                3,
+                2,
+                1
+            ]
+        ],
+        "Regions": null,
+        "CategoryNames": [
+            "Уход за кожей вокруг глаз"
+        ],
+        "Params": {
+            "max_bonus_discount": "10",
+            "product_id": "261748c5-ae83-11ec-8322-005056b30bd2",
+            "list_name": "Гиалуроновые гидрогелевые патчи 15, 73 г",
+            "has_discount_with_bonuses": "10200",
+            "additional_bonuses": "10214",
+            "item_type": "10814",
+            "application_area": "10092",
+            "result": "10098",
+            "gender_position": "10366",
+            "is_hit": "4565",
+            "marketing_group": "10765",
+            "type_of_cosmetic": "10734",
+            "volume": "10735",
+            "genders": "6739",
+            "discount_range": "5664",
+            "skin_type": "10562"
+        },
+        "GroupId": "325292",
+        "StockId": "Москва",
+        "Size": null,
+        "Color": null,
+        "Algorithm": "p",
+        "BuyUrl": null,
+        "Vendor": "Nivea",
+        "Description": "",
+        "TypePrefix": null,
+        "Model": null,
+        "Url": "https://sunlight.net/catalog/around_eyes_325292.html",
+        "PictureUrl": "https://g7.sunlight.net/media/products/9e0dc9eb-b3fa-11ec-8329-005056b30bd2.jpg",
+        "Name": "Гиалуроновые гидрогелевые патчи 15, 73 г"
+    },
+    {
+        "OldPrice": 0,
+        "Price": 1190,
+        "Weight": 22,
+        "ItemId": 81090,
+        "CategoryIds": [
+            541
+        ],
+        "CategoryPathsToRoot": [
+            [
+                541,
+                6,
+                3,
+                2,
+                1
+            ]
+        ],
+        "Regions": null,
+        "CategoryNames": [
+            "Подвеска - шарм"
+        ],
+        "Params": {
+            "max_bonus_discount": "",
+            "product_id": "eb0d55e7-580a-11e8-bcdd-001018f04542",
+            "list_name": "SUNLIGHT",
+            "Хит": "true",
+            "povod": "5455",
+            "pokritie": "6231",
+            "s_kamnjami": "3838",
+            "gender_position": "4456",
+            "tgs": "8682",
+            "material_color": "1600",
+            "proba": "2739",
+            "podvid": "9098",
+            "tematika": "8423",
+            "karatnost": "4712",
+            "stone_color": "2052",
+            "vid_izdelija": "4006",
+            "style": "1263",
+            "dsgn": "8384",
+            "material": "329",
+            "stone": "322",
+            "cutting_type": "5811",
+            "genders": "6739",
+            "is_hit": "4564",
+            "forma_vstavki": "3718",
+            "discount_range": "5664",
+            "tags": "3299",
+            "additional_bonuses": "5659"
+        },
+        "GroupId": "81090",
+        "StockId": "Москва",
+        "Size": null,
+        "Color": null,
+        "Algorithm": "p",
+        "BuyUrl": null,
+        "Vendor": "SUNLIGHT",
+        "Description": "",
+        "TypePrefix": null,
+        "Model": null,
+        "Url": "https://sunlight.net/catalog/pendants_81090.html",
+        "PictureUrl": "https://g5.sunlight.net/media/products/ceccb669541226d522326520a4e9708ba86d9926.jpg",
+        "Name": "Серебряная подвеска - шарм с фианитами"
+    },
+    {
+        "OldPrice": 0,
+        "Price": 261,
+        "Weight": 21,
+        "ItemId": 325438,
+        "CategoryIds": [
+            932
+        ],
+        "CategoryPathsToRoot": [
+            [
+                932,
+                6,
+                3,
+                2,
+                1
+            ]
+        ],
+        "Regions": null,
+        "CategoryNames": [
+            "Средства ухода за лицом"
+        ],
+        "Params": {
+            "max_bonus_discount": "10",
+            "product_id": "6cc6e216-ae83-11ec-8322-005056b30bd2",
+            "list_name": "Крем для лица, тела и рук увлажняющий интенсивный Soft Я кокетливая малинка 100 мл",
+            "type_of_cosmetic": "10672",
+            "has_discount_with_bonuses": "10200",
+            "additional_bonuses": "10214",
+            "item_type": "10796",
+            "application_area": "10092",
+            "result": "10104",
+            "skin_type": "10111",
+            "gender_position": "10366",
+            "volume": "10307",
+            "is_hit": "4565",
+            "marketing_group": "10765",
+            "genders": "6739",
+            "discount_range": "5664"
+        },
+        "GroupId": "325438",
+        "StockId": "Москва",
+        "Size": null,
+        "Color": null,
+        "Algorithm": "p",
+        "BuyUrl": null,
+        "Vendor": "Nivea",
+        "Description": "",
+        "TypePrefix": null,
+        "Model": null,
+        "Url": "https://sunlight.net/catalog/face_care_products_325438.html",
+        "PictureUrl": "https://g4.sunlight.net/media/products/8b8362fc-b3f7-11ec-8329-005056b30bd2.jpg",
+        "Name": "Крем для лица, тела и рук увлажняющий интенсивный Soft Я кокетливая малинка 100 мл"
+    },
+    {
+        "OldPrice": 0,
+        "Price": 191,
+        "Weight": 20,
+        "ItemId": 325458,
+        "CategoryIds": [
+            918
+        ],
+        "CategoryPathsToRoot": [
+            [
+                918,
+                6,
+                3,
+                2,
+                1
+            ]
+        ],
+        "Regions": null,
+        "CategoryNames": [
+            "Уход за губами"
+        ],
+        "Params": {
+            "max_bonus_discount": "10",
+            "product_id": "77b45405-ae83-11ec-8322-005056b30bd2",
+            "list_name": "Бальзам для губ Сияние Жемчуга 4, 8 г",
+            "type_of_cosmetic": "9813",
+            "item_type": "10779",
+            "has_discount_with_bonuses": "10200",
+            "additional_bonuses": "10214",
+            "application_area": "10091",
+            "result": "10106",
+            "gender_position": "10366",
+            "is_hit": "4565",
+            "marketing_group": "10765",
+            "genders": "6739",
+            "volume": "10730",
+            "discount_range": "5664"
+        },
+        "GroupId": "325458",
+        "StockId": "Москва",
+        "Size": null,
+        "Color": null,
+        "Algorithm": "p",
+        "BuyUrl": null,
+        "Vendor": "Nivea",
+        "Description": "",
+        "TypePrefix": null,
+        "Model": null,
+        "Url": "https://sunlight.net/catalog/lip_care_325458.html",
+        "PictureUrl": "https://g6.sunlight.net/media/products/3169c1c5-b3fa-11ec-8329-005056b30bd2.jpg",
+        "Name": "Бальзам для губ Сияние Жемчуга 4, 8 г"
+    },
+    {
+        "OldPrice": 3190,
+        "Price": 1595,
+        "Weight": 19,
+        "ItemId": 1583784000,
+        "CategoryIds": [
+            365
+        ],
+        "CategoryPathsToRoot": [
+            [
+                365,
+                6,
+                3,
+                2,
+                1
+            ]
+        ],
+        "Regions": null,
+        "CategoryNames": [
+            "Колье"
+        ],
+        "Params": {
+            "max_bonus_discount": "20",
+            "product_id": "53520c7c-bd0d-11ea-a7ad-001018f04542",
+            "list_name": "SUNLIGHT",
+            "discount_range": "5662",
+            "podvid": "8358",
+            "povod": "5455",
+            "pokritie": "6231",
+            "gender_position": "4456",
+            "has_discount_with_bonuses": "10200",
+            "additional_bonuses": "10214",
+            "material_color": "1609",
+            "proba": "2739",
+            "karatnost": "4712",
+            "stone_color": "2052",
+            "vid_izdelija": "4886",
+            "dsgn": "8639",
+            "style": "1263",
+            "is_hit": "4565",
+            "tags": "3087",
+            "s_kamnjami": "3554",
+            "material": "329",
+            "stone": "322",
+            "cutting_type": "5811",
+            "genders": "6739",
+            "forma_vstavki": "3718",
+            "Размер": "40.0"
+        },
+        "GroupId": "158378",
+        "StockId": "Москва",
+        "Size": "40.0",
+        "Color": null,
+        "Algorithm": "p",
+        "BuyUrl": null,
+        "Vendor": "SUNLIGHT",
+        "Description": "",
+        "TypePrefix": null,
+        "Model": null,
+        "Url": "https://sunlight.net/catalog/necklace_158378.html",
+        "PictureUrl": "https://g4.sunlight.net/media/products/c6fd403ecb6b96e858861e5ec2b675b59f2dcd20.jpg",
+        "Name": "Серебряное колье с фианитами"
+    },
+    {
+        "OldPrice": 8300,
+        "Price": 2490,
+        "Weight": 18,
+        "ItemId": 312109,
+        "CategoryIds": [
+            8
+        ],
+        "CategoryPathsToRoot": [
+            [
+                8,
+                6,
+                3,
+                2,
+                1
+            ]
+        ],
+        "Regions": null,
+        "CategoryNames": [
+            "Подвески"
+        ],
+        "Params": {
+            "max_bonus_discount": "",
+            "product_id": "961a9e7f-45da-11ec-8299-005056b30bd2",
+            "list_name": "SUNLIGHT",
+            "material": "3607",
+            "discount_range": "5662",
+            "podvid": "8358",
+            "povod": "5455",
+            "gender_position": "4457",
+            "stone": "10605",
+            "material_color": "1609",
+            "proba": "2494",
+            "tip_zamka": "8591",
+            "stone_color": "2052",
+            "s_kamnjami": "3841",
+            "style": "1263",
+            "dsgn": "8384",
+            "is_hit": "4565",
+            "pokritie": "3559",
+            "cutting_type": "5811",
+            "genders": "6739",
+            "forma_vstavki": "3718",
+            "karatnost": "3726",
+            "additional_bonuses": "5659"
+        },
+        "GroupId": "312109",
+        "StockId": "Москва",
+        "Size": null,
+        "Color": null,
+        "Algorithm": "p",
+        "BuyUrl": null,
+        "Vendor": "SUNLIGHT",
+        "Description": "",
+        "TypePrefix": null,
+        "Model": null,
+        "Url": "https://sunlight.net/catalog/pendants_312109.html",
+        "PictureUrl": "https://g0.sunlight.net/media/products/efc9b51923387f1ef3b44dced3bb53ce5f448abb.jpg",
+        "Name": "Золотая подвеска с турмалином параиба и фианитами"
+    },
+    {
+        "OldPrice": 9490,
+        "Price": 4745,
+        "Weight": 17,
+        "ItemId": 255710,
+        "CategoryIds": [
+            857
+        ],
+        "CategoryPathsToRoot": [
+            [
+                857,
+                6,
+                3,
+                2,
+                1
+            ]
+        ],
+        "Regions": null,
+        "CategoryNames": [
+            "Набор детский крестильный"
+        ],
+        "Params": {
+            "max_bonus_discount": "30",
+            "product_id": "6e71077b-3620-11eb-813c-005056b30bd2",
+            "list_name": "Лепта",
+            "discount_range": "5662",
+            "has_discount_with_bonuses": "10200",
+            "additional_bonuses": "10214",
+            "is_hit": "4565",
+            "gender_position": "1533",
+            "vid_izdelija": "7718"
+        },
+        "GroupId": "255710",
+        "StockId": "Москва",
+        "Size": null,
+        "Color": null,
+        "Algorithm": "p",
+        "BuyUrl": null,
+        "Vendor": "Лепта",
+        "Description": "",
+        "TypePrefix": null,
+        "Model": null,
+        "Url": "https://sunlight.net/catalog/cutlery_255710.html",
+        "PictureUrl": "https://g7.sunlight.net/media/products/169ad1429b84c135d7d62bfebe63eef484a78fad.jpg",
+        "Name": "Серебряный набор детский крестильный"
+    },
+    {
+        "OldPrice": 4190,
+        "Price": 2095,
+        "Weight": 16,
+        "ItemId": 155204,
+        "CategoryIds": [
+            373
+        ],
+        "CategoryPathsToRoot": [
+            [
+                373,
+                6,
+                3,
+                2,
+                1
+            ]
+        ],
+        "Regions": null,
+        "CategoryNames": [
+            "Серьга"
+        ],
+        "Params": {
+            "max_bonus_discount": "20",
+            "product_id": "3336dbb6-c1ba-11ea-9265-001018f04542",
+            "list_name": "Markiz",
+            "discount_range": "5662",
+            "povod": "5455",
+            "vid_izdelija": "5466",
+            "has_discount_with_bonuses": "10200",
+            "additional_bonuses": "10214",
+            "proba": "2739",
+            "material_color": "1608",
+            "tip_zamka": "2914",
+            "tematika": "8378",
+            "karatnost": "4712",
+            "dsgn": "8701",
+            "style": "1263",
+            "is_hit": "4565",
+            "tags": "3087",
+            "gender_position": "446",
+            "s_kamnjami": "3555",
+            "pokritie": "3559",
+            "material": "329",
+            "stone": "1",
+            "stone_color": "4699",
+            "forma_vstavki": "4700",
+            "cutting_type": "4702",
+            "genders": "6738",
+            "podvid": "8608"
+        },
+        "GroupId": "155204",
+        "StockId": "Москва",
+        "Size": null,
+        "Color": null,
+        "Algorithm": "p",
+        "BuyUrl": null,
+        "Vendor": "Markiz",
+        "Description": "",
+        "TypePrefix": null,
+        "Model": null,
+        "Url": "https://sunlight.net/catalog/one_earring_155204.html",
+        "PictureUrl": "https://g2.sunlight.net/media/products/cfc1bd0b0421a6b9d3cbecaeb3c6bb5623838adb.jpg",
+        "Name": "Серебряная серьга"
+    },
+    {
+        "OldPrice": 0,
+        "Price": 206,
+        "Weight": 15,
+        "ItemId": 325361,
+        "CategoryIds": [
+            937
+        ],
+        "CategoryPathsToRoot": [
+            [
+                937,
+                6,
+                3,
+                2,
+                1
+            ]
+        ],
+        "Regions": null,
+        "CategoryNames": [
+            "Дезодоранты-антиперспиранты"
+        ],
+        "Params": {
+            "max_bonus_discount": "10",
+            "product_id": "419781d2-ae83-11ec-8322-005056b30bd2",
+            "list_name": "Антиперспирант ролик Антибактериальный комплекс с каолиновой пудрой Эффект пудры 50 мл",
+            "item_type": "10789",
+            "result": "10297",
+            "type_of_cosmetic": "10709",
+            "has_discount_with_bonuses": "10200",
+            "additional_bonuses": "10214",
+            "skin_type": "10111",
+            "gender_position": "10366",
+            "application_area": "10283",
+            "is_hit": "4565",
+            "genders": "6739",
+            "volume": "10143",
+            "marketing_group": "10766",
+            "discount_range": "5664"
+        },
+        "GroupId": "325361",
+        "StockId": "Москва",
+        "Size": null,
+        "Color": null,
+        "Algorithm": "p",
+        "BuyUrl": null,
+        "Vendor": "Nivea",
+        "Description": "",
+        "TypePrefix": null,
+        "Model": null,
+        "Url": "https://sunlight.net/catalog/deodorants_325361.html",
+        "PictureUrl": "https://g5.sunlight.net/media/products/d37a93b6-b1dd-11ec-8326-005056b30bd2.jpg",
+        "Name": "Антиперспирант ролик Антибактериальный комплекс с каолиновой пудрой Эффект пудры 50 мл"
+    },
+    {
+        "OldPrice": 3790,
+        "Price": 1895,
+        "Weight": 14,
+        "ItemId": 119025,
+        "CategoryIds": [
+            890
+        ],
+        "CategoryPathsToRoot": [
+            [
+                890,
+                6,
+                3,
+                2,
+                1
+            ]
+        ],
+        "Regions": null,
+        "CategoryNames": [
+            "Крест-подвеска"
+        ],
+        "Params": {
+            "max_bonus_discount": "40",
+            "product_id": "fb850227-809b-11ea-a58a-001018f04542",
+            "list_name": "SUNLIGHT",
+            "discount_range": "5662",
+            "gender_position": "4456",
+            "has_discount_with_bonuses": "10200",
+            "additional_bonuses": "10214",
+            "material_color": "1609",
+            "proba": "2739",
+            "vid_izdelija": "3981",
+            "is_hit": "4565",
+            "tags": "3644",
+            "style": "3658",
+            "material": "329",
+            "stone": "1"
+        },
+        "GroupId": "119025",
+        "StockId": "Москва",
+        "Size": null,
+        "Color": null,
+        "Algorithm": "p",
+        "BuyUrl": null,
+        "Vendor": "SUNLIGHT",
+        "Description": "",
+        "TypePrefix": null,
+        "Model": null,
+        "Url": "https://sunlight.net/catalog/pendants_119025.html",
+        "PictureUrl": "https://g7.sunlight.net/media/products/aaee0d4fd386ace1d83ed8a4f76d6daa5232cb8c.jpg",
+        "Name": "Серебряный крест-подвеска"
+    },
+    {
+        "OldPrice": 4490,
+        "Price": 2245,
+        "Weight": 13,
+        "ItemId": 2722472800,
+        "CategoryIds": [
+            745
+        ],
+        "CategoryPathsToRoot": [
+            [
+                745,
+                6,
+                3,
+                2,
+                1
+            ]
+        ],
+        "Regions": null,
+        "CategoryNames": [
+            "Ножной браслет"
+        ],
+        "Params": {
+            "max_bonus_discount": "20",
+            "product_id": "5f43a468-3b7a-11eb-8143-005056b30bd2",
+            "list_name": "SUNLIGHT",
+            "discount_range": "5662",
+            "has_discount_with_bonuses": "10200",
+            "additional_bonuses": "10214",
+            "material_color": "1600",
+            "proba": "2739",
+            "is_hit": "4565",
+            "material": "329",
+            "podvid": "9324",
+            "Размер": "28.0"
+        },
+        "GroupId": "272247",
+        "StockId": "Москва",
+        "Size": "28.0",
+        "Color": null,
+        "Algorithm": "p",
+        "BuyUrl": null,
+        "Vendor": "SUNLIGHT",
+        "Description": "",
+        "TypePrefix": null,
+        "Model": null,
+        "Url": "https://sunlight.net/catalog/anklets_272247.html",
+        "PictureUrl": "https://g2.sunlight.net/media/products/4df08654-b7f9-11eb-81e1-005056b30bd2.jpg",
+        "Name": "Серебряный браслет на ногу"
+    },
+    {
+        "OldPrice": 16990,
+        "Price": 3398,
+        "Weight": 12,
+        "ItemId": 274226,
+        "CategoryIds": [
+            767
+        ],
+        "CategoryPathsToRoot": [
+            [
+                767,
+                6,
+                3,
+                2,
+                1
+            ]
+        ],
+        "Regions": null,
+        "CategoryNames": [
+            "Ложка детская"
+        ],
+        "Params": {
+            "max_bonus_discount": "",
+            "product_id": "0734e116-a822-11eb-81cd-005056b30bd2",
+            "list_name": "Аргента",
+            "discount_range": "5662",
+            "povod": "5455",
+            "pokritie": "6231",
+            "material_color": "1600",
+            "proba": "2739",
+            "tgs": "8896",
+            "tematika": "8380",
+            "karatnost": "4712",
+            "podvid": "10507",
+            "is_hit": "4565",
+            "gender_position": "1533",
+            "s_kamnjami": "3555",
+            "material": "329",
+            "stone": "1",
+            "stone_color": "4699",
+            "forma_vstavki": "4700",
+            "genders": "6742",
+            "dsgn": "8638",
+            "additional_bonuses": "5659"
+        },
+        "GroupId": "274226",
+        "StockId": "Москва",
+        "Size": null,
+        "Color": null,
+        "Algorithm": "p",
+        "BuyUrl": null,
+        "Vendor": "Аргента",
+        "Description": "",
+        "TypePrefix": null,
+        "Model": null,
+        "Url": "https://sunlight.net/catalog/child_spoon_274226.html",
+        "PictureUrl": "https://g8.sunlight.net/media/products/9fd4c30a-a8dd-11eb-81ce-005056b30bd2.jpg",
+        "Name": "Ложка детская DODO \"Цыпленок\" из серебра с позолотой"
+    },
+    {
+        "OldPrice": 7490,
+        "Price": 3745,
+        "Weight": 11,
+        "ItemId": 64438,
+        "CategoryIds": [
+            414
+        ],
+        "CategoryPathsToRoot": [
+            [
+                414,
+                6,
+                3,
+                2,
+                1
+            ]
+        ],
+        "Regions": null,
+        "CategoryNames": [
+            "Запонки"
+        ],
+        "Params": {
+            "max_bonus_discount": "40",
+            "product_id": "1d7793df-24ca-11e7-8704-001018f04542",
+            "list_name": "SUNLIGHT",
+            "tags": "3619",
+            "discount_range": "5662",
+            "povod": "5455",
+            "has_discount_with_bonuses": "10200",
+            "additional_bonuses": "10214",
+            "material_color": "1600",
+            "proba": "2739",
+            "karatnost": "4712",
+            "style": "1263",
+            "vid_izdelija": "4733",
+            "is_hit": "4565",
+            "gender_position": "446",
+            "s_kamnjami": "3555",
+            "pokritie": "3559",
+            "material": "329",
+            "stone": "1",
+            "stone_color": "4699",
+            "cutting_type": "4702",
+            "genders": "6738",
+            "tgs": "8657"
+        },
+        "GroupId": "64438",
+        "StockId": "Москва",
+        "Size": null,
+        "Color": null,
+        "Algorithm": "p",
+        "BuyUrl": null,
+        "Vendor": "SUNLIGHT",
+        "Description": "",
+        "TypePrefix": null,
+        "Model": null,
+        "Url": "https://sunlight.net/catalog/cufflinks_64438.html",
+        "PictureUrl": "https://g6.sunlight.net/media/products/c74ca43bababf9f788e471d365fb124d0d04962d.jpg",
+        "Name": "Серебряные запонки"
+    },
+    {
+        "OldPrice": 6490,
+        "Price": 3245,
+        "Weight": 10,
+        "ItemId": 63801,
+        "CategoryIds": [
+            494
+        ],
+        "CategoryPathsToRoot": [
+            [
+                494,
+                6,
+                3,
+                2,
+                1
+            ]
+        ],
+        "Regions": null,
+        "CategoryNames": [
+            "Брелоки"
+        ],
+        "Params": {
+            "max_bonus_discount": "20",
+            "product_id": "1d7793dd-24ca-11e7-8704-001018f04542",
+            "list_name": "SUNLIGHT",
+            "discount_range": "5662",
+            "has_discount_with_bonuses": "10200",
+            "additional_bonuses": "10214",
+            "material_color": "1600",
+            "proba": "2739",
+            "tags": "2966",
+            "vid_izdelija": "4011",
+            "style": "3902",
+            "is_hit": "4565",
+            "gender_position": "446",
+            "povod": "3547",
+            "s_kamnjami": "3555",
+            "pokritie": "3559",
+            "material": "329"
+        },
+        "GroupId": "63801",
+        "StockId": "Москва",
+        "Size": null,
+        "Color": null,
+        "Algorithm": "p",
+        "BuyUrl": null,
+        "Vendor": "SUNLIGHT",
+        "Description": "",
+        "TypePrefix": null,
+        "Model": null,
+        "Url": "https://sunlight.net/catalog/keychain_63801.html",
+        "PictureUrl": "https://g8.sunlight.net/media/products/1ce1722dcb91a79ac90b251f91c57a11ba9901ed.jpg",
+        "Name": "Серебряный брелок"
+    },
+    {
+        "OldPrice": 0,
+        "Price": 336,
+        "Weight": 9,
+        "ItemId": 325310,
+        "CategoryIds": [
+            915
+        ],
+        "CategoryPathsToRoot": [
+            [
+                915,
+                6,
+                3,
+                2,
+                1
+            ]
+        ],
+        "Regions": null,
+        "CategoryNames": [
+            "Средства для снятия макияжа"
+        ],
+        "Params": {
+            "max_bonus_discount": "10",
+            "product_id": "2f81ead3-ae83-11ec-8322-005056b30bd2",
+            "list_name": "Мицеллярная вода для очень чувствительной кожи 400 мл",
+            "skin_type": "10710",
+            "has_discount_with_bonuses": "10200",
+            "additional_bonuses": "10214",
+            "volume": "10382",
+            "type_of_cosmetic": "10683",
+            "application_area": "10092",
+            "result": "10103",
+            "gender_position": "10366",
+            "is_hit": "4565",
+            "marketing_group": "10765",
+            "item_type": "10771",
+            "genders": "6739",
+            "discount_range": "5664"
+        },
+        "GroupId": "325310",
+        "StockId": "Москва",
+        "Size": null,
+        "Color": null,
+        "Algorithm": "p",
+        "BuyUrl": null,
+        "Vendor": "Nivea",
+        "Description": "",
+        "TypePrefix": null,
+        "Model": null,
+        "Url": "https://sunlight.net/catalog/m_remover_325310.html",
+        "PictureUrl": "https://g9.sunlight.net/media/products/7d782e52-b3fa-11ec-8329-005056b30bd2.jpg",
+        "Name": "Мицеллярная вода для очень чувствительной кожи 400 мл"
+    },
+    {
+        "OldPrice": 18300,
+        "Price": 5490,
+        "Weight": 8,
+        "ItemId": 271510,
+        "CategoryIds": [
+            4
+        ],
+        "CategoryPathsToRoot": [
+            [
+                4,
+                6,
+                3,
+                2,
+                1
+            ]
+        ],
+        "Regions": null,
+        "CategoryNames": [
+            "Серьги"
+        ],
+        "Params": {
+            "max_bonus_discount": "",
+            "product_id": "bdace5f4-728b-11eb-8189-005056b30bd2",
+            "list_name": "SUNLIGHT",
+            "material": "3607",
+            "discount_range": "5662",
+            "podvid": "8358",
+            "povod": "5455",
+            "vid_izdelija": "5466",
+            "gender_position": "4457",
+            "material_color": "1609",
+            "proba": "2494",
+            "tip_zamka": "3297",
+            "tematika": "8406",
+            "karatnost": "4712",
+            "style": "1263",
+            "dsgn": "8366",
+            "is_hit": "4565",
+            "s_kamnjami": "3555",
+            "pokritie": "3559",
+            "stone": "1",
+            "stone_color": "4699",
+            "forma_vstavki": "4700",
+            "cutting_type": "4702",
+            "genders": "6739",
+            "additional_bonuses": "5659"
+        },
+        "GroupId": "271510",
+        "StockId": "Москва",
+        "Size": null,
+        "Color": null,
+        "Algorithm": "p",
+        "BuyUrl": null,
+        "Vendor": "SUNLIGHT",
+        "Description": "",
+        "TypePrefix": null,
+        "Model": null,
+        "Url": "https://sunlight.net/catalog/earring_271510.html",
+        "PictureUrl": "https://g1.sunlight.net/media/products/6367baf126d6fb1ff415a14417550ee7988d83f5.jpg",
+        "Name": "Золотые серьги"
+    },
+    {
+        "OldPrice": 0,
+        "Price": 107,
+        "Weight": 7,
+        "ItemId": 325449,
+        "CategoryIds": [
+            926
+        ],
+        "CategoryPathsToRoot": [
+            [
+                926,
+                6,
+                3,
+                2,
+                1
+            ]
+        ],
+        "Regions": null,
+        "CategoryNames": [
+            "Уход за руками"
+        ],
+        "Params": {
+            "max_bonus_discount": "10",
+            "product_id": "6cc6e237-ae83-11ec-8322-005056b30bd2",
+            "list_name": "Крем для рук Увлажнение и смягчение 75 мл",
+            "result": "10297",
+            "has_discount_with_bonuses": "10200",
+            "additional_bonuses": "10214",
+            "type_of_cosmetic": "10668",
+            "item_type": "10798",
+            "volume": "10655",
+            "gender_position": "10366",
+            "application_area": "10282",
+            "is_hit": "4565",
+            "marketing_group": "10764",
+            "genders": "6742",
+            "discount_range": "5664"
+        },
+        "GroupId": "325449",
+        "StockId": "Москва",
+        "Size": null,
+        "Color": null,
+        "Algorithm": "p",
+        "BuyUrl": null,
+        "Vendor": "Nivea",
+        "Description": "",
+        "TypePrefix": null,
+        "Model": null,
+        "Url": "https://sunlight.net/catalog/hand_care_325449.html",
+        "PictureUrl": "https://g6.sunlight.net/media/products/0e96ff85-b3fa-11ec-8329-005056b30bd2.jpg",
+        "Name": "Крем для рук Увлажнение и смягчение 75 мл"
+    },
+    {
+        "OldPrice": 186,
+        "Price": 177,
+        "Weight": 6,
+        "ItemId": 322616,
+        "CategoryIds": [
+            917
+        ],
+        "CategoryPathsToRoot": [
+            [
+                917,
+                6,
+                3,
+                2,
+                1
+            ]
+        ],
+        "Regions": null,
+        "CategoryNames": [
+            "Средства для эксфолиации и пилинга"
+        ],
+        "Params": {
+            "max_bonus_discount": "5",
+            "product_id": "e2fd3a77-9a2d-11ec-8308-005056b30bd2",
+            "list_name": "Скраб для лица Детокс с активированным углем и зеленым чаем 75 мл",
+            "has_discount_with_bonuses": "10200",
+            "additional_bonuses": "10214",
+            "item_type": "10822",
+            "volume": "10655",
+            "application_area": "10092",
+            "sunscreen": "10095",
+            "skin_type": "10111",
+            "type_of_cosmetic": "9835",
+            "gender_position": "10366",
+            "is_hit": "4565",
+            "marketing_group": "10765",
+            "genders": "6742",
+            "discount_range": "5664"
+        },
+        "GroupId": "322616",
+        "StockId": "Москва",
+        "Size": null,
+        "Color": null,
+        "Algorithm": "p",
+        "BuyUrl": null,
+        "Vendor": "Himalaya Since 1930",
+        "Description": "",
+        "TypePrefix": null,
+        "Model": null,
+        "Url": "https://sunlight.net/catalog/exf_and_peeling_322616.html",
+        "PictureUrl": "https://g2.sunlight.net/media/products/b6d8337a-a4fa-11ec-8316-005056b30bd2.jpg",
+        "Name": "Скраб для лица Детокс с активированным углем и зеленым чаем 75 мл"
+    },
+    {
+        "OldPrice": 2990,
+        "Price": 1495,
+        "Weight": 5,
+        "ItemId": 241205,
+        "CategoryIds": [
+            478
+        ],
+        "CategoryPathsToRoot": [
+            [
+                478,
+                6,
+                3,
+                2,
+                1
+            ]
+        ],
+        "Regions": null,
+        "CategoryNames": [
+            "Пирсинг"
+        ],
+        "Params": {
+            "max_bonus_discount": "20",
+            "product_id": "15b8ebc6-f8c6-11ea-80ec-005056b30bd2",
+            "list_name": "SUNLIGHT",
+            "discount_range": "5662",
+            "style": "1259",
+            "povod": "5455",
+            "s_kamnjami": "3838",
+            "gender_position": "4458",
+            "has_discount_with_bonuses": "10200",
+            "additional_bonuses": "10214",
+            "podvid": "8958",
+            "material_color": "1600",
+            "proba": "2739",
+            "tip_zamka": "8904",
+            "tematika": "8436",
+            "karatnost": "4712",
+            "stone_color": "2052",
+            "dsgn": "8384",
+            "is_hit": "4565",
+            "pokritie": "3559",
+            "material": "329",
+            "stone": "322",
+            "vid_izdelija": "5359",
+            "cutting_type": "5811",
+            "genders": "6739",
+            "forma_vstavki": "3718"
+        },
+        "GroupId": "241205",
+        "StockId": "Москва",
+        "Size": null,
+        "Color": null,
+        "Algorithm": "p",
+        "BuyUrl": null,
+        "Vendor": "SUNLIGHT",
+        "Description": "",
+        "TypePrefix": null,
+        "Model": null,
+        "Url": "https://sunlight.net/catalog/piercing_241205.html",
+        "PictureUrl": "https://g1.sunlight.net/media/products/76635984f1c7a45476eada020e5bddf103f3e2bb.jpg",
+        "Name": "Серебряный пирсинг с фианитами"
+    },
+    {
+        "OldPrice": 13725,
+        "Price": 5490,
+        "Weight": 4,
+        "ItemId": 64982,
+        "CategoryIds": [
+            366
+        ],
+        "CategoryPathsToRoot": [
+            [
+                366,
+                6,
+                3,
+                2,
+                1
+            ]
+        ],
+        "Regions": null,
+        "CategoryNames": [
+            "Брошь"
+        ],
+        "Params": {
+            "max_bonus_discount": "",
+            "product_id": "28440a46-8462-11e9-bc24-001018f04542",
+            "list_name": "SUNLIGHT",
+            "discount_range": "5662",
+            "podvid": "8358",
+            "povod": "5455",
+            "pokritie": "6231",
+            "s_kamnjami": "3838",
+            "gender_position": "4457",
+            "material_color": "1609",
+            "proba": "2739",
+            "tematika": "8419",
+            "karatnost": "4712",
+            "cutting_type": "3313",
+            "stone_color": "2046",
+            "style": "1263",
+            "is_hit": "4565",
+            "material": "329",
+            "stone": "322",
+            "tgs": "8798",
+            "genders": "6739",
+            "vid_izdelija": "4167",
+            "forma_vstavki": "3718",
+            "tags": "2675",
+            "dsgn": "8638",
+            "additional_bonuses": "5659"
+        },
+        "GroupId": "64982",
+        "StockId": "Москва",
+        "Size": null,
+        "Color": null,
+        "Algorithm": "p",
+        "BuyUrl": null,
+        "Vendor": "SUNLIGHT",
+        "Description": "",
+        "TypePrefix": null,
+        "Model": null,
+        "Url": "https://sunlight.net/catalog/brooch_64982.html",
+        "PictureUrl": "https://g2.sunlight.net/media/products/1761fa12472857bc0727645dd6942aff52b87e65.jpg",
+        "Name": "Серебряная брошь с фианитами"
+    },
+    {
+        "OldPrice": 0,
+        "Price": 990,
+        "Weight": 3,
+        "ItemId": 309681,
+        "CategoryIds": [
+            773
+        ],
+        "CategoryPathsToRoot": [
+            [
+                773,
+                6,
+                3,
+                2,
+                1
+            ]
+        ],
+        "Regions": null,
+        "CategoryNames": [
+            "Монета"
+        ],
+        "Params": {
+            "max_bonus_discount": "",
+            "product_id": "d35e97ec-326a-11ec-8280-005056b30bd2",
+            "list_name": "Серебряная сувенирная монета с символом года \"Тигр\"",
+            "is_hit": "4565",
+            "gender_position": "594",
+            "genders": "6742",
+            "discount_range": "5664",
+            "additional_bonuses": "5659"
+        },
+        "GroupId": "309681",
+        "StockId": "Москва",
+        "Size": null,
+        "Color": null,
+        "Algorithm": "p",
+        "BuyUrl": null,
+        "Vendor": "KRASNOE",
+        "Description": "",
+        "TypePrefix": null,
+        "Model": null,
+        "Url": "https://sunlight.net/catalog/coin_309681.html",
+        "PictureUrl": "https://g8.sunlight.net/media/products/dec16a5a172584174640bb4b467b1cb59c092798.jpg",
+        "Name": "Серебряная сувенирная монета с символом года \"Тигр\""
+    },
+    {
+        "OldPrice": 0,
+        "Price": 990,
+        "Weight": 2,
+        "ItemId": 308733,
+        "CategoryIds": [
+            711
+        ],
+        "CategoryPathsToRoot": [
+            [
+                711,
+                6,
+                3,
+                2,
+                1
+            ]
+        ],
+        "Regions": null,
+        "CategoryNames": [
+            "Сувениры"
+        ],
+        "Params": {
+            "max_bonus_discount": "",
+            "product_id": "058a06df-2bf4-11ec-8278-005056b30bd2",
+            "list_name": "SUNLIGHT",
+            "povod": "5455",
+            "podvid": "10444",
+            "material_color": "1600",
+            "proba": "2739",
+            "tematika": "8381",
+            "karatnost": "4712",
+            "style": "1263",
+            "dsgn": "8390",
+            "is_hit": "4565",
+            "gender_position": "447",
+            "s_kamnjami": "3555",
+            "pokritie": "3559",
+            "material": "329",
+            "stone": "1",
+            "stone_color": "4699",
+            "forma_vstavki": "4700",
+            "cutting_type": "4702",
+            "genders": "6742",
+            "tgs": "8651",
+            "discount_range": "5664",
+            "additional_bonuses": "5659"
+        },
+        "GroupId": "308733",
+        "StockId": "Москва",
+        "Size": null,
+        "Color": null,
+        "Algorithm": "p",
+        "BuyUrl": null,
+        "Vendor": "SUNLIGHT",
+        "Description": "",
+        "TypePrefix": null,
+        "Model": null,
+        "Url": "https://sunlight.net/catalog/souvenir_308733.html",
+        "PictureUrl": "https://g7.sunlight.net/media/products/4f49766a-5f2b-11ec-82b9-005056b30bd2.jpg",
+        "Name": "Серебряные сувениры"
+    },
+    {
+        "OldPrice": 1290,
+        "Price": 645,
+        "Weight": 1,
+        "ItemId": 282160,
+        "CategoryIds": [
+            706
+        ],
+        "CategoryPathsToRoot": [
+            [
+                706,
+                6,
+                3,
+                2,
+                1
+            ]
+        ],
+        "Regions": null,
+        "CategoryNames": [
+            "Булавка"
+        ],
+        "Params": {
+            "max_bonus_discount": "20",
+            "product_id": "ea727b4a-eaf5-11eb-8225-005056b30bd2",
+            "list_name": "AQUAMARINE",
+            "discount_range": "5662",
+            "povod": "5455",
+            "gender_position": "4458",
+            "has_discount_with_bonuses": "10200",
+            "additional_bonuses": "10214",
+            "material_color": "1600",
+            "proba": "2739",
+            "tgs": "8725",
+            "tematika": "8381",
+            "karatnost": "4712",
+            "stone_color": "2052",
+            "style": "1263",
+            "dsgn": "8387",
+            "is_hit": "4565",
+            "s_kamnjami": "3554",
+            "pokritie": "3559",
+            "material": "329",
+            "stone": "322",
+            "cutting_type": "5811",
+            "genders": "6739",
+            "vid_izdelija": "4167",
+            "forma_vstavki": "3718",
+            "podvid": "8616"
+        },
+        "GroupId": "282160",
+        "StockId": "Москва",
+        "Size": null,
+        "Color": null,
+        "Algorithm": "p",
+        "BuyUrl": null,
+        "Vendor": "AQUAMARINE",
+        "Description": "",
+        "TypePrefix": null,
+        "Model": null,
+        "Url": "https://sunlight.net/catalog/pin_282160.html",
+        "PictureUrl": "https://g3.sunlight.net/media/products/afe8ffce-ff4c-11eb-823f-005056b30bd2.jpg",
+        "Name": "Серебряная булавка с фианитами"
+    }
+]
