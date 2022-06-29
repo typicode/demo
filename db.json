@@ -1,8 +1,65 @@
 {
   "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+   {
+        "country":"India",
+        "currency":44422,
+        "id":1
+    },
+    {
+        "country":"United States",
+        "currency":1509872,
+        "id":2
+    },
+    {
+        "country":"Jermany",
+        "currency":33422,
+        "id":3
+    },
+    {
+        "country":"Japan",
+        "currency":3654,
+        "id":4
+    },
+    {
+        "country":"Isaral",
+        "currency":3422,
+        "id":5
+    },
+    {
+        "country":"Australia",
+        "currency":67543,
+        "id":6
+    },
+    {
+        "country":"Austria",
+        "currency":1764,
+        "id":7
+    },
+    {
+        "country":"Sri Lanka",
+        "currency":456,
+        "id":8
+    },
+    {
+        "country":"Singapoor",
+        "currency":1654,
+        "id":9
+    },
+    {
+        "country":"Mexico",
+        "currency":198,
+        "id":10
+    },
+    {
+        "country":"United Kingdom",
+        "currency":99800,
+        "id":11
+    },
+    {
+        "country":"Pakistan",
+        "currency":4022,
+        "id":12
+    }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
