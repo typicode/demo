@@ -1,14 +1,58 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+    "Products": [
+        {
+            "id": "1",
+            "name": "Awesome Product 1",
+            "price": "30",
+            "priceAfterDiscount": "25",
+            "imgName": "cat1",
+            "isNew": "TRUE",
+            "ratings": "3"
+        },
+        {
+            "id": "2",
+            "name": "Cool Product 1",
+            "price": "90",
+            "priceAfterDiscount": "75",
+            "imgName": "cat2",
+            "isNew": "FALSE",
+            "ratings": "4"
+        },
+        {
+            "id": "3",
+            "name": "Expensive Product 1",
+            "price": "130",
+            "priceAfterDiscount": "125",
+            "imgName": "cat3",
+            "isNew": "TRUE",
+            "ratings": "4"
+        },
+        {
+            "id": "4",
+            "name": "Small Product 1",
+            "price": "30",
+            "priceAfterDiscount": "20",
+            "imgName": "cat4",
+            "isNew": "FALSE",
+            "ratings": "2"
+        },
+        {
+            "id": "5",
+            "name": "Awesome Product 2",
+            "price": "70",
+            "priceAfterDiscount": "60",
+            "imgName": "cat5",
+            "isNew": "TRUE",
+            "ratings": "3"
+        },
+        {
+            "id": "6",
+            "name": "Awesome Product 6",
+            "price": "40",
+            "priceAfterDiscount": "30",
+            "imgName": "cat6",
+            "isNew": "FALSE",
+            "ratings": "4"
+        }
+    ]
 }
