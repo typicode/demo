@@ -44,5 +44,20 @@
             "paymenttype" : "ONLINE",
             "paymentstatus" : 1
         }
+    ],
+    
+    "stores" : [
+        {
+            "id":"STR001",
+            "location" : "Kalimandir, bandlaguda 500083",
+            "email"  :"store@gmail.com",
+            "phone" : "9381374958"
+        },
+        {
+            "id":"STR002",
+            "location" : "Kalimandir, bandlaguda 560100",
+            "email"  :"store2@gmail.com",
+            "phone" : "8499850563"
+        }
     ]
 }
