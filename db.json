@@ -1,6 +1,48 @@
-
-	{
-		"email" : "{\"\": \"\", \"kujhgf\": \"kujhgf\", \"jhgf@gmail.com\": \"jhgf@gmail.com\", \"spnreddy2002@gmail.com\": \"spnreddy2002@gmail.com\"}"
-	}
-
-
+{
+    "orders": [
+        {
+            "id": "ORD12345",
+            "date": "12-21-2022",
+            "email": "spnreddy2002@gmail.com",
+            "mobile": "9381374958",
+            "package": [
+                {
+                    "weight": 10,
+                    "dimensions": "10:10"
+                }
+            ],
+            "location": [
+                {
+                    "from": "loaction1",
+                    "to": "location2",
+                    "distance": 12,
+                    "time": 123
+                }
+            ],
+            "paymenttype" : "COD",
+            "paymentstatus" : 0
+        },
+        {
+            "id": "ORD10909",
+            "date": "12-92-2019",
+            "email": "test@gmail.com",
+            "mobile": "8499850563",
+            "package": [
+                {
+                    "weight": 20,
+                    "dimensions": "10:74"
+                }
+            ],
+            "location": [
+                {
+                    "from": "Bandlaguda jagir",
+                    "to": "khammam, thallada 507167",
+                    "distance": 39,
+                    "time": 123
+                }
+            ],
+            "paymenttype" : "ONLINE",
+            "paymentstatus" : 1
+        }
+    ]
+}
