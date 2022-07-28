@@ -1,0 +1,26 @@
+[
+    {
+        "actStatus": "000",
+        "actStatusName": "Normal",
+        "custAddress": "Vientiane Capital, Xaysetha, B. Phonxai",
+        "customerId": 10032798716,
+        "customerName": "Anh Nguyen Son Hai",
+        "identityNo": "C-0849938",
+        "isdn": "2097368888",
+        "maxDatetime": "2022-05-16T02:49:11.000Z",
+        "endDatetime": "2100-12-30T10:00:58.000+00:00",
+        "partyId": 10032798716,
+        "productId": 1110431815,
+        "productOfferingId": 400001874,
+        "productCode": "4EVER",
+        "productStatus": "Active",
+        "telecomServiceId": 1,
+        "telecomServiceName": "Mobile",
+        "status": 2,
+        "payType": 2,
+        "start_datetime": "2015-09-22T15:30:03.000+00:00",
+        "pay_type_name": "Prepaid",
+        "serial": "8945703002100122188",
+        "customer_type": "INDN"
+    }
+]
