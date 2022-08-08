@@ -1,4 +1,5 @@
-[
+{
+  "city" : [
   {
     "id": 1,
     "city": "London"
@@ -64,3 +65,4 @@
     "city": "Barcelona"
   }
 ]
+}
