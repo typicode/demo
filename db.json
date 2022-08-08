@@ -1,66 +1,66 @@
 [
 {
-id: 1,
-cityName: "London",
+"id": 1,
+"city": "London",
 },
 {
-id: 2,
-cityName: "Toronto",
+"id": 2,
+"city": "Toronto",
 },
 {
-id: 3,
-cityName: "Las vegas",
+"id": 3,
+"city": "Oslo",
 },
 {
-id: 4,
-cityName: "Paris",
+"id": 4,
+"city": "Paris",
 },
 {
-id: 5,
-cityName: "Dubai",
+"id": 5,
+"city": "Dubai",
 },
 {
-id: 6,
-cityName: "Tokyo",
+"id": 6,
+"city": "Tokyo",
 },
 {
-id: 7,
-cityName: "Doha",
+"id": 7,
+"city": "Doha",
 },
 {
-id: 8,
-cityName: "Amsterdam",
+"id": 8,
+"city": "Amsterdam",
 },
 {
-id: 9,
-cityName: "Beijing",
+"id": 9,
+"city": "Beijing",
 },
 {
-id: 10,
-cityName: "Melbourne",
+"id": 10,
+"city": "Melbourne",
 },
 {
-id: 11,
-cityName: "Calgary",
+"id": 11,
+"city": "Calgary",
 },
 {
-id: 12,
-cityName: "Mumbai",
+"id": 12,
+"city": "Mumbai",
 },
 {
-id: 13,
-cityName: "Perth",
+"id": 13,
+"city": "Perth",
 },
 {
-id: 14,
-cityName: "Athens",
+"id": 14,
+"city": "Athens",
 },
 {
-id: 15,
-cityName: "New York",
+"id": 15,
+"city": "New York",
 },
 {
-id: 16,
-cityName: "Barcelona",
-},
+"id": 16,
+"city": "Barcelona",
+}
 ]
