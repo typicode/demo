@@ -1,14 +1,66 @@
+[
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+id: 1,
+cityName: "London",
+},
+{
+id: 2,
+cityName: "Toronto",
+},
+{
+id: 3,
+cityName: "Las vegas",
+},
+{
+id: 4,
+cityName: "Paris",
+},
+{
+id: 5,
+cityName: "Dubai",
+},
+{
+id: 6,
+cityName: "Tokyo",
+},
+{
+id: 7,
+cityName: "Doha",
+},
+{
+id: 8,
+cityName: "Amsterdam",
+},
+{
+id: 9,
+cityName: "Beijing",
+},
+{
+id: 10,
+cityName: "Melbourne",
+},
+{
+id: 11,
+cityName: "Calgary",
+},
+{
+id: 12,
+cityName: "Mumbai",
+},
+{
+id: 13,
+cityName: "Perth",
+},
+{
+id: 14,
+cityName: "Athens",
+},
+{
+id: 15,
+cityName: "New York",
+},
+{
+id: 16,
+cityName: "Barcelona",
+},
+]
