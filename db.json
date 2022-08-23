@@ -11,4 +11,16 @@
   "profile": {
     "name": "typicode"
   }
+  "pancards": [
+   { "panNumber":"ABCDE1234A"
+   },
+   { "panNumber":"ABCDE1234B"
+   },
+   { "panNumber":"ABCDE1234C"
+   },
+   { "panNumber":"ABCDE1234D"
+   },
+   { "panNumber":"ABCDE1234E"
+   }
+  ]
 }
