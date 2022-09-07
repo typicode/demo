@@ -1,14 +1,164 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+	{
+		"      id":1,
+		"      title":"Idly",
+		"      category":"breakfast",
+		"      price":60,
+		"      img":"https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/f9uxhh3ex5my0jdidnym",
+		"      desc":"`jkafdhvuksahjafnv `",
+		"   "
+	},
+	"   "{
+		"      id":2,
+		"      title":"Burger Meal",
+		"      category":"lunch",
+		"      price":200,
+		"      img":"https://www.chicken.ca/wp-content/uploads/2020/09/Moist-Chicken-Burgers.jpg",
+		"      desc":"`fbdkhvkdfklenbkl `",
+		"   "
+	},
+	"   "{
+		"      id":3,
+		"      title":"Fries",
+		"      category":"snacks",
+		"      price":120,
+		"      img":"https://upload.wikimedia.org/wikipedia/commons/8/83/French_Fries.JPG",
+		"      desc":"`nfvjdlifbdfblklkber`",
+		"   "
+	},
+	"   "{
+		"      id":4,
+		"      title":"Dosa",
+		"      category":"breakfast",
+		"      price":80,
+		"      img":"https://static.toiimg.com/thumb/63841432.cms?width=1200&height=900",
+		"      desc":"` vn nv ,dfbnjnv m,d fv,`",
+		"   "
+	},
+	"   "{
+		"      id":5,
+		"      title":"Pizza",
+		"      category":"lunch",
+		"      price":220,
+		"      img":"https://www.simplyrecipes.com/thmb/8caxM88NgxZjz-T2aeRW3xjhzBg=/2000x1125/smart/filters:no_upscale()/__opt__aboutcom__coeus__resources__content_migration__simply_recipes__uploads__2019__09__easy-pepperoni-pizza-lead-3-8f256746d649404baa36a44d271329bc.jpg",
+		"      desc":"`cbkhdfjks vjxch nv,sbkjdv `",
+		"   "
+	},
+	"   "{
+		"      id":6,
+		"      title":"Chips",
+		"      category":"snacks",
+		"      price":100,
+		"      img":"https://c.ndtvimg.com/2020-02/d0kj2tvg_potato-chips_625x300_24_February_20.jpg",
+		"      desc":"`cbxbcj sf bkj ,d f,jnjdbdjnndf`",
+		"   "
+	},
+	"   "{
+		"      id":7,
+		"      title":"Paratha",
+		"      category":"breakfast",
+		"      price":120,
+		"      img":"https://www.whiskaffair.com/wp-content/uploads/2020/06/Lachha-Paratha-2-3.jpg",
+		"      desc":"`nc xn xm, c,mvn nv m, ,mdnknm, df,m`",
+		"   "
+	},
+	"   "{
+		"      id":8,
+		"      title":"Meals",
+		"      category":"lunch",
+		"      price":150,
+		"      img":"https://images.click.in/classifieds/images/151/31_10_2016_14_42_03_tct05f8l8jhlreek8kc8du2fc4_5fk41dhxzl.jpg",
+		"      desc":"`jcbjkbv,ms vjch jdf v,s jvw,bkjd`",
+		"   "
+	},
+	"   "{
+		"      id":9,
+		"      title":"Samosa",
+		"      category":"snacks",
+		"      price":80,
+		"      img":"https://static.toiimg.com/thumb/61050397.cms?width=1200&height=900",
+		"      desc":"`nxc nxbcxc bxjv sbjx,,ms v,xn df`",
+		"   "
+	},
+	"   "{
+		" id":10,
+		"      title":"Idly",
+		"      category":"breakfast",
+		"      price":60,
+		"      img":"https://geekrobocook.com/wp-content/uploads/2021/03/30_Idly.jpg",
+		"      desc":"`jkafdhvuksahjafnv `",
+		"   "
+	},
+	"   "{
+		"      id":11,
+		"      title":"Burger Meal",
+		"      category":"lunch",
+		"      price":200,
+		"      img":"https://www.chicken.ca/wp-content/uploads/2020/09/Moist-Chicken-Burgers.jpg",
+		"      desc":"`fbdkhvkdfklenbkl `",
+		"   "
+	},
+	"   "{
+		"      id":12,
+		"      title":"Fries",
+		"      category":"snacks",
+		"      price":120,
+		"      img":"https://upload.wikimedia.org/wikipedia/commons/8/83/French_Fries.JPG",
+		"      desc":"`nfvjdlifbdfblklkber`",
+		"   "
+	},
+	"   "{
+		"      id":13,
+		"      title":"Dosa",
+		"      category":"breakfast",
+		"      price":80,
+		"      img":"https://static.toiimg.com/thumb/63841432.cms?width=1200&height=900",
+		"      desc":"` vn nv ,dfbnjnv m,d fv,`",
+		"   "
+	},
+	"   "{
+		"      id":14,
+		"      title":"Pizza",
+		"      category":"lunch",
+		"      price":220,
+		"      img":"https://www.simplyrecipes.com/thmb/8caxM88NgxZjz-T2aeRW3xjhzBg=/2000x1125/smart/filters:no_upscale()/__opt__aboutcom__coeus__resources__content_migration__simply_recipes__uploads__2019__09__easy-pepperoni-pizza-lead-3-8f256746d649404baa36a44d271329bc.jpg",
+		"      desc":"`cbkhdfjks vjxch nv,sbkjdv `",
+		"   "
+	},
+	"   "{
+		"      id":15,
+		"      title":"Chips",
+		"      category":"snacks",
+		"      price":100,
+		"      img":"https://c.ndtvimg.com/2020-02/d0kj2tvg_potato-chips_625x300_24_February_20.jpg",
+		"      desc":"`cbxbcj sf bkj ,d f,jnjdbdjnndf`",
+		"   "
+	},
+	"   "{
+		"      id":16,
+		"      title":"Paratha",
+		"      category":"breakfast",
+		"      price":120,
+		"      img":"https://www.whiskaffair.com/wp-content/uploads/2020/06/Lachha-Paratha-2-3.jpg",
+		"      desc":"`nc xn xm, c,mvn nv m, ,mdnknm, df,m`",
+		"   "
+	},
+	"   "{
+		"      id":17,
+		"      title":"Meals",
+		"      category":"lunch",
+		"      price":150,
+		"      img":"https://images.click.in/classifieds/images/151/31_10_2016_14_42_03_tct05f8l8jhlreek8kc8du2fc4_5fk41dhxzl.jpg",
+		"      desc":"`jcbjkbv,ms vjch jdf v,s jvw,bkjd`",
+		"   "
+	},
+	"   "{
+		"      id":18,
+		"      title":"Samosa",
+		"      category":"snacks",
+		"      price":80,
+		"      img":"https://static.toiimg.com/thumb/61050397.cms?width=1200&height=900",
+		"      desc":"`nxc nxbcxc bxjv sbjx,,ms v,xn df`",
+		"   "
+	}
 }
