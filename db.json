@@ -1,14 +1,14 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "memos":[
+    {"_id":"63169cf640e634346eb329d8","title":"1","content":"1번"},
+    {"_id":"63169d2840e634346eb329d9","title":"2","content":"2번"},
+    {"_id":"63169cf640e634346eb329d0","title":"3","content":"3번"},
+    {"_id":"63169cf640e634346eb329d1","title":"4","content":"4번"},
+    {"_id":"63169cf640e634346eb329d2","title":"5","content":"5번"},
+    {"_id":"63169cf640e634346eb329d3","title":"6","content":"6번"},
+    {"_id":"63169cf640e634346eb329d4","title":"7","content":"7번"},
+    {"_id":"63169cf640e634346eb329d5","title":"8","content":"8번"},
+    {"_id":"63169cf640e634346eb329d6","title":"9","content":"9번"},
+    {"_id":"63169cf640e634346eb329d7","title":"10","content":"10번"},
+  ]
 }
