@@ -10,5 +10,187 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "books": [
+    {
+      "title": "Brand West Data",
+      "author": "Dwayne Armstrong",
+      "category": "untrue",
+      "isbn": 3622236306
+    },
+    {
+      "title": "South motivating Martin",
+      "author": "Kristy Walter V",
+      "category": "elaborate",
+      "isbn": 5948614932
+    },
+    {
+      "title": "Van",
+      "author": "Maurice Ullrich",
+      "category": "yawning",
+      "isbn": 9976136150
+    },
+    {
+      "title": "Southwest proposition FTP",
+      "author": "Carol Bednar MD",
+      "category": "both",
+      "isbn": 6481625539
+    },
+    {
+      "title": "mobile invoice",
+      "author": "Janet Wilderman",
+      "category": "actual",
+      "isbn": 2328736693
+    },
+    {
+      "title": "yowza",
+      "author": "Marcus Grimes Sr.",
+      "category": "whimsical",
+      "isbn": 1523035768
+    },
+    {
+      "title": "Salad digital",
+      "author": "Thomas Walter",
+      "category": "tall",
+      "isbn": 9703430437
+    },
+    {
+      "title": "female",
+      "author": "Mae Emmerich PhD",
+      "category": "petty",
+      "isbn": 6303090539
+    },
+    {
+      "title": "scale Books optical",
+      "author": "Fredrick McCullough",
+      "category": "ill-fated",
+      "isbn": 7911480439
+    },
+    {
+      "title": "Trans circuit",
+      "author": "Martin Luettgen",
+      "category": "jubilant",
+      "isbn": 5056336345
+    },
+    {
+      "title": "Small City",
+      "author": "Miss Wilbert Rutherford",
+      "category": "rare",
+      "isbn": 7578320397
+    },
+    {
+      "title": "Hyundai teal",
+      "author": "Candice Huels",
+      "category": "rural",
+      "isbn": 2840061087
+    },
+    {
+      "title": "Generic oof",
+      "author": "Christie O'Keefe",
+      "category": "sophisticated",
+      "isbn": 3576636088
+    },
+    {
+      "title": "until Bacon",
+      "author": "Sarah Mante",
+      "category": "imperfect",
+      "isbn": 6613632794
+    },
+    {
+      "title": "digital Azerbaijan Hatchback",
+      "author": "Ms. Harold Kutch",
+      "category": "ajar",
+      "isbn": 6592564516
+    },
+    {
+      "title": "Minnesota compressing",
+      "author": "Mr. Wilbert Kertzmann",
+      "category": "adorable",
+      "isbn": 7122435491
+    },
+    {
+      "title": "gold",
+      "author": "Raquel Quigley",
+      "category": "offensive",
+      "isbn": 3359607926
+    },
+    {
+      "title": "workforce Wagon",
+      "author": "Teri Witting",
+      "category": "wilted",
+      "isbn": 9057377031
+    },
+    {
+      "title": "et Concrete Pop",
+      "author": "Sonia Grady",
+      "category": "simplistic",
+      "isbn": 5822464894
+    },
+    {
+      "title": "Fresh Music",
+      "author": "Freda Parisian III",
+      "category": "delicious",
+      "isbn": 6678700285
+    },
+    {
+      "title": "olive synthesize hack",
+      "author": "Milton Weissnat",
+      "category": "respectful",
+      "isbn": 9647600725
+    },
+    {
+      "title": "Northwest",
+      "author": "Charlene Littel",
+      "category": "heavenly",
+      "isbn": 4179367545
+    },
+    {
+      "title": "Pakistan pricing",
+      "author": "Dominic Friesen",
+      "category": "clear-cut",
+      "isbn": 7717089410
+    },
+    {
+      "title": "Plastic Liaison Hybrid",
+      "author": "Kristi Hayes",
+      "category": "cylindrical",
+      "isbn": 3464359730
+    },
+    {
+      "title": "productize Bedfordshire deposit",
+      "author": "Kimberly Bailey",
+      "category": "internal",
+      "isbn": 2946815367
+    },
+    {
+      "title": "Computer becquerel",
+      "author": "Andre Moen",
+      "category": "alarmed",
+      "isbn": 5199542076
+    },
+    {
+      "title": "website",
+      "author": "Bridget Predovic",
+      "category": "good",
+      "isbn": 4663495668
+    },
+    {
+      "title": "Metrics",
+      "author": "Eva Heaney V",
+      "category": "dizzy",
+      "isbn": 5362486692
+    },
+    {
+      "title": "Cassin methodical Officer",
+      "author": "Carroll Pfeffer",
+      "category": "extra-small",
+      "isbn": 3243237901
+    },
+    {
+      "title": "female green rebellion",
+      "author": "Sherman Langosh",
+      "category": "teeming",
+      "isbn": 9172475928
+    }
+  ]
 }
