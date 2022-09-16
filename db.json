@@ -1,14 +1,66 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+[    
+    {
+        "id": 1,
+        "title": "top offers",
+        "price": 109.95,
+        "category": "offers",
+        "image": "https://i.ibb.co/s5t37kz/top-offers.jpeg"
+        
+    },
+
+    {
+        "id": 2,
+        "title": "Grocery",
+        "price": 22.3,
+        "category": "Grocery stock",
+        "image": "https://i.ibb.co/G3py293/Grocery.jpeg"
+        
+    },
+    {
+        "id": 3,
+        "title": "Home",
+        "price": 55.99,
+        "category": "Home mades",
+        "image": "https://i.ibb.co/TRmznFg/home.jpeg"
+        
+        },
+    {
+        "id": 4,
+        "title": "Fashion",
+        "price": 15.99,
+        "category": "men's & women's clothing",
+        "image": "https://i.ibb.co/k4gXMQ3/fashion.jpeg"
+        
+    },
+    {
+        "id": 5,
+        "title": "Electronics",
+        "price": 695,
+        "category": "Electricals",
+        "image": "https://i.ibb.co/XJKd3sX/Electronics.jpeg"
+        
+    },
+    {
+        "id": 6,
+        "title": "Appliances",
+        "price": 168,
+        "category": "Home Appliances",
+        "image": "https://i.ibb.co/0nwGZLB/Appliances.jpeg"
+    },
+    {
+        "id": 7,
+        "title": "travel",
+        "price": 9.99,
+       "category": "travel agents",
+        "image": "https://i.ibb.co/2c3M1zZ/Travel.jpeg"
+        
+    },
+    {
+        "id": 8,
+        "title": "toys",
+        "price": 10.99,
+        "category": "children toys",
+        "image": "https://i.ibb.co/XWnhCMY/Toys.jpeg"
+        
+    }
+]    
