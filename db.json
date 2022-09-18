@@ -12,3 +12,29 @@
     "name": "typicode"
   }
 }
+{
+
+"courses": [
+    {
+        "id": 1,
+        "title": "Postman",
+        "description": "Full Postman course from zero to hero"
+
+    },
+    {
+
+        "id": 2,
+        "title": "Selenium",
+        "description": "Full Selenium course from zero to hero"
+
+    },
+
+    {
+
+        "id": 3,
+        "title": "Cypress",
+        "description": "Full Cypress course from zero to hero"
+    }
+]
+    
+}
