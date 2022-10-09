@@ -1,0 +1,1023 @@
+{
+    "project": {
+        "sub_heading": "Project",
+        "sub_heading_2": "Exclusive",
+        "heading": "Upcoming Clans",
+        "heading_2": "Previous Clans",
+        "heading_3": "Ongoing Clans",
+        "heading_4": "Multi-chain Clans",
+        "btn": "View More",
+        "btn_2": "View All",
+        "btn_3": "View Leaderboard",
+        "btn_4": "View Tier System",
+        "btn_5": "View Tokenomics",
+        "load_btn": "Load More",
+        "projectData": [
+            {
+                "id": 1,
+                "img": "/img/thumb_1.png",
+                "blockchain": "/img/binance.png",
+                "title": "CHIRPLEY",
+                "reg_date": "2022-08-30",
+                "raise": "1000k",
+                "val": "2.8M",
+                "allocation": "$0",
+                "progress": "90%",
+                "mecha": "0/100.000 BUSD",
+                "busd": "100.000 BUSD"
+            },
+            {
+                "id": 2,
+                "img": "/img/thumb_2.png",
+                "blockchain": "/img/binance.png",
+                "title": "Megalodon",
+                "reg_date": "2022-07-25",
+                "raise": "85k",
+                "val": "1.9M",
+                "allocation": "$0",
+                "progress": "8%",
+                "mecha": "0/94,752 MECHA",
+                "busd": "0 BUSD"
+            },
+            {
+                "id": 3,
+                "img": "/img/thumb_3.png",
+                "blockchain": "/img/ethereum-gold.png",
+                "title": "Cyber City",
+                "reg_date": "2022-07-18",
+                "raise": "69k",
+                "val": "3.2M",
+                "allocation": "$0",
+                "progress": "12%",
+                "mecha": "0/87,074 MECHA",
+                "busd": "0 BUSD"
+            },
+            {
+                "id": 4,
+                "img": "/img/thumb_4.png",
+                "blockchain": "/img/solana.png",
+                "title": "RACEXWAY",
+                "reg_date": "2022-07-28",
+                "raise": "90k",
+                "val": "2.6M",
+                "allocation": "$0",
+                "progress": "27%",
+                "mecha": "0/532,399 MECHA",
+                "busd": "0 BUSD"
+            },
+            {
+                "id": 5,
+                "img": "/img/thumb_5.png",
+                "blockchain": "/img/ethereum-gold.png",
+                "title": "BitHotel",
+                "reg_date": "2022-08-30",
+                "raise": "120k",
+                "val": "4.8M",
+                "allocation": "$0",
+                "progress": "42%",
+                "mecha": "0/298,064 MECHA",
+                "busd": "0 BUSD"
+            },
+            {
+                "id": 6,
+                "img": "/img/thumb_6.png",
+                "blockchain": "/img/ethereum.png",
+                "title": "CryptoPunk",
+                "reg_date": "2022-07-24",
+                "raise": "89k",
+                "val": "4.6M",
+                "allocation": "$0",
+                "progress": "36%",
+                "mecha": "0/396,074 MECHA",
+                "busd": "0 BUSD"
+            }
+        ],
+        "ClansData": [
+            {
+                "id": 1,
+                "img": "/img/thumb_6.png",
+                "blockchain": "/img/ethereum.png",
+                "title": "Ancient Kingdom",
+                "price": "Price (GAC) = 0.89 BUSD",
+                "publish": "5 hours ago",
+                "process": "x86",
+                "amount": "$1.06298"
+            },
+            {
+                "id": 2,
+                "img": "/img/thumb_7.png",
+                "blockchain": "/img/binance.png",
+                "title": "Galaxy War",
+                "price": "Price (GAC) = 0.72 BUSD",
+                "publish": "7 hours ago",
+                "process": "x97",
+                "amount": "$0.9268"
+            },
+            {
+                "id": 3,
+                "img": "/img/thumb_8.png",
+                "blockchain": "/img/solana.png",
+                "title": "Crypto Art",
+                "price": "Price (GAC) = 0.68 BUSD",
+                "publish": "9 hours ago",
+                "process": "x64",
+                "amount": "$2.87641"
+            },
+            {
+                "id": 4,
+                "img": "/img/thumb_9.png",
+                "blockchain": "/img/ethereum-gold.png",
+                "title": "Marvel Design",
+                "price": "Price (GAC) = 0.49 BUSD",
+                "publish": "6 hours ago",
+                "process": "x75",
+                "amount": "$1.5967"
+            },
+            {
+                "id": 5,
+                "img": "/img/thumb_10.png",
+                "blockchain": "/img/ethereum.png",
+                "title": "Partial Monk",
+                "price": "Price (GAC) = 0.78 BUSD",
+                "publish": "9 hours ago",
+                "process": "x94",
+                "amount": "$0.43615"
+            }
+        ]
+    },
+    "content": {
+        "sub_heading": "Project",
+        "heading": "Multi-chain Clans",
+        "excerpt": "Join Clans on multiple blockchains in a single click. Support game by providing LP or just stake the game and get rewards.",
+        "contentData": [
+            {
+                "id": 1,
+                "icon": "fa-brands fa-discord",
+                "featured": "",
+                "title": "Submit KYC",
+                "content": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested."
+            },
+            {
+                "id": 2,
+                "icon": "fa-brands fa-hotjar",
+                "featured": "featured",
+                "title": "Verify Wallet",
+                "content": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered."
+            },
+            {
+                "id": 3,
+                "icon": "fa-solid fa-rocket",
+                "featured": "",
+                "title": "Start Staking",
+                "content": "It is a long established fact that a reader will be distracted by the readable content of a page."
+            }
+        ]
+    },
+    "staking": {
+        "heading": "Participate Clans Stake",
+        "balance": "256.50 BUSD",
+        "content": "Once staked, you need to register for every IDO, so we can calculate the guaranteed allocation. Once registered, we lock your tokens, but you still can participate in other IDOs.",
+        "note": "*APY is dynamic.",
+        "input_btn_1": "Approve",
+        "input_btn_2": "Withdraw",
+        "tabData": [
+            {
+                "id": 1,
+                "tabID": "tab-one-tab",
+                "tabClass": "tab-link active",
+                "tabLink": "#tab-one",
+                "title": "7 Days"
+            },
+            {
+                "id": 2,
+                "tabID": "tab-two-tab",
+                "tabClass": "tab-link",
+                "tabLink": "#tab-two",
+                "title": "14 Days"
+            },
+            {
+                "id": 3,
+                "tabID": "tab-three-tab",
+                "tabClass": "tab-link",
+                "tabLink": "#tab-three",
+                "title": "30 Days"
+            },
+            {
+                "id": 4,
+                "tabID": "tab-four-tab",
+                "tabClass": "tab-link",
+                "tabLink": "#tab-four",
+                "title": "60 Days"
+            }
+        ],
+        "tabContent": [
+            {
+                "id": 1,
+                "tabID": "tab-one",
+                "tabClass": "tab-pane fade show active",
+                "tabLink": "tab-one",
+                "period": "7 Days",
+                "lock": "Yes",
+                "fee": "30%",
+                "status": "Unlocked",
+                "apy": "0%"
+            },
+            {
+                "id": 2,
+                "tabID": "tab-two",
+                "tabClass": "tab-pane fade",
+                "tabLink": "tab-two",
+                "period": "14 Days",
+                "lock": "Yes",
+                "fee": "30%",
+                "status": "Unlocked",
+                "apy": "12%"
+            },
+            {
+                "id": 3,
+                "tabID": "tab-three",
+                "tabClass": "tab-pane fade",
+                "tabLink": "tab-three",
+                "period": "30 Days",
+                "lock": "Yes",
+                "fee": "30%",
+                "status": "Unlocked",
+                "apy": "25%"
+            },
+            {
+                "id": 4,
+                "tabID": "tab-four",
+                "tabClass": "tab-pane fade",
+                "tabLink": "tab-four",
+                "period": "60 Days",
+                "lock": "No",
+                "fee": "30%",
+                "status": "Unlocked",
+                "apy": "35%"
+            }
+        ],
+        "features": [
+            {
+                "id": 1,
+                "title": "$9,574,20.84",
+                "className": "card no-hover staking-card",
+                "content": "Total Value Locked"
+            },
+            {
+                "id": 2,
+                "title": "97.23%",
+                "className": "card no-hover staking-card my-4",
+                "content": "APY"
+            },
+            {
+                "id": 3,
+                "title": "6997",
+                "className": "card no-hover staking-card",
+                "content": "Number of Stakers"
+            }
+        ]
+    },
+    "farming": {
+        "farmingData": [
+            {
+                "id": 1,
+                "img": "/img/thumb_3.png",
+                "img_1": "/img/thumb_6.png",
+                "title": "Participate Clans Stake",
+                "title_1": "Farming Stake",
+                "category": "Game",
+                "collapse_link": "#collapseOne",
+                "collapse_id": "collapseOne",
+                "content": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC making it over.",
+                "staked": "0 LP",
+                "earned": "0.00 Game",
+                "apy": "25%",
+                "price": "$9,524,07.19",
+                "value": "$24571,957.94",
+                "input_title_1": "Deposit",
+                "input_title_2": "Withdraw",
+                "input_btn_1": "Approve",
+                "input_btn_2": "Withdraw",
+                "reward_title": "Pending rewards",
+                "reward": "0.00 BUSD",
+                "reward_content": "Rewards are depleted, ask admins to fund it.",
+                "actionBtn": "Claim"
+            },
+            {
+                "id": 2,
+                "img": "/img/thumb_4.png",
+                "img_1": "/img/thumb_7.png",
+                "title": "Gaming Stake",
+                "title_1": "Gaming Stake",
+                "category": "Staking",
+                "collapse_link": "#collapseTwo",
+                "collapse_id": "collapseTwo",
+                "content": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC making it over.",
+                "staked": "0 LP",
+                "earned": "0.00 Game",
+                "apy": "14%",
+                "price": "$7,742,57.29",
+                "value": "$14517,257.72",
+                "input_title_1": "Deposit",
+                "input_title_2": "Withdraw",
+                "input_btn_1": "Approve",
+                "input_btn_2": "Withdraw",
+                "reward_title": "Pending rewards",
+                "reward": "0.00 BUSD",
+                "reward_content": "Rewards are depleted, ask admins to fund it.",
+                "actionBtn": "Claim"
+            }
+        ]
+    },
+    "leaderboard": {
+        "heading_1": "#Rank",
+        "heading_2": "Name",
+        "heading_3": "Public Key",
+        "heading_4": "Locked",
+        "heading_5": "Balance",
+        "leaderboardData": [
+            {
+                "id": 1,
+                "rank": "01",
+                "name": "John Deo",
+                "key": "0x854e112....2574rf2",
+                "locked": "365 Days",
+                "balance": "$124,521.99"
+            },
+            {
+                "id": 2,
+                "rank": "02",
+                "name": "Jassica",
+                "key": "0x452e125....845004",
+                "locked": "60 Days",
+                "balance": "$325,411.30"
+            },
+            {
+                "id": 3,
+                "rank": "03",
+                "name": "William",
+                "key": "0x452e547....2x4125",
+                "locked": "30 Days",
+                "balance": "$421,421.42"
+            },
+            {
+                "id": 4,
+                "rank": "04",
+                "name": "Sara Rose",
+                "key": "0x942d542....12f000",
+                "locked": "185 Days",
+                "balance": "$412,511.00"
+            },
+            {
+                "id": 5,
+                "rank": "05",
+                "name": "Junaid",
+                "key": "0x842w14....452e99",
+                "locked": "90 Days",
+                "balance": "$124,451.88"
+            },
+            {
+                "id": 6,
+                "rank": "06",
+                "name": "Rani",
+                "key": "0x547o475....475v52",
+                "locked": "365 Days",
+                "balance": "$254,512.44"
+            },
+            {
+                "id": 7,
+                "rank": "07",
+                "name": "Arham",
+                "key": "0x472e0214....4x4521",
+                "locked": "365 Days",
+                "balance": "$354,126.43"
+            },
+            {
+                "id": 8,
+                "rank": "08",
+                "name": "Scotch",
+                "key": "0x754e745....xpd457",
+                "locked": "90 Days",
+                "balance": "$574,012.52"
+            },
+            {
+                "id": 9,
+                "rank": "09",
+                "name": "Saricca",
+                "key": "0x941e125....5xx0124",
+                "locked": "185 Days",
+                "balance": "$412,041.41"
+            },
+            {
+                "id": 10,
+                "rank": "10",
+                "name": "Johnson",
+                "key": "0x874e012....00e125",
+                "locked": "365 Days",
+                "balance": "$521,452.67"
+            },
+            {
+                "id": 11,
+                "rank": "11",
+                "name": "Mario",
+                "key": "0x94e0125....415e014",
+                "locked": "60 Days",
+                "balance": "$321,671.94"
+            },
+            {
+                "id": 12,
+                "rank": "12",
+                "name": "CoolMan",
+                "key": "0x0142e51....847g214",
+                "locked": "90 Days",
+                "balance": "$210,947.44"
+            },
+            {
+                "id": 13,
+                "rank": "13",
+                "name": "Rio",
+                "key": "0x01425e0....99e514",
+                "locked": "180 Days",
+                "balance": "$214,342.74"
+            },
+            {
+                "id": 14,
+                "rank": "14",
+                "name": "Rose",
+                "key": "0x74e540....0e41524",
+                "locked": "30 Days",
+                "balance": "$416,678.87"
+            },
+            {
+                "id": 15,
+                "rank": "15",
+                "name": "Spyman",
+                "key": "0x902e172....00v5744",
+                "locked": "365 Days",
+                "balance": "$120,874.99"
+            }
+        ]
+    },
+    "tokenomics": {
+        "heading_1": "Category",
+        "heading_2": "Allocation",
+        "heading_3": "Raise",
+        "heading_4": "Locked",
+        "heading_5": "Vesting (Month)",
+        "tokenomicsData": [
+            {
+                "id": 1,
+                "category": "Staking",
+                "allocation": "14%",
+                "raise": "0x854e112....2574rf2",
+                "locked": "06 Month",
+                "vesting": "12"
+            },
+            {
+                "id": 2,
+                "category": "Marketing",
+                "allocation": "10%",
+                "raise": "0x452e125....845004",
+                "locked": "12 Month",
+                "vesting": "16"
+            },
+            {
+                "id": 3,
+                "category": "Private",
+                "allocation": "20%",
+                "raise": "0x452e547....2x4125",
+                "locked": "--",
+                "vesting": "09"
+            },
+            {
+                "id": 4,
+                "category": "Farming",
+                "allocation": "18%",
+                "raise": "0x942d542....12f000",
+                "locked": "--",
+                "vesting": "10"
+            },
+            {
+                "id": 5,
+                "category": "Advisor",
+                "allocation": "45%",
+                "raise": "0x842w14....452e99",
+                "locked": "04 Month",
+                "vesting": "18"
+            },
+            {
+                "id": 6,
+                "category": "Exchange",
+                "allocation": "24%",
+                "raise": "0x547o475....475v52",
+                "locked": "12 Month",
+                "vesting": "24"
+            },
+            {
+                "id": 7,
+                "category": "Ranking",
+                "allocation": "25%",
+                "raise": "0x472e0214....4x4521",
+                "locked": "03 Month",
+                "vesting": "10"
+            },
+            {
+                "id": 8,
+                "category": "System",
+                "allocation": "18%",
+                "raise": "0x754e745....xpd457",
+                "locked": "06 Month",
+                "vesting": "14"
+            }
+        ]
+    },
+    "tier": {
+        "tierData": [
+            {
+                "id": 1,
+                "title": "Tier 1",
+                "category": "Normal",
+                "amount": "500 BUSD",
+                "size": "[2x]",
+                "type": "Lottery",
+                "locked": "60 Days",
+                "weight": "6.5",
+                "tierType": "T1"
+            },
+            {
+                "id": 2,
+                "title": "Tier 2",
+                "category": "Silver",
+                "amount": "750 BUSD",
+                "size": "[4x]",
+                "type": "Lottery",
+                "locked": "90 Days",
+                "weight": "7.5",
+                "tierType": "T2"
+            },
+            {
+                "id": 3,
+                "title": "Tier 3",
+                "category": "Bronze",
+                "amount": "950 BUSD",
+                "size": "[6x]",
+                "type": "Guaranteed for registered",
+                "locked": "120 Days",
+                "weight": "9.5",
+                "tierType": "T3"
+            },
+            {
+                "id": 4,
+                "title": "Tier 4",
+                "category": "Gold",
+                "amount": "1200 BUSD",
+                "size": "[10x]",
+                "type": "Guaranteed for registered",
+                "locked": "185 Days",
+                "weight": "12",
+                "tierType": "T4"
+            },
+            {
+                "id": 5,
+                "title": "Tier 5",
+                "category": "Platinum",
+                "amount": "1500 BUSD",
+                "size": "[14x]",
+                "type": "Guaranteed for registered",
+                "locked": "90 Days",
+                "weight": "18.5",
+                "tierType": "T5"
+            },
+            {
+                "id": 6,
+                "title": "Tier 6",
+                "category": "Diamond",
+                "amount": "2k BUSD",
+                "size": "[24x]",
+                "type": "Guaranteed for registered",
+                "locked": "365 Days",
+                "weight": "20",
+                "tierType": "T6"
+            }
+        ]
+    },
+    "wallet": {
+        "sub_heading": "Wallet Connect",
+        "heading": "Connect your Wallet",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum obcaecati dignissimos quae quo ad iste ipsum officiis deleniti asperiores sit.",
+        "walletData": [
+            {
+                "id": 1,
+                "img": "/img/metamask.png",
+                "title": "MetaMask",
+                "content": "A browser extension with great flexibility. The web's most popular wallet"
+            },
+            {
+                "id": 2,
+                "img": "/img/authereum.png",
+                "title": "Authereum",
+                "content": "A user-friendly wallet that allows you to sign up with your phone number on any device"
+            },
+            {
+                "id": 3,
+                "img": "/img/walletconnect.png",
+                "title": "WalletConnect",
+                "content": "Pair with Trust, Argent, MetaMask & more. Works from any browser, without an extension"
+            },
+            {
+                "id": 4,
+                "img": "/img/dapper.png",
+                "title": "Dapper",
+                "content": "A security-focused cloud wallet with pin codes and multi-factor authentication"
+            },
+            {
+                "id": 5,
+                "img": "/img/kaikas.png",
+                "title": "Kaikas",
+                "content": "A simple-to-use wallet that works on both mobile and through a browser extension"
+            }
+        ]
+    },
+    "work": {
+        "sub_heading": "How It Works",
+        "heading": "How To Participate",
+        "workData": [
+            {
+                "id": 1,
+                "icon": "icons icon-drawer text-effect",
+                "title": "Submit KYC",
+                "content": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores non provident."
+            },
+            {
+                "id": 2,
+                "icon": "icons icon-wallet text-effect",
+                "title": "Verify Wallet",
+                "content": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quasi architecto."
+            },
+            {
+                "id": 3,
+                "icon": "icons icon-fire text-effect",
+                "title": "Start Staking",
+                "content": "Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas."
+            }
+        ]
+    },
+    "cta": {
+        "sub_heading": "How It Works",
+        "heading": "How To Join Clans",
+        "img": "/img/cta_thumb.png",
+        "title": "Apply for WAYSPAD",
+        "content": "Get access to huge set of tools to seamlessly handle your game's integration with blockchain.",
+        "btn": "Apply Now",
+        "btnIcon": "icon-rocket mr-2"
+    },
+    "help": {
+        "sub_heading": "Help Center",
+        "heading": "How can we help you?",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum obcaecati dignissimos quae quo ad iste ipsum officiis deleniti asperiores sit.",
+        "helpData": [
+            {
+                "id": 1,
+                "icon": "icon icon-plane text-effect",
+                "title": "Getting Started",
+                "content": "Learn how to create an account, set up your wallet, and what you can do on gameon"
+            },
+            {
+                "id": 2,
+                "icon": "icon icon-note text-effect",
+                "title": "Creating",
+                "content": "Learn how to create your very first NFT and how to create your NFT collections so you can begin selling and sharing"
+            },
+            {
+                "id": 3,
+                "icon": "icon icon-handbag text-effect",
+                "title": "Buying",
+                "content": "Learn how to purchase your first NFT and understand gas fees and what's gas free on gameon"
+            },
+            {
+                "id": 4,
+                "icon": "icon icon-chart text-effect",
+                "title": "Selling",
+                "content": "Learn how list your NFTs for sale and understand the different ways to list your NFTs"
+            },
+            {
+                "id": 5,
+                "icon": "icon icon-link text-effect",
+                "title": "Partners",
+                "content": "Learn how you can partner with us to showcase your NFT drops"
+            },
+            {
+                "id": 6,
+                "icon": "icon icon-flag text-effect",
+                "title": "Developers",
+                "content": "Learn how you can develop with gameon & sell them on Marketplace"
+            }
+        ]
+    },
+    "social": {
+        "socialData": [
+            {
+                "id": 1,
+                "link": "twitter",
+                "icon": "fab fa-twitter"
+            },
+            {
+                "id": 2,
+                "link": "telegram",
+                "icon": "fab fa-telegram"
+            },
+            {
+                "id": 3,
+                "link": "globe",
+                "icon": "fas fa-globe"
+            }
+        ],
+        "socialDataTwo": [
+            {
+                "id": 1,
+                "link": "https://www.facebook.com/",
+                "icon": "icon-social-facebook"
+            },
+            {
+                "id": 2,
+                "link": "https://twitter.com/",
+                "icon": "icon-social-twitter"
+            },
+            {
+                "id": 3,
+                "link": "https://www.linkedin.com/",
+                "icon": "icon-social-linkedin"
+            },
+            {
+                "id": 4,
+                "link": "https://www.reddit.com/",
+                "icon": "icon-social-reddit"
+            },
+            {
+                "id": 5,
+                "link": "https://discord.com/",
+                "icon": "icon-social-vkontakte"
+            },
+            {
+                "id": 6,
+                "link": "https://www.youtube.com/",
+                "icon": "icon-social-youtube"
+            }
+        ]
+    },
+    "footer": {
+        "img": "/img/logo.png",
+        "copyright": "©2022 CLANS, All Rights Reserved By",
+        "owner": "Clans",
+        "ownerLink": "https://clansnetwork.io",
+        "socialData": [
+            {
+                "id": 1,
+                "link": "https://www.facebook.com/",
+                "icon": "icon-social-facebook"
+            },
+            {
+                "id": 2,
+                "link": "https://twitter.com/",
+                "icon": "icon-social-twitter"
+            },
+            {
+                "id": 3,
+                "link": "https://www.linkedin.com/",
+                "icon": "icon-social-linkedin"
+            },
+            {
+                "id": 4,
+                "link": "https://www.reddit.com/",
+                "icon": "icon-social-reddit"
+            },
+            {
+                "id": 5,
+                "link": "https://discord.com/",
+                "icon": "icon-social-vkontakte"
+            },
+            {
+                "id": 6,
+                "link": "https://www.youtube.com/",
+                "icon": "icon-social-youtube"
+            }
+        ],
+        "widgetData": [
+            {
+                "id": 1,
+                "text": "Features",
+                "link": "#"
+            },
+            {
+                "id": 2,
+                "text": "Roadmap",
+                "link": "#"
+            },
+            {
+                "id": 3,
+                "text": "How It Works",
+                "link": "#"
+            },
+            {
+                "id": 4,
+                "text": "Blog",
+                "link": "#"
+            },
+            {
+                "id": 5,
+                "text": "Privacy Policy",
+                "link": "#"
+            }
+        ]
+    },
+    "blog": {
+        "blogData": [
+            {
+                "id": 1,
+                "img": "/img/blog_1.jpg",
+                "author": "Junaid Hasan",
+                "date": "Jul 19, 2022",
+                "title": "Decentralizing NFT metadata on Gameon",
+                "content": "Lorem ipsum dolor, sit voluptatem consectetur adipisicing elit.",
+                "btnText": "Read More"
+            },
+            {
+                "id": 2,
+                "img": "/img/blog_2.jpg",
+                "author": "Mac Doe",
+                "date": "Aug 29, 2022",
+                "title": "The Lost Art Of Photography",
+                "content": "Lorem ipsum dolor, sit voluptatem consectetur adipisicing elit.",
+                "btnText": "Read More"
+            },
+            {
+                "id": 3,
+                "img": "/img/blog_3.jpg",
+                "author": "Sara Scotch",
+                "date": "Jul 17, 2022",
+                "title": "Save Thousands Of Lives Through This NFT",
+                "content": "Lorem ipsum dolor, sit voluptatem consectetur adipisicing elit.",
+                "btnText": "Read More"
+            },
+            {
+                "id": 4,
+                "img": "/img/blog_4.jpg",
+                "author": "John Deo",
+                "date": "Sep 22, 2022",
+                "title": "Golden State announce legacy NFT collection",
+                "content": "Lorem ipsum dolor, sit voluptatem consectetur adipisicing elit.",
+                "btnText": "Read More"
+            },
+            {
+                "id": 5,
+                "img": "/img/blog_5.jpg",
+                "author": "Yasmin Akter",
+                "date": "Aug 19, 2022",
+                "title": "Control Your Own Top Level Domain on the DNS & ENS",
+                "content": "Lorem ipsum dolor, sit voluptatem consectetur adipisicing elit.",
+                "btnText": "Read More"
+            },
+            {
+                "id": 6,
+                "img": "/img/blog_6.jpg",
+                "author": "Arham",
+                "date": "Jul 31, 2022",
+                "title": "Klaytn NFTs are coming to Gameon",
+                "content": "Lorem ipsum dolor, sit voluptatem consectetur adipisicing elit.",
+                "btnText": "Read More"
+            },
+            {
+                "id": 7,
+                "img": "/img/blog_7.jpg",
+                "author": "Artnox",
+                "date": "Sep 05, 2022",
+                "title": "Gameon raises $12M to scale the largest marketplace for NFTs",
+                "content": "Lorem ipsum dolor, sit voluptatem consectetur adipisicing elit.",
+                "btnText": "Read More"
+            },
+            {
+                "id": 8,
+                "img": "/img/blog_8.jpg",
+                "author": "William",
+                "date": "Aug 12, 2022",
+                "title": "How to safely purchase NFTs on Gameon",
+                "content": "Lorem ipsum dolor, sit voluptatem consectetur adipisicing elit.",
+                "btnText": "Read More"
+            },
+            {
+                "id": 9,
+                "img": "/img/blog_9.jpg",
+                "author": "Johnson",
+                "date": "Sep 01, 2022",
+                "title": "The beginner’s guide to creating & selling digital art NFTs",
+                "content": "Lorem ipsum dolor, sit voluptatem consectetur adipisicing elit.",
+                "btnText": "Read More"
+            }
+        ]
+    },
+    "single": {
+        "image": "/img/blog_single.jpg",
+        "title": "The beginner’s guide to start Gaming Clans Launchpad",
+        "content_1": "Far far away, behind the word mountains, far from the countries Vokalia and coast, there live the blind texts. Separated they live in right at the coast of the Semantics, a large language ocean coast of the Semantics, a large language ocean.",
+        "content_2": "A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth. There live the blind texts. Separated they live in right at the coast, a large language ocean. Sed nisi nisi, amet, consectetur adipiscing rutrum sit amet elit.",
+        "content_3": "Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.",
+        "quote": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed quam tortor, ultrices accumsan mauris eget, pulvinar tincidunt erat. Sed nisi nisi, rutrum sit amet elit.",
+        "date": "Aug 29, 2022",
+        "commentTitle": "Leave a Reply",
+        "commentContent": "Sed mauris nulla, tempor eu est vel, dapibus hendrerit mauris.",
+        "commentBtn": "POST COMMENT"
+    },
+    "sidebar": {
+        "widgetTitle_1": "Categories",
+        "widgetTitle_2": "Popular Tags",
+        "widgetTitle_3": "Share This",
+        "widgetData_1": [
+            {
+                "id": 1,
+                "title": "Metaverse",
+                "content": "23"
+            },
+            {
+                "id": 2,
+                "title": "Clans",
+                "content": "15"
+            },
+            {
+                "id": 3,
+                "title": "Token",
+                "content": "12"
+            },
+            {
+                "id": 4,
+                "title": "Staking",
+                "content": "29"
+            },
+            {
+                "id": 5,
+                "title": "Gaming",
+                "content": "16"
+            },
+            {
+                "id": 6,
+                "title": "Wallet",
+                "content": "13"
+            }
+        ],
+        "widgetData_2": [
+            {
+                "id": 1,
+                "title": "Clans"
+            },
+            {
+                "id": 2,
+                "title": "Bid"
+            },
+            {
+                "id": 3,
+                "title": "Gaming"
+            },
+            {
+                "id": 4,
+                "title": "Metaverse"
+            },
+            {
+                "id": 5,
+                "title": "IDO"
+            },
+            {
+                "id": 6,
+                "title": "Token"
+            },
+            {
+                "id": 7,
+                "title": "WordPress"
+            },
+            {
+                "id": 8,
+                "title": "Wallet"
+            },
+            {
+                "id": 9,
+                "title": "Bitcoin"
+            }
+        ],
+        "widgetData_3": [
+            {
+                "id": 1,
+                "icon": "icon-social-instagram ml-0"
+            },
+            {
+                "id": 2,
+                "icon": "icon-social-facebook"
+            },
+            {
+                "id": 3,
+                "icon": "icon-social-twitter"
+            },
+            {
+                "id": 4,
+                "icon": "icon-social-linkedin"
+            }
+        ]
+    }
+}
