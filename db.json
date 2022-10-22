@@ -10,5 +10,10 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "names": [
+    { "id": 1, "name": "Henrik" },
+    { "id": 2, "name": "Thomas" },
+    { "id": 3, "name": "Ole" }
+  ]
 }
