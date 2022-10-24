@@ -2,7 +2,7 @@
   "posts": [
     { "id": 1, "machine_type": "IBM X3550M4","parts_number":"80Y9299","m_class":"HDD KIT","parts_name":"x3550 M4 plus 4x 2.5in HDD Assembly Kit","location":"208備品室主機1095B2C內","parts_level":"1231","amount":"1","remarks":"" },
     { "id": 1, "machine_type": "IBM X3550M4","parts_number":"46C9091","m_class":"HDD KIT","parts_name":"x3550 M4 plus 4x 2.5in HDD Assembly Kit","location":"208備品室主機06AKTLC內","parts_level":"1231","amount":"2","remarks":"" },
-    { "id": 1, "machine_type": "IBM X3550M4","parts_number":"81Y4482","m_class":"Raid Card","parts_name":"ServeRAID M5110 SAS/SATA adapter","location":"208備品室主機1095B2C內","parts_level":"1231","amount":"1","remarks":"" },
+    { "id": 1, "machine_type": "IBM X3550M4","parts_number":"81Y4482","m_class":"Raid Card","parts_name":"ServeRAID M5110 SAS/SATA adapter","location":"208備品室主機1095B2C內","parts_level":"1231","amount":"0","remarks":"" },
     { "id": 1, "machine_type": "IBM X3550M4","parts_number":"00AE807","m_class":"Raid Card","parts_name":"ServeRAID M5110 SAS/SATA adapter","location":"208備品室主機06AKTLC內","parts_level":"1231","amount":"1","remarks":"" }
   ],
   "comments": [
