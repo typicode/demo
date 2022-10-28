@@ -1,14 +1,125 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "key": "hub_toplists_order",
+  "toplists": {
+    "575": [
+      {
+        "brand_id": "14164",
+        "position": 2,
+        "info": {
+          "rating": 4,
+          "bonus": "Free $25 bonus and 100% deposit up to $1000",
+          "features": [
+            "Easy cash back options",
+            "Good payment options",
+            "Exclusive games"
+          ]
+        },
+        "terms_and_conditions": "21+ | <a href=\"https://generator.lorem-ipsum.info/terms-and-conditions\">T&CS Apply</a> | Gamble Responsibly",
+        "logo": "https://picsum.photos/195/75",
+        "play_url": "https://example.com/amazing-offer/2134"
+      },
+      {
+        "brand_id": "12173",
+        "position": 3,
+        "info": {
+          "rating": 5,
+          "bonus": "Free $10 + 100% deposit bonus up to $500",
+          "features": [
+            "Several payment methods",
+            "Free & real money games",
+            "$10 No Deposit Bonus"
+          ]
+        },
+        "terms_and_conditions": "21+ | <a href=\"https://generator.lorem-ipsum.info/terms-and-conditions\">T&CS Apply</a> | Gamble Responsibly",
+        "logo": "https://picsum.photos/195/75",
+        "play_url": "https://example.com/track?v=123123"
+      },
+      {
+        "brand_id": "61873",
+        "position": 0,
+        "info": {
+          "rating": 5,
+          "bonus": "100% deposit bonus up to $500",
+          "features": [
+            "Royalty program available",
+            "Great tie-in promotions",
+            "20$ no deposit bonus"
+          ]
+        },
+        "terms_and_conditions": "18+ | <a href=\"https://generator.lorem-ipsum.info/terms-and-conditions\">T&CS Apply</a> | Gamble Responsibly",
+        "logo": "https://picsum.photos/195/75",
+        "play_url": "https://example.com/o3nJne039xbpqQ9fdop"
+      },
+      {
+        "brand_id": "49211",
+        "position": 1,
+        "info": {
+          "rating": 3,
+          "bonus": "Free $10 + 100% deposit bonus up to $600",
+          "features": [
+            "Several limited promos",
+            "$100 no deposit bonus",
+            "App for android & iOS"
+          ]
+        },
+        "terms_and_conditions": "18+ | <a href=\"https://generator.lorem-ipsum.info/terms-and-conditions\">T&CS Apply</a> | Gamble Responsibly",
+        "logo": "https://picsum.photos/195/75",
+        "play_url": "https://example.com/wow-the-perfect-casino"
+      }
+    ],
+    "884": [],
+    "885": [
+      {
+        "brand_id": "136664",
+        "position": 1,
+        "info": {
+          "rating": 5,
+          "bonus": "Lorem ipsum",
+          "features": [
+            "Lorem ipsum",
+            "Dolor sit",
+            "Amet"
+          ]
+        },
+        "terms_and_conditions": "21+ | <a href=\"https://generator.lorem-ipsum.info/terms-and-conditions\">T&CS Apply</a> | Gamble Responsibly",
+        "logo": "https://picsum.photos/195/75",
+        "play_url": "https://example.com/2134"
+      },
+      {
+        "brand_id": "121213",
+        "position": 2,
+        "info": {
+          "rating": 5,
+          "bonus": "Test test",
+          "features": [
+            "1",
+            "2",
+            "3"
+          ]
+        },
+        "terms_and_conditions": "21+ | <a href=\"https://generator.lorem-ipsum.info/terms-and-conditions\">T&CS Apply</a> | Gamble Responsibly",
+        "logo": "https://picsum.photos/195/75",
+        "play_url": "https://example.com/2134"
+      },
+      {
+        "brand_id": "510613l1",
+        "position": 0,
+        "info": {
+          "rating": 3,
+          "bonus": "One two three",
+          "features": [
+            "A sentence",
+            "Another sentence",
+            "Another another sentence"
+          ]
+        },
+        "terms_and_conditions": "18+ | <a href=\"https://generator.lorem-ipsum.info/terms-and-conditions\">T&CS Apply</a> | Gamble Responsibly",
+        "logo": "https://picsum.photos/195/75",
+        "play_url": "https://example.com/2134"
+      }
+    ]
+  },
+  "autoload": true,
+  "language": "en",
+  "country": "US"
 }
