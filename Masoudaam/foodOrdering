@@ -1,0 +1,30 @@
+dummyFoodItems = [
+  {
+    name: "pizza",
+    price: 10,
+    description: "Italian Cuisine!",
+    id: "0",
+    num: 0,
+  },
+  {
+    name: "sushi",
+    price: 8,
+    description: "love Mediteranian food? enjoy this :)",
+    id: "1",
+    num: 0,
+  },
+  {
+    name: "kebab",
+    price: 15,
+    description: "a fan of meats? you will love this!",
+    id: "2",
+    num: 0,
+  },
+  {
+    name: "barbecue burgur",
+    price: 13,
+    description: "american, raw, meaty!",
+    id: "3",
+    num: 0,
+  },
+];
