@@ -10,25 +10,5 @@
   ],
   "profile": {
     "name": "typicode"
-  },
-  "asca": {
-    "contentList": [
-      {"contentId": "", 
-       "statusCode": "",
-       "analysisResults": [
-          {
-            "lastPretestDate": "",
-            "contentId": "",
-            "appId": "",
-            "appVersion": "",
-            "bitSptCd": "",
-            "statusCode": 0,
-            "failDescription": "",
-            "ext" : "",
-            "achiveURL": ""
-          }
-       ]
-      }
-    ]
   }
 }
