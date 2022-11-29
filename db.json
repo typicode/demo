@@ -1,14 +1,50 @@
+[{
+  "id":1,
+      "harga": "Rp. 700.000",
+"titel": "Welcome to quicktype!",
+"image": "/images/img1.jpg",
+"ket":"In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content"
+},
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "id":2,
+  "harga": "Rp. 700.000",
+"titel": "Welcome to quicktype!",
+"image": "/images/img2.jpg",
+"ket":"In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content"
+},
+{
+  "id":3,
+      "harga": "Rp. 700.000",
+"titel": "Welcome to quicktype!",
+"image": "/images/img3.jpg",
+"ket":"In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content"
+},
+{
+  "id":4,
+      "harga": "Rp. 700.000",
+"titel": "Welcome to quicktype!",
+"image": "/images/img4.jpg",
+"ket":"In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content"
+},
+{
+  "id":5,
+      "harga": "Rp. 700.000",
+"titel": "Welcome to quicktype!",
+"image": "/images/img5.jpg",
+"ket":"In publishing and graphic design, used to demonstrate the visual form of a  a typeface without relying on meaningful content"
+},
+{
+  "id":6,
+      "harga": "Rp. 700.000",
+"titel": "Welcome to quicktype!",
+"image": "/images/img6.jpg",
+"ket":"Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content"
+},
+{
+  "id":7,
+      "harga": "Rp. 700.000",
+"titel": "Welcome to quicktype!",
+"image": "/images/img7.jpg",
+"ket":"In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content"
 }
+]
