@@ -12,5 +12,6 @@
   "profile": {
     "name": "typicode"
   },
- "chk_stocks":[]
+ "chk_stocks":[],
+  "data_json":[]
 }
