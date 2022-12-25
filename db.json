@@ -1,14 +1,126 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+    "status": "ok",
+    "totalResults": 10,
+    "articles" : [
+        {
+            "id" : 1,
+            "question" : "By which amendment act 10th schedule was added in the Indian Constitution, giving special status to Sikkim?",
+            "Option" : {
+                         "A" : "35th Amendment Act",
+                         "B" : "36th Amendment Act",
+                         "C" : "37th Amendment Act",
+                         "D" : "38th Amendment Act"
+            },
+            "correctAnswer" : "A",
+            "Note" : "Constitution (35th) Amendment Act, 1974 terminated the protectorate status of Sikkim and conferred on it the status of an associate state of the Indian Union. The Tenth Schedule was added laying down the terms and conditions of association of Sikkim with the Indian Union."
+        },
+        {
+            "id" : 2,
+            "question" : "Which act extended the principle of communal representation by providing separate electorates for depressed classes?",
+            "Option" : {
+                         "A" : "Indian Councils Act, 1909",
+                         "B" : "Government of India Act, 1919",
+                         "C" : "Indian Independence Act, 1947",
+                         "D" : "Government of India Act, 1935"
+            },
+            "correctAnswer" : "D",
+            "Note" : "The Government of India Act of 1935 extended the principal of communal representation by providing separate electorates for depressed classes (scheduled castes), women and labour (workers). Indian Councils Act, 1909 also introduced the system of separate electorates for Muslims."
+        },
+        {
+            "id" : 3,
+            "question" : "Who became the first Governor General of the new dominion of India?",
+            "Option" : {
+                         "A" : "C. Rajagopalachari",
+                         "B" : "Lord Mountbatten",
+                         "C" : "Clement Attlee",
+                         "D" : "Rajendra Prasad"
+            },
+            "correctAnswer" : "B",
+            "Note" : "After India and Pakistan attained independence at midnight on the night of 14–15 August 1947, Louis Mountbatten served as the first governor general of an independent India until June 1948."
+        },
+        {
+            "id" : 4,
+            "question" : "In which judgment Supreme Court held that Preamble is not part of the Constitution?",
+            "Option" : {
+                         "A" : "Berubari Union Case",
+                         "B" : " Kesavananda Bharti Case",
+                         "C" : "LIC of India Case",
+                         "D" : "Golaknath Case"
+            },
+            "correctAnswer" : "A",
+            "Note" : "In the Berubari union Case Supreme Court held that Preamble is not a part of the Constitution of India. The Supreme Court gave its judgment in the year 1960."
+        },
+        {
+            "id" : 5,
+            "question" : "In which case Supreme Court held that Preamble can be amended?",
+            "Option" : {
+                         "A" : "Minerva Mills Case",
+                         "B" : " Berubari Union Case",
+                         "C" : "Kesvananda Bharti Case",
+                         "D" : " SR Bommai Case"
+            },
+            "correctAnswer" : "C",
+            "Note" : "In Keshvananda Bharti Case Supreme Court held that Preamble can be amended subject to the condition that no amendment is done to the basic feature of the Constitution of India."
+        },
+        {
+            "id" : 6,
+            "question" : "In which case the constitutional validity of First Amendment Act was questioned?",
+            "Option" : {
+                         "A" : "Shankari Prasad case",
+                         "B" : "Kesavananda Bharati case",
+                         "C" : "Indira Nehru Gandhi case",
+                         "D" : "None Of the above"
+            },
+            "correctAnswer" : "A",
+            "Note" : "The 'question' whether Fundamental Rights can be amended by the Parliament came for consideration of the Supreme Court within a year of the Constitution coming into force.The constitutional validity of the First Amendment Act of 1951, which curtailed the right to property, was challenged in the Shankari Prasad case of 1951."
+        },
+        {
+            "id" : 7,
+            "question" : "Who has the power to summon or prorogue the Parliament and dissolve the Lok Sabha",
+            "Option" : {
+                         "A" : "The Chief Justice of India",
+                         "B" : "The Attorney General",
+                         "C" : "The President",
+                         "D" : "The Prime Minister"
+            },
+            "correctAnswer" : "C",
+            "Note" : "The President of India has the power to  summon or prorogue the Parliament and dissolve the Lok Sabha. The President  can also summon a joint sitting of both the Houses of Parliament, which is presided over by the Speaker of the Lok Sabha."
+        },
+        {
+            "id" : 8,
+            "question" : "Who among the following persons doesnt take oath of the office?",
+            "Option" : {
+                         "A" : "Speaker",
+                         "B" : "President",
+                         "C" : " Vice-President",
+                         "D" : "Prime Minister"
+            },
+            "correctAnswer" : "A",
+            "Note" : "The Speaker and the Deputy Speaker of the Lok Sabha do not take oath of the office. Article 93 of the Indian constitution talks about the Speaker and the Deputy Speaker."
+        },
+        {
+            "id" : 9,
+            "question" : "Who elects the representatives of union territories in the Rajya Sabha?",
+            "Option" : {
+                         "A" : "President",
+                         "B" : "Governors",
+                         "C" : "Electoral College",
+                         "D" : "Members of Lok Sabha"
+            },
+            "correctAnswer" : "C",
+            "Note" : "An electoral college especially constituted for the purpose of election of Union Territories to the Rajya Sabha indirectly elects the representatives of Union Territories in the Rajya Sabha . This election is also held as per the system of proportional representation and single transferable vote"
+        },
+        {
+            "id" : 10,
+            "question" : "What is the maximum strength of Rajya Sabha?",
+            "Option" : {
+                         "A" : "250",
+                         "B" : "238",
+                         "C" : "263",
+                         "D" : "249"
+            },
+            "correctAnswer" : "A",
+            "Note" : "250 is the maximum strength fixed for Rajya Sabha. 238 out of 250 are to be the representatives of the states and union territories that are elected indirectly; and 12 are nominated by the President."
+        }
+    ]
 }
