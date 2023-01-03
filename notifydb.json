@@ -1,0 +1,30 @@
+ {
+        "userid": "125-asdfg",
+        "subscriptions": [
+            {
+                "subscriptionid": "675-qwert",
+                "description": "subscription 1",
+                "createddate": "2022-12-09T18:05:47.307Z"
+            },
+            {
+                "subscriptionid": "564-qwert",
+                "description": " subscription 2",
+                "createddate": "2022-12-09T18:05:47.307Z"
+            }
+        ],
+    },
+    {
+        "userid": "demo test",
+        "subscriptions": [
+            {
+                "subscriptionid": "Qwerty",
+                "description": "subscription 2",
+                "createddate": "2022-12-09T18:05:47.307Z"
+            },
+            {
+                "subscriptionid": "333-qwert",
+                "description": " subscription 2",
+                "createddate": "2022-12-09T18:05:47.307Z"
+            }
+        ],
+    }
