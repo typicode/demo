@@ -1,14 +1,31 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+{ "store": {
+  "book": [
+    { "category": "reference",
+      "author": "Nigel Rees",
+      "title": "Sayings of the Century",
+      "price": 8.95
+    },
+    { "category": "fiction",
+      "author": "Evelyn Waugh",
+      "title": "Sword of Honour",
+      "price": 12.99
+    },
+    { "category": "fiction",
+      "author": "Herman Melville",
+      "title": "Moby Dick",
+      "price": 8.99,
+      "isbn": "0-553-21311-3"
+    },
+    { "category": "fiction",
+      "author": "J.R.R. Tolkien",
+      "title": "The Lord of the Rings",
+      "price": 22.99,
+      "isbn": "0-395-19323-5"
+    }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
+  "bicycle": {
+    "color": "red",
+    "price": 19.95
   }
+}
 }
