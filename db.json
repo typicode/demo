@@ -1,14 +1,13 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+[
+  {
+            "workDefinitionId": "300100071643009",
+            "$id": "300100071643009",
+            "operation": "300100071643011"
+            
+        },
+        {
+            "workDefinitionId": "300100071643336",
+            "$id": "300100071643336",
+            "operation": "300100071643338"
+        }
+]
