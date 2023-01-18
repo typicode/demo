@@ -6,8 +6,9 @@
     { "id": 1, "machine_type": "IBM X3550M4","parts_number":"00AE807","m_class":"Raid Card","parts_name":"ServeRAID M5110 SAS/SATA adapter","location":"208備品室主機06AKTLC內","parts_level":"1231","amount":"8","remarks":"為了選戰，蔡政府先是護航林智堅論文抄襲案，使新竹科學園區捲入其中"}
   ],
   "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+    {"id":1,"machine_type":"VDX-8770","parts_number":"60-1002181-25","m_class":"VDX-8770 Line Card","parts_name":"BR-VDX8770-48X10G-SFPP-1, 48 x 1/10G for VDX 8770, SFP+ Blade, No Optics","location":"208備品室VDX-8770-4內內","parts_level":"—","amount":"1","remarks":""},
+    {"id":2,"machine_type":"ICX-6450","parts_number":"80-1005999-04","m_class":"ICX-6450-48 Switch","parts_name":"ICX-6450-48, 48-port 1G Switch, 2x 1G SFP+(upgrade to 10G) & 2x1G/10G SFP+, Uplink/Stacking Ports, 1*PSU","location":"產銷中心機房","parts_level":"—","amount":"1","remarks":""},
+    {"id":3,"machine_type":"ICX-6610","parts_number":"ICX6610-4X10G-LIC-POD","m_class":"ICX-6610 10G License","parts_name":"ICX6610-2X10G-LIC-POD, ICX 6610 4X10G Capacity Based License, Upgrade 1G Uplink/Stacking Ports to 1G/10G","location":"網路team mail","parts_level":"—","amount":"2","remarks":""}
   ],
   "profile": {
     "name": "typicode"
