@@ -1,14 +1,34 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+    "dataCele": [
+        {  
+            "id": 1,
+            "name":"spaDog",
+            "link": "https://github.com/Rociozvl/spaDog",
+            "description": "Consumo de api externa.Ordenado,paginado y creacion de razas",
+            "lenguages": "JavaScript-CSS-HTML"
+
+        },
+        { 
+            "id": 2,
+            "name":"Mern Y MySQL",
+            "link":"https://github.com/Rociozvl/MERN-Stack-con-MySQL",
+            "description":"Creacion lista de tareas.ReactVite",
+            "lenguages":"JavaScript-CSS-HTML"
+
+        },
+        {
+            "id":3,
+            "name":"CRUD",
+            "link":"https://github.com/Rociozvl/nodejs-express-deploy",
+            "description": "Estilos de CSS y frameworks como Bootstrap5.",
+            "lenguages":"EJS , JS ,CS"
+
+
+        }
+
+
+
+]
+
+    
 }
