@@ -10,9 +10,11 @@
     {"id":2,"machine_type":"ICX-6450","parts_number":"80-1005999-04","m_class":"ICX-6450-48 Switch","parts_name":"ICX-6450-48, 48-port 1G Switch, 2x 1G SFP+(upgrade to 10G) & 2x1G/10G SFP+, Uplink/Stacking Ports, 1*PSU","location":"產銷中心機房","parts_level":"—","amount":"1","remarks":""},
     {"id":3,"machine_type":"ICX-6610","parts_number":"ICX6610-4X10G-LIC-POD","m_class":"ICX-6610 10G License","parts_name":"ICX6610-2X10G-LIC-POD, ICX 6610 4X10G Capacity Based License, Upgrade 1G Uplink/Stacking Ports to 1G/10G","location":"網路team mail","parts_level":"—","amount":"2","remarks":""}
   ],
-  "profile": {
-    "name": "typicode"
-  },
+  "profile": [
+    {"id":1,"machine_type":"P720","parts_number":"8202-E4D","m_class":"Server","parts_name":"P720 8202-E4D","location":"208 備品室","parts_level":"1311","amount":"1","remarks":""},
+    {"id":2,"machine_type":"P720","parts_number":"00E7469","m_class":"CPU","parts_name":"8-core 3.6GHz Power7+ CPU","location":"208備品室P720內","parts_level":"—","amount":"1","remarks":""},
+    {"id":3,"machine_type":"P750","parts_number":"8408-E8D","m_class":"Server","parts_name":"P750 8408-E8D","location":"208 備品室","parts_level":"1411","amount":"1","remarks":""}
+  ],
   "chk_stocks":[{"id":1,"machine_type":"T5","parts_number":"7042208","m_class":"RAM","parts_name":"One 8 GB DDR3-1066 registered DIMM","location":"208備品室T5-2主機內","parts_level":"—","amount":"30","remarks":""},{"id":2,"machine_type":"T5","parts_number":"7045228","m_class":"HDD","parts_name":"One 600 GB 10000 rpm 2.5-inch SAS-2 HDD with marlin bracket","location":"208備品室T5-2主機內","parts_level":"—","amount":"6","remarks":""},{"id":3,"machine_type":"T5","parts_number":"371-4325","m_class":"Fiber card","parts_name":"8Gigabit/Sec PCI Express Dual FC Host Adapter","location":"208備品室T5-2主機內","parts_level":"—","amount":"4","remarks":""}]
   
 }
