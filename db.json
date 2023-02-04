@@ -56,6 +56,6 @@
           time: "10:00 AM",
           petsAllowed: false,
           organizer: "Amanda",
-        },
-      ],
+        }
+      ]
 }
