@@ -1,14 +1,8 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "cart-items": [
+    { "id": 1, "name": "Cart 1" , "description": "Description aboubt the cart-item 1" , "price": 10000, "rating": 5, "product-img": "", "quantity":2 },
+    { "id": 2, "name": "Cart 2" , "description": "Description aboubt the cart-item 2" , "price": 20000, "rating": 4, "product-img": "", "quantity":1 },
+    { "id": 3, "name": "Cart 3" , "description": "Description aboubt the cart-item 3" , "price": 30000, "rating": 3, "product-img": "", "quantity": 4 }
+  ]
+ 
 }
