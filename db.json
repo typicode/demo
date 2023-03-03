@@ -1,14 +1,11 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "employee": [
+    { "id": 1, "name": "pradip", "age": "26", "address": "demo adress" },
+      { "id": 2, "name": "pradip", "age": "26", "address": "demo adress" },
+      { "id": 3, "name": "pradip", "age": "26", "address": "demo adress" },
+      { "id": 4, "name": "pradip", "age": "26", "address": "demo adress" },
+      { "id": 5, "name": "pradip", "age": "26", "address": "demo adress" },
+
+  ]
+
 }
