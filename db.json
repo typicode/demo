@@ -1,14 +1,33 @@
 {
   "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
+       {
+        Id: 1,
+        name: 'Capsicum',
+        Image:'https://images.pexels.com/photos/8538295/pexels-photo-8538295.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
+        availableQty:10,
+        amountPerQty:40
+      },
+      {
+        Id: 2,
+        name: 'Carrots',
+        Image:'https://images.pexels.com/photos/143133/pexels-photo-143133.jpeg?auto=compress&cs=tinysrgb&w=600',
+        availableQty:10,
+        amountPerQty:80
+    },
+    {
+    Id: 3,
+    name: 'CorianderLeaves ',
+    Image:'https://images.pexels.com/photos/10048317/pexels-photo-10048317.jpeg?auto=compress&cs=tinysrgb&w=600',
+    description: '',
+    availableQty:10,
+    amountPerQty:50
+  },
+  {
+    Id: 4,
+    name: 'Cauliflower',
+    Image:'https://images.pexels.com/photos/6631961/pexels-photo-6631961.jpeg?auto=compress&cs=tinysrgb&w=600',
+    availableQty:10,
+    amountPerQty:100
   }
+  ]
 }
