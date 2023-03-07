@@ -1,62 +1,86 @@
-[{
-    '_id': 'knmxQugYPkmKCFrmL',
-    'locations': [{
-        '_id': 'JifKTNivSN7u8cN8n',
-        'description': 'Hombre de la Mancha Kids, Panama City, Panama',
-        'lon': -79.50752589999999,
-        'lat': 8.988277499999999,
-        'companyId': 'iydyBo8N5xHz84YKg',
-        'isPublishedOnTheWeb': True,
-        'userId': 'knmxQugYPkmKCFrmL',
-        'location': {
-            'type': 'Point',
-            'coordinates': [-79.50752589999999, 8.988277499999999]
-        },
-        'dist': {
-            'calculated': 2855.773455490102,
-            'location': {
-                'type': 'Point',
-                'coordinates': [-79.50752589999999, 8.988277499999999]
-            }
-        }
-    }, {
-        '_id': 'oquCgtYa8NsN6vb3q',
-        'description': 'El Hombre de La Mancha Kids, Calle 71 Este, Panama City, Panama',
-        'lon': -79.50752589999999,
-        'lat': 8.988277499999999,
-        'companyId': 'iydyBo8N5xHz84YKg',
-        'isPublishedOnTheWeb': True,
-        'userId': 'knmxQugYPkmKCFrmL',
-        'location': {
-            'type': 'Point',
-            'coordinates': [-79.50752589999999, 8.988277499999999]
-        },
-        'dist': {
-            'calculated': 2855.773455490102,
-            'location': {
-                'type': 'Point',
-                'coordinates': [-79.50752589999999, 8.988277499999999]
-            }
-        }
-    }, {
-        '_id': 'd547NNKBxrLKxgaKN',
-        'description': 'El Hombre de la Mancha - Explora, Panama City, Panama',
-        'lon': -79.5286933,
-        'lat': 9.0339384,
-        'companyId': 'iydyBo8N5xHz84YKg',
-        'isPublishedOnTheWeb': True,
-        'userId': 'knmxQugYPkmKCFrmL',
-        'location': {
-            'type': 'Point',
-            'coordinates': [-79.5286933, 9.0339384]
-        },
-        'dist': {
-            'calculated': 5533.847551019522,
-            'location': {
-                'type': 'Point',
-                'coordinates': [-79.5286933, 9.0339384]
-            }
-        }
-    }],
-    'comercialName': 'Nessim'
-}]
+[
+  {
+    "_id":"knmxQugYPkmKCFrmL",
+    "locations":[
+      {
+        "_id":"JifKTNivSN7u8cN8n",
+        "description":"Hombre de la Mancha Kids, Panama City, Panama",
+        "lon":-79.50752589999999,
+        "lat":8.988277499999999,
+        "companyId":"iydyBo8N5xHz84YKg",
+        "isPublishedOnTheWeb":true,
+        "userId":"knmxQugYPkmKCFrmL",
+        "location":{
+          "type":"Point",
+          "coordinates":[
+            -79.50752589999999,
+            8.988277499999999
+          ]
+        },
+        "dist":{
+          "calculated":2855.773455490102,
+          "location":{
+            "type":"Point",
+            "coordinates":[
+              -79.50752589999999,
+              8.988277499999999
+            ]
+          }
+        }
+      },
+      {
+        "_id":"oquCgtYa8NsN6vb3q",
+        "description":"El Hombre de La Mancha Kids, Calle 71 Este, Panama City, Panama",
+        "lon":-79.50752589999999,
+        "lat":8.988277499999999,
+        "companyId":"iydyBo8N5xHz84YKg",
+        "isPublishedOnTheWeb":true,
+        "userId":"knmxQugYPkmKCFrmL",
+        "location":{
+          "type":"Point",
+          "coordinates":[
+            -79.50752589999999,
+            8.988277499999999
+          ]
+        },
+        "dist":{
+          "calculated":2855.773455490102,
+          "location":{
+            "type":"Point",
+            "coordinates":[
+              -79.50752589999999,
+              8.988277499999999
+            ]
+          }
+        }
+      },
+      {
+        "_id":"d547NNKBxrLKxgaKN",
+        "description":"El Hombre de la Mancha - Explora, Panama City, Panama",
+        "lon":-79.5286933,
+        "lat":9.0339384,
+        "companyId":"iydyBo8N5xHz84YKg",
+        "isPublishedOnTheWeb":true,
+        "userId":"knmxQugYPkmKCFrmL",
+        "location":{
+          "type":"Point",
+          "coordinates":[
+            -79.5286933,
+            9.0339384
+          ]
+        },
+        "dist":{
+          "calculated":5533.847551019522,
+          "location":{
+            "type":"Point",
+            "coordinates":[
+              -79.5286933,
+              9.0339384
+            ]
+          }
+        }
+      }
+    ],
+    "comercialName":"Nessim"
+  }
+]
