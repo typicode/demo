@@ -1,0 +1,16 @@
+[{
+    id: 1,
+    titulo: 'Terraria',
+    desarrolladora: 'Re-Logic',
+    lanzamiento: 2011
+},{
+    id: 2,
+    titulo: 'Minecraft',
+    desarrolladora: 'MOJANG',
+    lanzamiento: 2011
+},{
+    id: 3,
+    titulo: 'Doom',
+    desarrolladora: 'Id-Software',
+    lanzamiento: 1994
+}]
