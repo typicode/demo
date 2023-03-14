@@ -1,14 +1,51 @@
 {
+  "profile": [
+    {"username": "vanvan", "name": "Ivan", "id": 1, "phone": "123", "email": "o@gmail", "website": "hh.ru", "adress": "Oslo"},
+    {"username": "1st", "name": "First", "id": 2, "phone": "321", "email": "41@gmail", "website": "5.G", "adress": "Oslo"},
+    {"username": "chet", "name": "4", "id": 3, "phone": "617171", "email": "puusj@gmail", "website": "momo.ru", "adress": "Munhen"},
+    {"username": "lolya", "name": "OLYA", "id": 4, "phone": "1588", "email": "yiola@gmail", "website": "2pick.ru", "adress": "DEL"},
+    {"username": "z661", "name": "Dizo", "id": 5, "phone": "331", "email": "forutolove@gmail", "website": "9ty.ru", "adress": "Oslo"},
+    {"username": "wiskey", "name": "Johny Walker", "id": 6, "phone": "1337", "email": "eva.elfi@gmail", "website": "hydraruz.g", "adress": "Oslo"}
+    
+  ],
   "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+    { "id": 1, "userId": 1, "title": "Post 1", "description": "luv more like" },
+    { "id": 1, "userId": 1, "title": "Post 2", "description": "u know i can be your part time lover i’ll scars they’ll dance with eachother" },
+    { "id": 2, "userId": 2, "title": "Post 1", "description": "pnevmoinstrument/kompressory" },
+    { "id": 3, "userId": 2, "title": "Post 2", "description": "many many many many many text" },
+    { "id": 4, "userId": 2, "title": "Post 3", "description": "many many many many many text" },
+    { "id": 5, "userId": 2, "title": "Post 4", "description": "many many many many many text" },
+    { "id": 6, "userId": 5, "title": "Post 1", "description": "many many many many many text" }
   ],
   "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+    {  "userId": 1, "id": 1, "text": "mymymy", "postId": 1 },
+    {  "userId": 2, "id": 1, "text": "so great", "postId": 1 },
+    {  "userId": 3, "id": 1, "text": "too cool", "postId": 1 },
+    {  "userId": 4, "id": 1, "text": "OMG", "postId": 1 },
+    {  "userId": 5, "id": 1, "text": "some comment", "postId": 1 },
+    {  "userId": 2, "id": 1, "text": "some comment", "postId": 2 },
+    {  "userId": 3, "id": 1, "text": "some comment", "postId": 2 },
+    {  "userId": 4, "id": 2, "text": "some comment", "postId": 2 }
   ],
-  "profile": {
-    "name": "typicode"
-  }
+  "lockers": [
+        {
+            "id": 1,
+            "code": "yiola",
+            "title": "First",
+            "is_lock": false
+        },
+        {
+            "id": 2,
+            "code": "forutolove",
+            "title": "Second",
+            "is_lock": true
+        },
+        {
+            "id": 3,
+            "code": "hydraruz",
+            "title": "Third",
+            "is_lock": false
+        }
+    ]
 }
+
