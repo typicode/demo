@@ -40,6 +40,23 @@
     { "id": 4, "title": "some comment", "userId": 1, "numberPhotos": 2 },
     { "id": 1, "title": "some comment", "userId": 2, "numberPhotos": 15 },
     { "id": 2, "title": "some comment", "userId": 2, "numberPhotos": 47 }
-  ]
+  ],
+  "lockers": [
+        {
+            "id": 1,
+            "title": "First",
+            "is_lock": false
+        },
+        {
+            "id": 2,
+            "title": "Second",
+            "is_lock": true
+        },
+        {
+            "id": 3,
+            "title": "Third",
+            "is_lock": false
+        }
+    ]
 }
 
