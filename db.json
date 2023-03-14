@@ -27,27 +27,22 @@
     {  "userId": 3, "id": 1, "text": "some comment", "postId": 2 },
     {  "userId": 4, "id": 2, "text": "some comment", "postId": 2 }
   ],
-  "albums": [
-    { "id": 1, "title": "my 1st album", "userId": 1, "numberPhotos": 4},
-    { "id": 2, "title": "some comment", "userId": 1, "numberPhotos": 400 },
-    { "id": 3, "title": "some comment", "userId": 1, "numberPhotos": 41 },
-    { "id": 4, "title": "some comment", "userId": 1, "numberPhotos": 2 },
-    { "id": 1, "title": "some comment", "userId": 2, "numberPhotos": 15 },
-    { "id": 2, "title": "some comment", "userId": 2, "numberPhotos": 47 }
-  ],
   "lockers": [
         {
             "id": 1,
+            "code": "yiola",
             "title": "First",
             "is_lock": false
         },
         {
             "id": 2,
+            "code": "forutolove",
             "title": "Second",
             "is_lock": true
         },
         {
             "id": 3,
+            "code": "hydraruz",
             "title": "Third",
             "is_lock": false
         }
