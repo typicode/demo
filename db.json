@@ -8,12 +8,6 @@
     {"username": "wiskey", "name": "Johny Walker", "id": 6, "phone": "1337", "email": "eva.elfi@gmail", "website": "hydraruz.g", "adress": "Oslo"}
     
   ],
-  "workingCompany": [
-    {"id": 1,"userId": 1, "name": "Z-4", "bs": "dn", "catchPhrase": "olala"},
-    {"id": 2,"userId": 1, "name": "2looP", "bs": "dn", "catchPhrase": "o4ki on da nose"},
-    {"id": 1,"userId": 4, "name": "Z-4", "bs": "dn", "catchPhrase": "olala"},
-    {"id": 1,"userId": 3, "name": "TRAPPA", "bs": "dn", "catchPhrase": ""}
-  ],
   "posts": [
     { "id": 1, "userId": 1, "title": "Post 1", "description": "luv more like" },
     { "id": 1, "userId": 1, "title": "Post 2", "description": "u know i can be your part time lover i’ll scars they’ll dance with eachother" },
