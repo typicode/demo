@@ -1,12 +1,12 @@
 {
   "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+    { "id": 1, "title": "Post 1 BY NILANJAN" },
+    { "id": 2, "title": "Post 2 BY BILL GATES" },
+    { "id": 3, "title": "Post 3 BY MARK ZUCKERBERG" }
   ],
   "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+    { "id": 1, "body": "POSTING SHIT ABOUT MARK ZUCKERBERG", "postId": 1 },
+    { "id": 2, "body": "MARK ZUCKERBERG IS ASSHOLE", "postId": 1 }
   ],
   "profile": {
     "name": "typicode"
