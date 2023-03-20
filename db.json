@@ -1,14 +1,58 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "products": [
+    {
+      "id": 1,
+      "title": "XX99 Mark II",
+      "description": "The new XX99 Mark II headphones is the pinnacle of pristine audio. It redefines your premium headphone experience by reproducing the balanced depth and precision of studio-quality sound.",
+      "price": 549,
+      "feature": true,
+      "category": "Headphones",
+      "image": "https://i.ibb.co/xHPNJvV/XX99-Mark.png"
+    },
+    {
+      "id": 2,
+      "title": "XX99 Mark I",
+      "description": "As the gold standard for headphones, the classic XX99 Mark I offers detailed and accurate audio reproduction for audiophiles, mixing engineers, and music aficionados alike in studios and on the go.",
+      "price": 549,
+      "feature": false,
+      "category": "Headphones",
+      "image": "https://i.ibb.co/Lk4rXhJ/image-removebg-preview-41-2x.png"
+    },
+    {
+      "id": 3,
+      "title": "XX59",
+      "description": "Enjoy your audio almost anywhere and customize it to your specific tastes with the XX59 headphones. The stylish yet durable versatile wireless headset is a brilliant companion at home or on the move.",
+      "price": 549,
+      "feature": false,
+      "category": "Headphones",
+      "image": "https://i.ibb.co/7gHpLjP/XX59.png"
+    },
+    {
+      "id": 4,
+      "title": "ZX9",
+      "description": "Upgrade your sound system with the all new ZX9 active speaker. It’s a bookshelf speaker system that offers truly wireless connectivity -- creating new possibilities for more pleasing and practical audio setups.",
+      "price": 549,
+      "feature": false,
+      "category": "speaker",
+      "image": "https://i.ibb.co/VWqwbch/feature1.png"
+    },
+    {
+      "id": 5,
+      "title": "ZX7",
+      "description": "Stream high quality sound wirelessly with minimal loss. The ZX7 bookshelf speaker uses high-end audiophile components that represents the top of the line powered speakers for home or studio use.",
+      "price": 549,
+      "feature": false,
+      "category": "speaker",
+      "image": "https://i.ibb.co/QrLdSbz/ZX7.png"
+    },
+    {
+      "id": 6,
+      "title": "YX1 WIRELESS",
+      "description": "Tailor your listening experience with bespoke dynamic drivers from the new YX1 Wireless Earphones. Enjoy incredible high-fidelity sound even in noisy environments with its active noise cancellation feature.",
+      "price": 549,
+      "feature": true,
+      "category": "EARPHONES",
+      "image": "https://i.ibb.co/pzcZxHp/image-removebg-preview-42-2x.png"
+    }
+  ]
 }
