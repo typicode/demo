@@ -1,17 +1,8 @@
 {
   "posts": [
-    { "date": "03/24/2023",
-        "period": "PM",
-        "firstName": "Irene",
-        "lastName": "Tabuada",
-        "age": "28",
-        "gender": "Female",
-        "address": "asd",
-        "emailAddress": "irene@gmail.com",
-        "contactNumber": "09123456789",
-        "medicalConcern": "asdasd",
-        "id": "0003" 
-    },
+    { "id": 1, "title": "Post 1" },
+    { "id": 2, "title": "Post 2" },
+    { "id": 3, "title": "Post 3" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
