@@ -2,51 +2,7 @@
   "posts": [
     {
   "patients": [
-    {
-      "patientData": {
-        "date": "03/24/2023",
-        "period": "PM",
-        "firstName": "Irene",
-        "lastName": "Tabuada",
-        "age": "28",
-        "gender": "Female",
-        "address": "asd",
-        "emailAddress": "irene@gmail.com",
-        "contactNumber": "09123456789",
-        "medicalConcern": "asdasd",
-        "ids": "0003"
-      }
-    },
-    {
-      "patientData": {
-        "date": "03/25/2023",
-        "period": "AM",
-        "firstName": "Ariel",
-        "lastName": "Maniago",
-        "age": "28",
-        "gender": "Male",
-        "address": "Sitio Undol, Brgy. Camugao",
-        "emailAddress": "admaniago01@gmail.com",
-        "contactNumber": "09650951766",
-        "medicalConcern": "cough",
-        "ids": "0004"
-      }
-    },
-    {
-      "patientData": {
-        "date": "31/03/2023",
-        "period": "AM",
-        "firstName": "Ariel",
-        "lastName": "Maniago",
-        "age": "28",
-        "gender": "Male",
-        "address": "asda",
-        "emailAddress": "admaniago01@gmail.com",
-        "contactNumber": "09650951766",
-        "medicalConcern": "asdasd",
-        "ids": "0006"
-      }
-    }
+   
   ]
 }
   ],
