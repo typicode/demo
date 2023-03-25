@@ -10,7 +10,8 @@
         "emailAddress": "irene@gmail.com",
         "contactNumber": "09123456789",
         "medicalConcern": "asdasd",
-        "ids": "0003" },
+        "id": "0003" 
+    },
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
