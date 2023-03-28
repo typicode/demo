@@ -1,14 +1,74 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+[ {
+  recipeId:1,
+    titles: "Salmon",
+    descriptions: "Смачий лосось у вершковому соусі. Буде пречудово пасувати до вашої пасти або картопляного пюре.",
+    photos: [
+      {
+        img: '../Лосоь1.jpg',
+        title: 'Лосось 1',
+        cols: 5,
+        rows: 5
+      },
+      {
+        img: '../Лосоь2.jpg',
+        title: 'Лосось 2',
+      },
+      {
+        img: '../Лосось3.jpg',
+        title: 'Лосось 3',
+      },
+    ],
+    ingredients: ['0,5 кг свіжого філе лосося','1/2 стакани 20% вершків','2 зубчики часнику','Cпеції і сіль за смаком'],
+    directions: [
+      {id:1,step:'qqqqqqqq'},
+      {id:2,step:'tttttttt'},
+      {id:3,step:'wwwwwwww'},
+      {id:4,step:'gggggggg'}
+    ],
+    note: "",
+    timeServ:{
+      prepTime:'15 хв',
+      cookTime:'15 хв',
+      totalTime:'30 хв',
+      servings:'2',
+      yeild:'2 шматки'
+    },
+    reviews:"",
+  },
+  { recipeId:2,
+    titles: "Лазанья",
+    descriptions: "Смачий лосось у вершковому соусі. Буде пречудово пасувати до вашої пасти або картопляного пюре.",
+    photos: [
+      {
+        img: '../Лазанья1.jpg',
+        title: 'Лазанья 1',
+        cols: 5,
+        rows: 5
+      },
+      {
+        img: '../Лазанья2.jpg',
+        title: 'Лазанья 2',
+      },
+      {
+        img: '../Лазанья3.jpg',
+        title: 'Лазанья 3',
+      },
+    ],
+    ingredients: ['0,5 кг свіжого філе лосося','1/2 стакани 20% вершків','2 зубчики часнику','Cпеції і сіль за смаком'],
+    directions: [
+      {id:1,step:'qqqqqqqq'},
+      {id:2,step:'tttttttt'},
+      {id:3,step:'wwwwwwww'},
+      {id:4,step:'gggggggg'}
+    ],
+    note: "",
+    timeServ:{
+      prepTime:'15 хв',
+      cookTime:'15 хв',
+      totalTime:'30 хв',
+      servings:'2',
+      yeild:'2 шматки'
+    },
+    reviews:"",
+  },
+  ];
