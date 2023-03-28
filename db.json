@@ -21,7 +21,7 @@
     "ingredients": ["0,5 кг свіжого філе лосося","1/2 стакани 20% вершків","2 зубчики часнику","Cпеції і сіль за смаком"],
     "directions": [
       {"id":"1","step":"qqqqqqqq"},
-      {"id":"2","step":'"tttttttt"},
+      {"id":"2","step":"tttttttt"},
       {"id":"3","step":"wwwwwwww"},
       {"id":"4","step":"gggggggg"}
     ],
@@ -56,7 +56,7 @@
     ],
     "ingredients": ["0,5 кг свіжого філе лосося","1/2 стакани 20% вершків","2 зубчики часнику","Cпеції і сіль за смаком"],
     "directions": [
-      {"id":"1","step":'qqqqqqqq"},
+      {"id":"1","step":"qqqqqqqq"},
       {"id":"2","step":"tttttttt"},
       {"id:3","step":"wwwwwwww"},
       {"id:4","step":"gggggggg"}
