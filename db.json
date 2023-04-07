@@ -1,6 +1,9 @@
 {
   "posts": [
-    { "id": 1, "title": "Post 1" },
+    { "name": "Akame Ga Kill",
+      "genre": "Action",
+      "fanArt": "https://upload.wikimedia.org/wikipedia/id/6/64/Akame_ga_Kill_volume_1_cover.jpg",
+      "description": "Akame ga Kill! (bahasa Jepang: アカメが斬る! Hepburn: Akame ga Kiru!) adalah sebuah Seri manga Jepang yang ditulis oleh Takahiro dan diilustrasikan oleh Tetsuya Tashiro. Mulai serialisasi di Gangan Joker milik Square Enix pada Maret 2010." },
     { "id": 2, "title": "Post 2" },
     { "id": 3, "title": "Post 3" }
   ],
