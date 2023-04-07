@@ -1,8 +1,24 @@
 {
   "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+    { "name": "Akame Ga Kill",
+      "genre": "Action",
+      "fanArt": "https://upload.wikimedia.org/wikipedia/id/6/64/Akame_ga_Kill_volume_1_cover.jpg",
+      "description": "Akame ga Kill! (bahasa Jepang: アカメが斬る! Hepburn: Akame ga Kiru!) adalah sebuah Seri manga Jepang yang ditulis oleh Takahiro dan diilustrasikan oleh Tetsuya Tashiro. Mulai serialisasi di Gangan Joker milik Square Enix pada Maret 2010." },
+    
+    { "name": "Tsuki ga Kirei",
+      "genre": "Romance",
+      "fanArt": "https://upload.wikimedia.org/wikipedia/id/9/9c/Tsuki_ga_Kirei_BD_vol_1.jpg",
+      "description": "Tsuki ga Kirei (月がきれい, as the moon, so beautiful.) adalah serial anime romansa dari Jepang tahun 2017 yang diproduksi oleh Feel. Anime ini ditayangkan dari 6 April hingga 29 Juni 2017. Crunchyroll telah melisensikan serial ini untuk Amerika Utara." },
+    
+    { "name": "Shingeki no Kyojin",
+      "genre": "Action",
+      "fanArt": "https://upload.wikimedia.org/wikipedia/id/d/d6/Shingeki_no_Kyojin_manga_volume_1.jpg",
+      "description": "Shingeki no Kyojin (bahasa Jepang: 進撃の巨人, terj. har. (Raksasa [yang] Menyerang), yang diterbitkan di Indonesia dengan judul Attack on Titan, adalah sebuah seri manga shōnen asal Jepang yang ditulis dan diilustrasikan oleh Hajime Isayama." },
+    
+    { "name": "One-Punch Man",
+      "genre": "Comedy",
+      "fanArt": "https://upload.wikimedia.org/wikipedia/id/c/c3/OnePunchMan_manga_cover.png",
+      "description": "One-Punch Man ( ワンパンマン Wanpanman) adalah sebuah serial manga Jepang yang menceritakan seorang superhero yang bernama Saitama. One-Punch Man dibuat oleh seorang penulis yang asal jepang dengan nama samaran ONE[1] yang mulai diterbitkan pada awal tahun 2009." };
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
