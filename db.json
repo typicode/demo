@@ -1,14 +1,36 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+[
+    {
+        "ingredients": [
+            "cup cubed paneer",
+            "1 onion, finely chopped",
+            "1 tomato, finely chopped",
+            "1 teaspoon ginger",
+            "garlic paste",
+            "1 teaspoon cumin powder",
+            "1 teaspoon coriander powder",
+            "1/2 teaspoon garam masala",
+            "1/2 teaspoon red chilli powder",
+            "1/4 teaspoon turmeric powder",
+            "2 tablespoons butter",
+            "1/4 cup cream",
+            "Salt to taste",
+            "Chopped coriander leaves for garnish"
+        ],
+        "instructions": [
+            "Heat butter in a pan over medium heat.",
+            "Add the chopped onion and sauté until it turns golden brown.",
+            "Add the ginger-garlic paste and sauté for a few seconds.",
+            "Add the chopped tomato and cook until it turns soft and mushy.",
+            "Add the cumin powder, coriander powder, garam masala, red chilli powder and turmeric powder. Mix well and cook for a few minutes.",
+            "Add the cubed paneer and mix well.",
+            "Add the cream and mix well.",
+            "Add salt to taste and mix well.",
+            "Cook for a few minutes until the gravy thickens.",
+            "Garnish with chopped coriander leaves and serve hot."
+        ],
+        "calories": "250",
+        "fat": "17g",
+        "protein": "11g",
+        "carbs": "13g"
+    }
+]
