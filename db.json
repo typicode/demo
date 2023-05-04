@@ -74,17 +74,60 @@
     }
   ]
   },
-  "reservation": [
-    {
-      "data": {
-        "id": 82763,
-        "user_id": 1,
-        "full_name": "Rinaldi Adam",
-        "order_id": "XCSXJXNJSCCH123432",
-        "checkin": "30 Januari 2022",
-        "checkout": "31 Januari 2022",
-        "room_number": "230"
+  "reservations": {
+    "active": [
+      {
+        "id": 1,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "date": "2023-05-05",
+        "price": 100
+      },
+      {
+        "id": 2,
+        "description": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium.",
+        "date": "2023-05-06",
+        "price": 150
+      },
+      {
+        "id": 3,
+        "description": "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.",
+        "date": "2023-05-07",
+        "price": 200
       }
-    }
-  ]
+    ],
+    "waiting": [
+      {
+        "id": 4,
+        "description": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit.",
+        "date": "2023-05-08",
+        "price": 250
+      },
+      {
+        "id": 5,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "date": "2023-05-09",
+        "price": 300
+      }
+    ],
+    "past": [
+      {
+        "id": 6,
+        "description": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium.",
+        "date": "2023-05-01",
+        "price": 50
+      },
+      {
+        "id": 7,
+        "description": "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.",
+        "date": "2023-05-02",
+        "price": 75
+      },
+      {
+        "id": 8,
+        "description": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit.",
+        "date": "2023-05-03",
+        "price": 125
+      }
+    ]
+  }
 }
