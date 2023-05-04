@@ -96,18 +96,6 @@
       }
     ],
     "waiting": [
-      {
-        "id": 4,
-        "description": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit.",
-        "date": "2023-05-08",
-        "price": 250
-      },
-      {
-        "id": 5,
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-        "date": "2023-05-09",
-        "price": 300
-      }
     ],
     "past": [
       {
