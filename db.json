@@ -1,14 +1,121 @@
 {
   "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+    {
+      "id": 1,
+      "title": "Post 1"
+    },
+    {
+      "id": 2,
+      "title": "Post 2"
+    },
+    {
+      "id": 3,
+      "title": "Post 3"
+    }
   ],
   "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "some comment",
+      "postId": 1
+    }
   ],
   "profile": {
     "name": "typicode"
+  },
+  "roomlist" :{
+    "hotel_name": "Nindya Biodistrict",
+  "checkin_date": "2023-06-01",
+  "checkout_date": "2023-06-05",
+  "duration_of_stay": "4",
+  "rooms": [
+    {
+      "room_type": "Standard",
+      "max_occupancy": 2,
+      "total_price": 500.00,
+      "currency": "IDR",
+      "available": true,
+      "details": {
+        "description": "A comfortable room with a queen-sized bed and a private bathroom",
+        "amenities": [
+          "Queen-sized bed",
+          "Private bathroom",
+          "Free Wi-Fi",
+          "Flat-screen TV",
+          "Air conditioning",
+          "Mini-fridge"
+        ]
+      }
+    },
+    {
+      "room_type": "Deluxe",
+      "max_occupancy": 2,
+      "total_price": 700.00,
+      "currency": "USD",
+      "available": false,
+      "details": {
+        "description": "A spacious room with a king-sized bed, a sitting area, and a private balcony",
+        "amenities": [
+          "King-sized bed",
+          "Private bathroom",
+          "Free Wi-Fi",
+          "Flat-screen TV",
+          "Air conditioning",
+          "Mini-fridge",
+          "Sitting area",
+          "Private balcony"
+        ]
+      }
+    }
+  ]
+  },
+  "reservations": {
+    "active": [
+      {
+        "id": 1,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "date": "2023-05-05",
+        "price": 100
+      },
+      {
+        "id": 2,
+        "description": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium.",
+        "date": "2023-05-06",
+        "price": 150
+      },
+      {
+        "id": 3,
+        "description": "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.",
+        "date": "2023-05-07",
+        "price": 200
+      }
+    ],
+    "waiting": [
+    ],
+    "past": [
+      {
+        "id": 6,
+        "description": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium.",
+        "date": "2023-05-01",
+        "price": 50
+      },
+      {
+        "id": 7,
+        "description": "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.",
+        "date": "2023-05-02",
+        "price": 75
+      },
+      {
+        "id": 8,
+        "description": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit.",
+        "date": "2023-05-03",
+        "price": 125
+      }
+    ]
   }
 }
