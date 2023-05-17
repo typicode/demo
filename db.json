@@ -1,14 +1,24 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta BIC Preta",
+      "price": 5.89
+    },
+    {
+      "id": 2,
+      "name": "Foagao",
+      "price": 20.99
+    },
+    {
+      "id": 3,
+      "name": "Panela",
+      "price": 500.98
+    },
+    {
+      "id": 4,
+      "name": "Panela velha",
+      "price": "150.89"
+    }
+  ]
 }
