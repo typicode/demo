@@ -1,6 +1,5 @@
-[
   {
-    "id": "1",
+    "id": 1,
     "title": "BlueUAI V3",
     "badges": [
       { "color": "green", "text": "WDO" },
@@ -14,7 +13,7 @@
     "profit": "789"
   },
   {
-    "id": "2",
+    "id": 2,
     "title": "GreenUAI V4",
     "badges": [
       { "color": "green", "text": "WIN" },
@@ -28,7 +27,7 @@
     "profit": "789"
   },
   {
-    "id": "3",
+    "id": 3,
     "title": "GreenUAI V4",
     "badges": [
       { "color": "green", "text": "WIN" },
@@ -42,7 +41,7 @@
     "profit": "789"
   },
   {
-    "id": "4",
+    "id": 4,
     "title": "GreenUAI V4",
     "badges": [
       { "color": "green", "text": "WIN" },
@@ -55,4 +54,3 @@
     "accuracy": "456",
     "profit": "789"
   }
-]
