@@ -11,8 +11,8 @@
       "description": "Estratégia de redução de volatilidade. Busca operações risco retorno equilibrado, e com boa taxa de acerto. Opera em horários estratégicos onde historicamente tende a ter melhor resultado.",
       "image": "https://ontick-estrategias.s3.sa-east-1.amazonaws.com/765.png",
       "profitfactor": "123",
-      "accuracy": "456",
-      "profit": "789"
+      "accuracy": "85",
+      "profit": "-300"
     },
     {
       "id": 2,
