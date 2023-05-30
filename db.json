@@ -33,7 +33,7 @@
       "title": "GreenUAI V4",
       "badges": [
         { "color": "green", "text": "WIN" },
-        { "color": "blue", "text": "DAY TRADE" },
+        { "color": "yellow", "text": "DAY TRADE" },
         { "color": "red", "text": "MODERADO" }
       ],
       "description": "Estratégia para investidores moderados. Prioriza a segurança e a sustentabilidade das operações, com resultados consistentes a longo prazo.",
