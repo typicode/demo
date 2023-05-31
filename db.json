@@ -8,11 +8,25 @@
         { "color": "blue", "text": "DAY TRADE" },
         { "color": "red", "text": "AGRESSIVO" }
       ],
-      "description": "Estratégia de redução de volatilidade. Busca operações risco retorno equilibrado, e com boa taxa de acerto. Opera em horários estratégicos onde historicamente tende a ter melhor resultado.",
+      "description": "Estratégia de redução de volatilidade...",
       "image": "https://ontick-estrategias.s3.sa-east-1.amazonaws.com/765.png",
       "profitfactor": "123",
       "accuracy": "85",
-      "profit": "-300"
+      "profit": "-300",
+      "last_trades": [
+        {
+          "direction": "COMPRA",
+          "symbol": "WIN",
+          "date": "25/05/2023",
+          "profit": 100
+        },
+        {
+          "direction": "VENDA",
+          "symbol": "WDO",
+          "date": "25/05/2023",
+          "profit": -100
+        }
+      ]
     },
     {
       "id": 2,
@@ -22,39 +36,25 @@
         { "color": "blue", "text": "DAY TRADE" },
         { "color": "red", "text": "MODERADO" }
       ],
-      "description": "Estratégia para investidores moderados. Prioriza a segurança e a sustentabilidade das operações, com resultados consistentes a longo prazo.",
+      "description": "Estratégia para investidores moderados...",
       "image": "https://ontick-estrategias.s3.sa-east-1.amazonaws.com/766.png",
       "profitfactor": "123",
       "accuracy": "456",
-      "profit": "250"
-    },
-    {
-      "id": 3,
-      "title": "GreenUAI V4",
-      "badges": [
-        { "color": "green", "text": "WIN" },
-        { "color": "yellow", "text": "DAY TRADE" },
-        { "color": "red", "text": "MODERADO" }
-      ],
-      "description": "Estratégia para investidores moderados. Prioriza a segurança e a sustentabilidade das operações, com resultados consistentes a longo prazo.",
-      "image": "https://ontick-estrategias.s3.sa-east-1.amazonaws.com/766.png",
-      "profitfactor": "123",
-      "accuracy": "456",
-      "profit": "789"
-    },
-    {
-      "id": 4,
-      "title": "GreenUAI V4",
-      "badges": [
-        { "color": "green", "text": "WIN" },
-        { "color": "blue", "text": "DAY TRADE" },
-        { "color": "red", "text": "MODERADO" }
-      ],
-      "description": "Estratégia para investidores moderados. Prioriza a segurança e a sustentabilidade das operações, com resultados consistentes a longo prazo.",
-      "image": "https://ontick-estrategias.s3.sa-east-1.amazonaws.com/766.png",
-      "profitfactor": "123",
-      "accuracy": "456",
-      "profit": "789"
+      "profit": "250",
+      "last_trades": [
+        {
+          "direction": "COMPRA",
+          "symbol": "WIN",
+          "date": "26/05/2023",
+          "profit": 200
+        },
+        {
+          "direction": "VENDA",
+          "symbol": "WDO",
+          "date": "26/05/2023",
+          "profit": -50
+        }
+      ]
     }
   ]
 }
