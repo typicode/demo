@@ -1,16 +1,441 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  },
-  "notes": [
-    {"id": "1","title": "firstNote","body": "adc is bad"}]
-}
+[
+    {
+      "id": 1,
+      "fact": "A duck's quack doesn't echo."
+    },
+    {
+      "id": 2,
+      "fact":
+          "The average person spends 6 months of their lifetime waiting for red traffic lights to turn green."
+    },
+    {
+      "id": 3,
+      "fact":
+          "Cats have five toes on their front paws, but only four toes on their back paws."
+    },
+    {
+      "id": 4,
+      "fact": "An octopus has three hearts."
+    },
+    {
+      "id": 5,
+      "fact": "Ketchup was sold as medicine in the 1830s."
+    },
+    {
+      "id": 6,
+      "fact": "A group of flamingos is called a flamboyance."
+    },
+    {
+      "id": 7,
+      "fact": "The shortest war in history lasted only 38 to 45 minutes."
+    },
+    {
+      "id": 8,
+      "fact":
+          "The average person walks the equivalent of three times around the world in their lifetime."
+    },
+    {
+      "id": 9,
+      "fact":
+          "Honey never spoils. You can eat 3,000-year-old honey and it will still be perfectly edible."
+    },
+    {
+      "id": 10,
+      "fact": "A sneeze travels out of your mouth at over 100 miles per hour."
+    },
+    {
+      "id": 11,
+      "fact": "The average person laughs about 15 times a day."
+    },
+    {
+      "id": 12,
+      "fact": "A cow produces about 200,000 glasses of milk in a lifetime."
+    },
+    {
+      "id": 13,
+      "fact": "A snail can sleep for three years."
+    },
+    {
+      "id": 14,
+      "fact": "Bananas are berries, but strawberries are not."
+    },
+    {
+      "id": 15,
+      "fact":
+          "The average person sheds about 600,000 particles of skin every hour."
+    },
+    {
+      "id": 16,
+      "fact": "Apples float in water because they are made up of 25% air."
+    },
+    {
+      "id": 17,
+      "fact": "The world's oldest known recipe is a beer recipe."
+    },
+    {
+      "id": 18,
+      "fact":
+          "The average person spends 6 months of their life waiting for a red light to turn green."
+    },
+    {
+      "id": 19,
+      "fact":
+          "There is no word in the English language that rhymes with month, orange, silver, or purple."
+    },
+    {
+      "id": 20,
+      "fact": "A single strand of spaghetti is called a -spaghetto.-"
+    },
+    {
+      "id": 21,
+      "fact":
+          "The world's oldest piece of chewing gum is over 9,000 years old."
+    },
+    {
+      "id": 22,
+      "fact": "Sloths only poop once a week."
+    },
+    {
+      "id": 23,
+      "fact": "Polar bears are left-handed."
+    },
+    {
+      "id": 24,
+      "fact": "The human brain is more active at night than during the day."
+    },
+    {
+      "id": 25,
+      "fact": "If you lift a kangaroo's tail off the ground, it can't hop."
+    },
+    {
+      "id": 26,
+      "fact": "A group of owls is called a parliament."
+    },
+    {
+      "id": 27,
+      "fact":
+          "The average person spends two weeks of their life waiting for the traffic light to change."
+    },
+    {
+      "id": 28,
+      "fact": "Peanuts are not nuts. They are legumes."
+    },
+    {
+      "id": 29,
+      "fact": "A mosquito has 47 teeth."
+    },
+    {
+      "id": 30,
+      "fact": "Koalas sleep for up to 22 hours a day."
+    },
+    {
+      "id": 31,
+      "fact": "A giraffe can clean its ears with its 21-inch tongue."
+    },
+    {
+      "id": 32,
+      "fact":
+          "The world's smallest mammal is the bumblebee bat. It weighs less than a penny."
+    },
+    {
+      "id": 33,
+      "fact": "A hippo's milk is pink."
+    },
+    {
+      "id": 34,
+      "fact":
+          "Banging your head against a wall burns about 150 calories per hour."
+    },
+    {
+      "id": 35,
+      "fact":
+          "SpongeBob SquarePants was originally called -SpongeBoy,- but the name was already trademarked."
+    },
+    {
+      "id": 36,
+      "fact":
+          "There are more possible iterations of a game of chess than there are atoms in the known universe."
+    },
+    {
+      "id": 37,
+      "fact": "A jiffy is an actual unit of time: 1/100th of a second."
+    },
+    {
+      "id": 38,
+      "fact":
+          "The average person spends 6 months of their life waiting for a red light to turn green."
+    },
+    {
+      "id": 39,
+      "fact": "The average person takes 7 minutes to fall asleep."
+    },
+    {
+      "id": 40,
+      "fact": "Sneezing with your eyes open is impossible."
+    },
+    {
+      "id": 41,
+      "fact": "A goldfish has a memory span of three seconds."
+    },
+    {
+      "id": 42,
+      "fact":
+          "The average person spends about two years of their life on the phone."
+    },
+    {
+      "id": 43,
+      "fact": "The longest English word without a vowel is -rhythm.-"
+    },
+    {
+      "id": 44,
+      "fact": "A crocodile cannot stick its tongue out."
+    },
+    {
+      "id": 45,
+      "fact": "The average person blinks about 15,000 times in a day."
+    },
+    {
+      "id": 46,
+      "fact": "A banana is a berry, but a strawberry is not."
+    },
+    {
+      "id": 47,
+      "fact":
+          "The average person will spend six months of their life waiting for red lights to turn green."
+    },
+    {
+      "id": 48,
+      "fact": "Cows have best friends."
+    },
+    {
+      "id": 49,
+      "fact":
+          "The average person walks the equivalent of five times around the world in their lifetime."
+    },
+    {
+      "id": 50,
+      "fact": "Cows have regional accents."
+    },
+    {
+      "id": 51,
+      "fact": "The electric chair was invented by a dentist."
+    },
+    {
+      "id": 52,
+      "fact":
+          "The average person spends six months of their lifetime waiting for a red light to turn green."
+    },
+    {
+      "id": 53,
+      "fact": "Cows have regional accents."
+    },
+    {
+      "id": 54,
+      "fact": "Wombat feces are cube-shaped."
+    },
+    {
+      "id": 55,
+      "fact": "If you lift a kangaroo's tail off the ground, it can't hop."
+    },
+    {
+      "id": 56,
+      "fact": "An ostrich's eye is bigger than its brain."
+    },
+    {
+      "id": 57,
+      "fact":
+          "The average person spends about two years of their life watching commercials."
+    },
+    {
+      "id": 58,
+      "fact": "A hippo's sweat is red."
+    },
+    {
+      "id": 59,
+      "fact": "Penguins can jump as high as 6 feet in the air."
+    },
+    {
+      "id": 60,
+      "fact": "The average person laughs about 15 times a day."
+    },
+    {
+      "id": 61,
+      "fact": "A snail can sleep for three years."
+    },
+    {
+      "id": 62,
+      "fact": "The average person blinks about 15,000 times a day."
+    },
+    {
+      "id": 63,
+      "fact": "The shortest war in history lasted only 38 to 45 minutes."
+    },
+    {
+      "id": 64,
+      "fact": "Coca-Cola was originally green."
+    },
+    {
+      "id": 65,
+      "fact":
+          "The average person swallows eight spiders in their sleep during their lifetime."
+    },
+    {
+      "id": 66,
+      "fact":
+          "Honey never spoils. You can eat 3,000-year-old honey and it will still be perfectly edible."
+    },
+    {
+      "id": 67,
+      "fact": "A group of flamingos is called a flamboyance."
+    },
+    {
+      "id": 68,
+      "fact": "A duck's quack doesn't echo."
+    },
+    {
+      "id": 69,
+      "fact":
+          "The average person spends six months of their life waiting for red lights to turn green."
+    },
+    {
+      "id": 70,
+      "fact":
+          "A lightning bolt can reach temperatures hotter than the surface of the sun."
+    },
+    {
+      "id": 71,
+      "fact": "Almonds are a member of the peach family."
+    },
+    {
+      "id": 72,
+      "fact":
+          "The average person sheds about 600,000 particles of skin every hour."
+    },
+    {
+      "id": 73,
+      "fact":
+          "The average person will spend six months of their life waiting for red lights to turn green."
+    },
+    {
+      "id": 74,
+      "fact": "The average person takes about 23,000 breaths in a day."
+    },
+    {
+      "id": 75,
+      "fact":
+          "The average person spends about two years of their life in the bathroom."
+    },
+    {
+      "id": 76,
+      "fact": "The average person swallows about a quart of mucus each day."
+    },
+    {
+      "id": 77,
+      "fact":
+          "The average person spends about two years of their life on the phone."
+    },
+    {
+      "id": 78,
+      "fact":
+          "The average person walks the equivalent of five times around the world in their lifetime."
+    },
+    {
+      "id": 79,
+      "fact": "A goldfish's memory span is three seconds."
+    },
+    {
+      "id": 80,
+      "fact":
+          "The average person spends about two weeks of their life kissing."
+    },
+    {
+      "id": 81,
+      "fact":
+          "The average person spends about one year looking for misplaced items."
+    },
+    {
+      "id": 82,
+      "fact":
+          "The average person spends about six months of their life waiting for red lights to turn green."
+    },
+    {
+      "id": 83,
+      "fact": "A cockroach can live for several weeks without its head."
+    },
+    {
+      "id": 84,
+      "fact":
+          "There is no word in the English language that rhymes with month, orange, silver, or purple."
+    },
+    {
+      "id": 85,
+      "fact":
+          "The average person will spend six months of their life waiting for red lights to turn green."
+    },
+    {
+      "id": 86,
+      "fact":
+          "The average person spends about two years of their life watching commercials."
+    },
+    {
+      "id": 87,
+      "fact": "The average person blinks about 15,000 times in a day."
+    },
+    {
+      "id": 88,
+      "fact": "A group of frogs is called an army."
+    },
+    {
+      "id": 89,
+      "fact": "A jellyfish is 95% water."
+    },
+    {
+      "id": 90,
+      "fact":
+          "The average person sheds about 600,000 particles of skin every hour."
+    },
+    {
+      "id": 91,
+      "fact": "A strawberry is not a berry, but a banana is."
+    },
+    {
+      "id": 92,
+      "fact":
+          "The average person spends about two years of their life waiting in line."
+    },
+    {
+      "id": 93,
+      "fact": "The average person takes 7 minutes to fall asleep."
+    },
+    {
+      "id": 94,
+      "fact":
+          "The average person spends about two years of their life in meetings."
+    },
+    {
+      "id": 95,
+      "fact": "A crocodile cannot stick its tongue out."
+    },
+    {
+      "id": 96,
+      "fact": "The average person blinks about 15,000 times in a day."
+    },
+    {
+      "id": 97,
+      "fact": "A hummingbird weighs less than a penny."
+    },
+    {
+      "id": 98,
+      "fact":
+          "The average person spends about two years of their life brushing their teeth."
+    },
+    {
+      "id": 99,
+      "fact":
+          "The average person will spend six months of their life waiting for red lights to turn green."
+    },
+    {
+      "id": 100,
+      "fact": "The average person takes 7 minutes to fall asleep."
+    }
+  ]
