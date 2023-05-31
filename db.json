@@ -18,7 +18,7 @@
       "id": 2,
       "title": "GreenUAI V4",
       "badges": [
-        { "color": "green", "text": "WIN" },
+        { "color": "pink", "text": "PETR4" },
         { "color": "blue", "text": "DAY TRADE" },
         { "color": "red", "text": "MODERADO" }
       ],
@@ -26,7 +26,7 @@
       "image": "https://ontick-estrategias.s3.sa-east-1.amazonaws.com/766.png",
       "profitfactor": "123",
       "accuracy": "456",
-      "profit": "789"
+      "profit": "250"
     },
     {
       "id": 3,
