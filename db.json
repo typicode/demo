@@ -59,6 +59,66 @@
           "profit": -50
         }
       ]
+    },
+    {
+      "id": 3,
+      "title": "RedUAI V5",
+      "badges": [
+        { "color": "yellow", "text": "B3SA3" },
+        { "color": "purple", "text": "POSITION TRADE" },
+        { "color": "green", "text": "CONSERVADOR" }
+      ],
+      "description": "Estratégia para investidores de longo prazo...",
+      "image": "https://ontick-estrategias.s3.sa-east-1.amazonaws.com/767.png",
+      "profitfactor": "345",
+      "accuracy": "75",
+      "profit": "500",
+      "last_trades": [
+        {
+          "trade_id": 5,
+          "direction": "COMPRA",
+          "symbol": "B3SA3",
+          "date": "24/05/2023",
+          "profit": 300
+        },
+        {
+          "trade_id": 6,
+          "direction": "VENDA",
+          "symbol": "B3SA3",
+          "date": "24/05/2023",
+          "profit": 200
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "YellowUAI V6",
+      "badges": [
+        { "color": "brown", "text": "VALE3" },
+        { "color": "orange", "text": "SWING TRADE" },
+        { "color": "grey", "text": "RISCO ALTO" }
+      ],
+      "description": "Estratégia agressiva para ganhos rápidos...",
+      "image": "https://ontick-estrategias.s3.sa-east-1.amazonaws.com/768.png",
+      "profitfactor": "234",
+      "accuracy": "95",
+      "profit": "750",
+      "last_trades": [
+        {
+          "trade_id": 7,
+          "direction": "COMPRA",
+          "symbol": "VALE3",
+          "date": "27/05/2023",
+          "profit": 500
+        },
+        {
+          "trade_id": 8,
+          "direction": "VENDA",
+          "symbol": "VALE3",
+          "date": "27/05/2023",
+          "profit": 250
+        }
+      ]
     }
   ]
 }
