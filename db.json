@@ -2,16 +2,16 @@
   "posts": [
     {
       "id": 1,
-      "fact": "A duck's quack doesn't echo."
+      "title": "A duck's quack doesn't echo."
     },
     {
       "id": 2,
-      "fact":
+      "title":
           "The average person spends 6 months of their lifetime waiting for red traffic lights to turn green."
     },
     {
       "id": 3,
-      "fact":
+      "title":
           "Cats have five toes on their front paws, but only four toes on their back paws."
     },
     {
@@ -20,97 +20,11 @@
     },
     {
       "id": 5,
-      "fact": "Ketchup was sold as medicine in the 1830s."
+      "title": "Ketchup was sold as medicine in the 1830s."
     },
     {
       "id": 6,
-      "fact": "A group of flamingos is called a flamboyance."
-    },
-    {
-      "id": 7,
-      "fact": "The shortest war in history lasted only 38 to 45 minutes."
-    },
-    {
-      "id": 8,
-      "fact":
-          "The average person walks the equivalent of three times around the world in their lifetime."
-    },
-    {
-      "id": 9,
-      "fact":
-          "Honey never spoils. You can eat 3,000-year-old honey and it will still be perfectly edible."
-    },
-    {
-      "id": 10,
-      "fact": "A sneeze travels out of your mouth at over 100 miles per hour."
-    },
-    {
-      "id": 11,
-      "fact": "The average person laughs about 15 times a day."
-    },
-    {
-      "id": 12,
-      "fact": "A cow produces about 200,000 glasses of milk in a lifetime."
-    },
-    {
-      "id": 13,
-      "fact": "A snail can sleep for three years."
-    },
-    {
-      "id": 14,
-      "fact": "Bananas are berries, but strawberries are not."
-    },
-    {
-      "id": 15,
-      "fact":
-          "The average person sheds about 600,000 particles of skin every hour."
-    },
-    {
-      "id": 16,
-      "fact": "Apples float in water because they are made up of 25% air."
-    },
-    {
-      "id": 17,
-      "fact": "The world's oldest known recipe is a beer recipe."
-    },
-    {
-      "id": 18,
-      "fact":
-          "The average person spends 6 months of their life waiting for a red light to turn green."
-    },
-    {
-      "id": 19,
-      "fact":
-          "There is no word in the English language that rhymes with month, orange, silver, or purple."
-    },
-    {
-      "id": 20,
-      "fact": "A single strand of spaghetti is called a -spaghetto.-"
-    },
-    {
-      "id": 21,
-      "fact":
-          "The world's oldest piece of chewing gum is over 9,000 years old."
-    },
-    {
-      "id": 22,
-      "fact": "Sloths only poop once a week."
-    },
-    {
-      "id": 23,
-      "fact": "Polar bears are left-handed."
-    },
-    {
-      "id": 24,
-      "fact": "The human brain is more active at night than during the day."
-    },
-    {
-      "id": 25,
-      "fact": "If you lift a kangaroo's tail off the ground, it can't hop."
-    },
-    {
-      "id": 26,
-      "fact": "A group of owls is called a parliament."
+      "title": "A group of flamingos is called a flamboyance."
     }
   ],
   "comments": [
