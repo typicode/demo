@@ -1,20 +1,12 @@
-[
-  {
+{
+  "strategies": [
+    {
       "id": 1,
       "title": "BlueUAI V3",
       "badges": [
-          {
-              "color": "green",
-              "text": "WDO"
-          },
-          {
-              "color": "blue",
-              "text": "DAY TRADE"
-          },
-          {
-              "color": "red",
-              "text": "AGRESSIVO"
-          }
+        { "color": "green", "text": "WDO" },
+        { "color": "blue", "text": "DAY TRADE" },
+        { "color": "red", "text": "AGRESSIVO" }
       ],
       "description": "Estratégia de redução de volatilidade...",
       "image": "https://ontick-estrategias.s3.sa-east-1.amazonaws.com/765.png",
@@ -22,38 +14,29 @@
       "accuracy": "85",
       "profit": "-300",
       "last_trades": [
-          {
-              "trade_id": 1,
-              "direction": "COMPRA",
-              "symbol": "WIN",
-              "date": "25/05/2023",
-              "profit": 100
-          },
-          {
-              "trade_id": 2,
-              "direction": "VENDA",
-              "symbol": "WDO",
-              "date": "25/05/2023",
-              "profit": -100
-          }
+        {
+          "trade_id": 1,
+          "direction": "COMPRA",
+          "symbol": "WIN",
+          "date": "25/05/2023",
+          "profit": 100
+        },
+        {
+          "trade_id": 2,
+          "direction": "VENDA",
+          "symbol": "WDO",
+          "date": "25/05/2023",
+          "profit": -100
+        }
       ]
-  },
-  {
+    },
+    {
       "id": 2,
       "title": "GreenUAI V4",
       "badges": [
-          {
-              "color": "pink",
-              "text": "PETR4"
-          },
-          {
-              "color": "blue",
-              "text": "DAY TRADE"
-          },
-          {
-              "color": "red",
-              "text": "MODERADO"
-          }
+        { "color": "pink", "text": "PETR4" },
+        { "color": "blue", "text": "DAY TRADE" },
+        { "color": "red", "text": "MODERADO" }
       ],
       "description": "Estratégia para investidores moderados...",
       "image": "https://ontick-estrategias.s3.sa-east-1.amazonaws.com/766.png",
@@ -61,20 +44,21 @@
       "accuracy": "456",
       "profit": "250",
       "last_trades": [
-          {
-              "trade_id": 3,
-              "direction": "COMPRA",
-              "symbol": "WIN",
-              "date": "26/05/2023",
-              "profit": 200
-          },
-          {
-              "trade_id": 4,
-              "direction": "VENDA",
-              "symbol": "WDO",
-              "date": "26/05/2023",
-              "profit": -50
-          }
+        {
+          "trade_id": 3,
+          "direction": "COMPRA",
+          "symbol": "WIN",
+          "date": "26/05/2023",
+          "profit": 200
+        },
+        {
+          "trade_id": 4,
+          "direction": "VENDA",
+          "symbol": "WDO",
+          "date": "26/05/2023",
+          "profit": -50
+        }
       ]
-  }
-]
+    }
+  ]
+}
