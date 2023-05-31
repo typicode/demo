@@ -27,6 +27,132 @@
           "symbol": "WDO",
           "date": "25/05/2023",
           "profit": -100
+        },
+        {
+          "trade_id": 3,
+          "direction": "COMPRA",
+          "symbol": "WDO",
+          "date": "24/05/2023",
+          "profit": 120
+        },
+        {
+          "trade_id": 4,
+          "direction": "VENDA",
+          "symbol": "WIN",
+          "date": "24/05/2023",
+          "profit": -80
+        },
+        {
+          "trade_id": 5,
+          "direction": "COMPRA",
+          "symbol": "WDO",
+          "date": "23/05/2023",
+          "profit": 90
+        },
+        {
+          "trade_id": 6,
+          "direction": "VENDA",
+          "symbol": "WIN",
+          "date": "23/05/2023",
+          "profit": -70
+        },
+        {
+          "trade_id": 7,
+          "direction": "COMPRA",
+          "symbol": "WDO",
+          "date": "22/05/2023",
+          "profit": 110
+        },
+        {
+          "trade_id": 8,
+          "direction": "VENDA",
+          "symbol": "WDO",
+          "date": "22/05/2023",
+          "profit": -60
+        },
+        {
+          "trade_id": 9,
+          "direction": "COMPRA",
+          "symbol": "WIN",
+          "date": "21/05/2023",
+          "profit": 130
+        },
+        {
+          "trade_id": 10,
+          "direction": "VENDA",
+          "symbol": "WDO",
+          "date": "21/05/2023",
+          "profit": -50
+        },
+        {
+          "trade_id": 11,
+          "direction": "COMPRA",
+          "symbol": "WIN",
+          "date": "20/05/2023",
+          "profit": 90
+        },
+        {
+          "trade_id": 12,
+          "direction": "VENDA",
+          "symbol": "WDO",
+          "date": "20/05/2023",
+          "profit": -70
+        },
+        {
+          "trade_id": 13,
+          "direction": "COMPRA",
+          "symbol": "WDO",
+          "date": "19/05/2023",
+          "profit": 100
+        },
+        {
+          "trade_id": 14,
+          "direction": "VENDA",
+          "symbol": "WIN",
+          "date": "19/05/2023",
+          "profit": -80
+        },
+        {
+          "trade_id": 15,
+          "direction": "COMPRA",
+          "symbol": "WDO",
+          "date": "18/05/2023",
+          "profit": 120
+        },
+        {
+          "trade_id": 16,
+          "direction": "VENDA",
+          "symbol": "WIN",
+          "date": "18/05/2023",
+          "profit": -60
+        },
+        {
+          "trade_id": 17,
+          "direction": "COMPRA",
+          "symbol": "WDO",
+          "date": "17/05/2023",
+          "profit": 90
+        },
+        {
+          "trade_id": 18,
+          "direction": "VENDA",
+          "symbol": "WIN",
+          "date": "17/05/2023",
+          "profit": -70
+        },
+        {
+          "trade_id": 19,
+          "direction": "COMPRA",
+          "symbol": "WIN",
+          "date": "16/05/2023",
+          "profit": 110
+        },
+        {
+          "trade_id": 20,
+          "direction": "VENDA",
+          "symbol": "WDO",
+          "date": "16/05/2023",
+          "profit": -50
         }
       ]
     },
@@ -45,17 +171,143 @@
       "profit": "250",
       "last_trades": [
         {
-          "trade_id": 3,
+          "trade_id": 21,
           "direction": "COMPRA",
           "symbol": "WIN",
           "date": "26/05/2023",
           "profit": 200
         },
         {
-          "trade_id": 4,
+          "trade_id": 22,
           "direction": "VENDA",
           "symbol": "WDO",
           "date": "26/05/2023",
+          "profit": -50
+        },
+        {
+          "trade_id": 23,
+          "direction": "COMPRA",
+          "symbol": "WDO",
+          "date": "25/05/2023",
+          "profit": 180
+        },
+        {
+          "trade_id": 24,
+          "direction": "VENDA",
+          "symbol": "WIN",
+          "date": "25/05/2023",
+          "profit": -90
+        },
+        {
+          "trade_id": 25,
+          "direction": "COMPRA",
+          "symbol": "WIN",
+          "date": "24/05/2023",
+          "profit": 150
+        },
+        {
+          "trade_id": 26,
+          "direction": "VENDA",
+          "symbol": "WDO",
+          "date": "24/05/2023",
+          "profit": -80
+        },
+        {
+          "trade_id": 27,
+          "direction": "COMPRA",
+          "symbol": "WDO",
+          "date": "23/05/2023",
+          "profit": 160
+        },
+        {
+          "trade_id": 28,
+          "direction": "VENDA",
+          "symbol": "WIN",
+          "date": "23/05/2023",
+          "profit": -70
+        },
+        {
+          "trade_id": 29,
+          "direction": "COMPRA",
+          "symbol": "WIN",
+          "date": "22/05/2023",
+          "profit": 140
+        },
+        {
+          "trade_id": 30,
+          "direction": "VENDA",
+          "symbol": "WDO",
+          "date": "22/05/2023",
+          "profit": -60
+        },
+        {
+          "trade_id": 31,
+          "direction": "COMPRA",
+          "symbol": "WDO",
+          "date": "21/05/2023",
+          "profit": 170
+        },
+        {
+          "trade_id": 32,
+          "direction": "VENDA",
+          "symbol": "WIN",
+          "date": "21/05/2023",
+          "profit": -50
+        },
+        {
+          "trade_id": 33,
+          "direction": "COMPRA",
+          "symbol": "WIN",
+          "date": "20/05/2023",
+          "profit": 150
+        },
+        {
+          "trade_id": 34,
+          "direction": "VENDA",
+          "symbol": "WDO",
+          "date": "20/05/2023",
+          "profit": -80
+        },
+        {
+          "trade_id": 35,
+          "direction": "COMPRA",
+          "symbol": "WDO",
+          "date": "19/05/2023",
+          "profit": 180
+        },
+        {
+          "trade_id": 36,
+          "direction": "VENDA",
+          "symbol": "WIN",
+          "date": "19/05/2023",
+          "profit": -70
+        },
+        {
+          "trade_id": 37,
+          "direction": "COMPRA",
+          "symbol": "WIN",
+          "date": "18/05/2023",
+          "profit": 160
+        },
+        {
+          "trade_id": 38,
+          "direction": "VENDA",
+          "symbol": "WDO",
+          "date": "18/05/2023",
+          "profit": -60
+        },
+        {
+          "trade_id": 39,
+          "direction": "COMPRA",
+          "symbol": "WDO",
+          "date": "17/05/2023",
+          "profit": 140
+        },
+        {
+          "trade_id": 40,
+          "direction": "VENDA",
+          "symbol": "WIN",
+          "date": "17/05/2023",
           "profit": -50
         }
       ]
@@ -75,17 +327,129 @@
       "profit": "500",
       "last_trades": [
         {
-          "trade_id": 5,
+          "trade_id": 41,
           "direction": "COMPRA",
           "symbol": "B3SA3",
           "date": "24/05/2023",
           "profit": 300
         },
         {
-          "trade_id": 6,
+          "trade_id": 42,
           "direction": "VENDA",
           "symbol": "B3SA3",
           "date": "24/05/2023",
+          "profit": 200
+        },
+        {
+          "trade_id": 43,
+          "direction": "COMPRA",
+          "symbol": "B3SA3",
+          "date": "23/05/2023",
+          "profit": 250
+        },
+        {
+          "trade_id": 44,
+          "direction": "VENDA",
+          "symbol": "B3SA3",
+          "date": "23/05/2023",
+          "profit": 150
+        },
+        {
+          "trade_id": 45,
+          "direction": "COMPRA",
+          "symbol": "B3SA3",
+          "date": "22/05/2023",
+          "profit": 200
+        },
+        {
+          "trade_id": 46,
+          "direction": "VENDA",
+          "symbol": "B3SA3",
+          "date": "22/05/2023",
+          "profit": 100
+        },
+        {
+          "trade_id": 47,
+          "direction": "COMPRA",
+          "symbol": "B3SA3",
+          "date": "21/05/2023",
+          "profit": 180
+        },
+        {
+          "trade_id": 48,
+          "direction": "VENDA",
+          "symbol": "B3SA3",
+          "date": "21/05/2023",
+          "profit": 80
+        },
+        {
+          "trade_id": 49,
+          "direction": "COMPRA",
+          "symbol": "B3SA3",
+          "date": "20/05/2023",
+          "profit": 220
+        },
+        {
+          "trade_id": 50,
+          "direction": "VENDA",
+          "symbol": "B3SA3",
+          "date": "20/05/2023",
+          "profit": 120
+        },
+        {
+          "trade_id": 51,
+          "direction": "COMPRA",
+          "symbol": "B3SA3",
+          "date": "19/05/2023",
+          "profit": 240
+        },
+        {
+          "trade_id": 52,
+          "direction": "VENDA",
+          "symbol": "B3SA3",
+          "date": "19/05/2023",
+          "profit": 140
+        },
+        {
+          "trade_id": 53,
+          "direction": "COMPRA",
+          "symbol": "B3SA3",
+          "date": "18/05/2023",
+          "profit": 260
+        },
+        {
+          "trade_id": 54,
+          "direction": "VENDA",
+          "symbol": "B3SA3",
+          "date": "18/05/2023",
+          "profit": 160
+        },
+        {
+          "trade_id": 55,
+          "direction": "COMPRA",
+          "symbol": "B3SA3",
+          "date": "17/05/2023",
+          "profit": 280
+        },
+        {
+          "trade_id": 56,
+          "direction": "VENDA",
+          "symbol": "B3SA3",
+          "date": "17/05/2023",
+          "profit": 180
+        },
+        {
+          "trade_id": 57,
+          "direction": "COMPRA",
+          "symbol": "B3SA3",
+          "date": "16/05/2023",
+          "profit": 300
+        },
+        {
+          "trade_id": 58,
+          "direction": "VENDA",
+          "symbol": "B3SA3",
+          "date": "16/05/2023",
           "profit": 200
         }
       ]
@@ -105,18 +469,158 @@
       "profit": "750",
       "last_trades": [
         {
-          "trade_id": 7,
+          "trade_id": 59,
           "direction": "COMPRA",
           "symbol": "VALE3",
           "date": "27/05/2023",
           "profit": 500
         },
         {
-          "trade_id": 8,
+          "trade_id": 60,
           "direction": "VENDA",
           "symbol": "VALE3",
           "date": "27/05/2023",
           "profit": 250
+        },
+        {
+          "trade_id": 61,
+          "direction": "COMPRA",
+          "symbol": "VALE3",
+          "date": "26/05/2023",
+          "profit": 480
+        },
+        {
+          "trade_id": 62,
+          "direction": "VENDA",
+          "symbol": "VALE3",
+          "date": "26/05/2023",
+          "profit": 230
+        },
+        {
+          "trade_id": 63,
+          "direction": "COMPRA",
+          "symbol": "VALE3",
+          "date": "25/05/2023",
+          "profit": 460
+        },
+        {
+          "trade_id": 64,
+          "direction": "VENDA",
+          "symbol": "VALE3",
+          "date": "25/05/2023",
+          "profit": 210
+        },
+        {
+          "trade_id": 65,
+          "direction": "COMPRA",
+          "symbol": "VALE3",
+          "date": "24/05/2023",
+          "profit": 440
+        },
+        {
+          "trade_id": 66,
+          "direction": "VENDA",
+          "symbol": "VALE3",
+          "date": "24/05/2023",
+          "profit": 190
+        },
+        {
+          "trade_id": 67,
+          "direction": "COMPRA",
+          "symbol": "VALE3",
+          "date": "23/05/2023",
+          "profit": 420
+        },
+        {
+          "trade_id": 68,
+          "direction": "VENDA",
+          "symbol": "VALE3",
+          "date": "23/05/2023",
+          "profit": 170
+        },
+        {
+          "trade_id": 69,
+          "direction": "COMPRA",
+          "symbol": "VALE3",
+          "date": "22/05/2023",
+          "profit": 400
+        },
+        {
+          "trade_id": 70,
+          "direction": "VENDA",
+          "symbol": "VALE3",
+          "date": "22/05/2023",
+          "profit": 150
+        },
+        {
+          "trade_id": 71,
+          "direction": "COMPRA",
+          "symbol": "VALE3",
+          "date": "21/05/2023",
+          "profit": 380
+        },
+        {
+          "trade_id": 72,
+          "direction": "VENDA",
+          "symbol": "VALE3",
+          "date": "21/05/2023",
+          "profit": 130
+        },
+        {
+          "trade_id": 73,
+          "direction": "COMPRA",
+          "symbol": "VALE3",
+          "date": "20/05/2023",
+          "profit": 360
+        },
+        {
+          "trade_id": 74,
+          "direction": "VENDA",
+          "symbol": "VALE3",
+          "date": "20/05/2023",
+          "profit": 110
+        },
+        {
+          "trade_id": 75,
+          "direction": "COMPRA",
+          "symbol": "VALE3",
+          "date": "19/05/2023",
+          "profit": 340
+        },
+        {
+          "trade_id": 76,
+          "direction": "VENDA",
+          "symbol": "VALE3",
+          "date": "19/05/2023",
+          "profit": 90
+        },
+        {
+          "trade_id": 77,
+          "direction": "COMPRA",
+          "symbol": "VALE3",
+          "date": "18/05/2023",
+          "profit": 320
+        },
+        {
+          "trade_id": 78,
+          "direction": "VENDA",
+          "symbol": "VALE3",
+          "date": "18/05/2023",
+          "profit": 70
+        },
+        {
+          "trade_id": 79,
+          "direction": "COMPRA",
+          "symbol": "VALE3",
+          "date": "17/05/2023",
+          "profit": 300
+        },
+        {
+          "trade_id": 80,
+          "direction": "VENDA",
+          "symbol": "VALE3",
+          "date": "17/05/2023",
+          "profit": 50
         }
       ]
     }
