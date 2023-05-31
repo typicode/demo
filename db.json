@@ -1,31 +1,8 @@
 {
   "posts": [
-    {
-      "id": 1,
-      "title": "A duck's quack doesn't echo."
-    },
-    {
-      "id": 2,
-      "title":
-          "The average person spends 6 months of their lifetime waiting for red traffic lights to turn green."
-    },
-    {
-      "id": 3,
-      "title":
-          "Cats have five toes on their front paws, but only four toes on their back paws."
-    },
-    {
-      "id": 4,
-      "fact": "An octopus has three hearts."
-    },
-    {
-      "id": 5,
-      "title": "Ketchup was sold as medicine in the 1830s."
-    },
-    {
-      "id": 6,
-      "title": "A group of flamingos is called a flamboyance."
-    }
+    { "id": 1, "title": "Post 1" },
+    { "id": 2, "title": "Post 2" },
+    { "id": 3, "title": "Post 3" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
