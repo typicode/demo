@@ -1,4 +1,5 @@
-[
+{
+  "posts": [
     {
       "id": 1,
       "fact": "A duck's quack doesn't echo."
@@ -438,4 +439,14 @@
       "id": 100,
       "fact": "The average person takes 7 minutes to fall asleep."
     }
-  ]
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "notes": [
+    {"id": "1","title": "firstNote","body": "adc is bad"}]
+}
