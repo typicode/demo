@@ -1,14 +1,270 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
+  "data": {
+    "partners": [
+      {
+        "id": 1,
+        "name": "XP Investimentos",
+        "logo": "https://ontick-estrategias.s3.sa-east-1.amazonaws.com/XP.png",
+        "badge": "https://ontick-estrategias.s3.sa-east-1.amazonaws.com/XP.png",
+        "description": "A XP Investimentos é uma corretora de valores brasileira que atua desde 2001 no mercado financeiro. Atualmente, é a maior corretora independente do Brasil, com mais de 500 mil clientes ativos e R$ 150 bilhões sob custódia.",
+        "components": [
+          {
+            "hero": {
+              "title": "Estratégias de Investimento",
+              "subtitle": "Conheça as estratégias de investimento disponíveis para você",
+              "image": "https://ontick-estrategias.s3.sa-east-1.amazonaws.com/hero.png"
+            },
+            "cta": {
+              "title": "Conheça as estratégias",
+              "subtitle": "Conheça as estratégias de investimento disponíveis para você",
+              "button_text": "Conhecer",
+              "link": "https://ontick-estrategias.s3.sa-east-1.amazonaws.com/hero.png"
+            },
+            "about": {
+              "heading": "Sobre a Ontick",
+              "title": "Sobre a Ontick",
+              "subtitle": "A Ontick é uma empresa de tecnologia que desenvolve soluções para o mercado financeiro. Nossa missão é democratizar o acesso ao mercado financeiro, oferecendo soluções tecnológicas que permitam que qualquer pessoa possa investir de forma simples e segura.",
+              "features": [
+                {
+                  "icon": "https://ontick-estrategias.s3.sa-east-1.amazonaws.com/hero.png",
+                  "title": "Sobre a Ontick",
+                  "description": "A Ontick é uma empresa de tecnologia que desenvolve soluções para o mercado financeiro. Nossa missão é democratizar o acesso ao mercado financeiro, oferecendo soluções tecnológicas que permitam que qualquer pessoa possa investir de forma simples e segura."
+                },
+                {
+                  "icon": "https://ontick-estrategias.s3.sa-east-1.amazonaws.com/hero.png",
+                  "title": "Sobre a Ontick",
+                  "description": "A Ontick é uma empresa de tecnologia que desenvolve soluções para o mercado financeiro. Nossa missão é democratizar o acesso ao mercado financeiro, oferecendo soluções tecnológicas que permitam que qualquer pessoa possa investir de forma simples e segura."
+                }
+              ]
+            },
+            "plans": {
+              "heading": "Planos",
+              "title": "Planos",
+              "subtitle": "Conheça os planos disponíveis para você",
+              "table_plans": [
+                {
+                  "name": "Plano Básico",
+                  "description": "Plano Básico",
+                  "price": "R$ 100,00",
+                  "periodicity": "Mensal",
+                  "features": [
+                    "Features 1",
+                    "Features 2",
+                    "Features 3"
+                  ]
+                }
+              ]
+            },
+            "testimonial": [
+              {
+                "stars": 5,
+                "title": "Testimonial 1",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ac mi ac nunc scelerisque aliquet. Praesent scelerisque lacinia nibh, ac ornare libero ultricies quis. Integer a lorem ac nibh mollis tristique."
+              },
+              {
+                "stars": 4,
+                "title": "Testimonial 2",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ac mi ac nunc scelerisque aliquet. Praesent scelerisque lacinia nibh, ac ornare libero ultricies quis. Integer a lorem ac nibh mollis tristique."
+              },
+              {
+                "stars": 3,
+                "title": "Testimonial 3",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ac mi ac nunc scelerisque aliquet. Praesent scelerisque lacinia nibh, ac ornare libero ultricies quis. Integer a lorem ac nibh mollis tristique."
+              }
+            ]
+          }
+        ],
+        "strategies": [
+          {
+            "id": 4,
+            "title": "YellowUAI V6",
+            "badges": [
+              { "color": "brown", "text": "VALE3" },
+              { "color": "orange", "text": "SWING TRADE" },
+              { "color": "grey", "text": "RISCO ALTO" }
+            ],
+            "description": "Estratégia agressiva para ganhos rápidos...",
+            "image": "https://ontick-estrategias.s3.sa-east-1.amazonaws.com/768.png",
+            "profitfactor": "234",
+            "accuracy": "95",
+            "profit": "750",
+            "last_trades": [
+              {
+                "trade_id": 16,
+                "direction": "COMPRA",
+                "symbol": "VALE3",
+                "date": "26/05/2023",
+                "profit": 500,
+                "volume": 1
+              },
+              {
+                "trade_id": 17,
+                "direction": "VENDA",
+                "symbol": "VALE3",
+                "date": "26/05/2023",
+                "profit": 250,
+                "volume": 2
+              },
+              {
+                "trade_id": 18,
+                "direction": "COMPRA",
+                "symbol": "VALE3",
+                "date": "25/05/2023",
+                "profit": 350,
+                "volume": 1
+              },
+              {
+                "trade_id": 19,
+                "direction": "VENDA",
+                "symbol": "VALE3",
+                "date": "25/05/2023",
+                "profit": 180,
+                "volume": 2
+              },
+              {
+                "trade_id": 20,
+                "direction": "COMPRA",
+                "symbol": "VALE3",
+                "date": "24/05/2023",
+                "profit": 400,
+                "volume": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "XP Investimentos",
+        "logo": "https://ontick-estrategias.s3.sa-east-1.amazonaws.com/XP.png",
+        "badge": "https://ontick-estrategias.s3.sa-east-1.amazonaws.com/XP.png",
+        "description": "A XP Investimentos é uma corretora de valores brasileira que atua desde 2001 no mercado financeiro. Atualmente, é a maior corretora independente do Brasil, com mais de 500 mil clientes ativos e R$ 150 bilhões sob custódia.",
+        "components": [
+          {
+            "hero": {
+              "title": "Estratégias de Investimento",
+              "subtitle": "Conheça as estratégias de investimento disponíveis para você",
+              "image": "https://ontick-estrategias.s3.sa-east-1.amazonaws.com/hero.png"
+            },
+            "cta": {
+              "title": "Conheça as estratégias",
+              "subtitle": "Conheça as estratégias de investimento disponíveis para você",
+              "button_text": "Conhecer",
+              "link": "https://ontick-estrategias.s3.sa-east-1.amazonaws.com/hero.png"
+            },
+            "about": {
+              "heading": "Sobre a Ontick",
+              "title": "Sobre a Ontick",
+              "subtitle": "A Ontick é uma empresa de tecnologia que desenvolve soluções para o mercado financeiro. Nossa missão é democratizar o acesso ao mercado financeiro, oferecendo soluções tecnológicas que permitam que qualquer pessoa possa investir de forma simples e segura.",
+              "features": [
+                {
+                  "icon": "https://ontick-estrategias.s3.sa-east-1.amazonaws.com/hero.png",
+                  "title": "Sobre a Ontick",
+                  "description": "A Ontick é uma empresa de tecnologia que desenvolve soluções para o mercado financeiro. Nossa missão é democratizar o acesso ao mercado financeiro, oferecendo soluções tecnológicas que permitam que qualquer pessoa possa investir de forma simples e segura."
+                },
+                {
+                  "icon": "https://ontick-estrategias.s3.sa-east-1.amazonaws.com/hero.png",
+                  "title": "Sobre a Ontick",
+                  "description": "A Ontick é uma empresa de tecnologia que desenvolve soluções para o mercado financeiro. Nossa missão é democratizar o acesso ao mercado financeiro, oferecendo soluções tecnológicas que permitam que qualquer pessoa possa investir de forma simples e segura."
+                }
+              ]
+            },
+            "plans": {
+              "heading": "Planos",
+              "title": "Planos",
+              "subtitle": "Conheça os planos disponíveis para você",
+              "table_plans": [
+                {
+                  "name": "Plano Básico",
+                  "description": "Plano Básico",
+                  "price": "R$ 100,00",
+                  "periodicity": "Mensal",
+                  "features": [
+                    "Features 1",
+                    "Features 2",
+                    "Features 3"
+                  ]
+                }
+              ]
+            },
+            "testimonial": [
+              {
+                "stars": 5,
+                "title": "Testimonial 1",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ac mi ac nunc scelerisque aliquet. Praesent scelerisque lacinia nibh, ac ornare libero ultricies quis. Integer a lorem ac nibh mollis tristique."
+              },
+              {
+                "stars": 4,
+                "title": "Testimonial 2",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ac mi ac nunc scelerisque aliquet. Praesent scelerisque lacinia nibh, ac ornare libero ultricies quis. Integer a lorem ac nibh mollis tristique."
+              },
+              {
+                "stars": 3,
+                "title": "Testimonial 3",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ac mi ac nunc scelerisque aliquet. Praesent scelerisque lacinia nibh, ac ornare libero ultricies quis. Integer a lorem ac nibh mollis tristique."
+              }
+            ]
+          }
+        ],
+        "strategies": [
+          {
+            "id": 4,
+            "title": "MAXX#1",
+            "badges": [
+              { "color": "brown", "text": "VALE3" },
+              { "color": "orange", "text": "SWING TRADE" },
+              { "color": "grey", "text": "RISCO ALTO" }
+            ],
+            "description": "Estratégia agressiva para ganhos rápidos...",
+            "image": "https://ontick-estrategias.s3.sa-east-1.amazonaws.com/768.png",
+            "profitfactor": "234",
+            "accuracy": "95",
+            "profit": "750",
+            "last_trades": [
+              {
+                "trade_id": 16,
+                "direction": "COMPRA",
+                "symbol": "VALE3",
+                "date": "26/05/2023",
+                "profit": 500,
+                "volume": 1
+              },
+              {
+                "trade_id": 17,
+                "direction": "VENDA",
+                "symbol": "VALE3",
+                "date": "26/05/2023",
+                "profit": 250,
+                "volume": 2
+              },
+              {
+                "trade_id": 18,
+                "direction": "COMPRA",
+                "symbol": "VALE3",
+                "date": "25/05/2023",
+                "profit": 350,
+                "volume": 1
+              },
+              {
+                "trade_id": 19,
+                "direction": "VENDA",
+                "symbol": "VALE3",
+                "date": "25/05/2023",
+                "profit": 180,
+                "volume": 2
+              },
+              {
+                "trade_id": 20,
+                "direction": "COMPRA",
+                "symbol": "VALE3",
+                "date": "24/05/2023",
+                "profit": 400,
+                "volume": 1
+              }
+            ]
+          }
+        ]
+      }
+    ]
   }
 }
