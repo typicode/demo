@@ -1,14 +1,114 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "turler": [
+    {
+      "id": 1,
+      "baslik": "Balıklar",
+      "yemekler": [
+        "Balık Çorbası",
+        "Levrek Izgara",
+        "Balık Kroket"
+      ],
+      "ikon": "https://raw.githubusercontent.com/onurdonmez/deneyap/main/bolum4/json/resimler/balik.png"
+    },
+    {
+      "id": 2,
+      "baslik": "Burgerler",
+      "yemekler": [
+        "Steak Burger",
+        "Mantarlı Burger",
+        "Tavukburger"
+      ],
+      "ikon": "https://raw.githubusercontent.com/onurdonmez/deneyap/main/bolum4/json/resimler/burger.png"
+    },
+    {
+      "id": 3,
+      "baslik": "Çorbalar",
+      "yemekler": [
+        "Mercimek Çorbası",
+        "Kelle Paça Çorbası",
+        "Ezogelin Çorbası"
+      ],
+      "ikon": "https://raw.githubusercontent.com/onurdonmez/deneyap/main/bolum4/json/resimler/corba.png"
+    },
+    {
+      "id": 4,
+      "baslik": "Dünya Yemekleri",
+      "yemekler": [
+        "Meksika",
+        "Çin",
+        "Fransa"
+      ],
+      "ikon": "https://raw.githubusercontent.com/onurdonmez/deneyap/main/bolum4/json/resimler/dunya-yemekleri.png"
+    },
+    {
+      "id": 5,
+      "baslik": "Et Yemekleri",
+      "yemekler": [
+        "Kebaplar",
+        "Tencere Yemekleri",
+        "Izgaralar"
+      ],
+      "ikon": "https://raw.githubusercontent.com/onurdonmez/deneyap/main/bolum4/json/resimler/et.png"
+    },
+    {
+      "id": 6,
+      "baslik": "Pizzalar",
+      "yemekler": [
+        "Pepperoni",
+        "Deniz Ürünlü",
+        "Margarita"
+      ],
+      "ikon": "https://raw.githubusercontent.com/onurdonmez/deneyap/main/bolum4/json/resimler/pizza.png"
+    },
+    {
+      "id": 7,
+      "baslik": "Salatalar",
+      "yemekler": [
+        "Sezar Salata",
+        "Peynirli Salata",
+        "Akdeniz Salata"
+      ],
+      "ikon": "https://raw.githubusercontent.com/onurdonmez/deneyap/main/bolum4/json/resimler/salata.png"
+    },
+    {
+      "id": 8,
+      "baslik": "Sıcak İçecekler",
+      "yemekler": [
+        "Çaylar",
+        "Kahveler",
+        "Aromalı Kahveler"
+      ],
+      "ikon": "https://raw.githubusercontent.com/onurdonmez/deneyap/main/bolum4/json/resimler/sicak-icecek.png"
+    },
+    {
+      "id": 9,
+      "baslik": "Soğuk İçecekler",
+      "yemekler": [
+        "Gazozlar",
+        "Ayranlar",
+        "Sodalar"
+      ],
+      "ikon": "https://raw.githubusercontent.com/onurdonmez/deneyap/main/bolum4/json/resimler/soguk-icecek.png"
+    },
+    {
+      "id": 10,
+      "baslik": "Tatlılar",
+      "yemekler": [
+        "Sütlü Tatlılar",
+        "Şerbetli Tatlılar",
+        "Dondurmalar"
+      ],
+      "ikon": "https://raw.githubusercontent.com/onurdonmez/deneyap/main/bolum4/json/resimler/tatli.png"
+    },
+    {
+      "id": 11,
+      "baslik": "Tavuklar",
+      "yemekler": [
+        "Piliç Graten",
+        "Tavuk Sote",
+        "Kızarmış Piliç"
+      ],
+      "ikon": "https://raw.githubusercontent.com/onurdonmez/deneyap/main/bolum4/json/resimler/tavuk.png"
+    }
+  ]
 }
