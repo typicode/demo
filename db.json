@@ -1,14 +1,135 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+    "expires" : 1686226679,
+    "expires_only" : false,
+    "sections" : [    {
+        "title" : "Scopri CHILI",
+        "position" : 1,
+        "tiles" : [            {
+              "title" : "ACCEDI O REGISTRATI",
+              "image_url" : "https://cdn-eden.chili.com/images/public/cms/9e/25/cd/07/9e25cd07-5d7e-4190-9d60-d190244f73ea.jpg",
+              "image_ratio" : "16by9",
+              "action_data" : "{ \"callToAction\": {\"label\": \"ACCEDI O REGISTRATI\", \"redirectId\": \"None\", \"redirectType\": \"REGISTRATION\" }  ,\"utm_campaign\":\"scopri-chili\",\"utm_content\":\"REGISTRATION\",\"utm_source\":\"samsung\",\"utm_medium\":\"eden\"  }",
+              "is_playable" : false,
+              "position" : 1
+            }        ]
+    },
+    {
+        "title" : "Ultimi arrivi",
+        "position" : 2,
+        "tiles" : [
+            {
+              "title" : "Black Panther: Wakanda Forever",
+              "image_url" : "https://cdn-eden.chili.com/images/public/cms/56/cf/c0/f3/56cfc0f3-ddad-42fa-8013-5d8c5f14528f.jpg",
+              "image_ratio" : "2by3",
+              "action_data" : "{ \"contentId\": \"31a5b151-5f2e-42bd-abab-22b860285313\", \"utm_campaign\":\"ultimi-arrivi\",\"utm_content\":\"1_black-panther-wakanda-forever-2022\",\"utm_source\":\"samsung\",\"utm_medium\":\"eden\",\"playable\": false }",
+              "is_playable" : false,
+              "position" : 1
+            },
+            {
+              "title" : "Il Padre della Sposa – Matrimonio A Miami",
+              "image_url" : "https://cdn-eden.chili.com/images/public/cms/60/a3/f4/18/60a3f418-d3f8-4904-91b4-c5b233aeec50.jpg",
+              "image_ratio" : "2by3",
+              "action_data" : "{ \"contentId\": \"a2ae5918-be90-4381-bed7-3c16b1227e43\", \"utm_campaign\":\"ultimi-arrivi\",\"utm_content\":\"2_il-padre-della-sposa-matrimonio-a-miami-2022\",\"utm_source\":\"samsung\",\"utm_medium\":\"eden\",\"playable\": false }",
+              "is_playable" : false,
+              "position" : 2
+            },
+            {
+              "title" : "War - La guerra desiderata",
+              "image_url" : "https://cdn-eden.chili.com/images/public/cms/f4/5a/e9/1f/f45ae91f-106e-48d6-9ed9-5f856fb9d81e.jpg",
+              "image_ratio" : "2by3",
+              "action_data" : "{ \"contentId\": \"f4d46c68-49fa-4b00-9f69-19802e7f847e\", \"utm_campaign\":\"ultimi-arrivi\",\"utm_content\":\"3_war-la-guerra-desiderata-2022\",\"utm_source\":\"samsung\",\"utm_medium\":\"eden\",\"playable\": false }",
+              "is_playable" : false,
+              "position" : 3
+            }        ]
+    },
+    {
+        "title" : "Everything Everywhere All at Once - La vita, il multiverso e tutto quanto",
+        "position" : 3,
+        "tiles" : [            {
+              "title" : "Guarda ora",
+              "image_url" : "https://cdn-eden.chili.com/images/public/cms/e3/ca/2f/5b/e3ca2f5b-5313-48bf-9217-e1b9bb288d02.jpg",
+              "image_ratio" : "16by9",
+              "action_data" : "{ \"callToAction\": {\"label\": \"Guarda ora\", \"redirectId\": \"3e9b2608-3861-4c95-9b17-f1ff97172300\", \"redirectType\": \"CONTENT\" }  ,\"utm_campaign\":\"everything-everywhere-all-at-once-la-vita-il-multiverso-e-tutto-quanto\",\"utm_content\":\"CONTENT\",\"utm_source\":\"samsung\",\"utm_medium\":\"eden\"  }",
+              "is_playable" : false,
+              "position" : 1
+            }        ]
+    },
+    {
+        "title" : "Novità a noleggio",
+        "position" : 4,
+        "tiles" : [
+            {
+              "title" : "L'Esorcista del Papa",
+              "image_url" : "https://cdn-eden.chili.com/images/public/cms/5f/5e/1d/76/5f5e1d76-267c-4c84-99c2-01642a8ec2ff.jpg",
+              "image_ratio" : "2by3",
+              "action_data" : "{ \"contentId\": \"f1928692-06e8-4f76-bc1f-f69028f22f80\", \"utm_campaign\":\"prime-visioni-a-noleggio\",\"utm_content\":\"1_l-esorcista-del-papa-2023\",\"utm_source\":\"samsung\",\"utm_medium\":\"eden\",\"playable\": false }",
+              "is_playable" : false,
+              "position" : 1
+            },
+            {
+              "title" : "Everything Everywhere All at Once",
+              "image_url" : "https://cdn-eden.chili.com/images/public/cms/51/7a/5a/d2/517a5ad2-4b3e-4252-ae2c-6c5d214bec22.jpg",
+              "image_ratio" : "2by3",
+              "action_data" : "{ \"contentId\": \"3e9b2608-3861-4c95-9b17-f1ff97172300\", \"utm_campaign\":\"prime-visioni-a-noleggio\",\"utm_content\":\"2_everything-everywhere-all-at-once-2022\",\"utm_source\":\"samsung\",\"utm_medium\":\"eden\",\"playable\": false }",
+              "is_playable" : false,
+              "position" : 2
+            },
+            {
+              "title" : "Mississipi Secrets",
+              "image_url" : "https://cdn-eden.chili.com/images/public/cms/3c/40/09/8e/3c40098e-b819-49f3-b591-b5110549803d.jpg",
+              "image_ratio" : "2by3",
+              "action_data" : "{ \"contentId\": \"bd28cd4c-11bd-4802-9baf-6a0b8709c946\", \"utm_campaign\":\"prime-visioni-a-noleggio\",\"utm_content\":\"3_mississipi-secrets-2022\",\"utm_source\":\"samsung\",\"utm_medium\":\"eden\",\"playable\": false }",
+              "is_playable" : false,
+              "position" : 3
+            },
+            {
+              "title" : "Earth Protectors",
+              "image_url" : "https://cdn-eden.chili.com/images/public/cms/72/05/98/9a/7205989a-0cac-49ef-ac5e-3e056ef31559.jpg",
+              "image_ratio" : "2by3",
+              "action_data" : "{ \"contentId\": \"e3985585-5f0a-426e-b7af-ac9c663779e0\", \"utm_campaign\":\"prime-visioni-a-noleggio\",\"utm_content\":\"4_earth-protectors-2018\",\"utm_source\":\"samsung\",\"utm_medium\":\"eden\",\"playable\": false }",
+              "is_playable" : false,
+              "position" : 4
+            },
+            {
+              "title" : "Transfusion",
+              "image_url" : "https://cdn-eden.chili.com/images/public/cms/d1/42/39/3f/d142393f-ce24-40bf-bac0-28819e457b7e.jpg",
+              "image_ratio" : "2by3",
+              "action_data" : "{ \"contentId\": \"17ccdbbe-47ee-454f-a909-0324a1ffe451\", \"utm_campaign\":\"prime-visioni-a-noleggio\",\"utm_content\":\"5_transfusion-2023\",\"utm_source\":\"samsung\",\"utm_medium\":\"eden\",\"playable\": false }",
+              "is_playable" : false,
+              "position" : 5
+            },
+            {
+              "title" : "Grazie ragazzi",
+              "image_url" : "https://cdn-eden.chili.com/images/public/cms/9d/d8/f4/92/9dd8f492-72d2-477a-8f52-3001afabd913.jpg",
+              "image_ratio" : "2by3",
+              "action_data" : "{ \"contentId\": \"d0ec874a-225e-487c-bbd3-f0b47d037951\", \"utm_campaign\":\"prime-visioni-a-noleggio\",\"utm_content\":\"6_grazie-ragazzi-2023\",\"utm_source\":\"samsung\",\"utm_medium\":\"eden\",\"playable\": false }",
+              "is_playable" : false,
+              "position" : 6
+            },
+            {
+              "title" : "Le otto montagne",
+              "image_url" : "https://cdn-eden.chili.com/images/public/cms/59/56/5d/a4/59565da4-b05b-48af-a84b-548340f2140f.jpg",
+              "image_ratio" : "2by3",
+              "action_data" : "{ \"contentId\": \"8bc723f9-2002-4082-b3d3-4e61bb078b58\", \"utm_campaign\":\"prime-visioni-a-noleggio\",\"utm_content\":\"7_le-otto-montagne-2022\",\"utm_source\":\"samsung\",\"utm_medium\":\"eden\",\"playable\": false }",
+              "is_playable" : false,
+              "position" : 7
+            },
+            {
+              "title" : "Hometown - La strada dei ricordi ",
+              "image_url" : "https://cdn-eden.chili.com/images/public/cms/0d/15/e0/35/0d15e035-78c0-4ad0-a9b6-ab1b8d7312e1.jpg",
+              "image_ratio" : "2by3",
+              "action_data" : "{ \"contentId\": \"4ef89ba6-dceb-4ce5-9457-d1becc89a349\", \"utm_campaign\":\"prime-visioni-a-noleggio\",\"utm_content\":\"8_hometown-la-strada-dei-ricordi-2019\",\"utm_source\":\"samsung\",\"utm_medium\":\"eden\",\"playable\": false }",
+              "is_playable" : false,
+              "position" : 8
+            },
+            {
+              "title" : "I migliori giorni",
+              "image_url" : "https://cdn-eden.chili.com/images/public/cms/ff/cf/68/da/ffcf68da-9c41-4b04-bc7f-634dd443fb7c.jpg",
+              "image_ratio" : "2by3",
+              "action_data" : "{ \"contentId\": \"d8e26d2f-0d83-4b16-ab00-18832cbf3947\", \"utm_campaign\":\"prime-visioni-a-noleggio\",\"utm_content\":\"9_i-migliori-giorni-2023\",\"utm_source\":\"samsung\",\"utm_medium\":\"eden\",\"playable\": false }",
+              "is_playable" : false,
+              "position" : 9
+            }        ]
+    }
+  ]
 }
