@@ -1,5 +1,5 @@
-[
-  {
+{
+ "jobs":  {
     "title": "Software Engineer",
     "company": "ABC Technologies",
     "location": "San Francisco, CA",
@@ -17,4 +17,4 @@
     },
     "photo": "https://example.com/company_logo.png"
   }
-]
+}
