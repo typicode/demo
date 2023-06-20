@@ -1,31 +1,22 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "Post 1"
+  "jobs": [
+   {
+    "title": "Software Engineer",
+    "company": "ABC Technologies",
+    "location": "San Francisco, CA",
+    "description": "We are seeking a skilled software engineer to join our team...",
+    "requirements": "Bachelor's degree in Computer Science...",
+    "skills": ["Java", "Python", "JavaScript"],
+    "employment_type": "Full-time",
+    "salary": "$90,000 - $120,000 per year",
+    "posted_date": "2023-06-18",
+    "expiry_date": "2023-07-18",
+    "contact": {
+      "name": "John Doe",
+      "email": "johndoe@example.com",
+      "phone": "+1 123-456-7890"
     },
-    {
-      "id": 2,
-      "title": "Post 2"
-    },
-    {
-      "id": 3,
-      "title": "Post 3"
-    }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    },
-    {
-      "id": 2,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
-  "profile": {
-    "name": "typicode"
+    "photo": "https://example.com/company_logo.png"
   }
+  ]
 }
