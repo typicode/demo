@@ -197,44 +197,6 @@
         "phone": "+65 9876 5432"
       },
       "photo": "https://example.com/company_logo.png"
-    },
-    {
-      "id": 11,
-      "title": "Content Writer",
-      "company": "Media Agency",
-      "location": "Mumbai, India",
-      "description": "We are looking for a talented content writer to join our team. As a content writer, you will be responsible for creating engaging and informative content for various platforms, including web, social media, and print.",
-      "requirements": "Bachelor's degree in English, Journalism, or a related field is required. The candidate should have excellent writing and editing skills, proficiency in SEO techniques, and a creative mindset.",
-      "skills": ["Copywriting", "Content Editing", "SEO"],
-      "employment_type": "Full-time",
-      "salary": "INR 500,000 - INR 800,000 per year",
-      "posted_date": "2023-06-28",
-      "expiry_date": "2023-07-28",
-      "contact": {
-        "name": "Ravi Verma",
-        "email": "raviverma@example.com",
-        "phone": "+91 98765 43210"
-      },
-      "photo": "https://example.com/company_logo.png"
-    },
-    {
-      "id": 12,
-      "title": "Electrical Engineer",
-      "company": "Power Systems",
-      "location": "Tokyo, Japan",
-      "description": "We are seeking a skilled electrical engineer to join our team. As an electrical engineer, you will be responsible for designing, developing, and testing electrical systems and equipment.",
-      "requirements": "Bachelor's degree in Electrical Engineering or a related field is required. The candidate should have a strong understanding of circuit design, power systems, and testing methodologies.",
-      "skills": ["Circuit Design", "Power Systems", "Testing"],
-      "employment_type": "Full-time",
-      "salary": "¥6,000,000 - ¥8,000,000 per year",
-      "posted_date": "2023-06-29",
-      "expiry_date": "2023-07-29",
-      "contact": {
-        "name": "Yuki Nakamura",
-        "email": "yukinakamura@example.com",
-        "phone": "+81 3-1234-5678"
-      },
-      "photo": "https://example.com/company_logo.png"
     }
   ]
 }
