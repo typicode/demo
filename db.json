@@ -1,6 +1,7 @@
 {
   "jobs": [
  {
+    "id": 1,
     "title": "Software Engineer",
     "company": "ABC Technologies",
     "location": "San Francisco, CA",
@@ -19,6 +20,7 @@
     "photo": "https://example.com/company_logo.png"
   },
   {
+     "id": 2,
     "title": "Data Scientist",
     "company": "XYZ Analytics",
     "location": "New York, NY",
@@ -37,6 +39,7 @@
     "photo": "https://example.com/company_logo.png"
   },
   {
+     "id": 3,
     "title": "UX Designer",
     "company": "Design Co",
     "location": "Seattle, WA",
@@ -55,6 +58,7 @@
     "photo": "https://example.com/company_logo.png"
   },
   {
+     "id": 4,
     "title": "Marketing Manager",
     "company": "Growth Marketing Co",
     "location": "Los Angeles, CA",
@@ -73,6 +77,7 @@
     "photo": "https://example.com/company_logo.png"
   },
   {
+     "id": 5,
     "title": "Graphic Designer",
     "company": "Creative Agency",
     "location": "London, UK",
@@ -91,6 +96,7 @@
     "photo": "https://example.com/company_logo.png"
   },
   {
+     "id": 6,
     "title": "Financial Analyst",
     "company": "Investment Firm",
     "location": "Chicago, IL",
@@ -109,6 +115,7 @@
     "photo": "https://example.com/company_logo.png"
   },
   {
+     "id": 7,
     "title": "Sales Representative",
     "company": "Global Tech Solutions",
     "location": "Toronto, ON",
@@ -127,6 +134,7 @@
     "photo": "https://example.com/company_logo.png"
   },
   {
+     "id": 8,
     "title": "Project Manager",
     "company": "Construction Co",
     "location": "Sydney, Australia",
@@ -145,6 +153,7 @@
     "photo": "https://example.com/company_logo.png"
   },
   {
+     "id": 9,
     "title": "Customer Support Specialist",
     "company": "E-commerce Inc",
     "location": "Berlin, Germany",
@@ -163,6 +172,7 @@
     "photo": "https://example.com/company_logo.png"
   },
   {
+     "id": 10,
     "title": "Human Resources Manager",
     "company": "Global Corporation",
     "location": "Singapore",
@@ -181,6 +191,7 @@
     "photo": "https://example.com/company_logo.png"
   },
   {
+     "id": 11,
     "title": "Content Writer",
     "company": "Media Agency",
     "location": "Mumbai, India",
@@ -199,6 +210,7 @@
     "photo": "https://example.com/company_logo.png"
   },
   {
+     "id": 12,
     "title": "Electrical Engineer",
     "company": "Power Systems",
     "location": "Tokyo, Japan",
@@ -217,6 +229,7 @@
     "photo": "https://example.com/company_logo.png"
   },
   {
+     "id": 13,
     "title": "Nurse",
     "company": "Hospital Group",
     "location": "London, UK",
@@ -235,6 +248,7 @@
     "photo": "https://example.com/company_logo.png"
   },
   {
+     "id": 14,
     "title": "Restaurant Manager",
     "company": "Fine Dining Group",
     "location": "Paris, France",
