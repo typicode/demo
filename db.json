@@ -247,50 +247,6 @@
       },
       "photo": "https://example.com/company_logo.png",
       "shortDescription": "Short description for Electrical Engineer"
-    },
-    {
-      "id": 13,
-      "title": "Nurse",
-      "company": "Hospital Group",
-      "location": "London, UK",
-      "description": "We are seeking qualified nurses to join our hospital team. As a nurse, you will provide compassionate and high-quality patient care, collaborate with healthcare professionals, and ensure the well-being of patients. [Real text for Nurse description goes here]",
-      "requirements": "Bachelor's degree in Nursing is required. The candidate should have a strong medical knowledge, excellent patient care skills, and effective communication abilities. [Real text for Nurse requirements goes here]",
-      "skills": ["Patient Care", "Medical Knowledge", "Communication"],
-      "employment_type": "Full-time",
-      "salary": "£25,000 - £35,000 per year",
-      "posted_date": "2023-06-30",
-      "expiry_date": "2023-07-30",
-      "contact": {
-        "name": "Emma Thompson",
-        "email": "emmathompson@example.com",
-        "phone": "+44 20 9876 5432"
-      },
-      "photo": "https://example.com/company_logo.png",
-      "shortDescription": "Short description for Nurse"
-    },
-    {
-      "id": 14,
-      "title": "Restaurant Manager",
-      "company": "Fine Dining Group",
-      "location": "Paris, France",
-      "description": "We are looking for an experienced restaurant manager to oversee our operations. Join our team and lead a dynamic team of staff, ensure excellent customer service, and maintain the smooth functioning of the restaurant. [Real text for Restaurant Manager description goes here]",
-      "requirements": "Bachelor's degree in Hospitality or a related field is required. The candidate should have proven experience in restaurant operations, staff management, and a strong focus on customer service. [Real text for Restaurant Manager requirements goes here]",
-      "skills": [
-        "Restaurant Operations",
-        "Staff Management",
-        "Customer Service"
-      ],
-      "employment_type": "Full-time",
-      "salary": "€40,000 - €60,000 per year",
-      "posted_date": "2023-07-01",
-      "expiry_date": "2023-07-01",
-      "contact": {
-        "name": "Julien Dupont",
-        "email": "juliendupont@example.com",
-        "phone": "+33 1 2345 6789"
-      },
-      "photo": "https://example.com/company_logo.png",
-      "shortDescription": "Short description for Restaurant Manager"
     }
   ]
 }
