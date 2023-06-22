@@ -1,270 +1,296 @@
 {
   "jobs": [
- {
-    "id": 1,
-    "title": "Software Engineer",
-    "company": "ABC Technologies",
-    "location": "San Francisco, CA",
-    "description": "We are seeking a skilled software engineer to join our team...",
-    "requirements": "Bachelor's degree in Computer Science...",
-    "skills": ["Java", "Python", "JavaScript"],
-    "employment_type": "Full-time",
-    "salary": "$90,000 - $120,000 per year",
-    "posted_date": "2023-06-18",
-    "expiry_date": "2023-07-18",
-    "contact": {
-      "name": "John Doe",
-      "email": "johndoe@example.com",
-      "phone": "+1 123-456-7890"
+    {
+      "id": 1,
+      "title": "Software Engineer",
+      "company": "ABC Technologies",
+      "location": "San Francisco, CA",
+      "description": "We are seeking a skilled software engineer to join our team. This is a full-time position with opportunities for growth and development. The ideal candidate should have a strong background in software development and be proficient in Java, Python, and JavaScript. [Real text for Software Engineer description goes here]",
+      "requirements": "Bachelor's degree in Computer Science or a related field is required. The candidate should have at least 3 years of experience in software development and be familiar with modern development frameworks and tools. [Real text for Software Engineer requirements goes here]",
+      "skills": ["Java", "Python", "JavaScript"],
+      "employment_type": "Full-time",
+      "salary": "$90,000 - $120,000 per year",
+      "posted_date": "2023-06-18",
+      "expiry_date": "2023-07-18",
+      "contact": {
+        "name": "John Doe",
+        "email": "johndoe@example.com",
+        "phone": "+1 123-456-7890"
+      },
+      "photo": "https://example.com/company_logo.png",
+      "shortDescription": "Short description for Software Engineer"
     },
-    "photo": "https://example.com/company_logo.png"
-  },
-  {
-     "id": 2,
-    "title": "Data Scientist",
-    "company": "XYZ Analytics",
-    "location": "New York, NY",
-    "description": "We are looking for a talented data scientist to join our team...",
-    "requirements": "Master's degree in Data Science or related field...",
-    "skills": ["Python", "R", "Machine Learning"],
-    "employment_type": "Full-time",
-    "salary": "$100,000 - $150,000 per year",
-    "posted_date": "2023-06-19",
-    "expiry_date": "2023-07-19",
-    "contact": {
-      "name": "Jane Smith",
-      "email": "janesmith@example.com",
-      "phone": "+1 987-654-3210"
+    {
+      "id": 2,
+      "title": "Data Scientist",
+      "company": "XYZ Analytics",
+      "location": "New York, NY",
+      "description": "We are looking for a talented data scientist to join our team. This is an exciting opportunity to work with a team of experts in the field of data analytics. The successful candidate will be responsible for analyzing large datasets, developing statistical models, and delivering actionable insights. [Real text for Data Scientist description goes here]",
+      "requirements": "Master's degree in Data Science or a related field is required. The candidate should have a deep understanding of statistical analysis, machine learning algorithms, and data visualization techniques. Proficiency in Python and R is necessary. [Real text for Data Scientist requirements goes here]",
+      "skills": ["Python", "R", "Machine Learning"],
+      "employment_type": "Full-time",
+      "salary": "$100,000 - $150,000 per year",
+      "posted_date": "2023-06-19",
+      "expiry_date": "2023-07-19",
+      "contact": {
+        "name": "Jane Smith",
+        "email": "janesmith@example.com",
+        "phone": "+1 987-654-3210"
+      },
+      "photo": "https://example.com/company_logo.png",
+      "shortDescription": "Short description for Data Scientist"
     },
-    "photo": "https://example.com/company_logo.png"
-  },
-  {
-     "id": 3,
-    "title": "UX Designer",
-    "company": "Design Co",
-    "location": "Seattle, WA",
-    "description": "We are seeking a creative UX designer to join our team...",
-    "requirements": "Bachelor's degree in Design or related field...",
-    "skills": ["User Research", "Wireframing", "Prototyping"],
-    "employment_type": "Full-time",
-    "salary": "$80,000 - $100,000 per year",
-    "posted_date": "2023-06-20",
-    "expiry_date": "2023-07-20",
-    "contact": {
-      "name": "Amy Johnson",
-      "email": "amyjohnson@example.com",
-      "phone": "+1 555-123-4567"
+    {
+      "id": 3,
+      "title": "UX Designer",
+      "company": "Design Co",
+      "location": "Seattle, WA",
+      "description": "We are seeking a creative UX designer to join our team. As a UX designer, you will be responsible for creating intuitive user interfaces, conducting user research, and prototyping design concepts. Join our innovative team and help shape the future of user experience! [Real text for UX Designer description goes here]",
+      "requirements": "Bachelor's degree in Design or a related field is required. The candidate should have a strong portfolio demonstrating expertise in user-centered design, wireframing, and prototyping. Proficiency in design tools such as Sketch or Adobe XD is necessary. [Real text for UX Designer requirements goes here]",
+      "skills": ["User Research", "Wireframing", "Prototyping"],
+      "employment_type": "Full-time",
+      "salary": "$80,000 - $100,000 per year",
+      "posted_date": "2023-06-20",
+      "expiry_date": "2023-07-20",
+      "contact": {
+        "name": "Amy Johnson",
+        "email": "amyjohnson@example.com",
+        "phone": "+1 555-123-4567"
+      },
+      "photo": "https://example.com/company_logo.png",
+      "shortDescription": "Short description for UX Designer"
     },
-    "photo": "https://example.com/company_logo.png"
-  },
-  {
-     "id": 4,
-    "title": "Marketing Manager",
-    "company": "Growth Marketing Co",
-    "location": "Los Angeles, CA",
-    "description": "We are looking for an experienced marketing manager to lead our team...",
-    "requirements": "Bachelor's degree in Marketing or related field...",
-    "skills": ["Digital Marketing", "Social Media Management", "Campaign Strategy"],
-    "employment_type": "Full-time",
-    "salary": "$90,000 - $120,000 per year",
-    "posted_date": "2023-06-21",
-    "expiry_date": "2023-07-21",
-    "contact": {
-      "name": "Mark Davis",
-      "email": "markdavis@example.com",
-      "phone": "+1 777-987-6543"
+    {
+      "id": 4,
+      "title": "Marketing Manager",
+      "company": "Growth Marketing Co",
+      "location": "Los Angeles, CA",
+      "description": "We are looking for an experienced marketing manager to lead our team. Join us and be part of our dynamic marketing department where you will oversee marketing campaigns, develop strategies, and drive business growth. [Real text for Marketing Manager description goes here]",
+      "requirements": "Bachelor's degree in Marketing or a related field is required. The candidate should have a minimum of 5 years of experience in marketing, excellent leadership skills, and a proven track record of successful marketing campaigns. [Real text for Marketing Manager requirements goes here]",
+      "skills": [
+        "Digital Marketing",
+        "Social Media Management",
+        "Campaign Strategy"
+      ],
+      "employment_type": "Full-time",
+      "salary": "$90,000 - $120,000 per year",
+      "posted_date": "2023-06-21",
+      "expiry_date": "2023-07-21",
+      "contact": {
+        "name": "Mark Davis",
+        "email": "markdavis@example.com",
+        "phone": "+1 777-987-6543"
+      },
+      "photo": "https://example.com/company_logo.png",
+      "shortDescription": "Short description for Marketing Manager"
     },
-    "photo": "https://example.com/company_logo.png"
-  },
-  {
-     "id": 5,
-    "title": "Graphic Designer",
-    "company": "Creative Agency",
-    "location": "London, UK",
-    "description": "We are seeking a talented graphic designer to join our team...",
-    "requirements": "Bachelor's degree in Graphic Design or related field...",
-    "skills": ["Adobe Creative Suite", "Typography", "Visual Communication"],
-    "employment_type": "Full-time",
-    "salary": "£30,000 - £40,000 per year",
-    "posted_date": "2023-06-22",
-    "expiry_date": "2023-07-22",
-    "contact": {
-      "name": "Sarah Thompson",
-      "email": "sarahthompson@example.com",
-      "phone": "+44 20 1234 5678"
+    {
+      "id": 5,
+      "title": "Graphic Designer",
+      "company": "Creative Agency",
+      "location": "London, UK",
+      "description": "We are seeking a talented graphic designer to join our team. If you have a passion for visual storytelling, creative problem-solving, and a strong eye for design, this is the perfect opportunity for you. [Real text for Graphic Designer description goes here]",
+      "requirements": "Bachelor's degree in Graphic Design or a related field is required. The candidate should be proficient in Adobe Creative Suite, have a deep understanding of typography, and possess strong visual communication skills. [Real text for Graphic Designer requirements goes here]",
+      "skills": ["Adobe Creative Suite", "Typography", "Visual Communication"],
+      "employment_type": "Full-time",
+      "salary": "£30,000 - £40,000 per year",
+      "posted_date": "2023-06-22",
+      "expiry_date": "2023-07-22",
+      "contact": {
+        "name": "Sarah Thompson",
+        "email": "sarahthompson@example.com",
+        "phone": "+44 20 1234 5678"
+      },
+      "photo": "https://example.com/company_logo.png",
+      "shortDescription": "Short description for Graphic Designer"
     },
-    "photo": "https://example.com/company_logo.png"
-  },
-  {
-     "id": 6,
-    "title": "Financial Analyst",
-    "company": "Investment Firm",
-    "location": "Chicago, IL",
-    "description": "We are seeking a detail-oriented financial analyst to join our team...",
-    "requirements": "Bachelor's degree in Finance or related field...",
-    "skills": ["Financial Modeling", "Data Analysis", "Investment Research"],
-    "employment_type": "Full-time",
-    "salary": "$70,000 - $90,000 per year",
-    "posted_date": "2023-06-23",
-    "expiry_date": "2023-07-23",
-    "contact": {
-      "name": "Michael Johnson",
-      "email": "michaeljohnson@example.com",
-      "phone": "+1 333-555-7890"
+    {
+      "id": 6,
+      "title": "Financial Analyst",
+      "company": "Investment Firm",
+      "location": "Chicago, IL",
+      "description": "We are seeking a detail-oriented financial analyst to join our team. As a financial analyst, you will be responsible for conducting in-depth financial analysis, creating financial models, and providing insights to support investment decision-making. [Real text for Financial Analyst description goes here]",
+      "requirements": "Bachelor's degree in Finance or a related field is required. The candidate should have strong analytical skills, proficiency in financial modeling and data analysis, and knowledge of investment research methodologies. [Real text for Financial Analyst requirements goes here]",
+      "skills": ["Financial Modeling", "Data Analysis", "Investment Research"],
+      "employment_type": "Full-time",
+      "salary": "$70,000 - $90,000 per year",
+      "posted_date": "2023-06-23",
+      "expiry_date": "2023-07-23",
+      "contact": {
+        "name": "Michael Johnson",
+        "email": "michaeljohnson@example.com",
+        "phone": "+1 333-555-7890"
+      },
+      "photo": "https://example.com/company_logo.png",
+      "shortDescription": "Short description for Financial Analyst"
     },
-    "photo": "https://example.com/company_logo.png"
-  },
-  {
-     "id": 7,
-    "title": "Sales Representative",
-    "company": "Global Tech Solutions",
-    "location": "Toronto, ON",
-    "description": "We are looking for a motivated sales representative to join our team...",
-    "requirements": "High school diploma or equivalent...",
-    "skills": ["Sales", "Negotiation", "Customer Relationship"],
-    "employment_type": "Full-time",
-    "salary": "$50,000 - $70,000 per year",
-    "posted_date": "2023-06-24",
-    "expiry_date": "2023-07-24",
-    "contact": {
-      "name": "Alex Rodriguez",
-      "email": "alexrodriguez@example.com",
-      "phone": "+1 888-222-3333"
+    {
+      "id": 7,
+      "title": "Sales Representative",
+      "company": "Global Tech Solutions",
+      "location": "Toronto, ON",
+      "description": "We are looking for a motivated sales representative to join our team. As a sales representative, you will play a key role in acquiring new customers, maintaining client relationships, and achieving sales targets. [Real text for Sales Representative description goes here]",
+      "requirements": "High school diploma or equivalent is required. The candidate should have excellent communication and interpersonal skills, strong negotiation abilities, and a customer-oriented mindset. [Real text for Sales Representative requirements goes here]",
+      "skills": ["Sales", "Negotiation", "Customer Relationship"],
+      "employment_type": "Full-time",
+      "salary": "$50,000 - $70,000 per year",
+      "posted_date": "2023-06-24",
+      "expiry_date": "2023-07-24",
+      "contact": {
+        "name": "Alex Rodriguez",
+        "email": "alexrodriguez@example.com",
+        "phone": "+1 888-222-3333"
+      },
+      "photo": "https://example.com/company_logo.png",
+      "shortDescription": "Short description for Sales Representative"
     },
-    "photo": "https://example.com/company_logo.png"
-  },
-  {
-     "id": 8,
-    "title": "Project Manager",
-    "company": "Construction Co",
-    "location": "Sydney, Australia",
-    "description": "We are seeking an experienced project manager to oversee construction projects...",
-    "requirements": "Bachelor's degree in Civil Engineering or related field...",
-    "skills": ["Project Management", "Construction Planning", "Team Leadership"],
-    "employment_type": "Full-time",
-    "salary": "AUD 100,000 - AUD 130,000 per year",
-    "posted_date": "2023-06-25",
-    "expiry_date": "2023-07-25",
-    "contact": {
-      "name": "Emma Wilson",
-      "email": "emmawilson@example.com",
-      "phone": "+61 2 9876 5432"
+    {
+      "id": 8,
+      "title": "Project Manager",
+      "company": "Construction Co",
+      "location": "Sydney, Australia",
+      "description": "We are seeking an experienced project manager to oversee construction projects. Join our team and lead the successful delivery of construction projects, manage project budgets and schedules, and ensure quality and safety standards are met. [Real text for Project Manager description goes here]",
+      "requirements": "Bachelor's degree in Civil Engineering or a related field is required. The candidate should have proven experience in project management, strong knowledge of construction planning and methodologies, and excellent team leadership skills. [Real text for Project Manager requirements goes here]",
+      "skills": [
+        "Project Management",
+        "Construction Planning",
+        "Team Leadership"
+      ],
+      "employment_type": "Full-time",
+      "salary": "AUD 100,000 - AUD 130,000 per year",
+      "posted_date": "2023-06-25",
+      "expiry_date": "2023-07-25",
+      "contact": {
+        "name": "Emma Wilson",
+        "email": "emmawilson@example.com",
+        "phone": "+61 2 9876 5432"
+      },
+      "photo": "https://example.com/company_logo.png",
+      "shortDescription": "Short description for Project Manager"
     },
-    "photo": "https://example.com/company_logo.png"
-  },
-  {
-     "id": 9,
-    "title": "Customer Support Specialist",
-    "company": "E-commerce Inc",
-    "location": "Berlin, Germany",
-    "description": "We are looking for a friendly and dedicated customer support specialist...",
-    "requirements": "High school diploma or equivalent...",
-    "skills": ["Customer Service", "Problem Solving", "Communication"],
-    "employment_type": "Full-time",
-    "salary": "€30,000 - €40,000 per year",
-    "posted_date": "2023-06-26",
-    "expiry_date": "2023-07-26",
-    "contact": {
-      "name": "Lisa Müller",
-      "email": "lisamueller@example.com",
-      "phone": "+49 1234 567890"
+    {
+      "id": 9,
+      "title": "Customer Support Specialist",
+      "company": "E-commerce Inc",
+      "location": "Berlin, Germany",
+      "description": "We are looking for a friendly and dedicated customer support specialist to join our team. As a customer support specialist, you will be responsible for providing excellent customer service, resolving inquiries and issues, and ensuring customer satisfaction. [Real text for Customer Support Specialist description goes here]",
+      "requirements": "High school diploma or equivalent is required. The candidate should have strong customer service skills, problem-solving abilities, and effective communication skills. [Real text for Customer Support Specialist requirements goes here]",
+      "skills": ["Customer Service", "Problem Solving", "Communication"],
+      "employment_type": "Full-time",
+      "salary": "€30,000 - €40,000 per year",
+      "posted_date": "2023-06-26",
+      "expiry_date": "2023-07-26",
+      "contact": {
+        "name": "Lisa Müller",
+        "email": "lisamueller@example.com",
+        "phone": "+49 1234 567890"
+      },
+      "photo": "https://example.com/company_logo.png",
+      "shortDescription": "Short description for Customer Support Specialist"
     },
-    "photo": "https://example.com/company_logo.png"
-  },
-  {
-     "id": 10,
-    "title": "Human Resources Manager",
-    "company": "Global Corporation",
-    "location": "Singapore",
-    "description": "We are seeking an experienced HR manager to lead our human resources team...",
-    "requirements": "Bachelor's degree in Human Resources or related field...",
-    "skills": ["Recruitment", "Employee Relations", "Performance Management"],
-    "employment_type": "Full-time",
-    "salary": "SGD 80,000 - SGD 100,000 per year",
-    "posted_date": "2023-06-27",
-    "expiry_date": "2023-07-27",
-    "contact": {
-      "name": "David Tan",
-      "email": "davidtan@example.com",
-      "phone": "+65 9876 5432"
+    {
+      "id": 10,
+      "title": "Human Resources Manager",
+      "company": "Global Corporation",
+      "location": "Singapore",
+      "description": "We are seeking an experienced HR manager to lead our human resources team. Join us and oversee all aspects of HR operations, including recruitment, employee relations, and performance management. [Real text for Human Resources Manager description goes here]",
+      "requirements": "Bachelor's degree in Human Resources or a related field is required. The candidate should have proven experience in HR management, strong knowledge of recruitment practices, employee relations, and performance management. [Real text for Human Resources Manager requirements goes here]",
+      "skills": ["Recruitment", "Employee Relations", "Performance Management"],
+      "employment_type": "Full-time",
+      "salary": "SGD 80,000 - SGD 100,000 per year",
+      "posted_date": "2023-06-27",
+      "expiry_date": "2023-07-27",
+      "contact": {
+        "name": "David Tan",
+        "email": "davidtan@example.com",
+        "phone": "+65 9876 5432"
+      },
+      "photo": "https://example.com/company_logo.png",
+      "shortDescription": "Short description for Human Resources Manager"
     },
-    "photo": "https://example.com/company_logo.png"
-  },
-  {
-     "id": 11,
-    "title": "Content Writer",
-    "company": "Media Agency",
-    "location": "Mumbai, India",
-    "description": "We are looking for a talented content writer to join our team...",
-    "requirements": "Bachelor's degree in English, Journalism, or related field...",
-    "skills": ["Copywriting", "Content Editing", "SEO"],
-    "employment_type": "Full-time",
-    "salary": "INR 500,000 - INR 800,000 per year",
-    "posted_date": "2023-06-28",
-    "expiry_date": "2023-07-28",
-    "contact": {
-      "name": "Ravi Verma",
-      "email": "raviverma@example.com",
-      "phone": "+91 98765 43210"
+    {
+      "id": 11,
+      "title": "Content Writer",
+      "company": "Media Agency",
+      "location": "Mumbai, India",
+      "description": "We are looking for a talented content writer to join our team. As a content writer, you will be responsible for creating engaging and informative content for various platforms, including web, social media, and print. [Real text for Content Writer description goes here]",
+      "requirements": "Bachelor's degree in English, Journalism, or a related field is required. The candidate should have excellent writing and editing skills, proficiency in SEO techniques, and a creative mindset. [Real text for Content Writer requirements goes here]",
+      "skills": ["Copywriting", "Content Editing", "SEO"],
+      "employment_type": "Full-time",
+      "salary": "INR 500,000 - INR 800,000 per year",
+      "posted_date": "2023-06-28",
+      "expiry_date": "2023-07-28",
+      "contact": {
+        "name": "Ravi Verma",
+        "email": "raviverma@example.com",
+        "phone": "+91 98765 43210"
+      },
+      "photo": "https://example.com/company_logo.png",
+      "shortDescription": "Short description for Content Writer"
     },
-    "photo": "https://example.com/company_logo.png"
-  },
-  {
-     "id": 12,
-    "title": "Electrical Engineer",
-    "company": "Power Systems",
-    "location": "Tokyo, Japan",
-    "description": "We are seeking a skilled electrical engineer to join our team...",
-    "requirements": "Bachelor's degree in Electrical Engineering or related field...",
-    "skills": ["Circuit Design", "Power Systems", "Testing"],
-    "employment_type": "Full-time",
-    "salary": "¥6,000,000 - ¥8,000,000 per year",
-    "posted_date": "2023-06-29",
-    "expiry_date": "2023-07-29",
-    "contact": {
-      "name": "Yuki Nakamura",
-      "email": "yukinakamura@example.com",
-      "phone": "+81 3-1234-5678"
+    {
+      "id": 12,
+      "title": "Electrical Engineer",
+      "company": "Power Systems",
+      "location": "Tokyo, Japan",
+      "description": "We are seeking a skilled electrical engineer to join our team. As an electrical engineer, you will be responsible for designing, developing, and testing electrical systems and equipment. [Real text for Electrical Engineer description goes here]",
+      "requirements": "Bachelor's degree in Electrical Engineering or a related field is required. The candidate should have a strong understanding of circuit design, power systems, and testing methodologies. [Real text for Electrical Engineer requirements goes here]",
+      "skills": ["Circuit Design", "Power Systems", "Testing"],
+      "employment_type": "Full-time",
+      "salary": "¥6,000,000 - ¥8,000,000 per year",
+      "posted_date": "2023-06-29",
+      "expiry_date": "2023-07-29",
+      "contact": {
+        "name": "Yuki Nakamura",
+        "email": "yukinakamura@example.com",
+        "phone": "+81 3-1234-5678"
+      },
+      "photo": "https://example.com/company_logo.png",
+      "shortDescription": "Short description for Electrical Engineer"
     },
-    "photo": "https://example.com/company_logo.png"
-  },
-  {
-     "id": 13,
-    "title": "Nurse",
-    "company": "Hospital Group",
-    "location": "London, UK",
-    "description": "We are seeking qualified nurses to join our hospital team...",
-    "requirements": "Bachelor's degree in Nursing...",
-    "skills": ["Patient Care", "Medical Knowledge", "Communication"],
-    "employment_type": "Full-time",
-    "salary": "£25,000 - £35,000 per year",
-    "posted_date": "2023-06-30",
-    "expiry_date": "2023-07-30",
-    "contact": {
-      "name": "Emma Thompson",
-      "email": "emmathompson@example.com",
-      "phone": "+44 20 9876 5432"
+    {
+      "id": 13,
+      "title": "Nurse",
+      "company": "Hospital Group",
+      "location": "London, UK",
+      "description": "We are seeking qualified nurses to join our hospital team. As a nurse, you will provide compassionate and high-quality patient care, collaborate with healthcare professionals, and ensure the well-being of patients. [Real text for Nurse description goes here]",
+      "requirements": "Bachelor's degree in Nursing is required. The candidate should have a strong medical knowledge, excellent patient care skills, and effective communication abilities. [Real text for Nurse requirements goes here]",
+      "skills": ["Patient Care", "Medical Knowledge", "Communication"],
+      "employment_type": "Full-time",
+      "salary": "£25,000 - £35,000 per year",
+      "posted_date": "2023-06-30",
+      "expiry_date": "2023-07-30",
+      "contact": {
+        "name": "Emma Thompson",
+        "email": "emmathompson@example.com",
+        "phone": "+44 20 9876 5432"
+      },
+      "photo": "https://example.com/company_logo.png",
+      "shortDescription": "Short description for Nurse"
     },
-    "photo": "https://example.com/company_logo.png"
-  },
-  {
-     "id": 14,
-    "title": "Restaurant Manager",
-    "company": "Fine Dining Group",
-    "location": "Paris, France",
-    "description": "We are looking for an experienced restaurant manager to oversee our operations...",
-    "requirements": "Bachelor's degree in Hospitality or related field...",
-    "skills": ["Restaurant Operations", "Staff Management", "Customer Service"],
-    "employment_type": "Full-time",
-    "salary": "€40,000 - €60,000 per year",
-    "posted_date": "2023-07-01",
-    "expiry_date": "2023-07-01",
-    "contact": {
-      "name": "Julien Dupont",
-      "email": "juliendupont@example.com",
-      "phone": "+33 1 2345 6789"
-    },
-    "photo": "https://example.com/company_logo.png"
-  }
+    {
+      "id": 14,
+      "title": "Restaurant Manager",
+      "company": "Fine Dining Group",
+      "location": "Paris, France",
+      "description": "We are looking for an experienced restaurant manager to oversee our operations. Join our team and lead a dynamic team of staff, ensure excellent customer service, and maintain the smooth functioning of the restaurant. [Real text for Restaurant Manager description goes here]",
+      "requirements": "Bachelor's degree in Hospitality or a related field is required. The candidate should have proven experience in restaurant operations, staff management, and a strong focus on customer service. [Real text for Restaurant Manager requirements goes here]",
+      "skills": [
+        "Restaurant Operations",
+        "Staff Management",
+        "Customer Service"
+      ],
+      "employment_type": "Full-time",
+      "salary": "€40,000 - €60,000 per year",
+      "posted_date": "2023-07-01",
+      "expiry_date": "2023-07-01",
+      "contact": {
+        "name": "Julien Dupont",
+        "email": "juliendupont@example.com",
+        "phone": "+33 1 2345 6789"
+      },
+      "photo": "https://example.com/company_logo.png",
+      "shortDescription": "Short description for Restaurant Manager"
+    }
   ]
 }
