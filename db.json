@@ -1,8 +1,7 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "dummyData": [
+    { "id": 1, "name": "John", "department":"Finance", "designation":"Manager", "email":"john@xyz.com" },
+    { "id": 2, "name":"Kate", "department":"IT", "designation":"Developer", "email":"kate@xyz.com" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
