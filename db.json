@@ -1,8 +1,8 @@
 {
   "members": [
-    { "id": 1, "name": "Elson", "title": "Director", "img": ""},
-    { "id": 2, "name": "Siang Bin", "title": "Software Developer", "img": "" },
-    { "id": 3, "name": "Rachel", "title": "Software Developer", "img": "" },
-    { "id": 4, "name": "Rinney", "title": "Software Developer", "img": "" }
+    { "id": 1, "name": "Elson", "title": "Director", "img": "avatar-boy"},
+    { "id": 2, "name": "Siang Bin", "title": "Software Developer", "img": "avatar-boy" },
+    { "id": 3, "name": "Rachel", "title": "Software Developer", "img": "avatar-girl" },
+    { "id": 4, "name": "Rinney", "title": "Software Developer", "img": "avatar-girl" }
   ]
 }
