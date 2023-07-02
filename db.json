@@ -1,14 +1,192 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "jobs": [
+    {
+      "id": 1,
+      "title": "Software Engineer",
+      "company": "ABC Technologies",
+      "location": "San Francisco, CA",
+      "description": "We are seeking a skilled software engineer to join our team. This is a full-time position with opportunities for growth and development. The ideal candidate should have a strong background in software development and be proficient in Java, Python, and JavaScript.",
+      "requirements": "Bachelor's degree in Computer Science or a related field is required. The candidate should have at least 3 years of experience in software development and be familiar with modern development frameworks and tools.",
+      "skills": ["Java", "Python", "JavaScript"],
+      "employment_type": "Full-time",
+      "salary": "$90,000 - $120,000 per year",
+      "posted_date": "2023-06-18",
+      "expiry_date": "2023-07-18",
+      "contact": {
+        "name": "John Doe",
+        "email": "johndoe@example.com",
+        "phone": "+1 123-456-7890"
+      }
+    },
+    {
+      "id": 2,
+      "title": "Data Scientist",
+      "company": "XYZ Analytics",
+      "location": "New York, NY",
+      "description": "We are looking for a talented data scientist to join our team. This is an exciting opportunity to work with a team of experts in the field of data analytics. The successful candidate will be responsible for analyzing large datasets, developing statistical models, and delivering actionable insights.",
+      "requirements": "Master's degree in Data Science or a related field is required. The candidate should have a deep understanding of statistical analysis, machine learning algorithms, and data visualization techniques. Proficiency in Python and R is necessary.",
+      "skills": ["Python", "R", "Machine Learning"],
+      "employment_type": "Full-time",
+      "salary": "$100,000 - $150,000 per year",
+      "posted_date": "2023-06-19",
+      "expiry_date": "2023-07-19",
+      "contact": {
+        "name": "Jane Smith",
+        "email": "janesmith@example.com",
+        "phone": "+1 987-654-3210"
+      }
+    },
+    {
+      "id": 3,
+      "title": "UX Designer",
+      "company": "Design Co",
+      "location": "Seattle, WA",
+      "description": "We are seeking a creative UX designer to join our team. As a UX designer, you will be responsible for creating intuitive user interfaces, conducting user research, and prototyping design concepts. Join our innovative team and help shape the future of user experience!",
+      "requirements": "Bachelor's degree in Design or a related field is required. The candidate should have a strong portfolio demonstrating expertise in user-centered design, wireframing, and prototyping. Proficiency in design tools such as Sketch or Adobe XD is necessary.",
+      "skills": ["User Research", "Wireframing", "Prototyping"],
+      "employment_type": "Full-time",
+      "salary": "$80,000 - $100,000 per year",
+      "posted_date": "2023-06-20",
+      "expiry_date": "2023-07-20",
+      "contact": {
+        "name": "Amy Johnson",
+        "email": "amyjohnson@example.com",
+        "phone": "+1 555-123-4567"
+      }
+    },
+    {
+      "id": 4,
+      "title": "Marketing Manager",
+      "company": "Growth Marketing Co",
+      "location": "Los Angeles, CA",
+      "description": "We are looking for an experienced marketing manager to lead our team. Join us and be part of our dynamic marketing department where you will oversee marketing campaigns, develop strategies, and drive business growth.",
+      "requirements": "Bachelor's degree in Marketing or a related field is required. The candidate should have a minimum of 5 years of experience in marketing, excellent leadership skills, and a proven track record of successful marketing campaigns.",
+      "skills": [
+        "Digital Marketing",
+        "Social Media Management",
+        "Campaign Strategy"
+      ],
+      "employment_type": "Full-time",
+      "salary": "$90,000 - $120,000 per year",
+      "posted_date": "2023-06-21",
+      "expiry_date": "2023-07-21",
+      "contact": {
+        "name": "Mark Davis",
+        "email": "markdavis@example.com",
+        "phone": "+1 777-987-6543"
+      }
+    },
+    {
+      "id": 5,
+      "title": "Graphic Designer",
+      "company": "Creative Agency",
+      "location": "London, UK",
+      "description": "We are seeking a talented graphic designer to join our team. If you have a passion for visual storytelling, creative problem-solving, and a strong eye for design, this is the perfect opportunity for you.",
+      "requirements": "Bachelor's degree in Graphic Design or a related field is required. The candidate should be proficient in Adobe Creative Suite, have a deep understanding of typography, and possess strong visual communication skills.",
+      "skills": ["Adobe Creative Suite", "Typography", "Visual Communication"],
+      "employment_type": "Full-time",
+      "salary": "£30,000 - £40,000 per year",
+      "posted_date": "2023-06-22",
+      "expiry_date": "2023-07-22",
+      "contact": {
+        "name": "Sarah Thompson",
+        "email": "sarahthompson@example.com",
+        "phone": "+44 20 1234 5678"
+      }
+    },
+    {
+      "id": 6,
+      "title": "Financial Analyst",
+      "company": "Investment Firm",
+      "location": "Chicago, IL",
+      "description": "We are seeking a detail-oriented financial analyst to join our team. As a financial analyst, you will be responsible for conducting in-depth financial analysis, creating financial models, and providing insights to support investment decision-making.",
+      "requirements": "Bachelor's degree in Finance or a related field is required. The candidate should have strong analytical skills, proficiency in financial modeling and data analysis, and knowledge of investment research methodologies.",
+      "skills": ["Financial Modeling", "Data Analysis", "Investment Research"],
+      "employment_type": "Full-time",
+      "salary": "$70,000 - $90,000 per year",
+      "posted_date": "2023-06-23",
+      "expiry_date": "2023-07-23",
+      "contact": {
+        "name": "Michael Johnson",
+        "email": "michaeljohnson@example.com",
+        "phone": "+1 333-555-7890"
+      }
+    },
+    {
+      "id": 7,
+      "title": "Sales Representative",
+      "company": "Global Tech Solutions",
+      "location": "Toronto, ON",
+      "description": "We are looking for a motivated sales representative to join our team. As a sales representative, you will play a key role in acquiring new customers, maintaining client relationships, and achieving sales targets.",
+      "requirements": "High school diploma or equivalent is required. The candidate should have excellent communication and interpersonal skills, strong negotiation abilities, and a customer-oriented mindset.",
+      "skills": ["Sales", "Negotiation", "Customer Relationship"],
+      "employment_type": "Full-time",
+      "salary": "$50,000 - $70,000 per year",
+      "posted_date": "2023-06-24",
+      "expiry_date": "2023-07-24",
+      "contact": {
+        "name": "Alex Rodriguez",
+        "email": "alexrodriguez@example.com",
+        "phone": "+1 888-222-3333"
+      }
+    },
+    {
+      "id": 8,
+      "title": "Project Manager",
+      "company": "Construction Co",
+      "location": "Sydney, Australia",
+      "description": "We are seeking an experienced project manager to oversee construction projects. Join our team and lead the successful delivery of construction projects, manage project budgets and schedules, and ensure quality and safety standards are met.",
+      "requirements": "Bachelor's degree in Civil Engineering or a related field is required. The candidate should have proven experience in project management, strong knowledge of construction planning and methodologies, and excellent team leadership skills.",
+      "skills": [
+        "Project Management",
+        "Construction Planning",
+        "Team Leadership"
+      ],
+      "employment_type": "Full-time",
+      "salary": "AUD 100,000 - AUD 130,000 per year",
+      "posted_date": "2023-06-25",
+      "expiry_date": "2023-07-25",
+      "contact": {
+        "name": "Emma Wilson",
+        "email": "emmawilson@example.com",
+        "phone": "+61 2 9876 5432"
+      }
+    },
+    {
+      "id": 9,
+      "title": "Customer Support Specialist",
+      "company": "E-commerce Inc",
+      "location": "Berlin, Germany",
+      "description": "We are looking for a friendly and dedicated customer support specialist to join our team. As a customer support specialist, you will be responsible for providing excellent customer service, resolving inquiries and issues, and ensuring customer satisfaction.",
+      "requirements": "High school diploma or equivalent is required. The candidate should have strong customer service skills, problem-solving abilities, and effective communication skills. ",
+      "skills": ["Customer Service", "Problem Solving", "Communication"],
+      "employment_type": "Full-time",
+      "salary": "€30,000 - €40,000 per year",
+      "posted_date": "2023-06-26",
+      "expiry_date": "2023-07-26",
+      "contact": {
+        "name": "Lisa Müller",
+        "email": "lisamueller@example.com",
+        "phone": "+49 1234 567890"
+      }
+    },
+    {
+      "id": 10,
+      "title": "Human Resources Manager",
+      "company": "Global Corporation",
+      "location": "Singapore",
+      "description": "We are seeking an experienced HR manager to lead our human resources team. Join us and oversee all aspects of HR operations, including recruitment, employee relations, and performance management.",
+      "requirements": "Bachelor's degree in Human Resources or a related field is required. The candidate should have proven experience in HR management, strong knowledge of recruitment practices, employee relations, and performance management.",
+      "skills": ["Recruitment", "Employee Relations", "Performance Management"],
+      "employment_type": "Full-time",
+      "salary": "SGD 80,000 - SGD 100,000 per year",
+      "posted_date": "2023-06-27",
+      "expiry_date": "2023-07-27",
+      "contact": {
+        "name": "David Tan",
+        "email": "davidtan@example.com",
+        "phone": "+65 9876 5432"
+      }
+    }
+  ]
 }
