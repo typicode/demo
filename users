@@ -1,1 +1,39 @@
 
+{
+  "users":[
+  {
+    "id": "1",
+    "firstName": "John",
+    "lastName": "Doe",
+    "email": "johndoe@example.com",
+    "password": "password1",
+    "birth": "1990-01-01",
+    "country": "United States",
+    "role": "user",
+    "photo": "profile1.jpg"
+  },
+  {
+    "id": "2",
+    "firstName": "Jane",
+    "lastName": "Smith",
+    "email": "janesmith@example.com",
+    "password": "password2",
+    "birth": "1985-05-15",
+    "country": "Canada",
+    "role": "user",
+    "photo": "profile2.jpg"
+  },
+  {
+    "id": "3",
+    "firstName": "Michael",
+    "lastName": "Johnson",
+    "email": "michaeljohnson@example.com",
+    "password": "password3",
+    "birth": "1992-12-30",
+    "country": "Australia",
+    "role": "user",
+    "photo": "profile3.jpg"
+  }
+]
+
+}
