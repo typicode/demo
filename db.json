@@ -1,14 +1,71 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "payment_type": "3_months",
+  "transaction_data": {
+    "amount": 12750000,
+    "order_id": "TRXORDER0000100001",
+    "items": [
+      {
+        "id":"400",
+        "name":"Laptop Azuz",
+        "price": 12000000,
+        "quantity":1
+      },
+      {
+        "id":"557",
+        "name":"Mouse Logitek",
+        "price": 500000,
+        "quantity":1
+      },
+      {
+        "id":"456",
+        "name":"Headset Logitek",
+        "price": 250000,
+        "quantity":1
+      },
+      {
+        "id":"600",
+        "name":"Charger iPho",
+        "price": 30000,
+        "quantity":1
+      }
+    ]
+  },
+  "seller_data":[
+    {
+      "id":"SELLER001",
+      "name":"TEKNIK BERSAMA",
+      "email": "teknikbersama@gmail.com",
+      "url": "https://kredivocorp.com/",
+      "address" : {
+        "first_name":"Darma",
+        "last_name":"Wan",
+        "address":"Jalan Buntu no 59",
+        "city":"Jakarta Utara",
+        "postal_code":"12960",
+        "phone":"08123456890"
+      }
+    }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
+  "customer_data": {
+    "first_name": "Albert",
+    "last_name":"Seit",
+    "email": "albert@gmail.com",
+    "phone":"081111111111"
+  },
+  "billing_address_data": {
+    "first_name":"Albert",
+    "last_name":"Seit",
+    "address":"Jalan Teknologi Indonesia No. 25",
+    "city":"Jakarta",
+    "postal_code":"12960",
+    "phone":"081513114262"
+  },
+  "shipping_address_data": {
+    "first_name":"Albert",
+    "last_name":"Seit",
+    "address":"Jalan Teknologi Indonesia No. 25",
+    "city":"Jakarta",
+    "postal_code":"12960",
+    "phone":"081513114262"
   }
 }
