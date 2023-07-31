@@ -1,0 +1,54 @@
+name: Generate Incident Report
+on:
+  schedule:
+    - cron: "0 0 * * *"
+
+jobs:
+  generate-report:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Fetch incident issues
+        run: |
+          # Replace "your-username" and "your-repo" with your GitHub username and repository name
+          owner="TeunTycho"
+          repo="demobi"
+          label="incident"
+          url="https://api.github.com/repos/$owner/$repo/issues?labels=$label"
+          response=$(curl -s $url)
+          echo "$response" > issues.json
+
+      - name: Generate report
+        run: |
+          python - <<EOF
+          import json
+
+          with open('issues.json') as f:
+              issues = json.load(f)
+
+          report = "Incident Report:\n\n"
+
+          for issue in issues:
+              title = issue['title']
+              url = issue['html_url']
+              report += f"- {title} ({url})\n"
+
+          with open('incident_report.txt', 'w') as f:
+              f.write(report)
+          EOF
+
+      - name: Upload report as artifact
+        uses: actions/upload-artifact@v2
+        with:
+          name: incident_report
+          path: incident_report.txt
