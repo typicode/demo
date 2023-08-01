@@ -1,8 +1,9 @@
 {
   "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+    { "id": 1, "title": "UNIBIC Assorted(Pack of 10) Cookies  (750 g)", "Price": 165, "image":"https://rukminim2.flixcart.com/image/280/280/xif0q/cookie-biscuit/q/4/q/750-assorted-cookies-75g-pack-of-10-1-unibic-original-imaghw7zehvmepkd.jpeg?q=70" },
+    { "id": 2, "title": "Cadbury Oreo Biscuit Chocolate Flavour Cream Sandwich  (43.75 g)", "Price": 9, "image":"https://rukminim2.flixcart.com/image/416/416/xif0q/cookie-biscuit/u/d/0/-original-imagrdppa8g8dbhb.jpeg?q=70" },
+    { "id": 3, "title": "Tide Matic Front Load Fresh Liquid Detergent  (850 ml)", "price": 150, "image":"https://rukminim2.flixcart.com/image/416/416/xif0q/liquid-detergent/t/p/i/-original-imagh6swbcvhugsh.jpeg?q=70"  },
+    { "id": 4, "title": "Surf excel Detergent Bar  (80 g)", "Price": 9, "image":"https://rukminim2.flixcart.com/image/416/416/jg6v24w0/washing-bar/m/g/f/na-100-surf-excel-original-imaf4hp8k57gq9k3.jpeg?q=70" }                          
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
