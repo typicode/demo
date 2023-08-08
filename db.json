@@ -10,5 +10,9 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "users":[
+    {"id":1, "name":'omair', "phone":"1231231231", "countryCode": '+91', "age": 15, "email":"o@g.com", "gender": 'Male'},
+    {"id":2, "name":'tahsin', "phone":"2342342342", "countryCode": '+91', "age": 99, "email":"t@g.com", "gender": 'Female'},
+  ]
 }
