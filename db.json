@@ -1,14 +1,342 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "meal": [
+    {
+      "id": "m1",
+      "categories": [
+        "c1",
+        "c2"
+      ],
+      "title": "番茄酱意大利面",
+      "affordability": 0,
+      "complexity": 0,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Spaghetti_Bolognese_mit_Parmesan_oder_Grana_Padano.jpg/800px-Spaghetti_Bolognese_mit_Parmesan_oder_Grana_Padano.jpg",
+      "duration": 20,
+      "ingredients": [
+        "4个西红柿",
+        "一汤匙橄榄油",
+        "1个洋葱",
+        "250克意大利面",
+        "香料",
+        "奶酪（可选）"
+      ],
+      "steps": [
+        "把西红柿和洋葱切成小块。",
+        "烧开水煮沸后加盐。",
+        "把意大利面放进开水里，大约10到12分钟就可以做好。",
+        "同时加热一些橄榄油，加入切好的洋葱。",
+        "两分钟后，加入番茄片、盐、胡椒和其他香料。",
+        "一旦意大利面做好了，调味汁就会做好。",
+        "在成品盘上随意加些奶酪。"
+      ],
+      "isGlutenFree": false,
+      "isVegan": true,
+      "isVegetarian": true,
+      "isLactoseFree": true
+    },
+    {
+      "id": "m2",
+      "categories": [
+        "c2"
+      ],
+      "title": "夏威夷烤面包",
+      "affordability": 0,
+      "complexity": 0,
+      "imageUrl": "https://cdn.pixabay.com/photo/2018/07/11/21/51/toast-3532016_1280.jpg",
+      "duration": 10,
+      "ingredients": [
+        "一片白面包",
+        "一片火腿",
+        "1片菠萝",
+        "1-2片奶酪",
+        "黄油"
+      ],
+      "steps": [
+        "在白面包的一边涂黄油。",
+        "把火腿、菠萝和奶酪放在白面包上。",
+        "在200℃的烤箱中烤10分钟左右。"
+      ],
+      "isGlutenFree": false,
+      "isVegan": false,
+      "isVegetarian": false,
+      "isLactoseFree": false
+    },
+    {
+      "id": "m3",
+      "categories": [
+        "c2",
+        "c3"
+      ],
+      "title": "经典汉堡包",
+      "affordability": 1,
+      "complexity": 0,
+      "imageUrl": "https://cdn.pixabay.com/photo/2014/10/23/18/05/burger-500054_1280.jpg",
+      "duration": 45,
+      "ingredients": [
+        "300克牛扒",
+        "1个西红柿",
+        "1根黄瓜",
+        "1个洋葱",
+        "番茄酱",
+        "2个汉堡包子"
+      ],
+      "steps": [
+        "形成两个馅饼。",
+        "每面煎约4分钟。",
+        "快把面包煎约1分钟。",
+        "番茄酱豆豉包。",
+        "汉堡配番茄、黄瓜和洋葱。"
+      ],
+      "isGlutenFree": false,
+      "isVegan": false,
+      "isVegetarian": false,
+      "isLactoseFree": true
+    },
+    {
+      "id": "m4",
+      "categories": [
+        "c4"
+      ],
+      "title": "维也纳炸小牛排",
+      "affordability": 2,
+      "complexity": 1,
+      "imageUrl": "https://cdn.pixabay.com/photo/2018/03/31/19/29/schnitzel-3279045_1280.jpg",
+      "duration": 60,
+      "ingredients": [
+        "8块小牛肉",
+        "4个鸡蛋",
+        "200克面包屑",
+        "100克面粉",
+        "300毫升黄油",
+        "100克植物油",
+        "盐",
+        "柠檬片"
+      ],
+      "steps": [
+        "嫩化小牛肉至2-4毫米左右，两面加盐。",
+        "在一个平板上，用叉子短暂地搅拌鸡蛋。",
+        "在肉排上轻轻涂上面粉，然后蘸上鸡蛋，最后涂上面包屑。",
+        "把黄油和油放在一个大平底锅里加热（让脂肪变得很热），然后在两个平底锅上炸到金黄。",
+        "一定要定期地把锅扔起来，这样炸薯条就会被油包围，而且碎的东西会变得“蓬松”。",
+        "取出并在厨房纸上排水。把欧芹放在剩余的油里煎一下，沥乾。",
+        "把炸肉排放在盛满水的盘子里，用欧芹和柠檬片装饰。"
+      ],
+      "isGlutenFree": false,
+      "isVegan": false,
+      "isVegetarian": false,
+      "isLactoseFree": false
+    },
+    {
+      "id": "m5",
+      "categories": [
+        "c2",
+        "c5",
+        "c10"
+      ],
+      "title": "烟熏三文鱼沙拉",
+      "affordability": 2,
+      "complexity": 0,
+      "imageUrl": "https://cdn.pixabay.com/photo/2016/10/25/13/29/smoked-salmon-salad-1768890_1280.jpg",
+      "duration": 15,
+      "ingredients": [
+        "芝麻菜",
+        "羊肉跟生菜",
+        "西芹",
+        "茴香",
+        "200克熏鲑鱼",
+        "芥末",
+        "葡萄香脂",
+        "橄榄油",
+        "盐和胡椒"
+      ],
+      "steps": [
+        "沙拉和香草洗净切块",
+        "把鲑鱼切成丁",
+        "把芥末、醋和橄榄油加工成干品",
+        "准备沙拉",
+        "加入三文鱼块和调味料"
+      ],
+      "isGlutenFree": true,
+      "isVegan": false,
+      "isVegetarian": true,
+      "isLactoseFree": true
+    },
+    {
+      "id": "m6",
+      "categories": [
+        "c6",
+        "c10"
+      ],
+      "title": "美味的橘子慕斯",
+      "affordability": 0,
+      "complexity": 2,
+      "imageUrl": "https://cdn.pixabay.com/photo/2017/05/01/05/18/pastry-2274750_1280.jpg",
+      "duration": 240,
+      "ingredients": [
+        "4片明胶",
+        "150毫升橙汁",
+        "80克糖",
+        "300克酸奶",
+        "200克奶油",
+        "桔皮"
+      ],
+      "steps": [
+        "把明胶溶在锅里",
+        "加橙汁和糖",
+        "把锅从炉子上拿下来",
+        "加2汤匙酸奶",
+        "剩余酸奶拌明胶",
+        "放进冰箱里冷却至凉",
+        "搅打奶油，把它举到橘子块下面",
+        "再次冷却至少4小时",
+        "与橘皮一起食用"
+      ],
+      "isGlutenFree": true,
+      "isVegan": false,
+      "isVegetarian": true,
+      "isLactoseFree": false
+    },
+    {
+      "id": "m7",
+      "categories": [
+        "c7"
+      ],
+      "title": "Pancakes",
+      "affordability": 0,
+      "complexity": 0,
+      "imageUrl": "https://cdn.pixabay.com/photo/2018/07/10/21/23/pancake-3529653_1280.jpg",
+      "duration": 20,
+      "ingredients": [
+        "1/2杯通用面粉",
+        "1/2茶匙发酵粉",
+        "1茶匙盐",
+        "1汤匙白糖",
+        "1/4杯牛奶",
+        "1个鸡蛋",
+        "3汤匙黄油，融化"
+      ],
+      "steps": [
+        "在一个大碗里，把面粉、发酵粉、盐和糖筛在一起。",
+        "在中间打一口井，倒入牛奶、鸡蛋和融化的黄油，搅拌均匀。",
+        "用中高热加热一个抹了少许油的煎锅或煎锅。",
+        "将面糊倒在或舀到烤架上，每个煎饼大约用1/4杯。如果两边都煎成棕色的，会很辣。"
+      ],
+      "isGlutenFree": true,
+      "isVegan": false,
+      "isVegetarian": true,
+      "isLactoseFree": false
+    },
+    {
+      "id": "m8",
+      "categories": [
+        "c8"
+      ],
+      "title": "印度奶油咖喱鸡",
+      "affordability": 1,
+      "complexity": 1,
+      "imageUrl": "https://cdn.pixabay.com/photo/2018/06/18/16/05/indian-food-3482749_1280.jpg",
+      "duration": 35,
+      "ingredients": [
+        "4块鸡胸肉",
+        "1个洋葱",
+        "2瓣大蒜",
+        "一片姜",
+        "4汤匙杏仁",
+        "1茶匙辣椒",
+        "500毫升椰奶"
+      ],
+      "steps": [
+        "把鸡胸肉切成片煎一下",
+        "把洋葱、大蒜和姜加工成糊状，然后把所有的东西都炒熟",
+        "加香料炒",
+        "加入鸡胸肉+250毫升水，煮10分钟",
+        "加椰奶",
+        "配米饭"
+      ],
+      "isGlutenFree": true,
+      "isVegan": false,
+      "isVegetarian": false,
+      "isLactoseFree": true
+    },
+    {
+      "id": "m9",
+      "categories": [
+        "c9"
+      ],
+      "title": "巧克力蛋奶酥",
+      "affordability": 0,
+      "complexity": 2,
+      "imageUrl": "https://cdn.pixabay.com/photo/2014/08/07/21/07/souffle-412785_1280.jpg",
+      "duration": 45,
+      "ingredients": [
+        "1茶匙融化的黄油",
+        "2汤匙白糖",
+        "2盎司70%黑巧克力，碎块",
+        "1汤匙烟蒂r",
+        "1汤匙通用面粉",
+        "1/3汤匙冷牛奶",
+        "1夹盐",
+        "一撮辣椒",
+        "1个大蛋黄",
+        "2个大蛋白",
+        "1份奶油馅饼",
+        "1汤匙白糖"
+      ],
+      "steps": [
+        "将烤箱预热至190°C。用羊皮纸在边缘烤盘上划线。",
+        "用1茶匙融化的黄油轻轻刷两个拉面的底部和侧面；盖上底部和侧面直到边缘。",
+        "在拉面上加1汤匙白糖。旋转拉面直到糖覆盖所有表面。",
+        "把巧克力块放在一个金属搅拌碗里。",
+        "把碗放在一个大约3杯热水的平底锅上。",
+        "在平底锅中用中火融化1汤匙黄油。撒上面粉。搅拌至面粉与黄油混合，混合物变稠。",
+        "在冷牛奶中搅拌直到混合物变得光滑和粘稠。把混合物和融化的巧克力一起放到碗里。",
+        "加入盐和辣椒。完全混合在一起。加入蛋黄搅拌均匀。",
+        "把碗放在热的（不是炖的）水上，一边搅拌蛋白一边让巧克力保持温暖。",
+        "将2个蛋白放入一个搅拌碗中；加入奶油酒石。搅拌直到混合物开始变稠，搅拌后的细雨停留在表面约1秒，然后消失在混合物中。",
+        "加入1/3的糖，搅拌均匀。再加点糖搅拌15秒左右。",
+        "把剩下的糖搅拌进去。继续搅拌，直到混合物和剃须膏一样厚，并保持柔软的峰值，3到5分钟。",
+        "把不到一半的蛋白转移到巧克力上",
+        "搅拌直到蛋白完全融入巧克力中。",
+        "把剩下的蛋清加入巧克力中，用抹刀轻轻地从底部提起并折叠起来。",
+        "蛋清消失后停止搅拌。把混合物分给两个准备好的拉面。把拉面放在准备好的烤盘上。",
+        "在预热的烤箱中烤12到15分钟，直到混战被吹胀并上升到边缘上方。"
+      ],
+      "isGlutenFree": true,
+      "isVegan": false,
+      "isVegetarian": true,
+      "isLactoseFree": false
+    },
+    {
+      "id": "m10",
+      "categories": [
+        "c2",
+        "c5",
+        "c10"
+      ],
+      "title": "芦笋色拉配樱桃番茄",
+      "affordability": 2,
+      "complexity": 0,
+      "imageUrl": "https://cdn.pixabay.com/photo/2018/04/09/18/26/asparagus-3304997_1280.jpg",
+      "duration": 30,
+      "ingredients": [
+        "白芦笋",
+        "30克松仁",
+        "300克樱桃番茄",
+        "蔬菜色拉",
+        "盐、胡椒和橄榄油"
+      ],
+      "steps": [
+        "芦笋洗净去皮切块",
+        "用盐水煮",
+        "盐和胡椒芦笋",
+        "烤松子",
+        "把西红柿减半",
+        "拌芦笋、色拉和调味料",
+        "配法式面包"
+      ],
+      "isGlutenFree": true,
+      "isVegan": true,
+      "isVegetarian": true,
+      "isLactoseFree": true
+    }
+  ]
 }
