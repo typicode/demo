@@ -1,14 +1,716 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+    "booked_events": [
+        {
+            "attendee_id": 3,
+            "event_id": 5,
+            "event_location": "Lake Bryan",
+            "event_title": "Investment myself group community.",
+            "id": 1,
+            "ticket_level": "Early Bird"
+        },
+        {
+            "attendee_id": 4,
+            "event_id": 8,
+            "event_location": "Powershaven",
+            "event_title": "Meet dark question.",
+            "id": 2,
+            "ticket_level": "VIP"
+        },
+        {
+            "attendee_id": 3,
+            "event_id": 2,
+            "event_location": "Hicksfort",
+            "event_title": "Member truth perform Congress.",
+            "id": 3,
+            "ticket_level": "Early Bird"
+        },
+        {
+            "attendee_id": 3,
+            "event_id": 14,
+            "event_location": "East Richardberg",
+            "event_title": "Wear response up before before yes produce spend.",
+            "id": 4,
+            "ticket_level": "Early Bird"
+        },
+        {
+            "attendee_id": 3,
+            "event_id": 12,
+            "event_location": "Aliton",
+            "event_title": "Member purpose building green professor much type.",
+            "id": 5,
+            "ticket_level": "Regular"
+        },
+        {
+            "attendee_id": 2,
+            "event_id": 6,
+            "event_location": "New Mark",
+            "event_title": "Bag phone democratic administration.",
+            "id": 6,
+            "ticket_level": "VIP"
+        },
+        {
+            "attendee_id": 8,
+            "event_id": 17,
+            "event_location": "Joanneside",
+            "event_title": "Again his stage year include step.",
+            "id": 7,
+            "ticket_level": "Early Bird"
+        },
+        {
+            "attendee_id": 9,
+            "event_id": 11,
+            "event_location": "Lake Jason",
+            "event_title": "Rate heart painting ground middle bad tough police.",
+            "id": 8,
+            "ticket_level": "VIP"
+        },
+        {
+            "attendee_id": 3,
+            "event_id": 14,
+            "event_location": "East Richardberg",
+            "event_title": "Wear response up before before yes produce spend.",
+            "id": 9,
+            "ticket_level": "Early Bird"
+        },
+        {
+            "attendee_id": 9,
+            "event_id": 4,
+            "event_location": "Lovemouth",
+            "event_title": "Late very free us.",
+            "id": 10,
+            "ticket_level": "Early Bird"
+        },
+        {
+            "attendee_id": 9,
+            "event_id": 12,
+            "event_location": "Aliton",
+            "event_title": "Member purpose building green professor much type.",
+            "id": 11,
+            "ticket_level": "Early Bird"
+        },
+        {
+            "attendee_id": 1,
+            "event_id": 20,
+            "event_location": "Jerrymouth",
+            "event_title": "How up suffer bring question some growth son.",
+            "id": 12,
+            "ticket_level": "VIP"
+        },
+        {
+            "attendee_id": 6,
+            "event_id": 1,
+            "event_location": "South Taratown",
+            "event_title": "However magazine field far skill begin forget box.",
+            "id": 13,
+            "ticket_level": "Regular"
+        },
+        {
+            "attendee_id": 8,
+            "event_id": 5,
+            "event_location": "Lake Bryan",
+            "event_title": "Investment myself group community.",
+            "id": 14,
+            "ticket_level": "VIP"
+        },
+        {
+            "attendee_id": 8,
+            "event_id": 5,
+            "event_location": "Lake Bryan",
+            "event_title": "Investment myself group community.",
+            "id": 15,
+            "ticket_level": "Early Bird"
+        },
+        {
+            "attendee_id": 9,
+            "event_id": 4,
+            "event_location": "Lovemouth",
+            "event_title": "Late very free us.",
+            "id": 16,
+            "ticket_level": "Regular"
+        },
+        {
+            "attendee_id": 3,
+            "event_id": 11,
+            "event_location": "Lake Jason",
+            "event_title": "Rate heart painting ground middle bad tough police.",
+            "id": 17,
+            "ticket_level": "Early Bird"
+        },
+        {
+            "attendee_id": 4,
+            "event_id": 17,
+            "event_location": "Joanneside",
+            "event_title": "Again his stage year include step.",
+            "id": 18,
+            "ticket_level": "VIP"
+        },
+        {
+            "attendee_id": 4,
+            "event_id": 18,
+            "event_location": "North Bradley",
+            "event_title": "Similar them power window half.",
+            "id": 19,
+            "ticket_level": "VIP"
+        },
+        {
+            "attendee_id": 2,
+            "event_id": 15,
+            "event_location": "Adamfort",
+            "event_title": "Light kitchen page still avoid modern power.",
+            "id": 20,
+            "ticket_level": "VIP"
+        },
+        {
+            "attendee_id": 1,
+            "event_id": 9,
+            "event_location": "East Sarahstad",
+            "event_title": "Police hand magazine class leave guy.",
+            "id": 21,
+            "ticket_level": "Regular"
+        },
+        {
+            "attendee_id": 9,
+            "event_id": 4,
+            "event_location": "Lovemouth",
+            "event_title": "Late very free us.",
+            "id": 22,
+            "ticket_level": "VIP"
+        },
+        {
+            "attendee_id": 3,
+            "event_id": 10,
+            "event_location": "Hunttown",
+            "event_title": "Military daughter know program.",
+            "id": 23,
+            "ticket_level": "Regular"
+        },
+        {
+            "attendee_id": 9,
+            "event_id": 19,
+            "event_location": "Lake Megan",
+            "event_title": "Left above start especially church.",
+            "id": 24,
+            "ticket_level": "VIP"
+        },
+        {
+            "attendee_id": 3,
+            "event_id": 16,
+            "event_location": "Cindymouth",
+            "event_title": "Wait method foot become article.",
+            "id": 25,
+            "ticket_level": "VIP"
+        },
+        {
+            "attendee_id": 9,
+            "event_id": 2,
+            "event_location": "Hicksfort",
+            "event_title": "Member truth perform Congress.",
+            "id": 26,
+            "ticket_level": "Early Bird"
+        },
+        {
+            "attendee_id": 8,
+            "event_id": 17,
+            "event_location": "Joanneside",
+            "event_title": "Again his stage year include step.",
+            "id": 27,
+            "ticket_level": "Early Bird"
+        },
+        {
+            "attendee_id": 6,
+            "event_id": 13,
+            "event_location": "West Jermaine",
+            "event_title": "Hundred customer law.",
+            "id": 28,
+            "ticket_level": "Regular"
+        },
+        {
+            "attendee_id": 6,
+            "event_id": 13,
+            "event_location": "West Jermaine",
+            "event_title": "Hundred customer law.",
+            "id": 29,
+            "ticket_level": "Early Bird"
+        },
+        {
+            "attendee_id": 2,
+            "event_id": 12,
+            "event_location": "Aliton",
+            "event_title": "Member purpose building green professor much type.",
+            "id": 30,
+            "ticket_level": "Regular"
+        },
+        {
+            "attendee_id": 4,
+            "event_id": 12,
+            "event_location": "Aliton",
+            "event_title": "Member purpose building green professor much type.",
+            "id": 31,
+            "ticket_level": "Regular"
+        },
+        {
+            "attendee_id": 4,
+            "event_id": 1,
+            "event_location": "South Taratown",
+            "event_title": "However magazine field far skill begin forget box.",
+            "id": 32,
+            "ticket_level": "Regular"
+        },
+        {
+            "attendee_id": 8,
+            "event_id": 15,
+            "event_location": "Adamfort",
+            "event_title": "Light kitchen page still avoid modern power.",
+            "id": 33,
+            "ticket_level": "VIP"
+        },
+        {
+            "attendee_id": 2,
+            "event_id": 3,
+            "event_location": "South Kimberly",
+            "event_title": "Health get modern wife also expect goal level.",
+            "id": 34,
+            "ticket_level": "Regular"
+        },
+        {
+            "attendee_id": 4,
+            "event_id": 1,
+            "event_location": "South Taratown",
+            "event_title": "However magazine field far skill begin forget box.",
+            "id": 35,
+            "ticket_level": "Regular"
+        },
+        {
+            "attendee_id": 9,
+            "event_id": 16,
+            "event_location": "Cindymouth",
+            "event_title": "Wait method foot become article.",
+            "id": 36,
+            "ticket_level": "Early Bird"
+        },
+        {
+            "attendee_id": 4,
+            "event_id": 6,
+            "event_location": "New Mark",
+            "event_title": "Bag phone democratic administration.",
+            "id": 37,
+            "ticket_level": "Early Bird"
+        },
+        {
+            "attendee_id": 1,
+            "event_id": 15,
+            "event_location": "Adamfort",
+            "event_title": "Light kitchen page still avoid modern power.",
+            "id": 38,
+            "ticket_level": "VIP"
+        },
+        {
+            "attendee_id": 3,
+            "event_id": 9,
+            "event_location": "East Sarahstad",
+            "event_title": "Police hand magazine class leave guy.",
+            "id": 39,
+            "ticket_level": "VIP"
+        },
+        {
+            "attendee_id": 6,
+            "event_id": 11,
+            "event_location": "Lake Jason",
+            "event_title": "Rate heart painting ground middle bad tough police.",
+            "id": 40,
+            "ticket_level": "Early Bird"
+        },
+        {
+            "attendee_id": 6,
+            "event_id": 2,
+            "event_location": "Hicksfort",
+            "event_title": "Member truth perform Congress.",
+            "id": 41,
+            "ticket_level": "Early Bird"
+        },
+        {
+            "attendee_id": 4,
+            "event_id": 7,
+            "event_location": "Richardshire",
+            "event_title": "Adult nice suggest carry listen.",
+            "id": 42,
+            "ticket_level": "Regular"
+        },
+        {
+            "attendee_id": 4,
+            "event_id": 20,
+            "event_location": "Jerrymouth",
+            "event_title": "How up suffer bring question some growth son.",
+            "id": 43,
+            "ticket_level": "VIP"
+        },
+        {
+            "attendee_id": 9,
+            "event_id": 1,
+            "event_location": "South Taratown",
+            "event_title": "However magazine field far skill begin forget box.",
+            "id": 44,
+            "ticket_level": "VIP"
+        },
+        {
+            "attendee_id": 8,
+            "event_id": 20,
+            "event_location": "Jerrymouth",
+            "event_title": "How up suffer bring question some growth son.",
+            "id": 45,
+            "ticket_level": "Early Bird"
+        },
+        {
+            "attendee_id": 9,
+            "event_id": 6,
+            "event_location": "New Mark",
+            "event_title": "Bag phone democratic administration.",
+            "id": 46,
+            "ticket_level": "Early Bird"
+        },
+        {
+            "attendee_id": 6,
+            "event_id": 3,
+            "event_location": "South Kimberly",
+            "event_title": "Health get modern wife also expect goal level.",
+            "id": 47,
+            "ticket_level": "VIP"
+        },
+        {
+            "attendee_id": 8,
+            "event_id": 13,
+            "event_location": "West Jermaine",
+            "event_title": "Hundred customer law.",
+            "id": 48,
+            "ticket_level": "Early Bird"
+        },
+        {
+            "attendee_id": 1,
+            "event_id": 20,
+            "event_location": "Jerrymouth",
+            "event_title": "How up suffer bring question some growth son.",
+            "id": 49,
+            "ticket_level": "Regular"
+        },
+        {
+            "attendee_id": 6,
+            "event_id": 13,
+            "event_location": "West Jermaine",
+            "event_title": "Hundred customer law.",
+            "id": 50,
+            "ticket_level": "VIP"
+        }
+    ],
+
+
+    
+    "events": [
+        {
+            "description": "Near statement game blood himself marriage. Popular visit support defense. Person bank instead herself moment collection.",
+            "early_bird_price": 25.15309826618187,
+            "event_category": "Community",
+            "event_time": "2023-08-19 22:50:59",
+            "id": 2,
+            "image": "https://dummyimage.com/776x450",
+            "location": "Hicksfort",
+            "organizer_id": 10,
+            "regular_price": 80.06887732472329,
+            "remaining_tickets": 81,
+            "ticket_levels": "VIP,Regular,Early Bird",
+            "tickets_number": 125,
+            "title": "Member truth perform Congress.",
+            "vip_price": 92.66490037509087
+        },
+        {
+            "description": "Teacher management here north speak ahead writer. Occur parent data budget Republican suddenly. Eight artist mother audience several clearly.",
+            "early_bird_price": 33.471922478785174,
+            "event_category": "Business",
+            "event_time": "2023-08-12 16:02:12",
+            "id": 3,
+            "image": "https://dummyimage.com/161x692",
+            "location": "South Kimberly",
+            "organizer_id": 10,
+            "regular_price": 37.2326206246027,
+            "remaining_tickets": 69,
+            "ticket_levels": "VIP,Regular,Early Bird",
+            "tickets_number": 411,
+            "title": "Health get modern wife also expect goal level.",
+            "vip_price": 94.26302409838173
+        },
+        {
+            "description": "Modern free would support measure. Likely senior there beyond practice. Contain whole behind chair top have.",
+            "early_bird_price": 19.08970429722775,
+            "event_category": "Charity",
+            "event_time": "2023-08-20 20:39:57",
+            "id": 4,
+            "image": "https://picsum.photos/689/557",
+            "location": "Lovemouth",
+            "organizer_id": 10,
+            "regular_price": 25.985751357809548,
+            "remaining_tickets": 74,
+            "ticket_levels": "VIP,Regular,Early Bird",
+            "tickets_number": 238,
+            "title": "Late very free us.",
+            "vip_price": 91.66426812101584
+        },
+        {
+            "description": "High study ago usually. Kind race interview under financial institution. Fall it local maintain two especially.",
+            "early_bird_price": 43.848197164584356,
+            "event_category": "Community",
+            "event_time": "2023-08-27 08:19:08",
+            "id": 5,
+            "image": "https://picsum.photos/345/190",
+            "location": "Lake Bryan",
+            "organizer_id": 10,
+            "regular_price": 54.256260611334525,
+            "remaining_tickets": 77,
+            "ticket_levels": "VIP,Regular,Early Bird",
+            "tickets_number": 211,
+            "title": "Investment myself group community.",
+            "vip_price": 190.80835895051663
+        },
+        {
+            "description": "Sound feel little author card easy according. Experience structure agency suddenly bad. Ago continue by process race challenge factor.",
+            "early_bird_price": 11.62565086192191,
+            "event_category": "Political",
+            "event_time": "2023-09-06 23:36:40",
+            "id": 6,
+            "image": "https://placekitten.com/685/80",
+            "location": "New Mark",
+            "organizer_id": 10,
+            "regular_price": 90.8206308194438,
+            "remaining_tickets": 70,
+            "ticket_levels": "VIP,Regular,Early Bird",
+            "tickets_number": 244,
+            "title": "Bag phone democratic administration.",
+            "vip_price": 149.2742131714949
+        },
+        {
+            "description": "Concern wonder put as. Lead yard stage analysis bed they. Line all machine positive today early.",
+            "early_bird_price": 29.121730019591226,
+            "event_category": "Community",
+            "event_time": "2023-08-22 11:07:47",
+            "id": 7,
+            "image": "https://placekitten.com/853/340",
+            "location": "Richardshire",
+            "organizer_id": 10,
+            "regular_price": 87.98423649477124,
+            "remaining_tickets": 97,
+            "ticket_levels": "VIP,Regular,Early Bird",
+            "tickets_number": 266,
+            "title": "Adult nice suggest carry listen.",
+            "vip_price": 193.76933068393447
+        },
+        {
+            "description": "Challenge ahead answer worry feeling campaign purpose. Officer collection keep century continue bag.",
+            "early_bird_price": 32.12926815377179,
+            "event_category": "Political",
+            "event_time": "2023-08-27 10:59:31",
+            "id": 8,
+            "image": "https://placekitten.com/567/316",
+            "location": "Powershaven",
+            "organizer_id": 10,
+            "regular_price": 69.14953444780633,
+            "remaining_tickets": 65,
+            "ticket_levels": "VIP,Regular,Early Bird",
+            "tickets_number": 274,
+            "title": "Meet dark question.",
+            "vip_price": 150.95743279056862
+        },
+        {
+            "description": "Happy have night explain type never. Miss get really important federal. Such environment response which myself seem mission.",
+            "early_bird_price": 15.09131498425726,
+            "event_category": "Political",
+            "event_time": "2023-08-28 11:03:47",
+            "id": 9,
+            "image": "https://dummyimage.com/837x443",
+            "location": "East Sarahstad",
+            "organizer_id": 10,
+            "regular_price": 50.82479281496242,
+            "remaining_tickets": 58,
+            "ticket_levels": "VIP,Regular,Early Bird",
+            "tickets_number": 249,
+            "title": "Police hand magazine class leave guy.",
+            "vip_price": 140.83173575454276
+        },
+        {
+            "description": "Cost red travel seek. Century occur memory economic work deal.",
+            "early_bird_price": 40.40575053896143,
+            "event_category": "Charity",
+            "event_time": "2023-08-28 13:56:49",
+            "id": 10,
+            "image": "https://dummyimage.com/788x6",
+            "location": "Hunttown",
+            "organizer_id": 10,
+            "regular_price": 83.27203436854933,
+            "remaining_tickets": 39,
+            "ticket_levels": "VIP,Regular,Early Bird",
+            "tickets_number": 469,
+            "title": "Military daughter know program.",
+            "vip_price": 100.83925129743378
+        },
+        {
+            "description": "Enjoy fish contain one professional mention fall. Cause themselves easy.",
+            "early_bird_price": 20.852297067533648,
+            "event_category": "Sporting",
+            "event_time": "2023-08-16 14:25:25",
+            "id": 11,
+            "image": "https://picsum.photos/106/465",
+            "location": "Lake Jason",
+            "organizer_id": 10,
+            "regular_price": 88.3855044692644,
+            "remaining_tickets": 90,
+            "ticket_levels": "VIP,Regular,Early Bird",
+            "tickets_number": 462,
+            "title": "Rate heart painting ground middle bad tough police.",
+            "vip_price": 135.90875853880056
+        },
+        {
+            "description": "Serious meet number worry attack strong say. We wait main real break likely quickly its.",
+            "early_bird_price": 39.39252504040361,
+            "event_category": "Charity",
+            "event_time": "2023-08-11 09:40:47",
+            "id": 12,
+            "image": "https://placekitten.com/486/569",
+            "location": "Aliton",
+            "organizer_id": 10,
+            "regular_price": 73.58599603800845,
+            "remaining_tickets": 76,
+            "ticket_levels": "VIP,Regular,Early Bird",
+            "tickets_number": 192,
+            "title": "Member purpose building green professor much type.",
+            "vip_price": 125.35745439988123
+        },
+        {
+            "description": "Husband time later. Thing none white seem condition if.",
+            "early_bird_price": 17.67030181992594,
+            "event_category": "Community",
+            "event_time": "2023-08-26 22:22:37",
+            "id": 13,
+            "image": "https://placekitten.com/250/854",
+            "location": "West Jermaine",
+            "organizer_id": 10,
+            "regular_price": 78.11297274513726,
+            "remaining_tickets": 100,
+            "ticket_levels": "VIP,Regular,Early Bird",
+            "tickets_number": 198,
+            "title": "Hundred customer law.",
+            "vip_price": 144.6432689968323
+        },
+        {
+            "description": "Ready national send institution new agency expert.",
+            "early_bird_price": 16.099988835467713,
+            "event_category": "Political",
+            "event_time": "2023-08-28 15:20:54",
+            "id": 14,
+            "image": "https://placekitten.com/169/889",
+            "location": "East Richardberg",
+            "organizer_id": 10,
+            "regular_price": 97.5326808337991,
+            "remaining_tickets": 16,
+            "ticket_levels": "VIP,Regular,Early Bird",
+            "tickets_number": 473,
+            "title": "Wear response up before before yes produce spend.",
+            "vip_price": 118.06609013266129
+        },
+        {
+            "description": "Even current market those reach firm. City above ever hospital very without south together.",
+            "early_bird_price": 37.82948414437359,
+            "event_category": "Entertainment",
+            "event_time": "2023-08-14 02:03:09",
+            "id": 15,
+            "image": "https://placekitten.com/660/340",
+            "location": "Adamfort",
+            "organizer_id": 10,
+            "regular_price": 77.4944333413622,
+            "remaining_tickets": 83,
+            "ticket_levels": "VIP,Regular,Early Bird",
+            "tickets_number": 447,
+            "title": "Light kitchen page still avoid modern power.",
+            "vip_price": 192.4785102219132
+        },
+        {
+            "description": "Maybe well safe prove for set. Prevent focus lay inside. Subject television throughout best theory glass cup.",
+            "early_bird_price": 12.413671917957796,
+            "event_category": "Business",
+            "event_time": "2023-08-27 04:06:15",
+            "id": 16,
+            "image": "https://dummyimage.com/977x763",
+            "location": "Cindymouth",
+            "organizer_id": 10,
+            "regular_price": 46.08798933166618,
+            "remaining_tickets": 68,
+            "ticket_levels": "VIP,Regular,Early Bird",
+            "tickets_number": 180,
+            "title": "Wait method foot become article.",
+            "vip_price": 94.59106213645487
+        },
+        {
+            "description": "Hundred down impact of choice. Money agree me full from employee. Party draw character in mind.",
+            "early_bird_price": 13.240624261512096,
+            "event_category": "Entertainment",
+            "event_time": "2023-08-10 04:15:40",
+            "id": 17,
+            "image": "https://dummyimage.com/484x884",
+            "location": "Joanneside",
+            "organizer_id": 10,
+            "regular_price": 35.72194249652639,
+            "remaining_tickets": 21,
+            "ticket_levels": "VIP,Regular,Early Bird",
+            "tickets_number": 414,
+            "title": "Again his stage year include step.",
+            "vip_price": 64.77560949700711
+        },
+        {
+            "description": "Gas manager pretty. Girl theory treatment strategy.",
+            "early_bird_price": 13.441283201114569,
+            "event_category": "Political",
+            "event_time": "2023-08-20 15:06:39",
+            "id": 18,
+            "image": "https://picsum.photos/810/598",
+            "location": "North Bradley",
+            "organizer_id": 10,
+            "regular_price": 83.5634612863654,
+            "remaining_tickets": 22,
+            "ticket_levels": "VIP,Regular,Early Bird",
+            "tickets_number": 161,
+            "title": "Similar them power window half.",
+            "vip_price": 121.28984366443838
+        },
+        {
+            "description": "Son identify know while. More short ask consider. Bring effort girl watch worker everything behavior car.",
+            "early_bird_price": 13.532537770179811,
+            "event_category": "Entertainment",
+            "event_time": "2023-08-19 08:01:48",
+            "id": 19,
+            "image": "https://placekitten.com/321/572",
+            "location": "Lake Megan",
+            "organizer_id": 10,
+            "regular_price": 75.31785632598584,
+            "remaining_tickets": 57,
+            "ticket_levels": "VIP,Regular,Early Bird",
+            "tickets_number": 486,
+            "title": "Left above start especially church.",
+            "vip_price": 176.22818618700728
+        },
+        {
+            "description": "Since ready machine arm blood seem future. Share lay team will once either than each.",
+            "early_bird_price": 45.30192083124116,
+            "event_category": "Entertainment",
+            "event_time": "2023-09-03 14:06:44",
+            "id": 20,
+            "image": "https://placekitten.com/196/812",
+            "location": "Jerrymouth",
+            "organizer_id": 10,
+            "regular_price": 57.38402734695355,
+            "remaining_tickets": 60,
+            "ticket_levels": "VIP,Regular,Early Bird",
+            "tickets_number": 419,
+            "title": "How up suffer bring question some growth son.",
+            "vip_price": 143.9857401715858
+        }
+    ]
+
+
 }
+
