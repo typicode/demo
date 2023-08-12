@@ -1,8 +1,8 @@
 {
   "ProductsTable": [
-    { "record_id": 1, "product_name": "Black T-shirt size S for women", "unit_price":25, "discount":5,"property":{"category_code":"TSH","sku_id":"TSHF-000-S","category":"clothes","color_code":"000","size":"S","suitable":"female"}},
+    { "record_id": 1, "product_name": "Black T-shirt size S for men", "unit_price":25, "discount":0,"property":{"category_code":"TSH","sku_id":"TSHM-000-M","category":"clothes","color_code":"000","size":"M","suitable":"male"}},
     { "record_id": 2, "product_name": "On Sale!White T-shirt for men", "unit_price":25, "discount":20,"property":{"category_code":"TSH","sku_id":"TSHM-FFF-M","category":"clothes","color_code":"FFF","size":"M","suitable":"male"}},
-    { "record_id": 3, "product_name": "Black T-shirt large size for men", "unit_price":15, "discount":0,"property":{"category_code":"TSH","sku_id":"TSHM-000-XL","category":"clothes","color_code":"000","size":"XL","suitable":"male"}}
+    { "record_id": 3, "product_name": "Black T-shirt large size for men", "unit_price":25, "discount":0,"property":{"category_code":"TSH","sku_id":"TSHM-000-XL","category":"clothes","color_code":"000","size":"XL","suitable":"male"}}
   ],
   "Exposure": [
     {"sku_id":"TSHM-FFF-M","impressions":0,"clicks":1,"buys":1,"timestamp":"12:18:59"},
