@@ -1,14 +1,14 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "startCountry": "Україна",
+  "border": "UA205020",
+  "endCountry": "Німеччина",
+  "startAdress": "просп. Валерия Лобановского, 10, Киев, Украина, 02000",
+  "endAdress": "Rosenbergstraße 38, 70176 Stuttgart, Германия",
+  "mass": "1200",
+  "size": "23",
+  "amaunt": "40 шт",
+  "pp": "23UA100100434535U9",
+  "zdp": "23UA141000602085Z1",
+  "cargoNumber": "60333370"
+  "description": "ksdfjsjafjd ds fjsk fkldj"
 }
