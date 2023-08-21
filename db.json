@@ -1,5 +1,7 @@
 {
   "menu_list": [
-    { "menu": "Performance Info", "child": ["Kredit", "Debit"] },
+    { 
+      "menu": "Performance Info",
+    },
   ]
 }
