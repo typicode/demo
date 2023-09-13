@@ -1,14 +1,107 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
+    "rows": [
+      {
+        "id": 1,
+        "proprietary": "Tlando",
+        "supplement": "012",
+        "established": "testosterone",
+        "manufacturer": "antares Pharam Inc",
+        "submittal": "03/10/2023",
+        "review": "03/16/2023",
+        "reviewer": "The North"
+      },
+      {
+        "id": 2,
+        "proprietary": "Benzonatate",
+        "supplement": "011",
+        "established": "Benzonatate",
+        "manufacturer": "Tessalon",
+        "submittal": "02/10/2023",
+        "review": "03/20/2023",
+        "reviewer": "The Crownlands"
+      },
+      {
+        "id": 3,
+        "proprietary": "Doxcycline",
+        "supplement": "010",
+        "established": "-",
+        "manufacturer": "Acticlate",
+        "submittal": "01/17/2023",
+        "review": "03/17/2023",
+        "reviewer": "The Crownlands"
+      },
+      {
+        "id": 4,
+        "proprietary": "Hydrochlorothiaizide",
+        "supplement": "009",
+        "established": "-",
+        "manufacturer": "Esidrix",
+        "submittal": "01/03/2023",
+        "review": "03/02/2023",
+        "reviewer": "The North"
+      },
+      {
+        "id": 5,
+        "proprietary": "Imbruvica",
+        "supplement": "008",
+        "established": "ibruntinib",
+        "manufacturer": "Drug Name",
+        "submittal": "12/22/2023",
+        "review": "03/02/2023",
+        "reviewer": "The Crownlands"
+      },
+      {
+        "id": 6,
+        "proprietary": "Imbruvicajaksdhk",
+        "supplement": "008",
+        "established": "ibruntinibjadsf",
+        "manufacturer": "Drug Name",
+        "submittal": "12/22/2023",
+        "review": "03/02/2023",
+        "reviewer": "The Crownlands"
+      }
+    ],
+    "columns": [
+      {
+        "field": "id",
+        "headerName": "Application #/Type",
+        "headerClassName": "bold-header"
+      },
+      {
+        "field": "supplement",
+        "headerName": "Supplement",
+        "headerClassName": "bold-header"
+      },
+      {
+        "field": "proprietary",
+        "headerName": "Proprietary Name",
+        "headerClassName": "bold-header"
+      },
+      {
+        "field": "established",
+        "headerName": "Established Name",
+        "headerClassName": "bold-header"
+      },
+      {
+        "field": "manufacturer",
+        "headerName": "Manufacturer Name",
+        "headerClassName": "bold-header"
+      },
+      {
+        "field": "submittal",
+        "headerName": "Submittal Date",
+        "headerClassName": "bold-header"
+      },
+      {
+        "field": "reviewer",
+        "headerName": "Reviewer",
+        "headerClassName": "bold-header"
+      },
+      {
+        "field": "review",
+        "headerName": "Review Date",
+        "headerClassName": "bold-header"
+      }
+    ]
   }
-}
+  
