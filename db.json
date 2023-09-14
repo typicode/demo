@@ -4,7 +4,17 @@
   "comments": [
   ],
   "users": [
+    {
+        "name": "Leanne Graham",
+        "username": "Bret",
+        "email": "Sincere@april.biz",
+        "password": "qweqweqwe"
+    }
   ],
   "todo": [
-  ]
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+  
 }
