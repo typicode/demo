@@ -1,14 +1,333 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "order_details": [
+    {
+      "quantity": 10,
+      "product": {
+        "name": "Manzanas Frescas",
+        "description": "Deliciosas manzanas frescas, cosechadas en nuestro huerto local. Perfectas para bocadillos saludables o repostería.",
+        "unit_price": 1.5,
+        "image_url": "https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/027de51b-6b9d-4722-b060-e7bdffdc2d48"
+      }
+    },
+    {
+      "quantity": 10,
+      "product": {
+        "name": "Zanahorias Organicas",
+        "description": "Zanahorias de calidad premium, cultivadas sin pesticidas. Ideales para ensaladas y guisos.",
+        "unit_price": 1.5,
+        "image_url": "https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/f5c2a814-6c9f-4eff-bc4b-d78c3f35fd6e"
+      }
+    },
+    {
+      "quantity": 10,
+      "product": {
+        "name": "Miel de Abeja Pura",
+        "description": "Miel dorada y natural de nuestras colmenas. Endulza tus bebidas y comidas de manera saludable.",
+        "unit_price": 1.5,
+        "image_url": "https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/bb4f774c-c3da-49d5-a9e1-2b8eede85fa8"
+      }
+    }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+  "order_payment": [
+    {
+      "ordered_date": "2023-05-09",
+      "order_detail": {
+        "quantity": 20,
+        "product": {
+          "name": "Papas",
+          "unit_price": 1.5
+        }
+      },
+      "payment_method": {
+        "name": "mastercard"
+      }
+    },
+    {
+      "ordered_date": "2023-05-09",
+      "order_detail": {
+        "quantity": 20,
+        "product": {
+          "name": "Papas",
+          "unit_price": 1.5
+        }
+      },
+      "payment_method": {
+        "name": "mastercard"
+      }
+    },
+    {
+      "ordered_date": "2023-05-09",
+      "order_detail": {
+        "quantity": 20,
+        "product": {
+          "name": "Papas",
+          "unit_price": 1.5
+        }
+      },
+      "payment_method": {
+        "name": "mastercard"
+      }
+    }
   ],
-  "profile": {
-    "name": "typicode"
-  }
+  "products": [
+    {
+      "name": "Papas",
+      "description": "Papas haradas durante bastante tiempo",
+      "unit_price": 1.5,
+      "image_url": "https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/ce40fc4a-b351-420d-a06e-14304018bed5"
+    },
+    {
+      "name": "Cerezos",
+      "description": "Cereza recontra roja",
+      "unit_price": 2.5,
+      "image_url": "https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/f481402c-de81-4d95-a694-82fab273adfa"
+    },
+    {
+      "name": "Arroz",
+      "description": "Arroz bien plantado",
+      "unit_price": 1.5,
+      "image_url": "https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/19f2c725-e39b-4319-84c3-efed243898dd"
+    }
+  ],
+  "activities": [
+    {
+      "name": "Harar la tierra",
+      "description": "Harar la tierra description",
+      "start_date": "2020-03-09",
+      "finish_date": "2020-03-27"
+    },
+    {
+      "name": "Harar la tierra",
+      "description": "Harar la tierra description",
+      "start_date": "2020-03-09",
+      "finish_date": "2020-03-27"
+    },
+    {
+      "name": "Harar la tierra",
+      "description": "Harar la tierra description",
+      "start_date": "2020-03-09",
+      "finish_date": "2020-03-27"
+    }
+  ],
+  "sales": [
+    {
+      "id": 1,
+      "product": "Yuca",
+      "quantity": 10,
+      "date": "2023-09-15T05:00:00.000Z",
+      "method": "Credito"
+    },
+    {
+      "id": 2,
+      "product": "Camote",
+      "quantity": 12,
+      "date": "2023-09-30T05:00:00.000Z",
+      "method": "Credito"
+    },
+    {
+      "id": 3,
+      "product": "",
+      "quantity": 0,
+      "date": "",
+      "method": ""
+    },
+    {
+      "id": 4,
+      "product": "",
+      "quantity": 0,
+      "date": "",
+      "method": ""
+    },
+    {
+      "id": 5,
+      "product": "",
+      "quantity": 0,
+      "date": "",
+      "method": ""
+    },
+    {
+      "id": 6,
+      "product": "",
+      "quantity": 0,
+      "date": "",
+      "method": ""
+    },
+    {
+      "id": 7,
+      "product": "",
+      "quantity": 0,
+      "date": "",
+      "method": ""
+    },
+    {
+      "id": 8,
+      "product": "",
+      "quantity": 0,
+      "date": "",
+      "method": ""
+    },
+    {
+      "id": 9,
+      "product": "",
+      "quantity": 0,
+      "date": "",
+      "method": ""
+    },
+    {
+      "id": 10,
+      "product": "",
+      "quantity": 0,
+      "date": "",
+      "method": ""
+    },
+    {
+      "id": 11,
+      "product": "",
+      "quantity": 0,
+      "date": "",
+      "method": ""
+    },
+    {
+      "id": 12,
+      "product": "",
+      "quantity": 0,
+      "date": "",
+      "method": ""
+    }
+  ],
+  "crops": [
+    {
+      "undergrowth": true,
+      "fertilize": false,
+      "oxygenate": true,
+      "lines": false,
+      "holes": true,
+      "watered": "3",
+      "pestcleaning": "5",
+      "id": 1
+    }
+  ],
+  "costList": [
+    {
+      "id": 1,
+      "costName": "Pago de agua",
+      "date": "2019-10-10",
+      "description": "se pago el agua del mes de octubre",
+      "price": 200,
+      "quantity": "1"
+    },
+    {
+      "id": 2,
+      "costName": "Pago de cajas contenedoras",
+      "date": "2019-11-10",
+      "description": "se compraron cajas contenedoras para la producción de zanahorias",
+      "price": 500,
+      "quantity": "45 cajas contenedoras"
+    },
+    {
+      "id": 3,
+      "costName": "Comida para el personal",
+      "date": "2019-12-05",
+      "description": "Compra de alimentos para el personal de la granja",
+      "price": 300,
+      "quantity": "1 compra"
+    },
+    {
+      "id": 4,
+      "costName": "Reparacion de maquinaria",
+      "date": "2020-01-15",
+      "description": "Se reparo la trilladora de maíz",
+      "price": 800,
+      "quantity": "1 reparacion"
+    },
+    {
+      "id": 5,
+      "costName": "Semillas de tomate",
+      "date": "2020-02-20",
+      "description": "Compra de semillas de tomate para la temporada de primavera",
+      "price": 150,
+      "quantity": "1 paquete de semillas"
+    },
+    {
+      "id": 6,
+      "costName": "Jornaleros para la cosecha",
+      "date": "2020-03-25",
+      "description": "Contratacion de jornaleros para la cosecha de maiz",
+      "price": 1000,
+      "quantity": "5 jornaleros por 1 semana"
+    },
+    {
+      "id": 7,
+      "costName": "Tractor",
+      "date": "2023-09-21T05:00:00.000Z",
+      "description": "Lineas",
+      "price": 200,
+      "quantity": "1"
+    }
+  ],
+  "billsList": [
+    {
+      "id": 1,
+      "category": "Fruta",
+      "costName": "Manzanas",
+      "date": "2019-07-10",
+      "description": "Se vendió 300 paquetes de manzanas a Exportadora de frutas",
+      "price": 250,
+      "quantity": "300 paquetes"
+    },
+    {
+      "id": 2,
+      "category": "Vegetal",
+      "costName": "Zanahorias",
+      "date": "2019-11-15",
+      "description": "Se vendió 200 paquetes de zanahorias a Juan Perez",
+      "price": 200,
+      "quantity": "200 paquetes de zanahorias"
+    },
+    {
+      "id": 3,
+      "category": "Fruta",
+      "costName": "Papayas",
+      "date": "2020-01-15",
+      "description": "Se vendió 150 paquetes de papayas a Distribuidora Tropical",
+      "price": 300,
+      "quantity": "150 paquetes"
+    },
+    {
+      "id": 4,
+      "category": "Vegetal",
+      "costName": "Espinacas",
+      "date": "2020-02-20",
+      "description": "Se vendió 100 paquetes de espinacas a Supermercado Verde",
+      "price": 150,
+      "quantity": "100 paquetes de espinacas"
+    },
+    {
+      "id": 5,
+      "category": "Fruta",
+      "costName": "Plátanos",
+      "date": "2020-03-25",
+      "description": "Se vendió 400 paquetes de plátanos a Comercializadora Frutal",
+      "price": 180,
+      "quantity": "400 paquetes"
+    },
+    {
+      "id": 6,
+      "category": "Vegetal",
+      "costName": "Pimientos",
+      "date": "2020-04-30",
+      "description": "Se vendió 250 paquetes de pimientos a Mercado Fresco",
+      "price": 220,
+      "quantity": "250 paquetes de pimientos"
+    },
+    {
+      "id": 7,
+      "costName": "Camote",
+      "date": "2023-09-20T05:00:00.000Z",
+      "description": "Venta de 30 kg de camote",
+      "price": 300,
+      "quantity": "30"
+    }
+  ]
 }
+
