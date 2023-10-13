@@ -1,14 +1,143 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "user": [
+    {
+      "id": "adminuser",
+      "name": "Nihira",
+      "password": "admin",
+      "email": "nihiratechiees@gmail.com",
+      "phone": "8989898989",
+      "country": "usa",
+      "address": "",
+      "role": "admin",
+      "gender": "female"
+    },
+    {
+      "id": "ntuser",
+      "name": "Fullname",
+      "password": "ntuser",
+      "email": "email@email.com",
+      "phone": "56778889989",
+      "country": "singapore",
+      "address": "address1\naddrees2",
+      "role": "user",
+      "gender": "male"
+    },
+    {
+      "id": "ryyjjdgj",
+      "name": "Parsa eftekharmansh",
+      "password": "apsotah@12A",
+      "email": "Parsa10007@gmail.com",
+      "phone": "0912 613 8190",
+      "country": "india",
+      "address": "پیروزی-نبردشمالی-قیام شمالی-کوچه چهارم غربی-پلاک 12-واحد5",
+      "gender": "male"
+    },
+    {
+      "id": "Fatemeh13",
+      "name": "Fatemeh",
+      "password": "Fatemeh13",
+      "email": "Fatemeh13@gmail.com",
+      "phone": "0912 613 8190",
+      "country": "india",
+      "address": "پیروزی-نبردشمالی-قیام شمالی-کوچه چهارم غربی-پلاک 12-واحد5",
+      "gender": "female"
+    },
+    {
+      "id": "Parsa2",
+      "name": "Parsa eftekharmansh",
+      "password": "Parsa123",
+      "email": "Parsa10007@gmail.com",
+      "phone": "0912 613 8190",
+      "country": "india",
+      "address": "پیروزی-نبردشمالی-قیام شمالی-کوچه چهارم غربی-پلاک 12-واحد5",
+      "gender": "female"
+    },
+    {
+      "id": "parsa12",
+      "name": "eftekharmanesh",
+      "password": "Parsa123",
+      "email": "Parsa10007@gmail.com",
+      "phone": "09126138190",
+      "country": "usa",
+      "address": "پیروزی-نبردشمالی-قیام شمالی-کوچه چهارم غربی-پلاک 12-واحد5\nواحد5",
+      "gender": "male"
+    },
+    {
+      "id": "amin12",
+      "name": "amin",
+      "password": "amin123",
+      "email": "amin@gmail.com",
+      "phone": "",
+      "country": "usa",
+      "address": "",
+      "gender": "male"
+    },
+    {
+      "id": "panisa12",
+      "name": "Panisa",
+      "password": "panisa12",
+      "email": "parsa10007@gmail.com",
+      "phone": "",
+      "country": "india",
+      "address": "57A/05 Parisian Ramp",
+      "gender": "male"
+    }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+  "roleaccess": [
+    {
+      "role": "admin",
+      "menu": "customer",
+      "haveadd": true,
+      "haveedit": true,
+      "havedelete": true
+    },
+    {
+      "role": "admin",
+      "menu": "supplier",
+      "haveadd": true,
+      "haveedit": true,
+      "havedelete": true
+    },
+    {
+      "role": "user",
+      "menu": "customer",
+      "haveadd": false,
+      "haveedit": false,
+      "havedelete": false
+    },
+    {
+      "role": "user1",
+      "menu": "customer",
+      "haveadd": false,
+      "haveedit": false,
+      "havedelete": false
+    }
   ],
-  "profile": {
-    "name": "typicode"
-  }
+  "customer": [
+    {
+      "code": 1,
+      "name":"پارسا افتخارمنش",
+      "email": "Parsa10007@gmail.com"
+    },
+    {
+      "code": 2,
+      "name":"پارسا افتخارمنش",
+      "email": "Parsa10007@gmail.com"
+    },
+    {
+      "code": 3,
+      "name":"پارسا افتخارمنش",
+      "email": "Parsa10007@gmail.com"
+    },
+    {
+      "code": 4,
+      "name":"پارسا افتخارمنش",
+      "email": "Parsa10007@gmail.com"
+    },
+    {
+      "code": 5,
+      "name":"پارسا افتخارمنش",
+      "email": "Parsa10007@gmail.com"
+    }
+  ]
 }
