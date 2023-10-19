@@ -1,14 +1,33 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "id": 1,
+  "fecha": "2023-10-18T12:00:00",
+  "idCliente": 123,
+  "status": "PENDING",
+  "detail": [
+    {
+      "idProducto": 101,
+      "descripcion": "Producto A",
+      "precioUnitario": 10.99,
+      "cantidad": 2
+    },
+    {
+      "idProducto": 102,
+      "descripcion": "Producto B",
+      "precioUnitario": 15.49,
+      "cantidad": 3
+    }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+  "disconts": [
+    {
+      "percent": 10.0,
+      "description": "Descuento de 10%"
+    },
+    {
+      "percent": 5.0,
+      "description": "Descuento de 5%"
+    }
   ],
-  "profile": {
-    "name": "typicode"
-  }
+  "subtotal": 63.95,
+  "total": 60.75
 }
+
