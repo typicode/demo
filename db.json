@@ -1,14 +1,48 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "test_id": "Diagnostic_Test",
+  "sections":[
+	{
+
+	"section_id":"Math_Section",
+                     "question_types":[
+		
+                              {
+                            			"question_type_Id":"Choose"	
+                                             		"questions": [ 
+                         	            	  		      {       
+                                                      	"question_id":"ch_1"
+                            		   			                "question_text": "Solve for x: 2x + 3 = 7",  
+                                                        "choose_A": "x = 2",
+                      					                        "Choose_B":"x=5",
+                       					                        "Choose_C":"X=3",
+                      				                          "Choose_D":"X=9",
+                      					                        "sub_section": "Algebra" 
+                        	              	 	      	},
+                         	 			                    {  
+                                              					"question_id":"ch_2"
+                                                    		"question_text": "If the area of a square is 49 square units, what is the length of one side?",
+                                              					"choose_A": "x = 2",
+                                              					"Choose_B":"x=8",
+                                               					"Choose_C":"X=7",
+                                              					"Choose_D":"X=10",
+                                                    		"sub_section": "Geometry" 
+                         				                    },
+                         				                   {
+                      					                        "question_id":"ch_3"
+                          		 		                    	"question_text": "Solve for x: |x - 3| ≤ 2", 
+                           		 			                    "choose_A": "-5 ≤ x ≤ 5",
+                      				                        	"Choose_B":"-8 ≤ x ≤ 8",
+                                               					"Choose_C":"-7 ≤ x ≤ 7",
+                                              					"Choose_D":"-10 ≤ x ≤ 10",
+                                                    					"sub_section": "Algebra" 
+                                                 	 }
+                      		
+                      		
+                       			                 ]
+                      	          }
+                      	]
+
+
+    }
+    ]
 }
