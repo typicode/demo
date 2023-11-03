@@ -10,5 +10,82 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  {
+  "categories": [
+    { "id": 1, "name": "Fútbol" },
+    { "id": 2, "name": "Baloncesto" },
+    { "id": 3, "name": "Atletismo" }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Camiseta de fútbol",
+      "description": "Camiseta oficial de la selección nacional.",
+      "price": 25.0,
+      "categoryId": 1
+    },
+    {
+      "id": 2,
+      "name": "Balón de fútbol",
+      "description": "Balón profesional de cuero.",
+      "price": 20.0,
+      "categoryId": 1
+    },
+    {
+      "id": 3,
+      "name": "Balón de baloncesto",
+      "description": "Balón oficial de la NBA.",
+      "price": 22.0,
+      "categoryId": 2
+    },
+    {
+      "id": 4,
+      "name": "Zapatillas deportivas",
+      "description": "Zapatillas para correr de alta calidad.",
+      "price": 45.0,
+      "categoryId": 3
+    }
+  ],
+  "productDetails": [
+    {
+      "productId": 1,
+      "stock": 50,
+      "images": ["image1.jpg", "image2.jpg"]
+    },
+    {
+      "productId": 2,
+      "stock": 30,
+      "images": ["image3.jpg"]
+    },
+    {
+      "productId": 3,
+      "stock": 40,
+      "images": ["image4.jpg", "image5.jpg"]
+    }
+  ],
+  "quotations": [
+    {
+      "id": 1,
+      "productId": 1,
+      "quantity": 2,
+      "userName": "John Doe"
+    },
+    {
+      "id": 2,
+      "productId": 3,
+      "quantity": 1,
+      "userName": "Alice Smith"
+    }
+  ],
+  "reservations": [
+    {
+      "id": 1,
+      "productId": 2,
+      "quantity": 5,
+      "userName": "Bob Johnson"
+    }
+  ]
+}
+
 }
