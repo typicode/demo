@@ -1,6 +1,8 @@
-[
-  {
-    "email": "ajayisteaching@gmail.com",
-    "id": 1
-  }
-]
+{
+  "users":[
+    {
+      "email": "ajayisteaching@gmail.com",
+      "id":1
+    }
+  ]
+}
