@@ -1,8 +1,14 @@
 {
   "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+    { "id": 1, "title": "Post 1", "src": "https://picsum.photos/400", "onSale": true },
+    { "id": 2, "title": "Post 2", "src": "https://picsum.photos/400", "onSale": true },
+    { "id": 3, "title": "Post 3", "src": "https://picsum.photos/400", "onSale": true }
+    { "id": 4, "title": "Post 4", "src": "https://picsum.photos/400", "onSale": true }
+    { "id": 5, "title": "Post 5", "src": "https://picsum.photos/400", "onSale": true }
+    { "id": 6, "title": "Post 6", "src": "https://picsum.photos/400", "onSale": true }
+    { "id": 7, "title": "Post 7", "src": "https://picsum.photos/400", "onSale": true }
+    { "id": 8, "title": "Post 8", "src": "https://picsum.photos/400", "onSale": true }
+    { "id": 9, "title": "Post 9", "src": "https://picsum.photos/400", "onSale": true }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
