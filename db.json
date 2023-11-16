@@ -1,14 +1,50 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
+[
+  {
+    "anzahl" : 4,
+    "name" : "CodeCoders"
+  },
+    {
+    "anzahl" : 22,
+    "name" : "12 FI 4"
+  },
+    {
+    "anzahl" : 300,
+    "name" : "Klara Oppenheimer Schule"
+  },
+    {
+    "anzahl" : 50,
+    "name" : "Rave"
+  },
+    {
+    "anzahl" : 234,
+    "name" : "Bayern Fans"
+  },
+    {
+    "anzahl" : 6,
+    "name" : "Samstag Feiern"
+  },
+    {
+    "anzahl" : 83,
+    "name" : "ü18"
+  },
+    {
+    "anzahl" : 20,
+    "name" : "Fußball Verein"
+  },
+    {
+    "anzahl" : 29,
+    "name" : "Urlaub"
+  },
+    {
+    "anzahl" : 9,
+    "name" : "Wochenende Kino"
+  },
+    {
+    "anzahl" : 21,
+    "name" : "MEME"
+  },
+    {
+    "anzahl" : 12,
+    "name" : "Keine Lust mehr"
   }
-}
+]
