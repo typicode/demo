@@ -1,0 +1,20 @@
+[
+{
+      "userid" : "15413306",
+      "nombres": "Frank",
+      "apellidos": "Quispe",
+      "telefono": "964448248",
+      "correo": "correo@isil.pe",
+      "edad": "25",
+      "id": 1
+    },
+    {
+      "userid" : "15392473",
+      "nombres": "Betty",
+      "apellidos": "Pelaez",
+      "telefono": "964448248",
+      "correo": "correo@isil.pe",
+      "edad": "25",
+      "id": 2
+    }
+]
