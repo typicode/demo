@@ -16,7 +16,7 @@
      "ingredients" :"Aperol, sparkling water, Prosseco, slice of orange, ice" 
     },
      { "drink_id": 4, "title": "Tequilla Sunrise", "price" : 6, "ingredients" :"Tequilla, orange juice, grenadine" },
-     { "drink_id": 5, "name": "Beer", "price" : 2 },
+
      
   ],
 
@@ -25,7 +25,7 @@
   { "meal_id": 2, "name": "Pizza", "price" : 14,  "ingredients" :"Tomato sauce, mozzarella cheese, salami" },
  { "meal_id": 3, "name": "Lasagne", "price" : 18,  "ingredients" :"Beef, bolognese sauce, " },
   { "meal_id": 4, "name": "Tortelini", "price" : 14,  "ingredients" :"Beef, bolognese sauce" },
- { "meal_id": 5, "name": "Spaghetti carbonara", "price" : 14 ,"ingredients" : "Eggs, parmezan cheese, panacetta"  },
+
   
  ],
 }
