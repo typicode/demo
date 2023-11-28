@@ -1,9 +1,20 @@
 {
  
   "drinks": [
-    { "drink_id": 1, "name": "Cuba Libre", "price" : 3, "ingredients" : "Rum, Coca-Cola, mint, lime, brown sugar, ice"},
-    { "drink_id": 2, "name": "Whisky Sour", "price" : 5, "ingredients" :"Whiskey, lemon juice, sugar syrop, egg white, ice" },
-    { "drink_id": 3, "name": "Aperol Spritz", "price" : 4, "ingredients" :"Aperol, sparkling water, Prosseco, slice of orange, ice" },
+    { "drink_id": 1,
+     "name": "Cuba Libre",
+     "price" : 3,
+     "ingredients" : "Rum, Coca-Cola, mint, lime, brown sugar, ice"
+    },
+    { "drink_id": 2,
+     "name": "Whisky Sour",
+     "price" : 5, "ingredients" :"Whiskey, lemon juice, sugar syrop, egg white, ice"
+    },
+    { "drink_id": 3,
+     "name": "Aperol Spritz",
+     "price" : 4,
+     "ingredients" :"Aperol, sparkling water, Prosseco, slice of orange, ice" 
+    },
      { "drink_id": 4, "title": "Tequilla Sunrise", "price" : 6, "ingredients" :"Tequilla, orange juice, grenadine" },
      { "drink_id": 5, "name": "Beer", "price" : 2 },
      { "drink_id": 6, "name": "Gin with Tonic", "price" : 3, "ingredients" :"Gin, tonic, ice" },
