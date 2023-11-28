@@ -1,14 +1,28 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+ 
+  "drinks": [
+    { "drink_id": 1, "name": "Cuba Libre", "price" : 3, "ingredients" : "Rum, Coca-Cola, mint, lime, brown sugar, ice"},
+    { "drink_id": 2, "name": "Whisky Sour", "price" : 5, "ingredients" :"Whiskey, lemon juice, sugar syrop, egg white, ice" },
+    { "drink_id": 3, "name": "Aperol Spritz", "price" : 4, "ingredients" :"Aperol, sparkling water, Prosseco, slice of orange, ice" },
+     { "drink_id": 4, "title": "Tequilla Sunrise", "price" : 6, "ingredients" :"Tequilla, orange juice, grenadine" },
+     { "drink_id": 5, "name": "Beer", "price" : 2 },
+     { "drink_id": 6, "name": "Gin with Tonic", "price" : 3, "ingredients" :"Gin, tonic, ice" },
+     { "drink_id": 7, "name": "Brandy", "price" : 7 },
+     { "drink_id": 8, "name": "Vodka old fashioned", "price" : 4, "ingredients" :"Vodka, slice of orange, lemon soda, sugar syrop, ice" },
+     { "drink_id": 9, "name": "JagerBomb", "price" : 6, "ingredients" :"JageMeister, redbull, ice" },
+     { "drink_id": 10, "name": "Wine", "price" : 8 },
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+
+ "dishes": [
+   { "meal_id": 1, "name": "Spaghetti bolognese", "price" : 14,  "ingredients" :"Beef/ tofu, spaghetti pasta, bolognese sauce" },
+  { "meal_id": 2, "name": "Pizza", "price" : 14,  "ingredients" :"Tomato sauce, mozzarella cheese, salami" },
+ { "meal_id": 3, "name": "Lasagne", "price" : 18,  "ingredients" :"Beef, bolognese sauce, " },
+  { "meal_id": 4, "name": "Tortelini", "price" : 14,  "ingredients" :"Beef, bolognese sauce" },
+ { "meal_id": 5, "name": "Spaghetti carbonara", "price" : 14 ,"ingredients" : "Eggs, parmezan cheese, panacetta"  },
+  { "meal_id": 6, "name": "Hamburger", "price" : 20,  "ingredients" : "Beef, cheddar cheese, onion, salad" },
+ { "meal_id": 7, "name": "Kebab", "price" : 14,  "ingredients" : "Tortilla, Chciken , mix of salads, garlic sauce" },
+  { "meal_id": 8, "name": "Pancakes", "price" : 14,  "ingredients" : "Eggs, StrawBerry jam, Milk" },
+ { "meal_id": 9, "name": "French fries", "price" : 14,  "ingredients" : "Potatoes, salt" },
+  { "meal_id": 10, "name": "Chciken nuggets", "price" : 14,  "ingredients" : "Chicken"},
+ ],
 }
