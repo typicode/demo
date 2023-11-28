@@ -1,31 +1,54 @@
 {
- 
   "drinks": [
-    { "drink_id": 1,
-     "name": "Cuba Libre",
-     "price" : 3,
-     "ingredients" : "Rum, Coca-Cola, mint, lime, brown sugar, ice"
+    {
+      "drink_id": 1,
+      "name": "Cuba Libre",
+      "price": 3,
+      "ingredients": "Rum, Coca-Cola, mint, lime, brown sugar, ice"
     },
-    { "drink_id": 2,
-     "name": "Whisky Sour",
-     "price" : 5, "ingredients" :"Whiskey, lemon juice, sugar syrop, egg white, ice"
+    {
+      "drink_id": 2,
+      "name": "Whisky Sour",
+      "price": 5,
+      "ingredients": "Whiskey, lemon juice, sugar syrop, egg white, ice"
     },
-    { "drink_id": 3,
-     "name": "Aperol Spritz",
-     "price" : 4,
-     "ingredients" :"Aperol, sparkling water, Prosseco, slice of orange, ice" 
+    {
+      "drink_id": 3,
+      "name": "Aperol Spritz",
+      "price": 4,
+      "ingredients": "Aperol, sparkling water, Prosseco, slice of orange, ice"
     },
-     { "drink_id": 4, "title": "Tequilla Sunrise", "price" : 6, "ingredients" :"Tequilla, orange juice, grenadine" },
-
-     
+    {
+      "drink_id": 4,
+      "name": "Tequila Sunrise",
+      "price": 6,
+      "ingredients": "Tequila, orange juice, grenadine"
+    }
   ],
-
- "dishes": [
-   { "meal_id": 1, "name": "Spaghetti bolognese", "price" : 14,  "ingredients" :"Beef/ tofu, spaghetti pasta, bolognese sauce" },
-  { "meal_id": 2, "name": "Pizza", "price" : 14,  "ingredients" :"Tomato sauce, mozzarella cheese, salami" },
- { "meal_id": 3, "name": "Lasagne", "price" : 18,  "ingredients" :"Beef, bolognese sauce, " },
-  { "meal_id": 4, "name": "Tortelini", "price" : 14,  "ingredients" :"Beef, bolognese sauce" },
-
-  
- ],
+  "dishes": [
+    {
+      "meal_id": 1,
+      "name": "Spaghetti bolognese",
+      "price": 14,
+      "ingredients": "Beef/ tofu, spaghetti pasta, bolognese sauce"
+    },
+    {
+      "meal_id": 2,
+      "name": "Pizza",
+      "price": 14,
+      "ingredients": "Tomato sauce, mozzarella cheese, salami"
+    },
+    {
+      "meal_id": 3,
+      "name": "Lasagne",
+      "price": 18,
+      "ingredients": "Beef, bolognese sauce"
+    },
+    {
+      "meal_id": 4,
+      "name": "Tortellini",
+      "price": 14,
+      "ingredients": "Beef, bolognese sauce"
+    }
+  ]
 }
