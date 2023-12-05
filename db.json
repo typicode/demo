@@ -139,7 +139,7 @@
   "cities": [
     {
       "cityName": "Lisbon",
-      "country": "Portugal",
+      "country": ["Portugal", "pt"],
       "emoji": "pt",
       "date": "2027-10-31T15:59:59.138Z",
       "notes": "My favorite city so far!",
@@ -151,7 +151,7 @@
     },
     {
       "cityName": "Madrid",
-      "country": "Spain",
+      "country": ["Spain", "es"],
       "emoji": "es",
       "date": "2027-07-15T08:22:53.976Z",
       "notes": "",
@@ -163,7 +163,7 @@
     },
     {
       "cityName": "Berlin",
-      "country": "Germany",
+      "country": ["Germany", "de"],
       "emoji": "de",
       "date": "2027-02-12T09:24:11.863Z",
       "notes": "Amazing 😃",
@@ -175,7 +175,7 @@
     },
     {
       "cityName": "Nijar",
-      "country": "Spain",
+      "country": ["Spain", "es"],
       "emoji": "es",
       "date": "2023-04-03T07:47:59.202Z",
       "notes": "",
