@@ -4,49 +4,57 @@
       "id": 1,
       "name": "Cuba Libre",
       "price": 3,
-      "ingredients": "Rum, Coca-Cola, mint, lime, brown sugar, ice"
+      "ingredients": "Rum, Coca-Cola, mint, lime, brown sugar, ice",
+      "type" : "drink",
     },
     {
        "id": 2,
       "name": "Whisky Sour",
       "price": 5,
-      "ingredients": "Whiskey, lemon juice, sugar syrop, egg white, ice"
+      "ingredients": "Whiskey, lemon juice, sugar syrop, egg white, ice",
+      "type" : "drink",
     },
     {
        "id": 3,
       "name": "Aperol Spritz",
       "price": 4,
-      "ingredients": "Aperol, sparkling water, Prosseco, slice of orange, ice"
+      "ingredients": "Aperol, sparkling water, Prosseco, slice of orange, ice",
+      "type" : "drink",
     },
     {
        "id": 4,
       "name": "Tequila Sunrise",
       "price": 6,
-      "ingredients": "Tequila, orange juice, grenadine"
+      "ingredients": "Tequila, orange juice, grenadine",
+      "type" : "drink",
     },
      {
        "id": 5,
       "name": "Spaghetti bolognese",
       "price": 14,
-      "ingredients": "Beef/ tofu, spaghetti pasta, bolognese sauce"
+      "ingredients": "Beef/ tofu, spaghetti pasta, bolognese sauce",
+       "type" : "dish",
     },
     {
       "id": 6,
       "name": "Pizza",
       "price": 14,
-      "ingredients": "Tomato sauce, mozzarella cheese, salami"
+      "ingredients": "Tomato sauce, mozzarella cheese, salami",
+      "type" : "dish",
     },
     {
        "id": 7,
       "name": "Lasagne",
       "price": 18,
-      "ingredients": "Beef, bolognese sauce"
+      "ingredients": "Beef, bolognese sauce",
+      "type" : "dish",
     },
     {
        "id": 8,
       "name": "Tortellini",
       "price": 14,
-      "ingredients": "Beef, bolognese sauce"
+      "ingredients": "Beef, bolognese sauce",
+      "type" : "dish",
     }
     
   ],
