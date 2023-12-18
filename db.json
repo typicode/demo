@@ -17,7 +17,7 @@
      "ingredients" :"Aperol, sparkling water, Prosseco, slice of orange, ice", 
     {
   
-     { "drink_id": 4, "title": "Tequilla Sunrise", "price" : 6, "ingredients" :"Tequilla, orange juice, grenadine", },
+     { "drink_id": 4, "title": "Tequilla Sunrise", "price" : 6, "ingredients" :"Tequilla, orange juice, grenadine" },
 
 
     {
@@ -26,7 +26,7 @@
       "price": 6,
       "ingredients": "Tequila, orange juice, grenadine"
     }
-  ],
+  ]
 
  "dishes": [
    { "meal_id": 1, "name": "Spaghetti bolognese", "price" : 14,  "ingredients" :"Beef/ tofu, spaghetti pasta, bolognese sauce" },
