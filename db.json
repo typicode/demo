@@ -1,61 +1,68 @@
 {
+  "drinks": [
   "Positions": [
     {
+      "drink_id": 1,
       "id": 1,
       "name": "Cuba Libre",
       "price": 3,
-      "ingredients": "Rum, Coca-Cola, mint, lime, brown sugar, ice",
-      "type" : "drink",
+      "ingredients": "Rum, Coca-Cola, mint, lime, brown sugar, ice"
     },
     {
+      "drink_id": 2,
        "id": 2,
       "name": "Whisky Sour",
       "price": 5,
-      "ingredients": "Whiskey, lemon juice, sugar syrop, egg white, ice",
-      "type" : "drink",
+      "ingredients": "Whiskey, lemon juice, sugar syrop, egg white, ice"
     },
     {
+      "drink_id": 3,
        "id": 3,
       "name": "Aperol Spritz",
       "price": 4,
-      "ingredients": "Aperol, sparkling water, Prosseco, slice of orange, ice",
-      "type" : "drink",
+      "ingredients": "Aperol, sparkling water, Prosseco, slice of orange, ice"
     },
     {
+      "drink_id": 4,
        "id": 4,
       "name": "Tequila Sunrise",
       "price": 6,
-      "ingredients": "Tequila, orange juice, grenadine",
-      "type" : "drink",
+      "ingredients": "Tequila, orange juice, grenadine"
+    }
+  ],
+  "dishes": [
+    {
+      "meal_id": 1,
     },
      {
        "id": 5,
       "name": "Spaghetti bolognese",
       "price": 14,
-      "ingredients": "Beef/ tofu, spaghetti pasta, bolognese sauce",
-       "type" : "dish",
+      "ingredients": "Beef/ tofu, spaghetti pasta, bolognese sauce"
     },
     {
+      "meal_id": 2,
       "id": 6,
       "name": "Pizza",
       "price": 14,
-      "ingredients": "Tomato sauce, mozzarella cheese, salami",
-      "type" : "dish",
+      "ingredients": "Tomato sauce, mozzarella cheese, salami"
     },
     {
+      "meal_id": 3,
        "id": 7,
       "name": "Lasagne",
       "price": 18,
-      "ingredients": "Beef, bolognese sauce",
-      "type" : "dish",
+      "ingredients": "Beef, bolognese sauce"
     },
     {
+      "meal_id": 4,
        "id": 8,
       "name": "Tortellini",
       "price": 14,
-      "ingredients": "Beef, bolognese sauce",
-      "type" : "dish",
+      "ingredients": "Beef, bolognese sauce"
     }
-    
   ]
 }
+
+  ],
+},
