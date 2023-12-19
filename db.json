@@ -1,14 +1,22 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+ "data": [
+    {"firstName": "John", "lastName": "Doe", "email": "john.doe@example.com", "password": "securepassword", "phoneNumber": "1234567890"},
+    {"firstName": "Jane", "lastName": "Smith", "email": "jane.smith@example.com", "password": "strongpassword", "phoneNumber": "9876543210"},
+    {"firstName": "ashish", "lastName": "jadhav", "email": "ashish@example.com", "password": "asjadhav", "phoneNumber": "1234567890"},
+    {"firstName": "prajwal", "lastName": "pinotla", "email": "prajwal@example.com", "password": "prajwoki", "phoneNumber": "0987654321"},
+    {"firstName": "sanket", "lastName": "salunkhe", "email": "sanket@example.com", "password": "strongpassword", "phoneNumber": "54345535453"},
+    {"firstName": "rani", "lastName": "kumari", "email": "rani@example.com", "password": "ranipassword", "phoneNumber": "324243242344"},
+    {"firstName": "shruti", "lastName": "sate", "email": "shruti@example.com", "password": "shrutissword", "phoneNumber": "09876534345"},
+    {"firstName": "aishwarya", "lastName": "dada", "email": "aishwarya@example.com", "password": "stronaishwarya", "phoneNumber": "33321323233"},
+    {"firstName": "tinu", "lastName": "sarkar", "email": "tinu@example.com", "password": "strontinuord", "phoneNumber": "3213131233213"},
+    {"firstName": "gotya", "lastName": "malegoan", "email": "gotya@example.com", "password": "gotyassword", "phoneNumber": "9856566610"},
+    {"firstName": "omkar", "lastName": "kumbhar", "email": "omkar@example.com", "password": "somkarassword", "phoneNumber": "68905432"},
+    {"firstName": "sahil", "lastName": "satpute", "email": "sahil@example.com", "password": "strongsahil", "phoneNumber": "9876543222"},
+    {"firstName": "utkarsh", "lastName": "tinde", "email": "utkarsh@example.com", "password": "stroutkarshngpassword", "phoneNumber": "9876567890"},
+    {"firstName": "cobrea", "lastName": "michal", "email": "cobrea@example.com", "password": "cobreard", "phoneNumber": "1234554321"},
+    {"firstName": "danish", "lastName": "zehan", "email": "danish@example.com", "password": "strdanish", "phoneNumber": "76543334567"},
+    {"firstName": "rahul", "lastName": "mittal", "email": "rahul@example.com", "password": "rahulpassword", "phoneNumber": "98765432"},
+    {"firstName": "ken", "lastName": "dhukhnw", "email": "ken@example.com", "password": "stkensword", "phoneNumber": "1234512345"},
+    {"firstName": "Ankita", "lastName": "bichukale", "email": "Ankita@example.com", "password": "Ankitassword", "phoneNumber": "12345666777"}
+  ]
 }
