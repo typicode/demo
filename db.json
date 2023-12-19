@@ -26,7 +26,7 @@
       "price": 6,
       "ingredients": "Tequila, orange juice, grenadine"
     }
-  ]
+  
 
  "dishes": [
    { "meal_id": 1, "name": "Spaghetti bolognese", "price" : 14,  "ingredients" :"Beef/ tofu, spaghetti pasta, bolognese sauce" },
