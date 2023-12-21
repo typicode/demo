@@ -4,13 +4,10 @@
 { "id": 2, "name": "Whisky Sour", "price": 5, "ingredients": "Whiskey, lemon juice, sugar syrup, egg white, ice", "type" : "drink" },
 { "id": 3, "name": "Aperol Spritz", "price": 4, "ingredients": "Aperol, sparkling water, Prosecco, slice of orange, ice", "type" : "drink" },
 { "id": 4, "name": "Tequila Sunrise", "price": 6, "ingredients": "Tequila, orange juice, grenadine", "type" : "drink" },
+     { "id": 5, "name": "Spaghetti Bolognese", "price": 12, "ingredients": "Ground beef, tomato sauce, onion, garlic, Italian herbs, spaghetti", "type" : "dish" },
+{ "id": 6, "name": "Chicken Alfredo", "price": 15, "ingredients": "Chicken breast, fettuccine pasta, Alfredo sauce, Parmesan cheese", "type" : "dish" },
+{ "id": 7, "name": "Vegetarian Pizza", "price": 10, "ingredients": "Tomato sauce, mozzarella cheese, bell peppers, mushrooms, olives, onions, thin crust", "type" : "dish" },
+{ "id": 8, "name": "Caesar Salad", "price": 8, "ingredients": "Romaine lettuce, croutons, Parmesan cheese, Caesar dressing", "type" : "dish" },
 
   ],
-    "dishes": [
-   { "id": 1, "name": "Spaghetti Bolognese", "price": 12, "ingredients": "Ground beef, tomato sauce, onion, garlic, Italian herbs, spaghetti", "type" : "dish" },
-{ "id": 2, "name": "Chicken Alfredo", "price": 15, "ingredients": "Chicken breast, fettuccine pasta, Alfredo sauce, Parmesan cheese", "type" : "dish" },
-{ "id": 3, "name": "Vegetarian Pizza", "price": 10, "ingredients": "Tomato sauce, mozzarella cheese, bell peppers, mushrooms, olives, onions, thin crust", "type" : "dish" },
-{ "id": 4, "name": "Caesar Salad", "price": 8, "ingredients": "Romaine lettuce, croutons, Parmesan cheese, Caesar dressing", "type" : "dish" },
-
-    ]
 }
