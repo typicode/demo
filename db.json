@@ -1,4 +1,4 @@
-{
+
   "drinks": [
     { "id": 1, "name": "Cuba Libre", "price": 3, "ingredients": "Rum, Coca-Cola, mint, lime, brown sugar, ice" },
 { "id": 2, "name": "Whisky Sour", "price": 5, "ingredients": "Whiskey, lemon juice, sugar syrup, egg white, ice" },
@@ -22,4 +22,4 @@
 
   ],
 
-}
+
