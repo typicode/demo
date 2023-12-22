@@ -8,7 +8,7 @@
 { "id": 6, "name": "Piña Colada", "price": 7, "ingredients": "White rum, coconut cream, pineapple juice, ice" },
 { "id": 7, "name": "Gin and Tonic", "price": 5, "ingredients": "Gin, tonic water, lime wedge, ice" },
 { "id": 8, "name": "Old Fashioned", "price": 8, "ingredients": "Bourbon, sugar cube, Angostura bitters, orange peel, ice" },
-{ "id": 9, "name": "Martini", "price": 9, "ingredients": "Gin or vodka, dry vermouth, olive or lemon twist" }
+
   ],
   "dishes": [
    { "id": 1, "name": "Spaghetti Bolognese", "price": 12, "ingredients": "Ground beef, tomato sauce, onion, garlic, Italian herbs, spaghetti" },
@@ -19,7 +19,7 @@
 { "id": 6, "name": "Beef Tacos", "price": 10, "ingredients": "Seasoned ground beef, taco shells, lettuce, cheese, salsa" },
 { "id": 7, "name": "Caprese Salad", "price": 9, "ingredients": "Tomatoes, fresh mozzarella, basil, balsamic glaze" },
 { "id": 8, "name": "Shrimp Scampi", "price": 16, "ingredients": "Shrimp, garlic, butter, white wine, parsley, linguine pasta" },
-{ "id": 9, "name": "Vegetable Stir-Fry", "price": 11, "ingredients": "Mixed vegetables, tofu, soy sauce, ginger, garlic, rice" },
+
   ],
 
 }
