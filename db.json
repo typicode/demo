@@ -1,14 +1,10 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
+  "k1": "değer1",
+  "k2": 123,
+  "k3": true,
+  "k4": ["eleman1", "eleman2", "eleman3"],
+  "k5": {
+    "alt_kolon1": "alt_değer1",
+    "alt_kolon2": 456
   }
 }
