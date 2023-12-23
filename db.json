@@ -14,5 +14,5 @@
    { "id": 4, "name": "Caesar Salad", "price": 8, "ingredients": "Romaine lettuce, croutons, Parmesan cheese, Caesar dressing" },
    { "id": 5, "name": "Sushi Platter", "price": 18, "ingredients": "Assorted sushi rolls, soy sauce, pickled ginger, wasabi" },
 
-  ],
+  ]
 }
