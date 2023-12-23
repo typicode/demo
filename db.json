@@ -4,7 +4,7 @@
     { "id": 2, "name": "Whisky Sour", "price": 5, "ingredients": "Whiskey, lemon juice, sugar syrup, egg white, ice" },
     { "id": 3, "name": "Aperol Spritz", "price": 4, "ingredients": "Aperol, sparkling water, Prosecco, slice of orange, ice" },
     { "id": 4, "name": "Tequila Sunrise", "price": 6, "ingredients": "Tequila, orange juice, grenadine" },
-    { "id": 5, "name": "Mojito", "price": 4, "ingredients": "White rum, mint leaves, lime, sugar, soda water, ice" },
+    { "id": 5, "name": "Mojito", "price": 4, "ingredients": "White rum, mint leaves, lime, sugar, soda water, ice" }
 
   ],
   "dishes": [
@@ -12,7 +12,7 @@
    { "id": 2, "name": "Chicken Alfredo", "price": 15, "ingredients": "Chicken breast, fettuccine pasta, Alfredo sauce, Parmesan cheese" },
    { "id": 3, "name": "Vegetarian Pizza", "price": 10, "ingredients": "Tomato sauce, mozzarella cheese, bell peppers, mushrooms, olives, onions, thin crust" },
    { "id": 4, "name": "Caesar Salad", "price": 8, "ingredients": "Romaine lettuce, croutons, Parmesan cheese, Caesar dressing" },
-   { "id": 5, "name": "Sushi Platter", "price": 18, "ingredients": "Assorted sushi rolls, soy sauce, pickled ginger, wasabi" },
+   { "id": 5, "name": "Sushi Platter", "price": 18, "ingredients": "Assorted sushi rolls, soy sauce, pickled ginger, wasabi" }
 
   ]
 }
