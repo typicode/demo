@@ -8,10 +8,8 @@
 { "id": 6, "name": "Piña Colada", "price": 7, "ingredients": "White rum, coconut cream, pineapple juice, ice", "type": "drink" },
 { "id": 7, "name": "Gin and Tonic", "price": 5, "ingredients": "Gin, tonic water, lime wedge, ice", "type": "drink" },
 { "id": 8, "name": "Old Fashioned", "price": 8, "ingredients": "Bourbon, sugar cube, Angostura bitters, orange peel, ice", "type": "drink" },
-{ "id": 9, "name": "Martini", "price": 9, "ingredients": "Gin or vodka, dry vermouth, olive or lemon twist", "type": "drink" }
-  ],
-    "dishes": [
-   { "id": 1, "name": "Spaghetti Bolognese", "price": 12, "ingredients": "Ground beef, tomato sauce, onion, garlic, Italian herbs, spaghetti", "type": "dish" },
+{ "id": 9, "name": "Martini", "price": 9, "ingredients": "Gin or vodka, dry vermouth, olive or lemon twist", "type": "drink" },
+{ "id": 1, "name": "Spaghetti Bolognese", "price": 12, "ingredients": "Ground beef, tomato sauce, onion, garlic, Italian herbs, spaghetti", "type": "dish" },
 { "id": 2, "name": "Chicken Alfredo", "price": 15, "ingredients": "Chicken breast, fettuccine pasta, Alfredo sauce, Parmesan cheese", "type": "dish" },
 { "id": 3, "name": "Vegetarian Pizza", "price": 10, "ingredients": "Tomato sauce, mozzarella cheese, bell peppers, mushrooms, olives, onions, thin crust", "type": "dish" },
 { "id": 4, "name": "Caesar Salad", "price": 8, "ingredients": "Romaine lettuce, croutons, Parmesan cheese, Caesar dressing", "type": "dish" },
@@ -20,5 +18,5 @@
 { "id": 7, "name": "Caprese Salad", "price": 9, "ingredients": "Tomatoes, fresh mozzarella, basil, balsamic glaze", "type": "dish" },
 { "id": 8, "name": "Shrimp Scampi", "price": 16, "ingredients": "Shrimp, garlic, butter, white wine, parsley, linguine pasta", "type": "dish" },
 { "id": 9, "name": "Vegetable Stir-Fry", "price": 11, "ingredients": "Mixed vegetables, tofu, soy sauce, ginger, garlic, rice", "type": "dish" }
-    ]
+  ]
 }
