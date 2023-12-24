@@ -1,14 +1,79 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "adblock_usage": 89,
+  "browser_usage": 48,
+  "browser_usage_logs": [],
+  "offerwall_opened": 79,
+  "santa_button_double_tap": 94,
+  "santa_button_long_tap": 31,
+  "santa_button_tap": 60,
+  "tab_usage": 88,
+  "user_address": "hui",
+  "wallet_tx_received": 86,
+  "wallet_tx_sent": 33,
+  "quests": [
+    {
+      "title": "Welcome Aboard",
+      "image": "url",
+      "color": "#fff",
+      "done": false,
+      "levels": [
+        {
+          "title": "Learn the CLID",
+          "desc": "description",
+          "video": "url",
+          "reward": 1,
+          "go": "action",
+          "done": true
+        },
+        {
+          "title": "Download 10 times",
+          "desc": "description",
+          "video": "url",
+          "reward": 10,
+          "go": "action",
+          "done": false
+        },
+        {
+          "title": "Settings Action",
+          "desc": "description",
+          "video": "url",
+          "reward": 100,
+          "go": "action",
+          "done": false
+        }
+      ]
+    },
+    {
+      "title": "Set as Default",
+      "image": "url",
+      "color": "#fff",
+      "done": false,
+      "levels": [
+        {
+          "title": "Set as Default for a day",
+          "desc": "description",
+          "video": "url",
+          "reward": 1,
+          "go": "action",
+          "done": false
+        },
+        {
+          "title": "Set as Default for 7 days",
+          "desc": "description",
+          "video": "url",
+          "reward": 10,
+          "go": "action",
+          "done": false
+        },
+        {
+          "title": "Set as Default for a month",
+          "desc": "description",
+          "video": "url",
+          "reward": 100,
+          "go": "action",
+          "done": false
+        }
+      ]
+    }
+  ]
 }
