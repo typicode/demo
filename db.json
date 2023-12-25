@@ -1,22 +1,130 @@
 {
   "drinks": [
-   { "id": 1, "name": "Cuba Libre", "price": 3, "ingredients": "Rum, Coca-Cola, mint, lime, brown sugar, ice", "type": "drink" },
-{ "id": 2, "name": "Whisky Sour", "price": 5, "ingredients": "Whiskey, lemon juice, sugar syrup, egg white, ice", "type": "drink" },
-{ "id": 3, "name": "Aperol Spritz", "price": 4, "ingredients": "Aperol, sparkling water, Prosecco, slice of orange, ice", "type": "drink" },
-{ "id": 4, "name": "Tequila Sunrise", "price": 6, "ingredients": "Tequila, orange juice, grenadine", "type": "drink" },
-{ "id": 5, "name": "Mojito", "price": 4, "ingredients": "White rum, mint leaves, lime, sugar, soda water, ice", "type": "drink" },
-{ "id": 6, "name": "Piña Colada", "price": 7, "ingredients": "White rum, coconut cream, pineapple juice, ice", "type": "drink" },
-{ "id": 7, "name": "Gin and Tonic", "price": 5, "ingredients": "Gin, tonic water, lime wedge, ice", "type": "drink" },
-{ "id": 8, "name": "Old Fashioned", "price": 8, "ingredients": "Bourbon, sugar cube, Angostura bitters, orange peel, ice", "type": "drink" },
-{ "id": 9, "name": "Martini", "price": 9, "ingredients": "Gin or vodka, dry vermouth, olive or lemon twist", "type": "drink" },
-{ "id": 10, "name": "Spaghetti Bolognese", "price": 12, "ingredients": "Ground beef, tomato sauce, onion, garlic, Italian herbs, spaghetti", "type": "dish" },
-{ "id": 11, "name": "Chicken Alfredo", "price": 15, "ingredients": "Chicken breast, fettuccine pasta, Alfredo sauce, Parmesan cheese", "type": "dish" },
-{ "id": 12, "name": "Vegetarian Pizza", "price": 10, "ingredients": "Tomato sauce, mozzarella cheese, bell peppers, mushrooms, olives, onions, thin crust", "type": "dish" },
-{ "id": 13, "name": "Caesar Salad", "price": 8, "ingredients": "Romaine lettuce, croutons, Parmesan cheese, Caesar dressing", "type": "dish" },
-{ "id": 14, "name": "Sushi Platter", "price": 18, "ingredients": "Assorted sushi rolls, soy sauce, pickled ginger, wasabi", "type": "dish" },
-{ "id": 15, "name": "Beef Tacos", "price": 10, "ingredients": "Seasoned ground beef, taco shells, lettuce, cheese, salsa", "type": "dish" },
-{ "id": 16, "name": "Caprese Salad", "price": 9, "ingredients": "Tomatoes, fresh mozzarella, basil, balsamic glaze", "type": "dish" },
-{ "id": 17, "name": "Shrimp Scampi", "price": 16, "ingredients": "Shrimp, garlic, butter, white wine, parsley, linguine pasta", "type": "dish" },
-{ "id": 18, "name": "Vegetable Stir-Fry", "price": 11, "ingredients": "Mixed vegetables, tofu, soy sauce, ginger, garlic, rice", "type": "dish" }
+    {
+      "id": 1,
+      "name": "Cuba Libre",
+      "price": 3,
+      "ingredients": "Rum, Coca-Cola, mint, lime, brown sugar, ice",
+      "type": "drink"
+    },
+    {
+      "id": 2,
+      "name": "Whisky Sour",
+      "price": 5,
+      "ingredients": "Whiskey, lemon juice, sugar syrup, egg white, ice",
+      "type": "drink"
+    },
+    {
+      "id": 3,
+      "name": "Aperol Spritz",
+      "price": 4,
+      "ingredients": "Aperol, sparkling water, Prosecco, slice of orange, ice",
+      "type": "drink"
+    },
+    {
+      "id": 4,
+      "name": "Tequila Sunrise",
+      "price": 6,
+      "ingredients": "Tequila, orange juice, grenadine",
+      "type": "drink"
+    },
+    {
+      "id": 5,
+      "name": "Mojito",
+      "price": 4,
+      "ingredients": "White rum, mint leaves, lime, sugar, soda water, ice",
+      "type": "drink"
+    },
+    {
+      "id": 6,
+      "name": "Piña Colada",
+      "price": 7,
+      "ingredients": "White rum, coconut cream, pineapple juice, ice",
+      "type": "drink"
+    },
+    {
+      "id": 7,
+      "name": "Gin and Tonic",
+      "price": 5,
+      "ingredients": "Gin, tonic water, lime wedge, ice",
+      "type": "drink"
+    },
+    {
+      "id": 8,
+      "name": "Old Fashioned",
+      "price": 8,
+      "ingredients": "Bourbon, sugar cube, Angostura bitters, orange peel, ice",
+      "type": "drink"
+    },
+    {
+      "id": 9,
+      "name": "Martini",
+      "price": 9,
+      "ingredients": "Gin or vodka, dry vermouth, olive or lemon twist",
+      "type": "drink"
+    },
+    {
+      "id": 10,
+      "name": "Spaghetti Bolognese",
+      "price": 12,
+      "ingredients": "Ground beef, tomato sauce, onion, garlic, Italian herbs, spaghetti",
+      "type": "dish"
+    },
+    {
+      "id": 11,
+      "name": "Chicken Alfredo",
+      "price": 15,
+      "ingredients": "Chicken breast, fettuccine pasta, Alfredo sauce, Parmesan cheese",
+      "type": "dish"
+    },
+    {
+      "id": 12,
+      "name": "Vegetarian Pizza",
+      "price": 10,
+      "ingredients": "Tomato sauce, mozzarella cheese, bell peppers, mushrooms, olives, onions, thin crust",
+      "type": "dish"
+    },
+    {
+      "id": 13,
+      "name": "Caesar Salad",
+      "price": 8,
+      "ingredients": "Romaine lettuce, croutons, Parmesan cheese, Caesar dressing",
+      "type": "dish"
+    },
+    {
+      "id": 14,
+      "name": "Sushi Platter",
+      "price": 18,
+      "ingredients": "Assorted sushi rolls, soy sauce, pickled ginger, wasabi",
+      "type": "dish"
+    },
+    {
+      "id": 15,
+      "name": "Beef Tacos",
+      "price": 10,
+      "ingredients": "Seasoned ground beef, taco shells, lettuce, cheese, salsa",
+      "type": "dish"
+    },
+    {
+      "id": 16,
+      "name": "Caprese Salad",
+      "price": 9,
+      "ingredients": "Tomatoes, fresh mozzarella, basil, balsamic glaze",
+      "type": "dish"
+    },
+    {
+      "id": 17,
+      "name": "Shrimp Scampi",
+      "price": 16,
+      "ingredients": "Shrimp, garlic, butter, white wine, parsley, linguine pasta",
+      "type": "dish"
+    },
+    {
+      "id": 18,
+      "name": "Vegetable Stir-Fry",
+      "price": 11,
+      "ingredients": "Mixed vegetables, tofu, soy sauce, ginger, garlic, rice",
+      "type": "dish"
+    }
   ]
 }
