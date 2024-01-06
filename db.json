@@ -1,14 +1,46 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "todos": [
+    {
+      "id": 1,
+      "todo": "Do something nice for someone I care about",
+      "completed": true,
+      "userId": 26
+    },
+    {
+      "id": 2,
+      "todo": "Memorize the fifty states and their capitals",
+      "completed": false,
+      "userId": 48
+    },
+    {
+      "id": 3,
+      "todo": "Watch a classic movie",
+      "completed": false,
+      "userId": 4
+    },
+    {
+      "id": 4,
+      "todo": "Contribute code or a monetary donation to an open-source software project",
+      "completed": false,
+      "userId": 48
+    },
+    {
+      "id": 5,
+      "todo": "Solve a Rubik's cube",
+      "completed": false,
+      "userId": 31
+    },
+    {
+      "todo": "Learn HTML5",
+      "completed": true,
+      "userId": 1,
+      "id": 6
+    },
+    {
+      "todo": "Learn CSS",
+      "completed": false,
+      "userId": 1,
+      "id": 7
+    }
+  ]
 }
