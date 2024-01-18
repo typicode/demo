@@ -1,9 +1,9 @@
 {
   "posts": {
-      transactionTime: '2023-01-18',
-      resultCode: 'Ok',
-      errors: null,
-      data: [
+      "transactionTime": '2023-01-18',
+      "resultCode": 'Ok',
+      "errors": null,
+      "data": [
         {
             "userId": 1,
             "id": 1,
