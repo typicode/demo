@@ -185,5 +185,23 @@
       },
       "id": 98443198
     }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "name": "Classy Weather App",
+      "framework": "REACT VERSION 16",
+      "description": "Display the weather forecast for the next 7 days, background image of app Dynamically change based on the weather conditions, Responsive Design for all screen. Discover app and get the weather information of your city.",
+      "wideScreenImg": "https://iili.io/JEEmdHx.png",
+      "mobileScreenImg": "https://iili.io/JEEmHSj.png"
+    },
+    {
+      "id": 2,
+      "name": "The Wild Oasis Hotel",
+      "framework": "REACT & TAILWIND",
+      "description": "Fullstack App using Supabase with Authentication, Users can sign up by email, CRUD system users can create, update and delete cabins, users can check-in or check-out booking, dashboard with interactive charts and graphs. With Recharts library, Discover app and See more.",
+      "wideScreenImg": "https://iili.io/JEEba8x.png",
+      "mobileScreenImg": "https://iili.io/JEEb73b.png"
+    }
   ]
 }
