@@ -1,0 +1,52 @@
+{
+    "employeeDetails": [
+      {
+        "id":"1",
+        "name": "John Doe",
+        "age": 30,
+        "mobile": "123-456-7890",
+        "department": "IT",
+        "gender": "male",
+        "city": "Chennai"
+      },
+      {
+        "id":"2",
+        "name": "Jane Smith",
+        "age": 28,
+        "mobile": "987-654-3210",
+        "department": "HR",
+        "gender": "female",
+        "city": "Coimbatore"
+      },
+      {
+        "id":"3",
+        "name": "Bob Johnson",
+        "age": 35,
+        "mobile": "555-123-4567",
+        "department": "Finance",
+        "gender": "male",
+        "city": "Bangalore"
+      },
+      {
+        "id":"4",
+        "name": "Alice Williams",
+        "age": 25,
+        "mobile": "111-222-3333",
+        "department": "Marketing",
+        "gender": "female",
+        "city": "Mumbai"
+      },
+      {
+        "id":"5",
+        "name": "Charlie Brown",
+        "age": 32,
+        "mobile": "999-888-7777",
+        "department": "Operations",
+        "gender": "male",
+        "city": "Delhi"
+      }
+    ],
+    "gender": ["male", "female"],
+    "city": ["Chennai", "Coimbatore", "Bangalore", "Mumbai", "Delhi"]
+  }
+  
