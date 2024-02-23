@@ -2,25 +2,45 @@
   "questions": [
     {
       "question": "Which is the most popular JavaScript framework?",
-      "options": ["Angular", "React", "Svelte", "Vue"],
+      "options": [
+        "Angular",
+        "React",
+        "Svelte",
+        "Vue"
+      ],
       "correctOption": 1,
       "points": 10
     },
     {
       "question": "Which company invented React?",
-      "options": ["Google", "Apple", "Netflix", "Facebook"],
+      "options": [
+        "Google",
+        "Apple",
+        "Netflix",
+        "Facebook"
+      ],
       "correctOption": 3,
       "points": 10
     },
     {
       "question": "What's the fundamental building block of React apps?",
-      "options": ["Components", "Blocks", "Elements", "Effects"],
+      "options": [
+        "Components",
+        "Blocks",
+        "Elements",
+        "Effects"
+      ],
       "correctOption": 0,
       "points": 10
     },
     {
       "question": "What's the name of the syntax we use to describe the UI in React components?",
-      "options": ["FBJ", "Babel", "JSX", "ES2015"],
+      "options": [
+        "FBJ",
+        "Babel",
+        "JSX",
+        "ES2015"
+      ],
       "correctOption": 2,
       "points": 10
     },
@@ -37,7 +57,12 @@
     },
     {
       "question": "How to pass data into a child component?",
-      "options": ["State", "Props", "PropTypes", "Parameters"],
+      "options": [
+        "State",
+        "Props",
+        "PropTypes",
+        "Parameters"
+      ],
       "correctOption": 1,
       "points": 10
     },
@@ -98,7 +123,12 @@
     },
     {
       "question": "Which hook to use for an API request on the component's initial render?",
-      "options": ["useState", "useEffect", "useRef", "useReducer"],
+      "options": [
+        "useState",
+        "useEffect",
+        "useRef",
+        "useReducer"
+      ],
       "correctOption": 1,
       "points": 10
     },
@@ -139,7 +169,10 @@
   "cities": [
     {
       "cityName": "Lisbon",
-      "country": ["Portugal", "pt"],
+      "country": [
+        "Portugal",
+        "pt"
+      ],
       "emoji": "pt",
       "date": "2027-10-31T15:59:59.138Z",
       "notes": "My favorite city so far!",
@@ -151,7 +184,10 @@
     },
     {
       "cityName": "Madrid",
-      "country": ["Spain", "es"],
+      "country": [
+        "Spain",
+        "es"
+      ],
       "emoji": "es",
       "date": "2027-07-15T08:22:53.976Z",
       "notes": "",
@@ -163,7 +199,10 @@
     },
     {
       "cityName": "Berlin",
-      "country": ["Germany", "de"],
+      "country": [
+        "Germany",
+        "de"
+      ],
       "emoji": "de",
       "date": "2027-02-12T09:24:11.863Z",
       "notes": "Amazing 😃",
@@ -175,7 +214,10 @@
     },
     {
       "cityName": "Nijar",
-      "country": ["Spain", "es"],
+      "country": [
+        "Spain",
+        "es"
+      ],
       "emoji": "es",
       "date": "2023-04-03T07:47:59.202Z",
       "notes": "",
@@ -223,22 +265,22 @@
   "services": [
     {
       "name": "Web Development",
-      "description": "Front-end developer, I transform the UI/UX design into Projects by using technologies like HTML, CSS, JAVASCRIPT and their Third-party libraries such as React JS and Tailwind CSS, Transform projects into Functional, Interactive Websites that deliver Exceptional Performance.",
+      "description": "Front-end developer, I transform the UI/UX design into Projects by usingtechnologies like HTML,CSS,  JAVASCRIPT and their Third-party libraries such as React JS and Tailwind CSS, Transform projects into Functional, Interactive Websites that deliver Exceptional                     Performance.",
       "icon": "FaLaptopCode"
     },
     {
       "name": "Integration with Back-end",
-      "description": "Communicate and Integrate with back-end services by using the most common way APIs (Application Programming              Interfaces) to fetch data, submit forms and perform other operations.",
+      "description": "Communicate and Integrate with back-end services by using the most common way APIs (Application Programming Interfaces) to fetch data, submit forms and perform other operations.",
       "icon": "FaCodeBranch"
     },
     {
       "name": "User Experience Optimization",
-      "description": "Creating a positive and seamless experience for users, Improve the user experience based on user feedbacknd                    analytics, ensuring that the application meets the needs and expectations of its users.",
+      "description": "Creating a positive and seamless experience for users,  Improve the user experience based on user feedback and  analytics, ensuring that the application meets the needs        and expectations of its users.",
       "icon": "MdOutlineSettingsSuggest"
     },
     {
       "name": "User Interface Design",
-      "description": "Designing user interfaces that are visually appealing, intuitive to use, and aligned with the brand dentity of the application, Responsive Design and optimal user experience across all devices screens, Interactive Features such as Animations, transitions, and real-time updates to enhance the user experience.",
+      "description": "Designing user interfaces that are visually appealing, intuitive to use, and aligned with the brand identity of the application, Responsive Design and optimal user experience across all devices screens, Interactive Features such as Animations, transitions, and real-time updates to enhance the user experience.",
       "icon": "LuLayoutDashboard"
     }
   ]
