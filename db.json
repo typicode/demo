@@ -265,7 +265,7 @@
   "services": [
     {
       "name": "Web Development",
-      "description": "Front-end developer, I transform the UI/UX design into Projects by usingtechnologies like HTML,CSS,  JAVASCRIPT and their Third-party libraries such as React JS and Tailwind CSS, Transform projects into Functional, Interactive Websites that deliver Exceptional                     Performance.",
+      "description": "Front-end developer, I transform the UI/UX design into Projects by using technologies like HTML,CSS, JAVASCRIPT and their Third-party libraries such as React JS and Tailwind CSS, Transform projects into Functional, Interactive Websites that deliver Exceptional Performance.",
       "icon": "FaLaptopCode"
     },
     {
@@ -275,7 +275,7 @@
     },
     {
       "name": "User Experience Optimization",
-      "description": "Creating a positive and seamless experience for users,  Improve the user experience based on user feedback and  analytics, ensuring that the application meets the needs        and expectations of its users.",
+      "description": "Creating a positive and seamless experience for users, Improve the user experience based on user feedback and  analytics, ensuring that the application meets the needs and expectations of its users.",
       "icon": "MdOutlineSettingsSuggest"
     },
     {
