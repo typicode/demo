@@ -289,26 +289,5 @@
       "icon": "LuLayoutDashboard"
     }
   ],
-  "process": [
-    {
-      "name": "Request Project",
-      "description": "It all starts with your project request. I listen carefully to understand what you need and your ideas. Your ideas are my inspiration, and understanding your goals is my top priority.",
-    },
-    {
-      "name": "Ideation",
-      "description": "In this step, creativity takes center stage. I delve into brainstorming sessions to conceptualize your project. This is where I explore innovative solutions and artistic approaches to bring your vision to life.",
-    },
-    {
-      "name": "Designing",
-      "description": "With a clear concept in mind, we move to the design phase. This is where I weave together visual elements, user-friendly interfaces, and all the creative components that will make your project stand out.",
-    },
-    {
-      "name": "Feedback",
-      "description": "Your feedback is invaluable. I present the design work to you for your input. I'm dedicated to collaboration and will make revisions as necessary to ensure the final product aligns perfectly with your artistic vision.",
-    },
-    {
-      "name": "Launch",
-      "description": "After your approval, it's time to release your project to the world. I handle all the technical details, ensuring a seamless launch. Your project is introduced to the public, where it will inspire and engage.",
-    },
-  ],
+ 
 }
