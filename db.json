@@ -1,14 +1,68 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
+[
+  {
+    "count": 0,
+    "index": "payment_attempts",
+    "hits": []
+  },
+  {
+    "count": 2,
+    "index": "payment_intents",
+    "hits": [
+      {
+        "payment_id": "pay_sj8aVNPLFrctjkOF3UoT",
+        "merchant_id": "postman_merchant_GHAction_11f62d0d-df98-4b35-8629-a1eee1edfa92",
+        "status": "succeeded",
+        "amount": 6540,
+        "currency": "USD",
+        "amount_captured": 6540,
+        "customer_id": "StripeCustomer",
+        "description": "Its my first payment request",
+        "return_url": "https://duck.com/",
+        "connector_id": null,
+        "statement_descriptor_name": "joseph",
+        "statement_descriptor_suffix": "JS",
+        "created_at": 1709032037,
+        "modified_at": 1709032039,
+        "last_synced": 1709032037,
+        "setup_future_usage": null,
+        "off_session": null,
+        "client_secret": "pay_sj8aVNPLFrctjkOF3UoT_secret_xKyu8zgVxB6K0lzVXqqq",
+        "active_attempt_id": "pay_sj8aVNPLFrctjkOF3UoT_1",
+        "business_country": null,
+        "business_label": "default",
+        "attempt_count": 1,
+        "sign_flag": 1
+      },
+      {
+        "payment_id": "pay_4rcoPWbtWs1DghxR29Ur",
+        "merchant_id": "postman_merchant_GHAction_11f62d0d-df98-4b35-8629-a1eee1edfa92",
+        "status": "succeeded",
+        "amount": 6540,
+        "currency": "USD",
+        "amount_captured": 6540,
+        "customer_id": "StripeCustomer",
+        "description": "Its my first payment request",
+        "return_url": "https://duck.com/",
+        "connector_id": null,
+        "statement_descriptor_name": "joseph",
+        "statement_descriptor_suffix": "JS",
+        "created_at": 1709027992,
+        "modified_at": 1709027994,
+        "last_synced": 1709027992,
+        "setup_future_usage": null,
+        "off_session": null,
+        "client_secret": "pay_4rcoPWbtWs1DghxR29Ur_secret_FbviEUdG7FNMf3S7socJ",
+        "active_attempt_id": "pay_4rcoPWbtWs1DghxR29Ur_1",
+        "business_country": null,
+        "business_label": "default",
+        "attempt_count": 1,
+        "sign_flag": 1
+      }
+    ]
+  },
+  {
+    "count": 0,
+    "index": "refunds",
+    "hits": []
   }
-}
+]
