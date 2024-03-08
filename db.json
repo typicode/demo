@@ -8,7 +8,31 @@
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
-  "profile": {
-    "name": "typicode"
-  }
+  "profile": [{
+     "emp_id": 1,
+    "username": "junite",
+    "password": "tsukiden+",
+   
+  },{
+     "emp_id": 2,
+    "username": "gramirez",
+    "password": "tsukiden+",
+   
+  },{
+     "emp_id": 3,
+    "username": "cgulmatico",
+    "password": "tsukiden+",
+   
+  },{
+     "emp_id": 4,
+    "username": "mdaya",
+    "password": "tsukiden+",
+   
+  },{
+     "emp_id": 5,
+    "username": "jaquino",
+    "password": "tsukiden+",
+   
+  },
+  ]
 }
