@@ -2,18 +2,6 @@
   "profile": {
     "username": "Viswa Bharath Dakka",
     "likes": "21234",
-    "profilePictureUrl":"https://avatars.githubusercontent.com/u/1663153?v=4",
-    "posts": [
-    {
-        "id": "1",
-        "thumbnailUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/WhatCarCanYouGetForAGrand.jpg",
-        "duration": "8:18",
-        "uploadTime": "May 9, 2011",
-        "views": "24,969,123",
-        "author": "Vlc Media Player",
-        "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WhatCarCanYouGetForAGrand.mp4",
-        "subscriber": "25254545 Subscribers",
-        "authorImg": "https://avatar.iran.liara.run/public"
-    }]
+    "profilePictureUrl":"https://avatars.githubusercontent.com/u/1663153?v=4"
   }
 }
