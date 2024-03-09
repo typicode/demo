@@ -49,6 +49,16 @@
   "profile": {
     "username": "Viswa Bharath Dakka",
     "likes": "21234",
-    "profilePictureUrl":"https://avatars.githubusercontent.com/u/1663153?v=4"
+    "profilePictureUrl":"https://avatars.githubusercontent.com/u/1663153?v=4",
+    "posts": [
+    {
+      "id": "1",
+      "duration": "2",
+      "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4",
+      "thumbnailUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/ForBiggerMeltdowns.jpg",
+      "username": "Viswa Bharath Dakka",
+      "likes": 1245,
+      "postDate": "02 Mar, 2024"
+    }]
   }
 }
