@@ -2,7 +2,7 @@
   "feed": [
   {
     "id": "1",
-    "duration": "8:18",
+    "duration": "8 mins",
     "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WhatCarCanYouGetForAGrand.mp4",
     "thumbnailUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/WhatCarCanYouGetForAGrand.jpg",
     "username": "creative_coder",
@@ -11,7 +11,7 @@
   },
   {
     "id": "2",
-    "duration": "12:18",
+    "duration": "12 mins",
     "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
     "thumbnailUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/ElephantsDream.jpg",
     "username": "tech_enthusiast",
