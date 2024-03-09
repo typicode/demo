@@ -1,23 +1,23 @@
 {
   "feed": [
-    {
-        "id": "1",
-         "duration": "8:18",
-         "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WhatCarCanYouGetForAGrand.mp4",
-         "thumbnailUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/WhatCarCanYouGetForAGrand.jpg",
-         "username": "creative coder",
-         "likes": 78,
-         "postDate": "01 Mar, 2024"
-    },
-     {
-        "id": "2",
-         "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
-         "thumbnailUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/ElephantsDream.jpg",
-         "username": "tech enthusiast",
-         "likes": 132,
-         "postDate": "01 Mar, 2024",
-        "duration": "12:18"
-    }
+  {
+    "id": "1",
+    "duration": "8:18",
+    "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WhatCarCanYouGetForAGrand.mp4",
+    "thumbnailUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/WhatCarCanYouGetForAGrand.jpg",
+    "username": "creative_coder",
+    "likes": 78,
+    "postDate": "01 Mar, 2024"
+  },
+  {
+    "id": "2",
+    "duration": "12:18",
+    "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+    "thumbnailUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/ElephantsDream.jpg",
+    "username": "tech_enthusiast",
+    "likes": 132,
+    "postDate": "01 Mar, 2024"
+  }
 ]
 ,
   "comments": [
