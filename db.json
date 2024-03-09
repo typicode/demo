@@ -59,6 +59,24 @@
       "username": "Viswa Bharath Dakka",
       "likes": 1245,
       "postDate": "02 Mar, 2024"
+    },
+    {
+      "id": "2",
+      "duration": "2",
+      "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/SubaruOutbackOnStreetAndDirt.mp4",
+      "thumbnailUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/SubaruOutbackOnStreetAndDirt.jpg",
+      "username": "Viswa Bharath Dakka",
+      "likes": 432,
+      "postDate": "04 Mar, 2024"
+    },
+    {
+      "id": "3",
+      "duration": "2",
+      "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
+      "thumbnailUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/ForBiggerJoyrides.jpg",
+      "username": "Viswa Bharath Dakka",
+      "likes": 221,
+      "postDate": "07 Mar, 2024"
     }]
   }
 }
