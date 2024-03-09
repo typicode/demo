@@ -17,6 +17,15 @@
     "username": "tech_enthusiast",
     "likes": 132,
     "postDate": "03 Mar, 2024"
+  },
+  {
+    "id": "2",
+    "duration": "12",
+    "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+    "thumbnailUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/ElephantsDream.jpg",
+    "username": "tech_enthusiast",
+    "likes": 132,
+    "postDate": "03 Mar, 2024"
   }
 ],
   "profile": {
