@@ -89,9 +89,6 @@
         "authorImg": "https://avatar.iran.liara.run/public"
 
     },
-    
-    
-    
         {
             "id": "7",
             "title": "For Bigger Blazes",
@@ -107,8 +104,6 @@
             "authorImg": "https://avatar.iran.liara.run/public"
 
         },
-
-       
         {
             "id": "8",
             "title": "For Bigger Blazes",
@@ -154,7 +149,6 @@
             "authorImg": "https://avatar.iran.liara.run/public"
 
         },
-        
         {
             "id": "11",
             "title": "For Bigger Blazes",
@@ -169,5 +163,5 @@
             "isLive": false,
             "authorImg": "https://avatar.iran.liara.run/public"
 
-        },
+        }
 ]
