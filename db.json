@@ -1,7 +1,7 @@
 {
   "feed": [
     {
-        "postId":"1",
+        "id":"1",
          "duration": "8:18",
          "videoUrl":"https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WhatCarCanYouGetForAGrand.mp4",
          "thumbnail_url":"https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/WhatCarCanYouGetForAGrand.jpg",
@@ -10,7 +10,7 @@
          "postDate": "01 Mar, 2024"
     },
      {
-        "postId":"2",
+        "id":"2",
          "videoUrl":"https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
          "thumbnail_url":"https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/ElephantsDream.jpg",
          "username":"creative_coder",
