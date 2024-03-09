@@ -35,6 +35,15 @@
     "username": "foodie",
     "likes": 190,
     "postDate": "04 Mar, 2024"
+  },
+  {
+    "id": "5",
+    "duration": "3",
+    "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
+    "thumbnailUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/TearsOfSteel.jpg",
+    "username": "nature_lover",
+    "likes": 435,
+    "postDate": "09 Mar, 2024"
   }
 ],
   "profile": {
