@@ -1,4 +1,24 @@
 {
+  "feed": [
+  {
+    "id": "1",
+    "duration": "8",
+    "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WhatCarCanYouGetForAGrand.mp4",
+    "thumbnailUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/WhatCarCanYouGetForAGrand.jpg",
+    "username": "creative_coder",
+    "likes": 78,
+    "postDate": "01 Mar, 2024"
+  },
+  {
+    "id": "2",
+    "duration": "12",
+    "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+    "thumbnailUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/ElephantsDream.jpg",
+    "username": "tech_enthusiast",
+    "likes": 132,
+    "postDate": "01 Mar, 2024"
+  }
+],
   "profile": {
     "username": "Viswa Bharath Dakka",
     "likes": "21234",
