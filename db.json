@@ -50,6 +50,11 @@
     "username": "Viswa Bharath Dakka",
     "likes": "21234",
     "profilePictureUrl":"https://avatars.githubusercontent.com/u/1663153?v=4",
+    "images": [
+      "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/ForBiggerMeltdowns.jpg",
+      "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/SubaruOutbackOnStreetAndDirt.jpg",
+      "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/ForBiggerJoyrides.jpg"
+    ],
     "posts": [
     {
       "id": "1",
