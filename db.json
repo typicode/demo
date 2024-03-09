@@ -1,5 +1,5 @@
 {
-  "posts": [
+  "feed": [
     {
         "id": "1",
         "title": "Big Buck Bunny",
@@ -21,6 +21,23 @@
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
   "profile": {
-    "name": "typicode"
+    "username": "Viswa Bharath",
+    "likes": "21234",
+    "profilePictureUrl":"https://randomuser.me/api/portraits/men/64.jpg",
+    "posts": [
+    {
+        "id": "1",
+        "title": "Big Buck Bunny",
+        "thumbnailUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/WhatCarCanYouGetForAGrand.jpg",
+        "duration": "8:18",
+        "uploadTime": "May 9, 2011",
+        "views": "24,969,123",
+        "author": "Vlc Media Player",
+        "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WhatCarCanYouGetForAGrand.mp4",
+        "description": "Big Buck Bunny tells the story of a giant rabbit with a heart bigger than himself. When one sunny day three rodents rudely harass him, something snaps... and the rabbit ain't no bunny anymore! In the typical cartoon tradition he prepares the nasty rodents a comical revenge.\n\nLicensed under the Creative Commons Attribution license\nhttps://www.bigbuckbunny.org",
+        "subscriber": "25254545 Subscribers",
+        "isLive": true,
+        "authorImg": "https://avatar.iran.liara.run/public"
+    }]
   }
 }
