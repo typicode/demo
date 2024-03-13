@@ -1,14 +1,95 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
+  "feed": [
+  {
+    "id": "1",
+    "duration": "8",
+    "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WhatCarCanYouGetForAGrand.mp4",
+    "thumbnailUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/WhatCarCanYouGetForAGrand.jpg",
+    "username": "creative_coder",
+    "likes": 78,
+    "postDate": "01 Mar, 2024"
+  },
+  {
+    "id": "2",
+    "duration": "12",
+    "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+    "thumbnailUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/ElephantsDream.jpg",
+    "username": "tech_enthusiast",
+    "likes": 132,
+    "postDate": "03 Mar, 2024"
+  },
+  {
+    "id": "3",
+    "duration": "12",
+    "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WeAreGoingOnBullrun.mp4",
+    "thumbnailUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/WeAreGoingOnBullrun.jpg",
+    "username": "Blender_boy",
+    "likes": 145,
+    "postDate": "06 Mar, 2024"
+  },
+  {
+    "id": "4",
+    "duration": "2",
+    "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4",
+    "thumbnailUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/Sintel.jpg",
+    "username": "foodie",
+    "likes": 190,
+    "postDate": "04 Mar, 2024"
+  },
+  {
+    "id": "5",
+    "duration": "3",
+    "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
+    "thumbnailUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/TearsOfSteel.jpg",
+    "username": "nature_lover",
+    "likes": 435,
+    "postDate": "09 Mar, 2024"
+  }
+],
   "profile": {
-    "name": "typicode"
+    "username": "Viswa Bharath Dakka",
+    "likes": "21234",
+    "profilePictureUrl":"https://avatars.githubusercontent.com/u/1663153?v=4",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/CocoKitten_2019_%28cropped_2023%29.jpg/480px-CocoKitten_2019_%28cropped_2023%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Hibiscus_flower_in_Arlington%2C_VA.jpg/360px-Hibiscus_flower_in_Arlington%2C_VA.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/VW_Cabrio%2C_Bj._1950_%282007-07-08_Sp_ret.jpg/640px-VW_Cabrio%2C_Bj._1950_%282007-07-08_Sp_ret.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Zakspeed_841_Dr._Jonathan_Palmer.jpg/640px-Zakspeed_841_Dr._Jonathan_Palmer.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/A_hyptonic_sunset.jpg/640px-A_hyptonic_sunset.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Op_ins1_f1024_hdr_modif1.jpg/640px-Op_ins1_f1024_hdr_modif1.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/No_Outlet-Dead_End_%288105313698%29.jpg/496px-No_Outlet-Dead_End_%288105313698%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/The_Worlds_Wildest_MG.jpg/640px-The_Worlds_Wildest_MG.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Missouri_Botanical_Garden_-_Flickr_-_wdwSteve.jpg/640px-Missouri_Botanical_Garden_-_Flickr_-_wdwSteve.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Regatas_de_Veleros_Artesanales_en_Tol%C3%BA.jpg/640px-Regatas_de_Veleros_Artesanales_en_Tol%C3%BA.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Cashmere_and_silk_fingering_weight_yarn%2C_hand_dyed.jpg/574px-Cashmere_and_silk_fingering_weight_yarn%2C_hand_dyed.jpg"
+    ],
+    "posts": [
+    {
+      "id": "1",
+      "duration": "2",
+      "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4",
+      "thumbnailUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/ForBiggerMeltdowns.jpg",
+      "username": "Viswa Bharath Dakka",
+      "likes": 1245,
+      "postDate": "02 Mar, 2024"
+    },
+    {
+      "id": "2",
+      "duration": "2",
+      "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/SubaruOutbackOnStreetAndDirt.mp4",
+      "thumbnailUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/SubaruOutbackOnStreetAndDirt.jpg",
+      "username": "Viswa Bharath Dakka",
+      "likes": 432,
+      "postDate": "04 Mar, 2024"
+    },
+    {
+      "id": "3",
+      "duration": "2",
+      "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
+      "thumbnailUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/ForBiggerJoyrides.jpg",
+      "username": "Viswa Bharath Dakka",
+      "likes": 221,
+      "postDate": "07 Mar, 2024"
+    }]
   }
 }
