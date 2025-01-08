@@ -1,1 +1,1 @@
-Hi this is demo for clone.
+Hi this is demo for working with different branches in git and also about branch merging.
