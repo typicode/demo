@@ -1,14 +1,16 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
   "profile": {
-    "name": "typicode"
-  }
+    "name": "Rohan Raj",
+    "age": "28",
+    "country": "India" 
+  },
+  "feature": {
+    "question": "Which one feature do you like the most in Postman?",
+      "answer": "Postman collections are like organized folders that hold a bunch of related requests and information about how to use them. They're handy because they keep everything neat and tidy, making it easy to find and use different parts of an API."
+  },
+  "describe": {
+    "question": "Describe what is a Postman Collection in your own words",
+    "answer": "I like Flows the most in Postman, it's very creative and fun to use."
+  },
+  "favHero": "Iron Man"
 }

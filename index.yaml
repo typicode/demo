@@ -1,0 +1,134 @@
+openapi: 3.0.3
+info:
+  title: Test Case API
+  description: API for managing test cases in a testing platform.
+  version: 1.0.0
+servers:
+  - url: https://api.example.com/v1
+    description: Production server
+  - url: https://api.staging.example.com/v1
+    description: Staging server
+paths:
+  /test-cases:
+    post:
+      summary: Get a list of all test cases
+      description: Retrieve a paginated list of all test cases. Making a change here..
+      parameters:
+        - name: page
+          in: query
+          description: Page number for pagination.
+          required: false
+          schema:
+            type: integer
+            default: 1
+        - name: limit
+          in: query
+          description: Number of items per page.
+          required: false
+          schema:
+            type: integer
+            default: 10
+      responses:
+        '200':
+          description: A paginated list of test cases.
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  total:
+                    type: integer
+                  page:
+                    type: integer
+                  limit:
+                    type: integer
+                  data:
+                    type: array
+                    items:
+                      $ref: '#/components/schemas/TestCase'
+        '500':
+          description: Server error
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Error'
+    post:
+      summary: Create a new test case
+      description: Add a new test case to the system.
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/TestCaseInput'
+      responses:
+        '201':
+          description: Test case created successfully.
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/TestCase'
+        '400':
+          description: Invalid input
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Error'
+  /test-cases/{id}:
+    get:
+      summary: Get a specific test case
+      description: Retrieve details of a test case by ID.
+      parameters:
+        - name: id
+          in: path
+          description: ID of the test case
+          required: true
+          schema:
+            type: string
+      responses:
+        '200':
+          description: Test case details
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/TestCase'
+        '404':
+          description: Test case not found
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Error'
+components:
+  schemas:
+    TestCase:
+      type: object
+      properties:
+        id:
+          type: string
+        title:
+          type: string
+        description:
+          type: string
+        createdAt:
+          type: string
+          format: date-time
+        updatedAt:
+          type: string
+          format: date-time
+    TestCaseInput:
+      type: object
+      properties:
+        title:
+          type: string
+        description:
+          type: string
+      required:
+        - title
+        - description
+    Error:
+      type: object
+      properties:
+        code:
+          type: integer
+        message:
+          type: string
