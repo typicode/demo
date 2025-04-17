@@ -1,14 +1,259 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "users": [
+    {
+      "id": "1",
+      "email": "admin@example.com",
+      "name": "Admin",
+      "password": "password123",
+      "confirmPassword": "password123",
+      "phone": "1234567890",
+      "role": "admin"
+    },
+    {
+      "id": "2",
+      "email": "user@example.com",
+      "name": "User",
+      "password": "123456789",
+      "confirmPassword": "123456789",
+      "phone": "0987654321",
+      "role": "user"
+    },
+    {
+      "id": "56e5",
+      "email": "hyxa@mailinator.com",
+      "name": "ahmed",
+      "password": "123456789",
+      "confirmPassword": "123456789",
+      "phone": "01205066629",
+      "role": "user"
+    }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+  "products": [
+    {
+      "id": "8148",
+      "name": "beans",
+      "category": "Canned",
+      "price": 10,
+      "isAvailable": true,
+      "description": "fresh hot beans",
+      "image": "https://placehold.co/800x400"
+    }
   ],
-  "profile": {
-    "name": "typicode"
-  }
+  "orders": [
+    {
+      "id": "569e",
+      "userId": "hyxa@mailinator.com",
+      "items": [
+        {
+          "product": {
+            "id": "8148",
+            "name": "beans",
+            "category": "Canned",
+            "price": 10,
+            "isAvailable": true,
+            "description": "fresh hot beans",
+            "image": "https://placehold.co/800x400"
+          },
+          "quantity": 2
+        },
+        {
+          "product": {
+            "id": "773b",
+            "name": "mango",
+            "category": "Frozen",
+            "price": 20,
+            "isAvailable": true,
+            "description": "123",
+            "image": "https://placehold.co/600x600"
+          },
+          "quantity": 1
+        }
+      ],
+      "total": 40,
+      "status": "pending",
+      "createdAt": "2025-04-16T19:17:22.027Z"
+    },
+    {
+      "id": "570b",
+      "userId": "user@example.com",
+      "items": [
+        {
+          "product": {
+            "id": "1",
+            "name": "Apple Juice",
+            "category": "juices",
+            "price": 4.99,
+            "isAvailable": true,
+            "description": "Fresh apple juice",
+            "image": "https://via.placeholder.com/150"
+          },
+          "quantity": 1
+        },
+        {
+          "product": {
+            "id": "773b",
+            "name": "mango",
+            "category": "Frozen",
+            "price": 20,
+            "isAvailable": true,
+            "description": "123",
+            "image": "https://placehold.co/600x600"
+          },
+          "quantity": 14
+        }
+      ],
+      "total": 284.99,
+      "status": "pending",
+      "createdAt": "2025-04-16T22:14:47.677Z"
+    },
+    {
+      "id": "0def",
+      "userId": "user@example.com",
+      "items": [
+        {
+          "product": {
+            "id": "773b",
+            "name": "mango",
+            "category": "Frozen",
+            "price": 20,
+            "isAvailable": true,
+            "description": "123",
+            "image": "https://placehold.co/600x600"
+          },
+          "quantity": 3
+        }
+      ],
+      "total": 60,
+      "status": "pending",
+      "createdAt": "2025-04-16T22:23:17.314Z"
+    },
+    {
+      "id": "7525",
+      "userId": "user@example.com",
+      "items": [
+        {
+          "product": {
+            "id": "773b",
+            "name": "mango",
+            "category": "Frozen",
+            "price": 20,
+            "isAvailable": true,
+            "description": "123",
+            "image": "https://placehold.co/600x600"
+          },
+          "quantity": 2
+        },
+        {
+          "product": {
+            "id": "1",
+            "name": "Apple Juice",
+            "category": "juices",
+            "price": 4.99,
+            "isAvailable": true,
+            "description": "Fresh apple juice",
+            "image": "https://via.placeholder.com/150"
+          },
+          "quantity": 1
+        },
+        {
+          "product": {
+            "id": "7d0f",
+            "name": "guuva",
+            "category": "Frozen",
+            "price": 320,
+            "isAvailable": true,
+            "description": "20",
+            "image": "https://via.placeholder.com/150"
+          },
+          "quantity": 1
+        }
+      ],
+      "total": 364.99,
+      "status": "pending",
+      "createdAt": "2025-04-16T22:28:46.420Z"
+    },
+    {
+      "id": "296a",
+      "userId": "user@example.com",
+      "items": [
+        {
+          "product": {
+            "id": "8148",
+            "name": "beans",
+            "category": "Canned",
+            "price": 10,
+            "isAvailable": true,
+            "description": "fresh hot beans",
+            "image": "https://placehold.co/800x400"
+          },
+          "quantity": 1
+        }
+      ],
+      "total": 10,
+      "status": "pending",
+      "createdAt": "2025-04-16T22:28:55.948Z"
+    }
+  ],
+  "cart": [
+    {
+      "userId": "user@example.com",
+      "items": [
+        {
+          "product": {
+            "id": "8148",
+            "name": "beans",
+            "category": "Canned",
+            "price": 10,
+            "isAvailable": true,
+            "description": "fresh hot beans",
+            "image": "https://placehold.co/800x400"
+          },
+          "quantity": 2
+        },
+        {
+          "product": {
+            "id": "773b",
+            "name": "mmmm",
+            "category": "معلب",
+            "price": 20,
+            "isAvailable": true,
+            "description": "123",
+            "image": "https://placehold.co/600x600"
+          },
+          "quantity": 1
+        }
+      ],
+      "id": "1dc3"
+    },
+    {
+      "id": "1632",
+      "userId": "user@example.com",
+      "items": [
+        {
+          "product": {
+            "id": "1",
+            "name": "Apple Juice",
+            "category": "juices",
+            "price": 4.99,
+            "isAvailable": true,
+            "description": "Fresh apple juice",
+            "image": "https://placehold.co/600x600"
+          },
+          "quantity": 1
+        },
+        {
+          "product": {
+            "id": "773b",
+            "name": "mango",
+            "category": "Frozen",
+            "price": 20,
+            "isAvailable": true,
+            "description": "123",
+            "image": "https://placehold.co/600x600"
+          },
+          "quantity": 15
+        }
+      ]
+    }
+  ]
 }
