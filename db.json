@@ -1,14 +1,35 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+[
+    {
+      "id": 1,
+      "name": "Internet Software Development",
+      "code": "ITCS333",
+      "department": "IT",
+      "professor": "Dr. Abdulla Ebrahim Subah",
+      "rating": 4.9,
+      "reviewCount": 24,
+      "description": "A great course covering the fundamentals of Software Development with an innovative Instructor.",
+      "difficulty": "moderate"
+    },
+    {
+      "id": 2,
+      "name": "Calculus I",
+      "code": "MATHS101",
+      "department": "MATHS",
+      "professor": "Dr. Oliver Thomas",
+      "rating": 1.4,
+      "reviewCount": 18,
+      "description": "Covers limits, derivatives, and integrals with practical applications.",
+      "difficulty": "difficult"
+    },
+    {
+      "id": 3,
+      "name": "English Literature",
+      "code": "ENG154",
+      "department": "ENG",
+      "professor": "Dr. Hussain Ali Ahmed",
+      "rating": 5.0,
+      "reviewCount": 32,
+      "description": "An engaging exploration of major literary works from around the world.",
+      "difficulty": "easy"
+    }
+  ]
