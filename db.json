@@ -1,14 +1,108 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "data": [
+    {
+      "id": 1,
+      "name": "대시보드",
+      "nameEn": "Dashboard",
+      "description": "대시보드 화면",
+      "status": 1,
+      "menuLevel": 1,
+      "menuOrder": 1,
+      "parentId": 1,
+      "solutionType": "CONTRABASS",
+      "createdBy": "admin",
+      "updatedBy": "admin"
+    },
+    {
+      "id": 2,
+      "name": "기본 설정",
+      "nameEn": "Base Setting",
+      "description": "기본 설정 메뉴 그룹",
+      "status": 1,
+      "menuLevel": 1,
+      "menuOrder": 2,
+      "parentId": 2,
+      "solutionType": "CONTRABASS",
+      "createdBy": "admin",
+      "updatedBy": "admin"
+    },
+    {
+      "id": 3,
+      "name": "클러스터 관리",
+      "nameEn": "Cluster Management",
+      "description": "클러스터 관리 메뉴 그룹",
+      "status": 1,
+      "menuLevel": 2,
+      "menuOrder": 1,
+      "parentId": 2,
+      "solutionType": "CONTRABASS",
+      "createdBy": "admin",
+      "updatedBy": "admin"
+    },
+    {
+      "id": 4,
+      "name": "클러스터 설정",
+      "nameEn": "Cluster Config",
+      "description": "클러스터 설정 메뉴",
+      "status": 1,
+      "menuLevel": 3,
+      "menuOrder": 1,
+      "parentId": 3,
+      "solutionType": "CONTRABASS",
+      "createdBy": "admin",
+      "updatedBy": "admin"
+    },
+    {
+      "id": 5,
+      "name": "노드 관리",
+      "nameEn": "Node Management",
+      "description": "노드관리 메뉴",
+      "status": 1,
+      "menuLevel": 3,
+      "menuOrder": 2,
+      "parentId": 3,
+      "solutionType": "CONTRABASS",
+      "createdBy": "admin",
+      "updatedBy": "admin"
+    },
+    {
+      "id": 6,
+      "name": "클러스터 설정",
+      "nameEn": "Cluster Config",
+      "description": "클러스터 설정 메뉴",
+      "status": 1,
+      "menuLevel": 3,
+      "menuOrder": 3,
+      "parentId": 3,
+      "solutionType": "CONTRABASS",
+      "createdBy": "admin",
+      "updatedBy": "admin"
+    },
+    {
+      "id": 7,
+      "name": "워크플로우",
+      "nameEn": "Workflow",
+      "description": "워크플로우 메뉴",
+      "status": 1,
+      "menuOrder": 3,
+      "menuLevel": 1,
+      "parentId": 7,
+      "solutionType": "CONTRABASS",
+      "createdBy": "admin",
+      "updatedBy": "admin"
+    },
+    {
+      "id": 8,
+      "name": "서비스 카탈로그",
+      "nameEn": "Service Catalog",
+      "description": "서비스 카탈로스 메뉴",
+      "status": 0,
+      "menuOrder": 4,
+      "menuLevel": 1,
+      "parentId": 8,
+      "solutionType": "CONTRABASS",
+      "createdBy": "admin",
+      "updatedBy": "admin"
+    }
+  ]
 }
