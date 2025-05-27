@@ -1,14 +1,119 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "data": [
+    {
+      "id": 1,
+      "names": "대시보드",
+      "namesEn": "Dashboard",
+      "namesJp" : "",
+      "description": "대시보드 화면",
+      "status": true,
+      "depth": 1,
+      "position": 0,
+      "parentId": null,
+      "path": "/contrabass/initialization/server-group",
+      "solutionType": "CONTRABASS",
+      "children" : []
+    },
+    {
+      "id": 2,
+      "names": "기본 설정",
+      "namesEn": "Base Setting",
+      "namesJp" : "",
+      "description": "기본 설정 메뉴 그룹",
+      "status": true,
+      "depth": 1,
+      "position": 1,
+      "parentId": null,
+      "path": "/contrabass/initialization/server-group",
+      "solutionType": "CONTRABASS",
+      "children" : [
+          {
+            "id": 3,
+            "names": "클러스터 관리",
+            "namesEn": "Cluster Management",
+            "namesJp" : "",
+            "description": "클러스터 관리 메뉴 그룹",
+            "status": true,
+            "depth": 2,
+            "position": 0,
+            "parentId": 2,
+            "path": "/contrabass/initialization/server-group",
+            "solutionType": "CONTRABASS",
+            "children": [
+                {
+                  "id": 4,
+                  "names": "클러스터 설정",
+                  "namesEn": "Cluster Config",
+                  "namesJp": "",
+                  "description": "클러스터 설정 메뉴",
+                  "status": true,
+                  "depth": 3,
+                  "position": 0,
+                  "parentId": 3,
+                  "path": "/contrabass/initialization/server-group",
+                  "solutionType": "CONTRABASS",
+                  "children":[]
+                },
+                {
+                  "id": 5,
+                  "names": "노드 관리",
+                  "namesEn": "Node Management",
+                  "namesJp": "",
+                  "description": "노드관리 메뉴",
+                  "status": false,
+                  "depth": 3,
+                  "position": 1,
+                  "parentId": 3,
+                  "path": "/contrabass/initialization/server-group",
+                  "solutionType": "CONTRABASS",
+                  "children":[]
+                },
+                {
+                  "id": 6,
+                  "names": "클러스터 설정",
+                  "namesEn": "Cluster Config",
+                  "namesJp": "",
+                  "description": "클러스터 설정 메뉴",
+                  "status": true,
+                  "depth": 3,
+                  "position": 2,
+                  "parentId": 3,
+                  "path": "/contrabass/initialization/server-group",
+                  "solutionType": "CONTRABASS",
+                  "children":[]
+                }
+            ]
+          }
+      ]
+    },
+
+    {
+      "id": 7,
+      "names": "워크플로우",
+      "namesEn": "Workflow",
+      "namesJp": "",
+      "description": "워크플로우 메뉴",
+      "status": true,
+      "depth": 1,
+      "position": 2,
+      "parentId": null,
+      "path": "/contrabass/initialization/server-group",
+      "solutionType": "CONTRABASS",
+      "children" : []
+    },
+    {
+      "id": 8,
+      "names": "서비스 카탈로그",
+      "namesEn": "Service Catalog",
+      "namesJp": "",
+      "description": "서비스 카탈로스 메뉴",
+      "status": false,
+      "depth": 1,
+      "position": 3,
+      "parentId": null,
+      "path": "/contrabass/initialization/server-group",
+      "solutionType": "CONTRABASS",
+      "children" : []
+    }
+  ]
 }
