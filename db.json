@@ -1,14 +1,21 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+    "validateClaimTicket": {
+        "response": {
+            "claimCode": 1
+        },
+        "meta": {
+            "message": "Success",
+            "status": 0
+        }
+    },
+    "successResponse": {
+        "response": {
+            "claimCode": 1,
+            "shareToken": "YEQgY8qspxG+ur8Rj5mQv2P0x94cppzitT5d1qe9LNHRfmNjlQxXMeyjx5kvVnBdHL7X7/Eh+T8jVPomZ/McnCB9C2s+UAEde5f5SMjMDoCInUck+AGvzgCRisjPMwS3"
+        },
+        "meta": {
+            "message": "Success",
+            "status": 0
+        }
+    }
 }
