@@ -1,14 +1,253 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
+[
+  {
+    "id": 1,
+    "name": "Spice Garden",
+    "cuisine": "Indian",
+    "rating": 4.5,
+    "deliveryTime": "30 mins",
+    "categories": {
+      "Starters": [
+        { "id": 101, "name": "Paneer Tikka", "price": 180 },
+        { "id": 102, "name": "Veg Samosa", "price": 60 }
+      ],
+      "Main Course": [
+        { "id": 103, "name": "Butter Chicken", "price": 320 },
+        { "id": 104, "name": "Dal Makhani", "price": 250 }
+      ],
+      "Desserts": [
+        { "id": 105, "name": "Gulab Jamun", "price": 100 },
+        { "id": 106, "name": "Rasmalai", "price": 120 }
+      ],
+      "Drinks": [
+        { "id": 107, "name": "Mango Lassi", "price": 90 },
+        { "id": 108, "name": "Masala Chai", "price": 50 }
+      ]
+    }
+  },
+  {
+    "id": 2,
+    "name": "Pasta Palace",
+    "cuisine": "Italian",
+    "rating": 4.3,
+    "deliveryTime": "25 mins",
+    "categories": {
+      "Starters": [
+        { "id": 201, "name": "Garlic Bread", "price": 150 },
+        { "id": 202, "name": "Bruschetta", "price": 180 }
+      ],
+      "Main Course": [
+        { "id": 203, "name": "Margherita Pizza", "price": 350 },
+        { "id": 204, "name": "Penne Alfredo", "price": 400 }
+      ],
+      "Desserts": [
+        { "id": 205, "name": "Tiramisu", "price": 250 },
+        { "id": 206, "name": "Panna Cotta", "price": 230 }
+      ],
+      "Drinks": [
+        { "id": 207, "name": "Red Wine", "price": 600 },
+        { "id": 208, "name": "Espresso", "price": 120 }
+      ]
+    }
+  },
+  {
+    "id": 3,
+    "name": "Sushi World",
+    "cuisine": "Japanese",
+    "rating": 4.6,
+    "deliveryTime": "40 mins",
+    "categories": {
+      "Starters": [
+        { "id": 301, "name": "Edamame", "price": 200 },
+        { "id": 302, "name": "Miso Soup", "price": 150 }
+      ],
+      "Main Course": [
+        { "id": 303, "name": "California Roll", "price": 400 },
+        { "id": 304, "name": "Salmon Nigiri", "price": 450 }
+      ],
+      "Desserts": [
+        { "id": 305, "name": "Mochi Ice Cream", "price": 220 },
+        { "id": 306, "name": "Green Tea Cheesecake", "price": 280 }
+      ],
+      "Drinks": [
+        { "id": 307, "name": "Sake", "price": 500 },
+        { "id": 308, "name": "Matcha Tea", "price": 180 }
+      ]
+    }
+  },
+  {
+    "id": 4,
+    "name": "Taco Fiesta",
+    "cuisine": "Mexican",
+    "rating": 4.2,
+    "deliveryTime": "35 mins",
+    "categories": {
+      "Starters": [
+        { "id": 401, "name": "Nachos with Salsa", "price": 160 },
+        { "id": 402, "name": "Cheese Quesadilla", "price": 190 }
+      ],
+      "Main Course": [
+        { "id": 403, "name": "Chicken Tacos", "price": 280 },
+        { "id": 404, "name": "Veg Burrito", "price": 260 }
+      ],
+      "Desserts": [
+        { "id": 405, "name": "Churros", "price": 150 },
+        { "id": 406, "name": "Flan", "price": 200 }
+      ],
+      "Drinks": [
+        { "id": 407, "name": "Margarita", "price": 350 },
+        { "id": 408, "name": "Horchata", "price": 130 }
+      ]
+    }
+  },
+  {
+    "id": 5,
+    "name": "Dragon Wok",
+    "cuisine": "Chinese",
+    "rating": 4.4,
+    "deliveryTime": "30 mins",
+    "categories": {
+      "Starters": [
+        { "id": 501, "name": "Spring Rolls", "price": 140 },
+        { "id": 502, "name": "Dimsum", "price": 180 }
+      ],
+      "Main Course": [
+        { "id": 503, "name": "Kung Pao Chicken", "price": 350 },
+        { "id": 504, "name": "Veg Hakka Noodles", "price": 250 }
+      ],
+      "Desserts": [
+        { "id": 505, "name": "Sesame Balls", "price": 170 },
+        { "id": 506, "name": "Lychee Ice Cream", "price": 200 }
+      ],
+      "Drinks": [
+        { "id": 507, "name": "Jasmine Tea", "price": 100 },
+        { "id": 508, "name": "Plum Wine", "price": 400 }
+      ]
+    }
+  },
+  {
+    "id": 6,
+    "name": "Burger Hub",
+    "cuisine": "American",
+    "rating": 4.1,
+    "deliveryTime": "20 mins",
+    "categories": {
+      "Starters": [
+        { "id": 601, "name": "French Fries", "price": 120 },
+        { "id": 602, "name": "Onion Rings", "price": 140 }
+      ],
+      "Main Course": [
+        { "id": 603, "name": "Cheeseburger", "price": 280 },
+        { "id": 604, "name": "Double Beef Burger", "price": 350 }
+      ],
+      "Desserts": [
+        { "id": 605, "name": "Chocolate Brownie", "price": 180 },
+        { "id": 606, "name": "Apple Pie", "price": 160 }
+      ],
+      "Drinks": [
+        { "id": 607, "name": "Coca Cola", "price": 70 },
+        { "id": 608, "name": "Milkshake", "price": 150 }
+      ]
+    }
+  },
+  {
+    "id": 7,
+    "name": "Mediterraneo",
+    "cuisine": "Mediterranean",
+    "rating": 4.7,
+    "deliveryTime": "45 mins",
+    "categories": {
+      "Starters": [
+        { "id": 701, "name": "Hummus with Pita", "price": 200 },
+        { "id": 702, "name": "Greek Salad", "price": 250 }
+      ],
+      "Main Course": [
+        { "id": 703, "name": "Chicken Shawarma", "price": 320 },
+        { "id": 704, "name": "Falafel Wrap", "price": 280 }
+      ],
+      "Desserts": [
+        { "id": 705, "name": "Baklava", "price": 220 },
+        { "id": 706, "name": "Kunafa", "price": 260 }
+      ],
+      "Drinks": [
+        { "id": 707, "name": "Mint Lemonade", "price": 150 },
+        { "id": 708, "name": "Turkish Coffee", "price": 180 }
+      ]
+    }
+  },
+  {
+    "id": 8,
+    "name": "Steak House",
+    "cuisine": "Western",
+    "rating": 4.6,
+    "deliveryTime": "50 mins",
+    "categories": {
+      "Starters": [
+        { "id": 801, "name": "Caesar Salad", "price": 240 },
+        { "id": 802, "name": "Grilled Mushrooms", "price": 220 }
+      ],
+      "Main Course": [
+        { "id": 803, "name": "Sirloin Steak", "price": 600 },
+        { "id": 804, "name": "Grilled Salmon", "price": 550 }
+      ],
+      "Desserts": [
+        { "id": 805, "name": "Cheesecake", "price": 300 },
+        { "id": 806, "name": "Chocolate Lava Cake", "price": 320 }
+      ],
+      "Drinks": [
+        { "id": 807, "name": "Beer", "price": 250 },
+        { "id": 808, "name": "Whiskey", "price": 700 }
+      ]
+    }
+  },
+  {
+    "id": 9,
+    "name": "Vegan Delight",
+    "cuisine": "Vegan",
+    "rating": 4.3,
+    "deliveryTime": "28 mins",
+    "categories": {
+      "Starters": [
+        { "id": 901, "name": "Avocado Toast", "price": 220 },
+        { "id": 902, "name": "Vegan Dumplings", "price": 260 }
+      ],
+      "Main Course": [
+        { "id": 903, "name": "Vegan Burger", "price": 320 },
+        { "id": 904, "name": "Quinoa Bowl", "price": 280 }
+      ],
+      "Desserts": [
+        { "id": 905, "name": "Vegan Chocolate Cake", "price": 300 },
+        { "id": 906, "name": "Chia Pudding", "price": 200 }
+      ],
+      "Drinks": [
+        { "id": 907, "name": "Smoothie", "price": 180 },
+        { "id": 908, "name": "Coconut Water", "price": 100 }
+      ]
+    }
+  },
+  {
+    "id": 10,
+    "name": "BBQ Nation",
+    "cuisine": "Barbecue",
+    "rating": 4.8,
+    "deliveryTime": "40 mins",
+    "categories": {
+      "Starters": [
+        { "id": 1001, "name": "BBQ Chicken Wings", "price": 280 },
+        { "id": 1002, "name": "Grilled Veg Skewers", "price": 250 }
+      ],
+      "Main Course": [
+        { "id": 1003, "name": "Ribs Platter", "price": 600 },
+        { "id": 1004, "name": "Smoked Brisket", "price": 650 }
+      ],
+      "Desserts": [
+        { "id": 1005, "name": "Ice Cream Sundae", "price": 220 },
+        { "id": 1006, "name": "Brownie with Fudge", "price": 280 }
+      ],
+      "Drinks": [
+        { "id": 1007, "name": "Beer Pint", "price": 300 },
+        { "id": 1008, "name": "Soft Drink", "price": 80 }
+      ]
+    }
   }
-}
+]
+
