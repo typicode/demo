@@ -1,14 +1,79 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
+  "products": [
+   {
+    "id": "1",
+    "name": "Camara-JAGA",
+    "price": 500000,
+    "stock": 4,
+    "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas nam laborum perferendis. Numquam, maiores qui nobis natus iusto dolor facere alias dicta voluptates ut quia libero facilis, delectus vitae soluta!",
+    "images": [
+      {
+        "image": "https://via.placeholder.com/600/771796",
+        "thumbnail": "https://via.placeholder.com/150/771796"
+      },
+      {
+        "image": "https://via.placeholder.com/600/92c952",
+        "thumbnail": "https://via.placeholder.com/150/92c952"
+      }
+    ],
+    "quantity": 1,
+    "offer": true
+  },
+  {
+    "id": "2",
+    "name": "Microfono",
+    "price": 900000,
+    "stock": 2,
+    "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas nam laborum perferendis. Numquam, maiores qui nobis natus iusto dolor facere alias dicta voluptates ut quia libero facilis, delectus vitae soluta!",
+    "images": [
+      {
+        "image": "https://via.placeholder.com/600/24f355",
+        "thumbnail": "https://via.placeholder.com/150/24f355"
+      },
+      {
+        "image": "https://via.placeholder.com/600/d32776",
+        "thumbnail": "https://via.placeholder.com/150/d32776"
+      },
+      {
+        "image": "https://via.placeholder.com/600/f66b97",
+        "thumbnail": "https://via.placeholder.com/150/f66b97"
+      }
+    ],
+    "quantity": 1,
+    "new": true
+  },
+  {
+    "id": "3",
+    "name": "Audifonos",
+    "price": 250000,
+    "stock": 1,
+    "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas nam laborum perferendis. Numquam, maiores qui nobis natus iusto dolor facere alias dicta voluptates ut quia libero facilis, delectus vitae soluta!",
+    "images": [
+      {
+        "image": "https://via.placeholder.com/600/56a8c",
+        "thumbnail": "https://via.placeholder.com/150/56a8c"
+      }
+    ],
+    "quantity": 1,
+    "new": true,
+    "offer": true
+  },
+  {
+    "id": "4",
+    "name": "Luces LED",
+    "price": 250000,
+    "stock": 1,
+    "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas nam laborum perferendis. Numquam, maiores qui nobis natus iusto dolor facere alias dicta voluptates ut quia libero facilis, delectus vitae soluta!",
+    "images": [
+      {
+        "image": "https://via.placeholder.com/600/b0f7cc",
+        "thumbnail": "https://via.placeholder.com/150/b0f7cc"
+      },
+      {
+        "image": "https://via.placeholder.com/600/54176f",
+        "thumbnail": "https://via.placeholder.com/150/54176f"
+      }
+    ],
+    "quantity": 1
   }
 }
