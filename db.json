@@ -1,14 +1,29 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "companies": [
+    { "id": 1, "name": "TCS", "industry": "IT Services", "location": "Mumbai" },
+    { "id": 2, "name": "Infosys", "industry": "IT Services", "location": "Bangalore" },
+    { "id": 3, "name": "Wipro", "industry": "IT Services", "location": "Bangalore" },
+    { "id": 4, "name": "HCL Technologies", "industry": "IT Services", "location": "Noida" },
+    { "id": 5, "name": "Tech Mahindra", "industry": "IT Services", "location": "Pune" },
+    { "id": 6, "name": "Reliance Industries", "industry": "Energy & Telecom", "location": "Mumbai" },
+    { "id": 7, "name": "Adani Group", "industry": "Infrastructure", "location": "Ahmedabad" },
+    { "id": 8, "name": "Flipkart", "industry": "E-commerce", "location": "Bangalore" },
+    { "id": 9, "name": "Zomato", "industry": "Food Tech", "location": "Gurugram" },
+    { "id": 10, "name": "Swiggy", "industry": "Food Delivery", "location": "Bangalore" },
+    { "id": 11, "name": "Paytm", "industry": "Fintech", "location": "Noida" },
+    { "id": 12, "name": "PhonePe", "industry": "Fintech", "location": "Bangalore" },
+    { "id": 13, "name": "BharatPe", "industry": "Fintech", "location": "New Delhi" },
+    { "id": 14, "name": "HDFC Bank", "industry": "Banking & Finance", "location": "Mumbai" },
+    { "id": 15, "name": "ICICI Bank", "industry": "Banking & Finance", "location": "Mumbai" },
+    { "id": 16, "name": "Kotak Mahindra Bank", "industry": "Banking & Finance", "location": "Mumbai" },
+    { "id": 17, "name": "BYJU'S", "industry": "EdTech", "location": "Bangalore" },
+    { "id": 18, "name": "Unacademy", "industry": "EdTech", "location": "Bangalore" },
+    { "id": 19, "name": "Tata Motors", "industry": "Automotive", "location": "Mumbai" },
+    { "id": 20, "name": "Mahindra & Mahindra", "industry": "Automotive", "location": "Mumbai" },
+    { "id": 21, "name": "Larsen & Toubro", "industry": "Engineering & Construction", "location": "Mumbai" },
+    { "id": 22, "name": "TVS Motors", "industry": "Automotive", "location": "Chennai" },
+    { "id": 23, "name": "OYO Rooms", "industry": "Hospitality", "location": "Gurugram" },
+    { "id": 24, "name": "Tata Steel", "industry": "Manufacturing", "location": "Jamshedpur" },
+    { "id": 25, "name": "Zee Media", "industry": "Media & Broadcasting", "location": "Mumbai" }
+  ]
 }
