@@ -1,14 +1,214 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "products": [
+    {
+      "id": 1,
+      "title": "Strawberry",
+      "image": "https://img.freepik.com/premium-vector/litle-strawberry-cartoon-commercial-use_54889-1126.jpg",
+      "isLike": true,
+      "counterLike": 47
+    },
+    {
+      "id": 2,
+      "title": "Pizza",
+      "image": "https://img.freepik.com/free-vector/pizza-slice-cartoon-vector-icon-illustration-food-fastfood-icon-concept-isolated-premium-vector_138676-1608.jpg",
+      "isLike": false,
+      "counterLike": 23
+    },
+    {
+      "id": 3,
+      "title": "Hamburger",
+      "image": "https://img.freepik.com/free-vector/hamburger-cartoon-vector-icon-illustration-food-fastfood-icon-concept-isolated-premium-vector_138676-1609.jpg",
+      "isLike": true,
+      "counterLike": 56
+    },
+    {
+      "id": 4,
+      "title": "Ice Cream",
+      "image": "https://img.freepik.com/free-vector/ice-cream-cartoon-vector-icon-illustration-food-sweet-icon-concept-isolated-premium-vector_138676-1602.jpg",
+      "isLike": false,
+      "counterLike": 89
+    },
+    {
+      "id": 5,
+      "title": "Donut",
+      "image": "https://img.freepik.com/free-vector/donut-cartoon-vector-icon-illustration-food-sweet-icon-concept-isolated-premium-vector_138676-1605.jpg",
+      "isLike": true,
+      "counterLike": 34
+    },
+    {
+      "id": 6,
+      "title": "Cupcake",
+      "image": "https://img.freepik.com/free-vector/cupcake-cartoon-vector-icon-illustration-food-sweet-icon-concept-isolated-premium-vector_138676-1604.jpg",
+      "isLike": false,
+      "counterLike": 12
+    },
+    {
+      "id": 7,
+      "title": "Red Apple",
+      "image": "https://img.freepik.com/free-vector/red-apple-cartoon-vector-icon-illustration-food-fruit-icon-concept-isolated-premium-vector_138676-1587.jpg",
+      "isLike": true,
+      "counterLike": 78
+    },
+    {
+      "id": 8,
+      "title": "Watermelon",
+      "image": "https://img.freepik.com/free-vector/watermelon-slice-cartoon-vector-icon-illustration-food-fruit-icon-concept-isolated-premium-vector_138676-1588.jpg",
+      "isLike": false,
+      "counterLike": 45
+    },
+    {
+      "id": 9,
+      "title": "Cherry",
+      "image": "https://img.freepik.com/free-vector/cherry-cartoon-vector-icon-illustration-food-fruit-icon-concept-isolated-premium-vector_138676-1590.jpg",
+      "isLike": true,
+      "counterLike": 67
+    },
+    {
+      "id": 10,
+      "title": "Orange Juice",
+      "image": "https://img.freepik.com/free-vector/orange-juice-cartoon-vector-icon-illustration-food-drink-icon-concept-isolated-premium-vector_138676-1607.jpg",
+      "isLike": false,
+      "counterLike": 31
+    },
+    {
+      "id": 11,
+      "title": "Coffee Cup",
+      "image": "https://img.freepik.com/free-vector/coffee-cup-cartoon-vector-icon-illustration-food-drink-icon-concept-isolated-premium-vector_138676-1606.jpg",
+      "isLike": true,
+      "counterLike": 92
+    },
+    {
+      "id": 12,
+      "title": "Milk Shake",
+      "image": "https://img.freepik.com/free-vector/milkshake-cartoon-vector-icon-illustration-food-drink-icon-concept-isolated-premium-vector_138676-1610.jpg",
+      "isLike": false,
+      "counterLike": 28
+    },
+    {
+      "id": 13,
+      "title": "Cute Cat",
+      "image": "https://img.freepik.com/free-vector/cute-cat-riding-scooter-cartoon-vector-icon-illustration-animal-nature-icon-concept-isolated-premium-vector_138676-3828.jpg",
+      "isLike": true,
+      "counterLike": 153
+    },
+    {
+      "id": 14,
+      "title": "Happy Dog",
+      "image": "https://img.freepik.com/free-vector/cute-dog-walking-outside-cartoon-vector-icon-illustration-animal-nature-icon-concept-isolated-premium-vector_138676-4149.jpg",
+      "isLike": false,
+      "counterLike": 87
+    },
+    {
+      "id": 15,
+      "title": "Panda Bear",
+      "image": "https://img.freepik.com/free-vector/cute-panda-eating-bamboo-cartoon-vector-icon-illustration-animal-nature-icon-concept-isolated-premium-vector_138676-4153.jpg",
+      "isLike": true,
+      "counterLike": 112
+    },
+    {
+      "id": 16,
+      "title": "Cute Rabbit",
+      "image": "https://img.freepik.com/free-vector/cute-rabbit-holding-carrot-cartoon-vector-icon-illustration-animal-nature-icon-concept-isolated-premium-vector_138676-3822.jpg",
+      "isLike": false,
+      "counterLike": 64
+    },
+    {
+      "id": 17,
+      "title": "Cute Fox",
+      "image": "https://img.freepik.com/free-vector/cute-fox-cartoon-vector-icon-illustration-animal-nature-icon-concept-isolated-premium-vector_138676-3886.jpg",
+      "isLike": true,
+      "counterLike": 41
+    },
+    {
+      "id": 18,
+      "title": "Cute Owl",
+      "image": "https://img.freepik.com/free-vector/cute-owl-reading-book-cartoon-vector-icon-illustration-animal-education-icon-concept-isolated-premium-vector_138676-3889.jpg",
+      "isLike": false,
+      "counterLike": 59
+    },
+    {
+      "id": 19,
+      "title": "Cute Penguin",
+      "image": "https://img.freepik.com/free-vector/cute-penguin-cartoon-vector-icon-illustration-animal-nature-icon-concept-isolated-premium-vector_138676-3887.jpg",
+      "isLike": true,
+      "counterLike": 73
+    },
+    {
+      "id": 20,
+      "title": "Cute Monkey",
+      "image": "https://img.freepik.com/free-vector/cute-monkey-cartoon-vector-icon-illustration-animal-nature-icon-concept-isolated-premium-vector_138676-3885.jpg",
+      "isLike": false,
+      "counterLike": 38
+    },
+    {
+      "id": 21,
+      "title": "Cute Bear",
+      "image": "https://img.freepik.com/free-vector/cute-bear-cartoon-vector-icon-illustration-animal-nature-icon-concept-isolated-premium-vector_138676-3884.jpg",
+      "isLike": true,
+      "counterLike": 95
+    },
+    {
+      "id": 22,
+      "title": "Sunflower",
+      "image": "https://img.freepik.com/free-vector/sunflower-cartoon-vector-icon-illustration-flower-nature-icon-concept-isolated-premium-vector_138676-1542.jpg",
+      "isLike": false,
+      "counterLike": 26
+    },
+    {
+      "id": 23,
+      "title": "Rainbow",
+      "image": "https://img.freepik.com/free-vector/rainbow-cartoon-vector-icon-illustration-weather-nature-icon-concept-isolated-premium-vector_138676-1603.jpg",
+      "isLike": true,
+      "counterLike": 104
+    },
+    {
+      "id": 24,
+      "title": "Butterfly",
+      "image": "https://img.freepik.com/free-vector/butterfly-cartoon-vector-icon-illustration-insect-nature-icon-concept-isolated-premium-vector_138676-1598.jpg",
+      "isLike": false,
+      "counterLike": 19
+    },
+    {
+      "id": 25,
+      "title": "Little Bird",
+      "image": "https://img.freepik.com/free-vector/cute-bird-singing-cartoon-vector-icon-illustration-animal-nature-icon-concept-isolated-premium-vector_138676-3890.jpg",
+      "isLike": true,
+      "counterLike": 81
+    },
+    {
+      "id": 26,
+      "title": "Frog",
+      "image": "https://img.freepik.com/free-vector/cute-frog-cartoon-vector-icon-illustration-animal-nature-icon-concept-isolated-premium-vector_138676-3888.jpg",
+      "isLike": false,
+      "counterLike": 53
+    },
+    {
+      "id": 27,
+      "title": "Cute Hedgehog",
+      "image": "https://img.freepik.com/free-vector/cute-hedgehog-cartoon-vector-icon-illustration-animal-nature-icon-concept-isolated-premium-vector_138676-3883.jpg",
+      "isLike": true,
+      "counterLike": 47
+    },
+    {
+      "id": 28,
+      "title": "Cute Squirrel",
+      "image": "https://img.freepik.com/free-vector/cute-squirrel-cartoon-vector-icon-illustration-animal-nature-icon-concept-isolated-premium-vector_138676-3882.jpg",
+      "isLike": false,
+      "counterLike": 62
+    },
+    {
+      "id": 29,
+      "title": "Cute Unicorn",
+      "image": "https://img.freepik.com/free-vector/cute-unicorn-cartoon-vector-icon-illustration-animal-fantasy-icon-concept-isolated-premium-vector_138676-3891.jpg",
+      "isLike": true,
+      "counterLike": 178
+    },
+    {
+      "id": 30,
+      "title": "Blueberry",
+      "image": "https://img.freepik.com/free-vector/blueberry-cartoon-vector-icon-illustration-food-fruit-icon-concept-isolated-premium-vector_138676-1589.jpg",
+      "isLike": false,
+      "counterLike": 34
+    }
+  ]
 }
