@@ -1,14 +1,60 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "purchaseOrders": [
+    {
+      "id": 1001,
+      "poNumber": "PO-2026-001",
+      "supplierId": 101,
+      "supplierName": "ABC Traders",
+      "poDate": "2026-05-29",
+      "status": "Open",
+      "totalAmount": 25000,
+      "currency": "INR"
+    },
+    {
+      "id": 1002,
+      "poNumber": "PO-2026-002",
+      "supplierId": 102,
+      "supplierName": "XYZ Industries",
+      "poDate": "2026-05-30",
+      "status": "Approved",
+      "totalAmount": 15000,
+      "currency": "INR"
+    }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+
+  "purchaseOrderItems": [
+    {
+      "id": 1,
+      "poId": 1001,
+      "itemCode": "RM001",
+      "itemName": "Cotton Fabric",
+      "quantity": 100,
+      "unitPrice": 200,
+      "amount": 20000
+    },
+    {
+      "id": 2,
+      "poId": 1001,
+      "itemCode": "RM002",
+      "itemName": "Buttons",
+      "quantity": 500,
+      "unitPrice": 10,
+      "amount": 5000
+    }
   ],
-  "profile": {
-    "name": "typicode"
-  }
+
+  "suppliers": [
+    {
+      "id": 101,
+      "name": "ABC Traders",
+      "city": "Chennai",
+      "phone": "9876543210"
+    },
+    {
+      "id": 102,
+      "name": "XYZ Industries",
+      "city": "Coimbatore",
+      "phone": "9876543211"
+    }
+  ]
 }
