@@ -1,14 +1,66 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
+  "employees": [
+    {
+    "id": 15,
+    "employeeId": 101,
+    "employeeName":"ABC",
+    "workDate": "2026-09-10",
+    "locationCode": 10,
+    "designationId": 3,
+    "attendanceStatus": "Present",
+    "remarks": "Updated main allocation remarks for Employee 101",
+    "status": 1,
+    "transactionId": "30",
+    "source": "Web",
+    "workTypes": [
+      {
+        "id": 0,
+        "workAllocationId": 0,
+        "workDate": "2026-09-10",
+        "workTypeId": 1,
+        "remarks": "Retained and updated work type 1",
+        "status": 1
+      },
+      {
+        "id": 0,
+        "workAllocationId": 0,
+        "workDate": "2026-09-10",
+        "workTypeId": 4,
+        "remarks": "Newly added work type (WorkTypeId 2 and 3 were removed)",
+        "status": 1
+      }
+    ]
+  },
+    {
+    "id": 16,
+    "employeeId": 102,
+    "employeeName":"BCD",
+    "workDate": "2026-09-10",
+    "locationCode": 10,
+    "designationId": 3,
+    "attendanceStatus": "Present",
+    "remarks": "Updated main allocation remarks for Employee 101",
+    "status": 1,
+    "transactionId": "30",
+    "source": "Web",
+    "workTypes": [
+      {
+        "id": 0,
+        "workAllocationId": 0,
+        "workDate": "2026-09-10",
+        "workTypeId": 1,
+        "remarks": "Retained and updated work type 1",
+        "status": 1
+      },
+      {
+        "id": 0,
+        "workAllocationId": 0,
+        "workDate": "2026-09-10",
+        "workTypeId": 4,
+        "remarks": "Newly added work type (WorkTypeId 2 and 3 were removed)",
+        "status": 1
+      }
+    ]
   }
+  ]
 }
